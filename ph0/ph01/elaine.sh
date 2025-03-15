@@ -85,7 +85,7 @@ paste metadata/links.tab metadata/speaker.tab metadata/wordcount.tab metadata/ti
 }
 
 #buildurls
-geturls
-#transcripts
+#geturls
+transcripts
 #metadata
 #spreadsheet
