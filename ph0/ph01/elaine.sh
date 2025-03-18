@@ -14,10 +14,7 @@ grep -v '^1 ' zz | cut -d' ' -f2- | sed -e "s/'>//" -e "s;\(.*\);https://www.ted
 
 geturls () {
 
-while read id url
-do
-  curl "$url" > html_talks/"$id".html
-done < valid_urls
+python geturls.py
 
 }
 
@@ -85,7 +82,7 @@ paste metadata/links.tab metadata/speaker.tab metadata/wordcount.tab metadata/ti
 }
 
 #buildurls
-#geturls
-transcripts
+geturls
+#transcripts
 #metadata
 #spreadsheet

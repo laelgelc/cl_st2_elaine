@@ -6,10 +6,7 @@ python buildurls.py
 
 geturls () {
 
-while read id url
-do
-  curl "$url" > html_talks/"$id".html
-done < valid_urls
+python geturls.py
 
 }
 
