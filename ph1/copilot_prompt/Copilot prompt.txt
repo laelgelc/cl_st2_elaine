@@ -1,0 +1,34 @@
+Now I need to enrich the DataFrame 'df_tedtalks_urls3' by adding columns captured from 'html' files on the directory 'html_talks'. Each 'html' filename corresponds to the content of the column 'File ID' of the DataFrame plus the extension '.html'. Here is what each 'html' file look like:
+
+<script type="application/ld+json" data-next-head="">
+    {
+        "transcript": "The six-legged creature creeps down the canopy, extends its slender trunk, and pierces the ground.",
+    }
+</script>
+<script id="__NEXT_DATA__" type="application/json">
+    {
+        "props": {
+            "pageProps": {
+                "videoData": {
+                    "playerData": "{\"id\":\"144934\",\"mediaIdentifier\":\"consus-pm9869\",\"mediaProjectVersionIdentifier\":\"consus-pm9869\",\"duration\":273,\"languages\":[{\"languageName\":\"English\",\"endonym\":\"English\",\"languageCode\":\"en\",\"ianaCode\":\"en\",\"isRtl\":false},{\"languageName\":\"Arabic\",\"endonym\":\"العربية\",\"languageCode\":\"ar\",\"ianaCode\":\"ar\",\"isRtl\":true},{\"languageName\":\"Chinese, Simplified\",\"endonym\":\"中文 (简体)\",\"languageCode\":\"zh-cn\",\"ianaCode\":\"zh-Hans\",\"isRtl\":false},{\"languageName\":\"French\",\"endonym\":\"Français\",\"languageCode\":\"fr\",\"ianaCode\":\"fr\",\"isRtl\":false},{\"languageName\":\"Burmese\",\"endonym\":\"မြန်မာဘာသာ\",\"languageCode\":\"my\",\"ianaCode\":\"my\",\"isRtl\":false},{\"languageName\":\"Turkish\",\"endonym\":\"Türkçe\",\"languageCode\":\"tr\",\"ianaCode\":\"tr\",\"isRtl\":false}],\"nativeLanguage\":\"en\",\"isSubtitleRequired\":false,\"resources\":{\"h264\":[{\"bitrate\":1200,\"file\":\"https://py.tedcdn.com/consus/projects/00/75/96/001/products/2024e-nazzy-pakpour-lice-001-fallback-763a91dc-b9e1-4aa5-b440-c7fc9c283e51-1200k.mp4\"}],\"hls\":{\"adUrl\":\"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\\u0026correlator=%5Bcorrelator%5D\\u0026cust_params=event%3DTED-Ed%26id%3D144934%26tag%3DTED-Ed%2Ceducation%2Canimation%2Chealth%2Cpublic%2Bhealth%2Chuman%2Bbody%2Cbiology%26talk%3Dnazzy_pakpour_this_is_the_most_common_way_to_get_head_lice%26year%3D2025\\u0026env=vp\\u0026gdfp_req=1\\u0026impl=s\\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\\u0026output=xml_vast2\\u0026sz=640x360\\u0026unviewed_position_start=1\\u0026url=%5Breferrer%5D\",\"maiTargeting\":{\"id\":\"144934\",\"talk\":\"nazzy_pakpour_this_is_the_most_common_way_to_get_head_lice\",\"tag\":\"TED-Ed,education,animation,health,public health,human body,biology\",\"year\":\"2025\",\"event\":\"TED-Ed\"},\"stream\":\"https://hls.ted.com/project_masters/9869/manifest.m3u8\",\"metadata\":\"https://hls.ted.com/project_masters/9869/metadata.json\"}},\"targeting\":{\"id\":\"144934\",\"talk\":\"nazzy_pakpour_this_is_the_most_common_way_to_get_head_lice\",\"tag\":\"TED-Ed,education,animation,health,public health,human body,biology\",\"year\":\"2025\",\"event\":\"TED-Ed\"},\"canonical\":\"https://www.ted.com/talks/nazzy_pakpour_this_is_the_most_common_way_to_get_head_lice\",\"name\":\"Nazzy Pakpour: This is the most common way to get head lice\",\"title\":\"This is the most common way to get head lice\",\"speaker\":\"Nazzy Pakpour\",\"thumb\":\"https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_144934/f4c02cfc-6d2f-42c0-a4f4-c70cc1b3da20/lice_Textless.jpg?quality=89\\u0026w=600\",\"slug\":\"nazzy_pakpour_this_is_the_most_common_way_to_get_head_lice\",\"event\":\"TED-Ed\",\"published\":1741878141,\"external\":{\"service\":\"YouTube\",\"code\":\"s-EEp5xiF6Q\",\"duration\":294.0,\"start_time\":0.0}}",
+                    "viewedCount": 671,
+                },
+            },
+        },
+    }
+</script>
+
+Please open each 'html' file sequentially based on the column 'File ID' and create the following columns, capturing data with Beautiful Soup:
+column 'Speaker' with the content of \"speaker\"
+column 'Title' with the content of \"title\"
+column 'Duration' with the content of \"duration\"
+column 'Tags' with the content of \"tag\"
+column 'Views' with the content of "viewedCount"
+column 'Year' with the content of \"year\"
+column 'Talk' with the content of \"talk\"
+column 'Video' with the content of \"file\"
+column 'Event' with the content of \"event\"
+column 'TED_ID' with the content of \"id\"
+column 'Transcript' with the content of "transcript". Additionally, create a column 'Transcript available': If the content of "transcript" is not empty, place the string 'Yes'; if it is empty, place the string 'No'.
+
+Do you understand where I am coming from? Have you got any questions?
