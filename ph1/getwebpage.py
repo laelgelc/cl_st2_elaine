@@ -1,3 +1,6 @@
+# Usage
+# python getwebpage.py ed_article https://www.theguardian.com/technology/2025/mar/31/bridget-phillipson-eyes-ais-potential-to-free-up-teachers-time
+
 import argparse
 import requests
 import validators
@@ -23,7 +26,7 @@ def main(file_id, url):
         print(f"Successfully saved HTML to {html_file_path}")
 
         # Extract text from 'h' and 'p' tags
-        soup = BeautifulSoup(response.text, 'html.parser')
+        soup = BeautifulSoup(response.text, 'lxml')
         text_content = []
         for tag in soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p']):
             text_content.append(tag.get_text(strip=True))
@@ -43,4 +46,3 @@ if __name__ == "__main__":
     parser.add_argument('url', type=str, help="Web page's URL")
     args = parser.parse_args()
     main(args.file_id, args.url)
-    
