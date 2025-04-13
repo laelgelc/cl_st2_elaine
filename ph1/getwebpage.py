@@ -1,9 +1,10 @@
 import argparse
 import requests
 import validators
+from bs4 import BeautifulSoup
 
 def main(file_id, url):
-    """Fetch a web page and save it as an HTML file."""
+    """Fetch a web page, save it as an HTML file, and extract 'h' and 'p' tags' text to a separate file."""
     # Validate URL
     if not validators.url(url):
         print("Invalid URL. Please provide a valid URL.")
@@ -16,17 +17,30 @@ def main(file_id, url):
         response.raise_for_status()  # Raise an HTTPError for bad responses
 
         # Save the HTML content to a file
-        file_path = f"{file_id}.html"
-        with open(file_path, 'w', encoding='utf-8') as html_file:
+        html_file_path = f"{file_id}.html"
+        with open(html_file_path, 'w', encoding='utf-8') as html_file:
             html_file.write(response.text)
-        print(f"Successfully saved HTML to {file_path}")
+        print(f"Successfully saved HTML to {html_file_path}")
+
+        # Extract text from 'h' and 'p' tags
+        soup = BeautifulSoup(response.text, 'html.parser')
+        text_content = []
+        for tag in soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p']):
+            text_content.append(tag.get_text(strip=True))
+
+        # Save the extracted text to a file
+        text_file_path = f"{file_id}.txt"
+        with open(text_file_path, 'w', encoding='utf-8') as text_file:
+            text_file.write("\n".join(text_content))
+        print(f"Successfully saved extracted text to {text_file_path}")
 
     except requests.exceptions.RequestException as e:
         print(f"Failed to fetch the URL: {e}")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Get a web page.")
-    parser.add_argument('file_id', type=str, help="Web page's filename")
+    parser = argparse.ArgumentParser(description="Get a web page, save its HTML, and extract 'h' and 'p' tags' text.")
+    parser.add_argument('file_id', type=str, help="Web page's filename (without extension)")
     parser.add_argument('url', type=str, help="Web page's URL")
     args = parser.parse_args()
     main(args.file_id, args.url)
+    
