@@ -445,7 +445,7 @@ inputvariables () {
 
 inputvariables
 #treetagging
-#tokenstypes
+tokenstypes
 #toplemmas
 #sas
 #datamatrix
