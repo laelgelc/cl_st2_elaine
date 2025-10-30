@@ -14,7 +14,8 @@ while read text conversation date user url
 do
   echo "--- treetagging $text / $last ---"
   rg $text tweets/tweets.txt | tr '|' '\n' | rg -v '^c:' > a
-  rg $text tweets/tweets.txt | cut -d'|' -f5 | sed 's/^c://' | tree-tagger-portuguese2 | sed -e '/^@/s/\(.*\)	\(.*\)	\(.*\)/\1	\2	twitterhandle/' -e '/<unknown>$/s/\(.*\)	\(.*\)	\(.*\)/\1	\2	\1/' -e '/^EMOJI/s/\(EMOJI_\)\(.*\)	\(.*\)	\(EMOJI_\)\(.*\)/\2	EMOJI	\L\5/g' -e '/^HASHTAG/s/\(HASHTAG\)\(#\)\(.*\)	\(.*\)	\(HASHTAG\)\(#\)\(.*\)/\2\3	HASHTAG	\L\7/' -e 's/\(.*\)	\(.*\)	\(.*\)/\1	\2	\L\3/' | tr '\n' '~' | sed 's/^/c:/' >> a
+#  rg $text tweets/tweets.txt | cut -d'|' -f5 | sed 's/^c://' | tree-tagger-portuguese2 | sed -e '/^@/s/\(.*\)	\(.*\)	\(.*\)/\1	\2	twitterhandle/' -e '/<unknown>$/s/\(.*\)	\(.*\)	\(.*\)/\1	\2	\1/' -e '/^EMOJI/s/\(EMOJI_\)\(.*\)	\(.*\)	\(EMOJI_\)\(.*\)/\2	EMOJI	\L\5/g' -e '/^HASHTAG/s/\(HASHTAG\)\(#\)\(.*\)	\(.*\)	\(HASHTAG\)\(#\)\(.*\)/\2\3	HASHTAG	\L\7/' -e 's/\(.*\)	\(.*\)	\(.*\)/\1	\2	\L\3/' | tr '\n' '~' | sed 's/^/c:/' >> a
+  rg $text tweets/tweets.txt | cut -d'|' -f5 | sed 's/^c://' | tree-tagger-english | sed -e '/^@/s/\(.*\)	\(.*\)	\(.*\)/\1	\2	twitterhandle/' -e '/<unknown>$/s/\(.*\)	\(.*\)	\(.*\)/\1	\2	\1/' -e '/^EMOJI/s/\(EMOJI_\)\(.*\)	\(.*\)	\(EMOJI_\)\(.*\)/\2	EMOJI	\L\5/g' -e '/^HASHTAG/s/\(HASHTAG\)\(#\)\(.*\)	\(.*\)	\(HASHTAG\)\(#\)\(.*\)/\2\3	HASHTAG	\L\7/' -e 's/\(.*\)	\(.*\)	\(.*\)/\1	\2	\L\3/' | tr '\n' '~' | sed 's/^/c:/' >> a
   tr '\n' '|' < a | sed 's/~$//' >> tweets/tagged.txt
   echo >> tweets/tagged.txt 
 done < file_index.txt
@@ -32,8 +33,10 @@ last=$( wc -l file_index.txt | tr -dc '[0-9]' )
 while read text conversation date user url 
 do
   echo "--- tokenstypes $text / $last ---"
-  rg $text tweets/tagged.txt | cut -d'|' -f5 | sed 's/c://' | tr '~' '\n' | rg  '	VERB|	ADJ|	NOUN|	HASHTAG|	EMOJI' | rg -v -e '<unknown>' -e '\&amp' | cut -f3 | rg -v '^_h' | sed -e "s/\([\*\.\!?,'/()\":;$\-]\)/ \1 /g" | tr ' ' '\n' | rg '[a-z]' | rg -v '^.$' > b
-  sed -e '/^ser$/d' -e '/^estar$/d' -e '/^haver$/d' b | tr '\n' ' ' | tr -d '#' | tr '[:upper:]' '[:lower:]' | tr -s ' ' | sed "s/^/"$text"|c:/" >> tweets/tokens.txt
+#  rg $text tweets/tagged.txt | cut -d'|' -f5 | sed 's/c://' | tr '~' '\n' | rg  '	VERB|	ADJ|	NOUN|	HASHTAG|	EMOJI' | rg -v -e '<unknown>' -e '\&amp' | cut -f3 | rg -v '^_h' | sed -e "s/\([\*\.\!?,'/()\":;$\-]\)/ \1 /g" | tr ' ' '\n' | rg '[a-z]' | rg -v '^.$' > b
+  rg $text tweets/tagged.txt | cut -d'|' -f5 | sed 's/c://' | tr '~' '\n' | rg  '	VB|	VBD|	VBG|	VBN|	VBP|	VBZ|	JJ|	JJR|	JJS|	NN|	NNS|	NPS|	HASHTAG|	EMOJI' | rg -v -e '<unknown>' -e '\&amp' | cut -f3 | rg -v '^_h' | sed -e "s/\([\*\.\!?,'/()\":;$\-]\)/ \1 /g" | tr ' ' '\n' | rg '[a-z]' | rg -v '^.$' > b
+#  sed -e '/^ser$/d' -e '/^estar$/d' -e '/^haver$/d' b | tr '\n' ' ' | tr -d '#' | tr '[:upper:]' '[:lower:]' | tr -s ' ' | sed "s/^/"$text"|c:/" >> tweets/tokens.txt
+  sed -e '/^be$/d' -e '/^have$/d' b | tr '\n' ' ' | tr -d '#' | tr '[:upper:]' '[:lower:]' | tr -s ' ' | sed "s/^/"$text"|c:/" >> tweets/tokens.txt
   echo >> tweets/tokens.txt
   tr -d '#' < b | tr '[:upper:]' '[:lower:]' | sort | uniq | tr '\n' ' ' | tr -s ' ' | sed "s/^/"$text"|c:/" >> tweets/types.txt
   echo >> tweets/types.txt
