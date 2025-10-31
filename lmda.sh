@@ -448,13 +448,13 @@ inputvariables
 #tokenstypes
 #toplemmas
 #sas
-datamatrix
+#datamatrix
 #correlationmatrix
 #formats
 
 #classify
 
-#examples
+examples
 
 #latexexamples
 
