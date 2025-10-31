@@ -7,3 +7,13 @@
 ## Phase 3
 
 - Textual Lexical Multi-Dimensional Analysis
+
+Note: The following error message occurred during the execution of the `sas` function:
+
+```
+--- v000571 ---
+Inconsistency detected by ld.so: ../sysdeps/x86_64/dl-machine.h: 503: elf_machine_rela_relative: Assertion `ELFW(R_TYPE) (reloc->r_info) == R_X86_64_RELATIVE' failed!
+--- v000572 ---
+```
+
+Apparently, this error did not affect the execution of the program.
