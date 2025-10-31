@@ -78,12 +78,12 @@ maneuverable enough to do so. This is a hummingbird drone. It can fly in all
 directions, even backwards. It can hover and rotate. This prototype aircraft is 
 equipped with a video camera. It weighs less than one AA battery. It does not 
 eat nectar. In 2008 , it flew for a whopping 20 seconds, a year later, two 
-minutes, then six, eventually 11 . Many prototypes crashed — many. But there 
-' s no way to learn to fly like a hummingbird unless you fly. It ' s beautiful, 
+minutes, then six, eventually 11 . Many prototypes crashed — many. But there ' 
+s no way to learn to fly like a hummingbird unless you fly. It ' s beautiful, 
 isn ' t it. Wow. It ' s great. Matt is the first ever hummingbird pilot. 
 Failure is part of creating new and amazing things. We cannot both fear failure 
-and make amazing new things — like a robot with the stability of a dog on 
-rough terrain, or maybe even ice; a robot that can run like a cheetah, or climb 
+and make amazing new things — like a robot with the stability of a dog on rough 
+terrain, or maybe even ice; a robot that can run like a cheetah, or climb 
 stairs like a human with the occasional clumsiness of a human. Or perhaps, 
 **Spider** Man will one day be Gecko Man. A gecko can support its entire body 
 weight with one toe. One square millimeter of a gecko ' s footpad has 14 , 000 
@@ -100,8 +100,8 @@ hundreds of thousands of times per second to make large screen displays, so
 that we can watch movies like " Godzilla " in high-def. And if we can build 
 machines at that scale, what about Eiffel Tower-like trusses at the microscale? 
 Today we are making metals that are lighter than Styrofoam, so light they can 
-sit atop a dandelion puff and be blown away with a wisp of air — so light 
-that you can make a car that two people can lift, but so strong that it has the 
+sit atop a dandelion puff and be blown away with a wisp of air — so light that 
+you can make a car that two people can lift, but so strong that it has the 
 crash-worthiness of an SUV. From the smallest wisp of air to the powerful 
 forces of nature ' s storms. There are 44 lightning strikes per second around 
 the globe. Each lightning bolt heats the air to 44 , 000 degrees Fahrenheit — 
@@ -132,11 +132,11 @@ contribute and to be heard as individuals. It allows us to amplify our voices
 and our power as a group. But it too had humble beginnings. In 1969 , the 
 internet was but a dream, a few sketches on a piece of paper. And then on 
 October 29th, the first packet-switched message was sent from UCLA to SRI. The 
-first two letters of the word " Login, " that ' s all that made it through — 
-an L and an O — and then a buffer overflow crashed the system. Two letters, 
-an L and an O, now a worldwide force. So who are these scientists and engineers 
-at a magical place called DARPA? They are nerds, and they are heroes among us. 
-They challenge existing perspectives at the edges of science and under the most 
+first two letters of the word " Login, " that ' s all that made it through — an 
+L and an O — and then a buffer overflow crashed the system. Two letters, an L 
+and an O, now a worldwide force. So who are these scientists and engineers at a 
+magical place called DARPA? They are nerds, and they are heroes among us. They 
+challenge existing perspectives at the edges of science and under the most 
 demanding of conditions. They remind us that we can change the world if we defy 
 the impossible and we refuse to fear failure. They remind us that we all have 
 nerd power. Sometimes we just forget. You see, there was a time when you weren 

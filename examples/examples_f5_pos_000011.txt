@@ -64,11 +64,11 @@ the theory tells us that when diarrheal disease organisms are transported by
 water, we expect them to be more predator-like, more harmful. And you can test 
 these ideas. So, one way you can test is just look at all diarrheal bacteria, 
 and see whether or not the ones that tend to be more transmitted by water, tend 
-to be more harmful. And the answer is — yep, they are. Now I put those names 
-in there just for the bacteria buffs, but the main point here is that — there 
-' s a lot of them here, I can tell — the main point here is that those data 
-points all show a very strong, positive association between the degree to which 
-a disease organism is transmitted by water, and how harmful they are, how much 
+to be more harmful. And the answer is — yep, they are. Now I put those names in 
+there just for the bacteria buffs, but the main point here is that — there ' s 
+a lot of them here, I can tell — the main point here is that those data points 
+all show a very strong, positive association between the degree to which a 
+disease organism is transmitted by water, and how harmful they are, how much 
 death they cause per untreated **infection** . So this suggests we ' re on the 
 right track. But this, to me, suggests that we really need to ask some 
 additional questions. Remember the second question that I raised at the outset 
@@ -92,9 +92,9 @@ internal chamber of our intestine, and then that fluid goes the only way it
 can, which is out the other end. And it flushes out thousands of different 
 other competitors that would otherwise make life difficult for the Vibrios. So 
 what happens, if you ' ve got an organism, it produces a lot of toxin. After a 
-few days of **infection** you end up having — the fecal material really isn ' 
-t so disgusting as we might imagine. It ' s sort of cloudy water. And if you 
-took a drop of that water, you might find a million diarrheal organisms. If the 
+few days of **infection** you end up having — the fecal material really isn ' t 
+so disgusting as we might imagine. It ' s sort of cloudy water. And if you took 
+a drop of that water, you might find a million diarrheal organisms. If the 
 organism produced a lot of toxin, you might find 10 million, or 100 million. If 
 it didn ' t produce a lot of this toxin, then you might find a smaller number. 
 So the task is to try to figure out how to determine whether or not you could 
@@ -143,8 +143,8 @@ in Chile. But, before we get too confident, we ' d better look at some of those
 other countries, and make sure that this organism doesn ' t just always evolve 
 toward **mildness** . Well, in Peru it didn ' t. And in Ecuador — remember, 
 this is the place where it has the highest potential waterborne 
-**transmission** — it looked like it got more harmful. In every case there ' 
-s a lot of variation, but something about the environment the people are living 
+**transmission** — it looked like it got more harmful. In every case there ' s 
+a lot of variation, but something about the environment the people are living 
 in, and I think the only realistic explanation is that it ' s the degree of 
 waterborne **transmission** , favored the harmful strains in one place, and 
 mild strains in another. So, this is very encouraging, it suggests that 
@@ -169,108 +169,107 @@ countries and look and see. Did Chile avoid the problem of antibiotic
 resistance, whereas did Ecuador actually have the beginnings of the problem? If 
 we look in the beginning of the 1990s, we see, again, a lot of variation. In 
 this case, on the Y-axis, we ' ve just got a measure of antibiotic sensitivity 
-— and I won ' t go into that. But we ' ve got a lot of variation in 
-antibiotic sensitivity in Chile, Peru and Ecuador, and no trend across the 
-years. But if we look at the end of the 1990s, just half a decade later, we see 
-that in Ecuador they started having a resistance problem. Antibiotic 
-sensitivity was going down. And in Chile, you still had antibiotic sensitivity. 
-So, it looks like Chile dodged two bullets. They got the organism to evolve to 
-**mildness** , and they got no development of antibiotic resistance. Now, these 
-ideas should apply across the board, as long as you can figure out why some 
-organisms evolved to virulence. And I want to give you just one more example, 
-because we ' ve talked a little bit about **malaria** . And the example I want 
-to deal with is, or the idea I want to deal with, the question is, what can we 
-do to try to get the malarial organism to evolve to **mildness** ? Now, 
-**malaria** ' s transmitted by a mosquito, and normally if you ' re 
-**infected** with **malaria** , and you ' re feeling sick, it makes it even 
-easier for the mosquito to bite you. And you can show, just by looking at data 
-from literature, that vector-borne diseases are more harmful than 
-non-vector-borne diseases. But I think there ' s a really fascinating example 
-of what one can do experimentally to try to actually demonstrate this. In the 
-case of waterborne **transmission** , we ' d like to clean up the water 
-supplies, see whether or not we can get those organisms to evolve towards 
-**mildness** . In the case of **malaria** , what we ' d like to do is mosquito- 
-proof houses. And the logic ' s a little more subtle here. If you 
-mosquito-proof houses, when people get sick, they ' re sitting in bed — or in 
-mosquito-proof hospitals, they ' re sitting in a hospital bed — and the 
-mosquitoes can ' t get to them. So, if you ' re a harmful variant in a place 
-where you ' ve got mosquito-proof housing, then you ' re a loser. The only 
-pathogens that get transmitted are the ones that are **infecting** people that 
-feel healthy enough to walk outside and get mosquito bites. So, if you were to 
-mosquito proof houses, you should be able to get these organisms to evolve to 
-**mildness** . And there ' s a really wonderful experiment that was done that 
-suggests that we really should go ahead and do this. And that experiment was 
-done in Northern Alabama. Just to give you a little perspective on this, I ' ve 
-given you a star at the intellectual center of the United States, which is 
-right there in Louisville, Kentucky. And this really cool experiment was done 
-about 200 miles south of there, in Northern Alabama, by the Tennessee Valley 
-Authority. They had dammed up the Tennessee River. They ' d caused the water to 
-back up, they needed electric, hydroelectric power. And when you get stagnant 
-water, you get mosquitoes. They found in the late ' 30s — 10 years after they 
-' d made these dams — that the people in Northern Alabama were **infected** 
-with **malaria** , about a third to half of them were **infected** with 
-**malaria** . This shows you the positions of some of these dams. OK, so the 
-Tennessee Valley Authority was in a little bit of a bind. There wasn ' t DDT, 
-there wasn ' t chloroquines: what do they do? Well, they decided to mosquito 
-proof every house in Northern Alabama. So they did. They divided Northern 
-Alabama into 11 zones, and within three years, about 100 dollars per house, 
-they mosquito proofed every house. And these are the data. Every row across 
-here represents one of those 11 zones. And the asterisks represent the time at 
-which the mosquito proofing was complete. And so what you can see is that just 
-the mosquito- proofed housing, and nothing else, caused the eradication of 
-**malaria** . And this was, incidentally, published in 1949 , in the leading 
-textbook of **malaria** , called " Boyd ' s Malariology. " But almost no 
-**malaria** experts even know it exists. This is important, because it tells us 
-that if you have moderate biting densities, you can eradicate **malaria** by 
-mosquito proofing houses. Now, I would suggest that you could do this in a lot 
-of places. Like, you know, just as you get into the **malaria** zone, 
-sub-Saharan Africa. But as you move to really intense biting rate areas, like 
-Nigeria, you ' re certainly not going to eradicate. But that ' s when you 
-should be favoring evolution towards **mildness** . So to me, it ' s an 
-experiment that ' s waiting to happen, and if it confirms the prediction, then 
-we should have a very powerful tool. In a way, much more powerful than the kind 
-of tools we ' re looking at, because most of what ' s being done today is to 
-rely on things like anti-malarial drugs. And we know that, although it ' s 
-great to make those anti-malarial drugs available at really low cost and high 
-frequency, we know that when you make them highly available you ' re going to 
-get resistance to those drugs. And so it ' s a short-term solution. This is a 
-long-term solution. What I ' m suggesting here is that we could get evolution 
-working in the direction we want it to go, rather than always having to battle 
-evolution as a problem that stymies our efforts to control the pathogen, for 
-example with anti-malarial drugs. So, this table I ' ve given just to emphasize 
-that I ' ve only talked about two examples. But as I said earlier, this kind of 
-logic applies across the board for **infectious** diseases, and it ought to. 
-Because when we ' re dealing with **infectious** diseases, we ' re dealing with 
-living systems. We ' re dealing with living systems; we ' re dealing with 
-systems that evolve. And so if you do something with those systems, they ' re 
-going to evolve one way or another. And all I ' m saying is that we need to 
-figure out how they ' ll evolve, so that — we need to adjust our 
-interventions to get the most bang for the intervention buck, so that we can 
-get these organisms to evolve in the direction we want them to go. So, I don ' 
-t really have time to talk about those things, but I did want to put them up 
-there, just to give you a sense that there really are solutions to controlling 
-the evolution of harmfulness of some of the nasty pathogens that we ' re 
-confronted with. And this links up with a lot of the other ideas that have been 
-talked about. So, for example, earlier today there was discussion of, how do 
-you really lower sexual **transmission** of HIV? What this emphasizes is that 
-we need to figure out how it will work. Will it maybe get lowered if we alter 
-the economy of the area? It may get lowered if we intervene in ways that 
-encourage people to stay more faithful to partners, and so on. But the key 
-thing is to figure out how to lower it, because if we lower it, we ' ll get an 
-evolutionary change in the virus. And the data really do support this: that you 
-actually do get the virus evolving towards **mildness** . And that will just 
-add to the effectiveness of our control efforts. So the other thing I really 
-like about this, besides the fact that it brings a whole new dimension into the 
-study of control of disease, is that often the kinds of interventions that you 
-want, that it indicates should be done, are the kinds of interventions that 
-people want anyhow. But people just haven ' t been able to justify the cost. 
-So, this is the kind of thing I ' m talking about. If we know that we ' re 
-going to get extra bang for the buck from providing clean water, then I think 
-that we can say, let ' s push the effort into that aspect of the control, so 
-that we can actually solve the problem, even though, if you just look at the 
-frequency of **infection** , you would suggest that you can ' t solve the 
-problem well enough just by cleaning up water supply. Anyhow, I ' ll end that 
-there, and thank you very much. 
+— and I won ' t go into that. But we ' ve got a lot of variation in antibiotic 
+sensitivity in Chile, Peru and Ecuador, and no trend across the years. But if 
+we look at the end of the 1990s, just half a decade later, we see that in 
+Ecuador they started having a resistance problem. Antibiotic sensitivity was 
+going down. And in Chile, you still had antibiotic sensitivity. So, it looks 
+like Chile dodged two bullets. They got the organism to evolve to **mildness** 
+, and they got no development of antibiotic resistance. Now, these ideas should 
+apply across the board, as long as you can figure out why some organisms 
+evolved to virulence. And I want to give you just one more example, because we 
+' ve talked a little bit about **malaria** . And the example I want to deal 
+with is, or the idea I want to deal with, the question is, what can we do to 
+try to get the malarial organism to evolve to **mildness** ? Now, **malaria** ' 
+s transmitted by a mosquito, and normally if you ' re **infected** with 
+**malaria** , and you ' re feeling sick, it makes it even easier for the 
+mosquito to bite you. And you can show, just by looking at data from 
+literature, that vector-borne diseases are more harmful than non-vector-borne 
+diseases. But I think there ' s a really fascinating example of what one can do 
+experimentally to try to actually demonstrate this. In the case of waterborne 
+**transmission** , we ' d like to clean up the water supplies, see whether or 
+not we can get those organisms to evolve towards **mildness** . In the case of 
+**malaria** , what we ' d like to do is mosquito- proof houses. And the logic ' 
+s a little more subtle here. If you mosquito-proof houses, when people get 
+sick, they ' re sitting in bed — or in mosquito-proof hospitals, they ' re 
+sitting in a hospital bed — and the mosquitoes can ' t get to them. So, if you 
+' re a harmful variant in a place where you ' ve got mosquito-proof housing, 
+then you ' re a loser. The only pathogens that get transmitted are the ones 
+that are **infecting** people that feel healthy enough to walk outside and get 
+mosquito bites. So, if you were to mosquito proof houses, you should be able to 
+get these organisms to evolve to **mildness** . And there ' s a really 
+wonderful experiment that was done that suggests that we really should go ahead 
+and do this. And that experiment was done in Northern Alabama. Just to give you 
+a little perspective on this, I ' ve given you a star at the intellectual 
+center of the United States, which is right there in Louisville, Kentucky. And 
+this really cool experiment was done about 200 miles south of there, in 
+Northern Alabama, by the Tennessee Valley Authority. They had dammed up the 
+Tennessee River. They ' d caused the water to back up, they needed electric, 
+hydroelectric power. And when you get stagnant water, you get mosquitoes. They 
+found in the late ' 30s — 10 years after they ' d made these dams — that the 
+people in Northern Alabama were **infected** with **malaria** , about a third 
+to half of them were **infected** with **malaria** . This shows you the 
+positions of some of these dams. OK, so the Tennessee Valley Authority was in a 
+little bit of a bind. There wasn ' t DDT, there wasn ' t chloroquines: what do 
+they do? Well, they decided to mosquito proof every house in Northern Alabama. 
+So they did. They divided Northern Alabama into 11 zones, and within three 
+years, about 100 dollars per house, they mosquito proofed every house. And 
+these are the data. Every row across here represents one of those 11 zones. And 
+the asterisks represent the time at which the mosquito proofing was complete. 
+And so what you can see is that just the mosquito- proofed housing, and nothing 
+else, caused the eradication of **malaria** . And this was, incidentally, 
+published in 1949 , in the leading textbook of **malaria** , called " Boyd ' s 
+Malariology. " But almost no **malaria** experts even know it exists. This is 
+important, because it tells us that if you have moderate biting densities, you 
+can eradicate **malaria** by mosquito proofing houses. Now, I would suggest 
+that you could do this in a lot of places. Like, you know, just as you get into 
+the **malaria** zone, sub-Saharan Africa. But as you move to really intense 
+biting rate areas, like Nigeria, you ' re certainly not going to eradicate. But 
+that ' s when you should be favoring evolution towards **mildness** . So to me, 
+it ' s an experiment that ' s waiting to happen, and if it confirms the 
+prediction, then we should have a very powerful tool. In a way, much more 
+powerful than the kind of tools we ' re looking at, because most of what ' s 
+being done today is to rely on things like anti-malarial drugs. And we know 
+that, although it ' s great to make those anti-malarial drugs available at 
+really low cost and high frequency, we know that when you make them highly 
+available you ' re going to get resistance to those drugs. And so it ' s a 
+short-term solution. This is a long-term solution. What I ' m suggesting here 
+is that we could get evolution working in the direction we want it to go, 
+rather than always having to battle evolution as a problem that stymies our 
+efforts to control the pathogen, for example with anti-malarial drugs. So, this 
+table I ' ve given just to emphasize that I ' ve only talked about two 
+examples. But as I said earlier, this kind of logic applies across the board 
+for **infectious** diseases, and it ought to. Because when we ' re dealing with 
+**infectious** diseases, we ' re dealing with living systems. We ' re dealing 
+with living systems; we ' re dealing with systems that evolve. And so if you do 
+something with those systems, they ' re going to evolve one way or another. And 
+all I ' m saying is that we need to figure out how they ' ll evolve, so that — 
+we need to adjust our interventions to get the most bang for the intervention 
+buck, so that we can get these organisms to evolve in the direction we want 
+them to go. So, I don ' t really have time to talk about those things, but I 
+did want to put them up there, just to give you a sense that there really are 
+solutions to controlling the evolution of harmfulness of some of the nasty 
+pathogens that we ' re confronted with. And this links up with a lot of the 
+other ideas that have been talked about. So, for example, earlier today there 
+was discussion of, how do you really lower sexual **transmission** of HIV? What 
+this emphasizes is that we need to figure out how it will work. Will it maybe 
+get lowered if we alter the economy of the area? It may get lowered if we 
+intervene in ways that encourage people to stay more faithful to partners, and 
+so on. But the key thing is to figure out how to lower it, because if we lower 
+it, we ' ll get an evolutionary change in the virus. And the data really do 
+support this: that you actually do get the virus evolving towards **mildness** 
+. And that will just add to the effectiveness of our control efforts. So the 
+other thing I really like about this, besides the fact that it brings a whole 
+new dimension into the study of control of disease, is that often the kinds of 
+interventions that you want, that it indicates should be done, are the kinds of 
+interventions that people want anyhow. But people just haven ' t been able to 
+justify the cost. So, this is the kind of thing I ' m talking about. If we know 
+that we ' re going to get extra bang for the buck from providing clean water, 
+then I think that we can say, let ' s push the effort into that aspect of the 
+control, so that we can actually solve the problem, even though, if you just 
+look at the frequency of **infection** , you would suggest that you can ' t 
+solve the problem well enough just by cleaning up water supply. Anyhow, I ' ll 
+end that there, and thank you very much. 
 
 Lemmas in this text that loaded on the factor:
 

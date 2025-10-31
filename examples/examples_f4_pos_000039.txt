@@ -35,8 +35,8 @@ I think is the magic of fluorescence. So let me back up a little bit. When we
 are in medical school, we learn our anatomy from illustrations such as this 
 where everything ' s color-coded. Nerves are yellow, arteries are red, veins 
 are blue. That ' s so easy anybody could become a surgeon, right? However, when 
-we have a real patient on the table, this is the same neck dissection — not 
-so easy to tell the difference between different structures. We heard over the 
+we have a real patient on the table, this is the same neck dissection — not so 
+easy to tell the difference between different structures. We heard over the 
 last couple days what an urgent problem cancer still is in our society, what a 
 pressing need it is for us to not have one person die every minute. Well if 
 cancer can be caught early, enough such that someone can have their cancer 
@@ -156,13 +156,13 @@ a mouse, and you can see that that big, fat portion you can see very easily.
 But in fact, at the tip of that where I ' m dissecting now, there ' s actually 
 very fine arborizations that can ' t really be seen. You see what looks like 
 little Medusa heads coming out. We have been able to see nerves for facial 
-expression, for facial movement, for breathing — every single nerve — 
-nerves for urinary function around the prostate. We ' ve been able to see every 
-single nerve. When we put these two probes together. . . So here ' s a tumor. 
-Do you guys know where the margins of this tumor is? Now you do. What about the 
-nerve that ' s going into this tumor? That white portion there is easy to see. 
-But what about the part that goes into the tumor? Do you know where it ' s 
-going? Now you do. Basically, we ' ve come up with a way to stain tissue and 
+expression, for facial movement, for breathing — every single nerve — nerves 
+for urinary function around the prostate. We ' ve been able to see every single 
+nerve. When we put these two probes together. . . So here ' s a tumor. Do you 
+guys know where the margins of this tumor is? Now you do. What about the nerve 
+that ' s going into this tumor? That white portion there is easy to see. But 
+what about the part that goes into the tumor? Do you know where it ' s going? 
+Now you do. Basically, we ' ve come up with a way to stain tissue and 
 color-code the surgical field. This was a bit of a breakthrough. I think that 
 it ' ll change the way that we do surgery. We published our results in the 
 proceedings of the National Academy of Sciences and in Nature Biotechnology. We 

@@ -111,18 +111,18 @@ how one single malware family is able to move around the world. This operation,
 believed to be originally from Estonia, moves around from one country to 
 another as soon as the website is tried to shut down. So you just can ' t shut 
 these guys down. They will switch from one country to another, from one 
-jurisdiction to another — moving around the world, using the fact that we don 
-' t have the capability to globally police operations like this. So the 
-Internet is as if someone would have given free plane tickets to all the online 
+jurisdiction to another — moving around the world, using the fact that we don ' 
+t have the capability to globally police operations like this. So the Internet 
+is as if someone would have given free plane tickets to all the online 
 criminals of the world. Now, criminals who weren ' t capable of reaching us 
 before can reach us. So how do you actually go around finding online criminals? 
 How do you actually track them down? Let me give you an example. What we have 
 here is one exploit file. Here, I ' m looking at the Hex dump of an image file, 
 which contains an exploit. And that basically means, if you ' re trying to view 
 this image file on your Windows computer, it actually takes over your computer 
-and runs code. Now, if you ' ll take a look at this image file — well there ' 
-s the image header, and there the actual code of the attack starts. And that 
-code has been encrypted, so let ' s decrypt it. It has been encrypted with XOR 
+and runs code. Now, if you ' ll take a look at this image file — well there ' s 
+the image header, and there the actual code of the attack starts. And that code 
+has been encrypted, so let ' s decrypt it. It has been encrypted with XOR 
 function 97 . You just have to believe me, it is, it is. And we can go here and 
 actually start decrypting it. Well the yellow part of the code is now 
 decrypted. And I know, it doesn ' t really look much different from the 
@@ -142,52 +142,52 @@ stuff like that. So I went looking for **contacts** in St. Petersburg, and
 through a long road, we eventually found this one particular website. Here ' s 
 this Russian guy who ' s been operating online for a number of years who runs 
 his own website, and he runs a **blog** under the popular Live Journal. And on 
-this **blog** , he blogs about his life, about his life in St. Petersburg — 
-he ' s in his early 20s — about his cat, about his girlfriend. And he drives 
-a very nice car. In fact, this guy drives a Mercedes-Benz S600 V12 with a 
+this **blog** , he blogs about his life, about his life in St. Petersburg — he 
+' s in his early 20s — about his cat, about his girlfriend. And he drives a 
+very nice car. In fact, this guy drives a Mercedes-Benz S600 V12 with a 
 six-liter engine with more than 400 horsepower. Now that ' s a nice car for a 
 20-something year-old kid in St. Petersburg. How do I know about this car? 
 Because he **blogged** about the car. He actually had a car accident. In 
 downtown St. Petersburg, he actually crashed his car into another car. And he 
-put blogged images about the car accident — that ' s his Mercedes — right 
-here is the Lada Samara he crashed into. And you can actually see that the 
-license plate of the Samara ends in 78RUS. And if you actually take a look at 
-the scene picture, you can see that the plate of the Mercedes is O600KO78RUS. 
-Now I ' m not a lawyer, but if I would be, this is where I would say, " I rest 
-my case. " So what happens when online criminals are caught? Well in most cases 
-it never gets this far. The vast majority of the online crime cases, we don ' t 
-even know which continent the attacks are coming from. And even if we are able 
-to find online criminals, quite often there is no outcome. The local police don 
-' t act, or if they do, there ' s not enough evidence, or for some reason we 
-can ' t take them down. I wish it would be easier; unfortunately it isn ' t. 
-But things are also changing at a very rapid pace. You ' ve all heard about 
-things like Stuxnet. So if you look at what Stuxnet did is that it **infected** 
-these. That ' s a Siemens S7-400 PLC, programmable logic [ controller ] . And 
-this is what runs our infrastructure. This is what runs everything around us. 
-PLC ' s, these small boxes which have no display, no keyboard, which are 
-programmed, are put in place, and they do their job. For example, the elevators 
-in this building most likely are controlled by one of these. And when Stuxnet 
+put blogged images about the car accident — that ' s his Mercedes — right here 
+is the Lada Samara he crashed into. And you can actually see that the license 
+plate of the Samara ends in 78RUS. And if you actually take a look at the scene 
+picture, you can see that the plate of the Mercedes is O600KO78RUS. Now I ' m 
+not a lawyer, but if I would be, this is where I would say, " I rest my case. " 
+So what happens when online criminals are caught? Well in most cases it never 
+gets this far. The vast majority of the online crime cases, we don ' t even 
+know which continent the attacks are coming from. And even if we are able to 
+find online criminals, quite often there is no outcome. The local police don ' 
+t act, or if they do, there ' s not enough evidence, or for some reason we can 
+' t take them down. I wish it would be easier; unfortunately it isn ' t. But 
+things are also changing at a very rapid pace. You ' ve all heard about things 
+like Stuxnet. So if you look at what Stuxnet did is that it **infected** these. 
+That ' s a Siemens S7-400 PLC, programmable logic [ controller ] . And this is 
+what runs our infrastructure. This is what runs everything around us. PLC ' s, 
+these small boxes which have no display, no keyboard, which are programmed, are 
+put in place, and they do their job. For example, the elevators in this 
+building most likely are controlled by one of these. And when Stuxnet 
 **infects** one of these, that ' s a massive revolution on the kinds of risks 
 we have to worry about. Because everything around us is being run by these. I 
 mean, we have critical infrastructure. You go to any factory, any power plant, 
-any chemical plant, any food processing plant, you look around — everything 
-is being run by computers. Everything is being run by computers. Everything is 
+any chemical plant, any food processing plant, you look around — everything is 
+being run by computers. Everything is being run by computers. Everything is 
 reliant on these computers working. We have become very reliant on Internet, on 
 basic things like electricity, obviously, on computers working. And this really 
 is something which creates completely new problems for us. We must have some 
 way of continuing to work even if computers fail. So preparedness means that we 
 can do stuff even when the things we take for granted aren ' t there. It ' s 
-actually very basic stuff — thinking about continuity, thinking about 
-backups, thinking about the things that actually matter. Now I told you — I 
-love the Internet. I do. Think about all the services we have online. Think 
-about if they are taken away from you, if one day you don ' t actually have 
-them for some reason or another. I see beauty in the future of the Internet, 
-but I ' m worried that we might not see that. I ' m worried that we are running 
-into problems because of online crime. Online crime is the one thing that might 
-take these things away from us. I ' ve spent my life defending the Net, and I 
-do feel that if we don ' t fight online crime, we are running a risk of losing 
-it all. We have to do this globally, and we have to do it right now. What we 
-need is more global, international law enforcement work to find online criminal 
+actually very basic stuff — thinking about continuity, thinking about backups, 
+thinking about the things that actually matter. Now I told you — I love the 
+Internet. I do. Think about all the services we have online. Think about if 
+they are taken away from you, if one day you don ' t actually have them for 
+some reason or another. I see beauty in the future of the Internet, but I ' m 
+worried that we might not see that. I ' m worried that we are running into 
+problems because of online crime. Online crime is the one thing that might take 
+these things away from us. I ' ve spent my life defending the Net, and I do 
+feel that if we don ' t fight online crime, we are running a risk of losing it 
+all. We have to do this globally, and we have to do it right now. What we need 
+is more global, international law enforcement work to find online criminal 
 gangs — these organized gangs that are making millions out of their attacks. 
 That ' s much more important than running anti-viruses or running firewalls. 
 What actually matters is actually finding the people behind these attacks, and 

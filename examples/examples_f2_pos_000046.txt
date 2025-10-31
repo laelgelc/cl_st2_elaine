@@ -51,10 +51,10 @@ made the thing be able to communicate wirelessly, and what this research team
 did is they reverse engineered the wireless protocol, and they built the 
 **device** you see pictured here, with a little antenna, that could talk the 
 protocol to the **device** , and thus control it. In order to make their 
-experience real — they were unable to find any volunteers, and so they went 
-and they got some ground beef and some bacon and they wrapped it all up to 
-about the size of a human being ' s area where the **device** would go, and 
-they stuck the **device** inside it to perform their experiment somewhat 
+experience real — they were unable to find any volunteers, and so they went and 
+they got some ground beef and some bacon and they wrapped it all up to about 
+the size of a human being ' s area where the **device** would go, and they 
+stuck the **device** inside it to perform their experiment somewhat 
 realistically. They launched many, many successful attacks. One that I ' ll 
 highlight here is changing the patient ' s name. I don ' t know why you would 
 want to do that, but I sure wouldn ' t want that done to me. And they were able 
@@ -141,16 +141,16 @@ videotaped people on a bus, and then they post-processed the video. What you
 see here in number one is a reflection in somebody ' s glasses of the 
 smartphone that they ' re typing in. They wrote software to stabilize — even 
 though they were on a bus and maybe someone ' s holding their phone at an angle 
-— to stabilize the phone, process it, and you may know on your smartphone, 
-when you type a password, the keys pop out a little bit, and they were able to 
-use that to reconstruct what the person was typing, and had a language model 
-for detecting typing. What was interesting is, by videotaping on a bus, they 
-were able to produce exactly what people on their smartphones were typing, and 
-then they had a surprising result, which is that their software had not only 
-done it for their target, but other people who accidentally happened to be in 
-the picture, they were able to produce what those people had been typing, and 
-that was kind of an accidental artifact of what their software was doing. I ' 
-ll show you two more. One is P25 radios. P25 radios are used by law enforcement 
+— to stabilize the phone, process it, and you may know on your smartphone, when 
+you type a password, the keys pop out a little bit, and they were able to use 
+that to reconstruct what the person was typing, and had a language model for 
+detecting typing. What was interesting is, by videotaping on a bus, they were 
+able to produce exactly what people on their smartphones were typing, and then 
+they had a surprising result, which is that their software had not only done it 
+for their target, but other people who accidentally happened to be in the 
+picture, they were able to produce what those people had been typing, and that 
+was kind of an accidental artifact of what their software was doing. I ' ll 
+show you two more. One is P25 radios. P25 radios are used by law enforcement 
 and all kinds of government agencies and people in combat to communicate, and 
 there ' s an encryption option on these phones. This is what the phone looks 
 like. It ' s not really a phone. It ' s more of a two-way radio. Motorola makes 
@@ -211,8 +211,8 @@ type something in, you don ' t know what it was, but you use your model that
 you created in the training phase to figure out what they were typing. They had 
 pretty good success. This is an article from the USA Today. They typed in, " 
 The Illinois Supreme Court has ruled that Rahm Emanuel is eligible to run for 
-Mayor of Chicago " — see, I tied it in to the last talk — " and ordered him 
-to stay on the ballot. " Now, the system is interesting, because it produced " 
+Mayor of Chicago " — see, I tied it in to the last talk — " and ordered him to 
+stay on the ballot. " Now, the system is interesting, because it produced " 
 Illinois Supreme " and then it wasn ' t sure. The model produced a bunch of 
 options, and this is the beauty of some of the A. I. techniques, is that 
 computers are good at some things, humans are good at other things, take the 

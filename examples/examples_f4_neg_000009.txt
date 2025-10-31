@@ -49,23 +49,23 @@ graphics made entirely of genetically engineered microorganisms that glow in
 the dark. Here we ' ve reimagined the mashrabiya, an archetype of ancient 
 Arabic architecture, and created a screen where every aperture is uniquely 
 sized to shape the form of light and heat moving through it. In our next 
-project, we explore the possibility of creating a cape and skirt — this was 
-for a Paris fashion show with Iris van Herpen — like a second skin that are 
-made of a single part, stiff at the contours, flexible around the waist. 
-Together with my long-term 3D printing collaborator Stratasys, we 3D- printed 
-this cape and skirt with no seams between the cells, and I ' ll show more 
-**objects** like it. This helmet combines stiff and soft materials in 20-micron 
-resolution. This is the resolution of a human hair. It ' s also the resolution 
-of a CT scanner. That designers have access to such high-resolution analytic 
-and synthetic tools, enables to design products that fit not only the shape of 
-our bodies, but also the physiological makeup of our tissues. Next, we designed 
-an acoustic chair, a chair that would be at once structural, comfortable and 
-would also absorb sound. Professor Carter, my collaborator, and I turned to 
-**nature** for inspiration, and by designing this irregular surface pattern, it 
-becomes sound-absorbent. We printed its surface out of 44 different properties, 
-varying in rigidity, opacity and color, corresponding to pressure points on the 
-human body. Its surface, as in **nature** , varies its functionality not by 
-adding another material or another assembly, but by continuously and delicately 
+project, we explore the possibility of creating a cape and skirt — this was for 
+a Paris fashion show with Iris van Herpen — like a second skin that are made of 
+a single part, stiff at the contours, flexible around the waist. Together with 
+my long-term 3D printing collaborator Stratasys, we 3D- printed this cape and 
+skirt with no seams between the cells, and I ' ll show more **objects** like 
+it. This helmet combines stiff and soft materials in 20-micron resolution. This 
+is the resolution of a human hair. It ' s also the resolution of a CT scanner. 
+That designers have access to such high-resolution analytic and synthetic 
+tools, enables to design products that fit not only the shape of our bodies, 
+but also the physiological makeup of our tissues. Next, we designed an acoustic 
+chair, a chair that would be at once structural, comfortable and would also 
+absorb sound. Professor Carter, my collaborator, and I turned to **nature** for 
+inspiration, and by designing this irregular surface pattern, it becomes 
+sound-absorbent. We printed its surface out of 44 different properties, varying 
+in rigidity, opacity and color, corresponding to pressure points on the human 
+body. Its surface, as in **nature** , varies its functionality not by adding 
+another material or another assembly, but by continuously and delicately 
 varying material property. But is **nature** ideal? Are there no parts in 
 **nature** ? I wasn ' t raised in a religious Jewish home, but when I was 
 young, my grandmother used to tell me stories from the Hebrew Bible, and one of 
@@ -82,42 +82,42 @@ abundant biopolymer on the planet is called chitin, and some 100 million tons
 of it are produced every year by organisms such as shrimps, crabs, scorpions 
 and butterflies. We thought if we could tune its properties, we could generate 
 structures that are multifunctional out of a single part. So that ' s what we 
-did. We called Legal Seafood — we ordered a bunch of shrimp shells, we 
-grinded them and we produced chitosan paste. By varying chemical 
-concentrations, we were able to achieve a wide array of properties — from 
-dark, stiff and opaque, to light, soft and transparent. In order to print the 
-structures in large **scale** , we built a robotically controlled extrusion 
-system with multiple nozzles. The robot would vary material properties on the 
-fly and create these 12-foot-long structures made of a single material, 100 
-percent recyclable. When the parts are ready, they ' re left to dry and find a 
-form naturally upon contact with air. So why are we still designing with 
-plastics? The air bubbles that were a byproduct of the printing process were 
-used to contain photosynthetic microorganisms that first appeared on our planet 
-3 . 5 **billion** year ago, as we learned yesterday. Together with our 
-collaborators at Harvard and MIT, we embedded **bacteria** that were 
-genetically engineered to rapidly capture carbon from the atmosphere and 
-convert it into sugar. For the first time, we were able to generate structures 
-that would seamlessly transition from beam to mesh, and if **scaled** even 
-larger, to windows. A fruit-bearing fruit tree. Working with an ancient 
-material, one of the first lifeforms on the planet, plenty of water and a 
-little bit of synthetic biology, we were able to transform a structure made of 
-shrimp shells into an architecture that behaves like a tree. And here ' s the 
-best part: for **objects** designed to biodegrade, put them in the sea, and 
-they will nourish marine life; place them in **soil** , and they will help grow 
-a tree. The setting for our next exploration using the same design principles 
-was the solar system. We looked for the possibility of creating life-sustaining 
-clothing for interplanetary voyages. To do that, we needed to contain 
-**bacteria** and be able to control their flow. So like the periodic table, we 
-came up with our own table of the elements: new lifeforms that were 
-computationally grown, additively manufactured and biologically augmented. I 
-like to think of synthetic biology as liquid alchemy, only instead of 
-transmuting precious metals, you ' re synthesizing new biological functionality 
-inside very small channels. It ' s called microfluidics. We 3D-printed our own 
-channels in order to control the flow of these liquid bacterial cultures. In 
-our first piece of clothing, we combined two microorganisms. The first is 
-cyanobacteria. It lives in our oceans and in freshwater ponds. And the second, 
-E. coli, the **bacterium** that inhabits the human gut. One converts light into 
-sugar, the other consumes that sugar and produces biofuels useful for the built 
+did. We called Legal Seafood — we ordered a bunch of shrimp shells, we grinded 
+them and we produced chitosan paste. By varying chemical concentrations, we 
+were able to achieve a wide array of properties — from dark, stiff and opaque, 
+to light, soft and transparent. In order to print the structures in large 
+**scale** , we built a robotically controlled extrusion system with multiple 
+nozzles. The robot would vary material properties on the fly and create these 
+12-foot-long structures made of a single material, 100 percent recyclable. When 
+the parts are ready, they ' re left to dry and find a form naturally upon 
+contact with air. So why are we still designing with plastics? The air bubbles 
+that were a byproduct of the printing process were used to contain 
+photosynthetic microorganisms that first appeared on our planet 3 . 5 
+**billion** year ago, as we learned yesterday. Together with our collaborators 
+at Harvard and MIT, we embedded **bacteria** that were genetically engineered 
+to rapidly capture carbon from the atmosphere and convert it into sugar. For 
+the first time, we were able to generate structures that would seamlessly 
+transition from beam to mesh, and if **scaled** even larger, to windows. A 
+fruit-bearing fruit tree. Working with an ancient material, one of the first 
+lifeforms on the planet, plenty of water and a little bit of synthetic biology, 
+we were able to transform a structure made of shrimp shells into an 
+architecture that behaves like a tree. And here ' s the best part: for 
+**objects** designed to biodegrade, put them in the sea, and they will nourish 
+marine life; place them in **soil** , and they will help grow a tree. The 
+setting for our next exploration using the same design principles was the solar 
+system. We looked for the possibility of creating life-sustaining clothing for 
+interplanetary voyages. To do that, we needed to contain **bacteria** and be 
+able to control their flow. So like the periodic table, we came up with our own 
+table of the elements: new lifeforms that were computationally grown, 
+additively manufactured and biologically augmented. I like to think of 
+synthetic biology as liquid alchemy, only instead of transmuting precious 
+metals, you ' re synthesizing new biological functionality inside very small 
+channels. It ' s called microfluidics. We 3D-printed our own channels in order 
+to control the flow of these liquid bacterial cultures. In our first piece of 
+clothing, we combined two microorganisms. The first is cyanobacteria. It lives 
+in our oceans and in freshwater ponds. And the second, E. coli, the 
+**bacterium** that inhabits the human gut. One converts light into sugar, the 
+other consumes that sugar and produces biofuels useful for the built 
 environment. Now, these two microorganisms never interact in **nature** . In 
 fact, they never met each other. They ' ve been here, engineered for the first 
 time, to have a relationship inside a piece of clothing. Think of it as 
@@ -150,8 +150,8 @@ manufacturing today gets even close to this level of sophistication. It does so
 by combining not two materials, but two proteins in different concentrations. 
 One acts as the structure, the other is the glue, or the matrix, holding those 
 fibers together. And this happens across **scales** . The silkworm first 
-attaches itself to the environment — it creates a tensile structure — and 
-it then starts spinning a compressive cocoon. Tension and compression, the two 
+attaches itself to the environment — it creates a tensile structure — and it 
+then starts spinning a compressive cocoon. Tension and compression, the two 
 forces of life, manifested in a single material. In order to better understand 
 how this complex process works, we glued a tiny **earth** magnet to the head of 
 a silkworm, to the spinneret. We placed it inside a box with magnetic sensors, 
@@ -174,14 +174,14 @@ light and heat, distributing those silkworms on the structure. We were ready to
 receive the caterpillars. We ordered 6 , 500 silkworms from an online **silk** 
 farm. And after four weeks of feeding, they were ready to spin with us. We 
 placed them carefully at the bottom rim of the scaffold, and as they spin they 
-pupate, they mate, they lay eggs, and life begins all over again — just like 
-us but much, much shorter. Bucky Fuller said that tension is the great 
-integrity, and he was right. As they spin biological **silk** over robotically 
-spun **silk** , they give this entire pavilion its integrity. And over two to 
-three weeks, 6 , 500 silkworms spin 6 , 500 kilometers. In a curious symmetry, 
-this is also the length of the **Silk** Road. The moths, after they hatch, 
-produce 1 . 5 million eggs. This could be used for 250 additional pavilions for 
-the future. So here they are, the two worldviews. One spins **silk** out of a 
+pupate, they mate, they lay eggs, and life begins all over again — just like us 
+but much, much shorter. Bucky Fuller said that tension is the great integrity, 
+and he was right. As they spin biological **silk** over robotically spun 
+**silk** , they give this entire pavilion its integrity. And over two to three 
+weeks, 6 , 500 silkworms spin 6 , 500 kilometers. In a curious symmetry, this 
+is also the length of the **Silk** Road. The moths, after they hatch, produce 1 
+. 5 million eggs. This could be used for 250 additional pavilions for the 
+future. So here they are, the two worldviews. One spins **silk** out of a 
 robotic arm, the other fills in the gaps. If the final frontier of design is to 
 breathe life into the products and the buildings around us, to form a 
 two-material ecology, then designers must unite these two worldviews. Which 

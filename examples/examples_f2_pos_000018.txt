@@ -37,32 +37,32 @@ business with 1-2-3 , began writing add-ins for 1-2-3 , wrote a natural
 language interface to 1-2-3 . I started an educational software company after I 
 joined Lotus, and then I started Idealab so I could have a roof under which I 
 could build multiple companies in succession. Much later — in 2000 , very 
-recently — the new California energy crisis — what was purported to be a 
-big energy crisis — was coming. And I was trying to figure out if we could 
-build something that would capitalize on that and get people backup energy, in 
-case the crisis really came. And I started looking at how we could build 
-battery backup systems that could give people five hours, 10 hours, maybe even 
-a full day, or three days ' worth of backup power. I ' m glad you heard earlier 
-today, batteries are unbelievably — lack density compared to fuel. So much 
-more energy can be stored with fuel than with batteries. You ' d have to fill 
-your entire parking space of one garage space just to give yourself four hours 
-of battery backup. And I concluded, after researching every other technology 
-that we could deploy for storing energy — flywheels, different formulations 
-of batteries — it just wasn ' t practical to store energy. So what about 
-making energy? Maybe we could make energy. I tried to figure out — maybe 
-solar ' s become attractive. It ' s been 25 years since I was doing this, let 
-me go back and look at what ' s been happening with solar cells. And the price 
-had gone down from 10 dollars a watt to about four or five dollars a watt, but 
-it stabilized. And it needed to get much lower to be cost-effective. I studied 
-all the new things that had happened in solar cells, and was looking for ways 
-we could make solar cells more inexpensively. A lot of new things are happening 
-to do that, but fundamentally, the process requires a tremendous amount of 
-energy. Some people say it takes more energy to make a solar cell than it will 
-give out in its entire life. If we reduce the amount of energy it takes to make 
-the cells, that will become more practical. But right now, you pretty much have 
-to take silicon, put it in an oven at 1600 F for 17 hours, to make the cells. A 
-lot of people are working to try and reduce that, but I didn ' t have anything 
-to contribute. So I tried to figure out what other way could we try to make 
+recently — the new California energy crisis — what was purported to be a big 
+energy crisis — was coming. And I was trying to figure out if we could build 
+something that would capitalize on that and get people backup energy, in case 
+the crisis really came. And I started looking at how we could build battery 
+backup systems that could give people five hours, 10 hours, maybe even a full 
+day, or three days ' worth of backup power. I ' m glad you heard earlier today, 
+batteries are unbelievably — lack density compared to fuel. So much more energy 
+can be stored with fuel than with batteries. You ' d have to fill your entire 
+parking space of one garage space just to give yourself four hours of battery 
+backup. And I concluded, after researching every other technology that we could 
+deploy for storing energy — flywheels, different formulations of batteries — it 
+just wasn ' t practical to store energy. So what about making energy? Maybe we 
+could make energy. I tried to figure out — maybe solar ' s become attractive. 
+It ' s been 25 years since I was doing this, let me go back and look at what ' 
+s been happening with solar cells. And the price had gone down from 10 dollars 
+a watt to about four or five dollars a watt, but it stabilized. And it needed 
+to get much lower to be cost-effective. I studied all the new things that had 
+happened in solar cells, and was looking for ways we could make solar cells 
+more inexpensively. A lot of new things are happening to do that, but 
+fundamentally, the process requires a tremendous amount of energy. Some people 
+say it takes more energy to make a solar cell than it will give out in its 
+entire life. If we reduce the amount of energy it takes to make the cells, that 
+will become more practical. But right now, you pretty much have to take 
+silicon, put it in an oven at 1600 F for 17 hours, to make the cells. A lot of 
+people are working to try and reduce that, but I didn ' t have anything to 
+contribute. So I tried to figure out what other way could we try to make 
 cost-effective solar electricity. What if we collect the sun with a large 
 reflector — like I had been thinking about in high school, but maybe with 
 modern technology we could make it cheaper — concentrate it to a small 
@@ -74,16 +74,16 @@ I had last looked at it. There was a lot of new manufacturing techniques, not
 to mention really cheap miniature motors — brushless motors, servomotors, 
 stepper motors, that are used in printers and scanners. So, that ' s a 
 breakthrough. Of course, inexpensive microprocessors and a very important 
-breakthrough — genetic algorithms. I ' ll be very short on genetic 
-algorithms. It ' s a powerful way of solving intractable problems using natural 
-selection. You take a problem that you can ' t solve with a pure mathematical 
-answer, you build an evolutionary system to try multiple tries at guessing, you 
-add sex — where you take half of one solution and half of another and then 
-make new mutations — and you use natural selection to kill off not-as-good 
-solutions. Usually, with a genetic algorithm on a computer today, with a three 
-gigahertz processor, you can solve many formerly intractable problems in just a 
-matter of minutes. So we tried to come up with a way to use genetic algorithms 
-to create a new type of concentrator. And I ' ll show you what we came up with. 
+breakthrough — genetic algorithms. I ' ll be very short on genetic algorithms. 
+It ' s a powerful way of solving intractable problems using natural selection. 
+You take a problem that you can ' t solve with a pure mathematical answer, you 
+build an evolutionary system to try multiple tries at guessing, you add sex — 
+where you take half of one solution and half of another and then make new 
+mutations — and you use natural selection to kill off not-as-good solutions. 
+Usually, with a genetic algorithm on a computer today, with a three gigahertz 
+processor, you can solve many formerly intractable problems in just a matter of 
+minutes. So we tried to come up with a way to use genetic algorithms to create 
+a new type of concentrator. And I ' ll show you what we came up with. 
 Traditionally, concentrators look like this. Those shapes are parabolas. They 
 take all the parallel incoming rays and focus it to a single spot. They have to 
 track the sun, because they have to point directly at the sun. They usually 
@@ -174,10 +174,10 @@ design sizes and all of its dimensions the exact optimum to get the most power
 per dollar, irrespective of weight, irrespective of size, just to get the most 
 conversion of solar energy, because the sun is free. And that ' s the process 
 we took — let me show you how the **engine** works. The simplest heat 
-**engine** , or hot air **engine** , of all time would be this — take a box, 
-a steel canister, with a piston. Put a flame under it, the piston moves up. 
-Take it off the flame and pour water on it, or let it cool down, the piston 
-moves down. That ' s a heat **engine** . That ' s the most fundamental heat 
+**engine** , or hot air **engine** , of all time would be this — take a box, a 
+steel canister, with a piston. Put a flame under it, the piston moves up. Take 
+it off the flame and pour water on it, or let it cool down, the piston moves 
+down. That ' s a heat **engine** . That ' s the most fundamental heat 
 **engine** you could have. The problem is the efficiency is one hundredth of 
 one percent, because you ' re heating all the metal of the chamber and then 
 cooling all the metal of the chamber each time. And you ' re only getting power 
@@ -232,39 +232,39 @@ it. When the sun comes out in the morning, the petals will seek the sun, find
 it by searching for the highest temperature. About a minute and a half or two 
 minutes after the rays are striking the hot cap the **engine** will be warm 
 enough to start and then the **engine** will generate electricity for about six 
-and a half hours a day — six and a half to seven hours as the sun moves 
-across the sky. A critical part that we can take advantage of is that we have 
-these inexpensive microprocessors and each of these petals is autonomous, and 
-each of these petals figures out where the sun is with no user setup. So you 
-don ' t have to tell what latitude, longitude you ' re at, what your roof slope 
-angle is, or what orientation. It doesn ' t really care. What it does is it 
-searches to find the hottest spot, it searches again a half an hour later, a 
-day later, a month later. It basically figures out where on Earth you are by 
-watching the direction the sun moves, so you don ' t have to actually enter 
-anything about that. The way the unit works is, when the sun comes out, the 
-**engine** will start and you get power out here. We have AC and DC, get 12 
-volts DC, so that could be used for certain applications. We have an inverter 
-in there, so you get 117 volts AC. And you also get hot water. The hot water ' 
-s optional. You don ' t have to use it, it will cool itself. But you can use it 
-to optionally heat hot water and that brings the efficiency up even higher 
-because some of the heat that you ' d normally be rejecting, you can now use as 
-useful energy, whether it ' s for a pool or hot water. Let me show you a quick 
-movie of what this looks like running. This is the first test where we took it 
-outside and each of the petals were individually seeking. And what they do is 
-step, very coarsely at first, and very finely afterward. Once they get a 
-temperature reading on the thermocouple indicating they found the sun, they 
-slow down and do a fine search. Then the petals will move into position, and 
-the **engine** will start. We ' ve been working on this for the last two years. 
-We ' re very excited about the progress, we have a long way to go though. This 
-is how we envision it would be in a residential installation: you ' d probably 
-have more than one unit on your roof. It could be on your roof, your backyard, 
-or somewhere else. You don ' t have to have enough units to power your entire 
+and a half hours a day — six and a half to seven hours as the sun moves across 
+the sky. A critical part that we can take advantage of is that we have these 
+inexpensive microprocessors and each of these petals is autonomous, and each of 
+these petals figures out where the sun is with no user setup. So you don ' t 
+have to tell what latitude, longitude you ' re at, what your roof slope angle 
+is, or what orientation. It doesn ' t really care. What it does is it searches 
+to find the hottest spot, it searches again a half an hour later, a day later, 
+a month later. It basically figures out where on Earth you are by watching the 
+direction the sun moves, so you don ' t have to actually enter anything about 
+that. The way the unit works is, when the sun comes out, the **engine** will 
+start and you get power out here. We have AC and DC, get 12 volts DC, so that 
+could be used for certain applications. We have an inverter in there, so you 
+get 117 volts AC. And you also get hot water. The hot water ' s optional. You 
+don ' t have to use it, it will cool itself. But you can use it to optionally 
+heat hot water and that brings the efficiency up even higher because some of 
+the heat that you ' d normally be rejecting, you can now use as useful energy, 
+whether it ' s for a pool or hot water. Let me show you a quick movie of what 
+this looks like running. This is the first test where we took it outside and 
+each of the petals were individually seeking. And what they do is step, very 
+coarsely at first, and very finely afterward. Once they get a temperature 
+reading on the thermocouple indicating they found the sun, they slow down and 
+do a fine search. Then the petals will move into position, and the **engine** 
+will start. We ' ve been working on this for the last two years. We ' re very 
+excited about the progress, we have a long way to go though. This is how we 
+envision it would be in a residential installation: you ' d probably have more 
+than one unit on your roof. It could be on your roof, your backyard, or 
+somewhere else. You don ' t have to have enough units to power your entire 
 house, you just save money with each incremental one you add. So you ' re still 
 using the grid potentially, in this type of application, to be your backup 
 supply — of course, you can ' t use these at night, and you can ' t use these 
 on cloudy days. But by reducing your energy use, pretty much at the peak times 
-— usually when you have your air conditioning on, or other times like that 
-— this generates the peak power at the peak usage time, so it ' s very 
+— usually when you have your air conditioning on, or other times like that — 
+this generates the peak power at the peak usage time, so it ' s very 
 complementary in that sense. This is how we would envision a residential 
 application. We also think there ' s very big potential for energy farms, 
 especially in remote land where there happens to be a lot of sun. It ' s a 
@@ -296,26 +296,26 @@ this becomes very economic. So you don ' t have to just have a feel-good
 attitude about energy to want to have one of these. It just makes economic 
 sense. Right now, solar paybacks are between 30 and 50 years. If you get it 
 down below five years, then it ' s almost a no-brainer because the interest to 
-own it — someone else will finance it for you and you can just make money 
-from day one. So that ' s our real powerful goal that we ' re really shooting 
-for in the company. Two other things that I learned that were very surprising 
-to me — one was how casual we are about energy. I was walking from the 
-elevator over here, and even just looking at the stage right now — so there ' 
-s probably 20 , 500-watt lights right now. There ' s 10 , 000 watts of light 
-pouring on the stage, one horsepower is 746 watts, at full power. So there ' s 
-basically 15 horses running at full speed just to keep the stage lit. Not to 
-mention the 200 horses that are probably running right now to keep the 
-air-conditioning going. And it ' s just amazing, walk in the elevator, and 
-there ' s lights on in the elevator. Of course, now I ' m very sensitive at 
-home when we leave the lights on by mistake. But, everywhere around us we have 
-insatiable use for energy because it ' s so cheap. And it ' s cheap because we 
-' ve been subsidized by energy that ' s been concentrated by the sun. 
-Basically, oil is solar-energy concentrate. It ' s been pounded for a billion 
-years with a lot of energy to make it have all that energy contained in it. And 
-we don ' t have a birthright to just use that up as fast as we are, I think. 
-And it would be great if we could make our energy usage renewable, where as we 
-' re using the energy, we ' re creating it at the same pace, and I really hope 
-we can get there. Thank you very much, you ' ve been a great audience. 
+own it — someone else will finance it for you and you can just make money from 
+day one. So that ' s our real powerful goal that we ' re really shooting for in 
+the company. Two other things that I learned that were very surprising to me — 
+one was how casual we are about energy. I was walking from the elevator over 
+here, and even just looking at the stage right now — so there ' s probably 20 , 
+500-watt lights right now. There ' s 10 , 000 watts of light pouring on the 
+stage, one horsepower is 746 watts, at full power. So there ' s basically 15 
+horses running at full speed just to keep the stage lit. Not to mention the 200 
+horses that are probably running right now to keep the air-conditioning going. 
+And it ' s just amazing, walk in the elevator, and there ' s lights on in the 
+elevator. Of course, now I ' m very sensitive at home when we leave the lights 
+on by mistake. But, everywhere around us we have insatiable use for energy 
+because it ' s so cheap. And it ' s cheap because we ' ve been subsidized by 
+energy that ' s been concentrated by the sun. Basically, oil is solar-energy 
+concentrate. It ' s been pounded for a billion years with a lot of energy to 
+make it have all that energy contained in it. And we don ' t have a birthright 
+to just use that up as fast as we are, I think. And it would be great if we 
+could make our energy usage renewable, where as we ' re using the energy, we ' 
+re creating it at the same pace, and I really hope we can get there. Thank you 
+very much, you ' ve been a great audience. 
 
 Lemmas in this text that loaded on the factor:
 

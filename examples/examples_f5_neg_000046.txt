@@ -34,8 +34,8 @@ University, I used to go to this very, very upscale grocery store; at least at
 that time it was truly upscale. It was a store called Draeger ' s. Now this 
 store, it was almost like going to an amusement park. They had 250 different 
 kinds of **mustards** and vinegars and over 500 different kinds of fruits and 
-vegetables and more than two dozen different kinds of bottled water — and 
-this was during a time when we actually used to drink tap water. I used to love 
+vegetables and more than two dozen different kinds of bottled water — and this 
+was during a time when we actually used to drink tap water. I used to love 
 going to this store, but on one occasion I asked myself, well how come you 
 never buy anything? Here ' s their olive oil aisle. They had over 75 different 
 kinds of olive oil, including those that were in a locked case that came from 
@@ -55,12 +55,12 @@ there were 24 , only three percent of them actually bought a jar of jam. Of the
 people who stopped when there were six, well now we saw that 30 percent of them 
 actually bought a jar of jam. Now if you do the math, people were at least six 
 times more likely to buy a jar of jam if they encountered six than if they 
-encountered 24 . Now choosing not to buy a jar of jam is probably good for us 
-— at least it ' s good for our waistlines — but it turns out that this 
-choice overload problem affects us even in very consequential decisions. We 
-choose not to choose, even when it goes against our best self-interests. So now 
-for the topic of today: financial savings. Now I ' m going to describe to you a 
-study I did with Gur Huberman, Emir Kamenica, Wei Jang where we looked at the 
+encountered 24 . Now choosing not to buy a jar of jam is probably good for us — 
+at least it ' s good for our waistlines — but it turns out that this choice 
+overload problem affects us even in very consequential decisions. We choose not 
+to choose, even when it goes against our best self-interests. So now for the 
+topic of today: financial savings. Now I ' m going to describe to you a study I 
+did with Gur Huberman, Emir Kamenica, Wei Jang where we looked at the 
 retirement savings decisions of nearly a million Americans from about 650 plans 
 all in the U. S. And what we looked at was whether the number of fund offerings 
 available in a retirement savings plan, the 401 plan, does that affect people ' 
@@ -135,66 +135,66 @@ card or a credit card as opposed to cash? Because it doesn ' t feel like real
 money. And it turns out that making it feel more concrete can actually be a 
 very positive tool to use in getting people to save more. So a study that I did 
 with Shlomo Benartzi and Alessandro Previtero, we did a study with people at 
-ING — employees that are all working at ING — and now these people were all 
-in a session where they ' re doing enrollment for their 401 plan. And during 
-that session, we kept the session exactly the way it used to be, but we added 
-one little thing. The one little thing we added was we asked people to just 
-think about all the positive things that would happen in your life if you saved 
-more. By doing that simple thing, there was an increase in enrollment by 20 
-percent and there was an increase in the amount of people willing to save or 
-the amount that they were willing to put down into their savings account by 
-four percent. The third technique: Categorization. We can handle more 
-categories than we can handle choices. So for example, here ' s a study we did 
-in a magazine aisle. It turns out that in Wegmans grocery stores up and down 
-the northeast corridor, the magazine aisles range anywhere from 331 different 
-kinds of magazines all the way up to 664 . But you know what? If I show you 600 
-magazines and I divide them up into 10 categories, versus I show you 400 
-magazines and divide them up into 20 categories, you believe that I have given 
-you more choice and a better choosing experience if I gave you the 400 than if 
-I gave you the 600 . Because the categories tell me how to tell them apart. 
-Here are two different jewelry displays. One is called " Jazz " and the other 
-one is called " Swing. " If you think the display on the left is Swing and the 
-display on the right is Jazz, clap your hands. Okay, there ' s some. If you 
-think the one on the left is Jazz and the one on the right is Swing, clap your 
-hands. Okay, a bit more. Now it turns out you ' re right. The one on the left 
-is Jazz and the one on the right is Swing, but you know what? This is a highly 
-useless categorization scheme. The categories need to say something to the 
-chooser, not the choice-maker. And you often see that problem when it comes 
-down to those long lists of all these funds. Who are they actually supposed to 
-be informing? My fourth technique: Condition for complexity. It turns out we 
-can actually handle a lot more information than we think we can, we ' ve just 
-got to take it a little easier. We have to gradually increase the complexity. I 
-' m going to show you one example of what I ' m talking about. Let ' s take a 
-very, very complicated decision: buying a car. Here ' s a German car 
-manufacturer that gives you the opportunity to completely custom make your car. 
-You ' ve got to make 60 different decisions, completely make up your car. Now 
-these decisions vary in the number of choices that they offer per decision. Car 
-colors, exterior car colors — I ' ve got 56 choices. Engines, gearshift — 
-four choices. So now what I ' m going to do is I ' m going to vary the order in 
-which these decisions appear. So half of the customers are going to go from 
-high choice, 56 car colors, to low choice, four gearshifts. The other half of 
-the customers are going to go from low choice, four gearshifts, to 56 car 
-colors, high choice. What am I going to look at? How engaged you are. If you 
-keep hitting the default button per decision, that means you ' re getting 
-overwhelmed, that means I ' m losing you. What you find is the people who go 
-from high choice to low choice, they ' re hitting that default button over and 
-over and over again. We ' re losing them. They go from low choice to high 
-choice, they ' re hanging in there. It ' s the same information. It ' s the 
-same number of choices. The only thing that I have done is I have varied the 
-order in which that information is presented. If I start you off easy, I learn 
-how to choose. Even though choosing gearshift doesn ' t tell me anything about 
-my preferences for interior decor, it still prepares me for how to choose. It 
-also gets me excited about this big product that I ' m putting together, so I ' 
-m more willing to be motivated to be engaged. So let me recap. I have talked 
-about four techniques for mitigating the problem of choice overload — cut — 
-get rid of the extraneous alternatives; concretize — make it real; categorize 
-— we can handle more categories, less choices; condition for complexity. All 
-of these techniques that I ' m describing to you today are designed to help you 
-manage your choices — better for you, you can use them on yourself, better 
-for the people that you are serving. Because I believe that the key to getting 
-the most from choice is to be choosy about choosing. And the more we ' re able 
-to be choosy about choosing the better we will be able to practice the art of 
-choosing. Thank you very much. 
+ING — employees that are all working at ING — and now these people were all in 
+a session where they ' re doing enrollment for their 401 plan. And during that 
+session, we kept the session exactly the way it used to be, but we added one 
+little thing. The one little thing we added was we asked people to just think 
+about all the positive things that would happen in your life if you saved more. 
+By doing that simple thing, there was an increase in enrollment by 20 percent 
+and there was an increase in the amount of people willing to save or the amount 
+that they were willing to put down into their savings account by four percent. 
+The third technique: Categorization. We can handle more categories than we can 
+handle choices. So for example, here ' s a study we did in a magazine aisle. It 
+turns out that in Wegmans grocery stores up and down the northeast corridor, 
+the magazine aisles range anywhere from 331 different kinds of magazines all 
+the way up to 664 . But you know what? If I show you 600 magazines and I divide 
+them up into 10 categories, versus I show you 400 magazines and divide them up 
+into 20 categories, you believe that I have given you more choice and a better 
+choosing experience if I gave you the 400 than if I gave you the 600 . Because 
+the categories tell me how to tell them apart. Here are two different jewelry 
+displays. One is called " Jazz " and the other one is called " Swing. " If you 
+think the display on the left is Swing and the display on the right is Jazz, 
+clap your hands. Okay, there ' s some. If you think the one on the left is Jazz 
+and the one on the right is Swing, clap your hands. Okay, a bit more. Now it 
+turns out you ' re right. The one on the left is Jazz and the one on the right 
+is Swing, but you know what? This is a highly useless categorization scheme. 
+The categories need to say something to the chooser, not the choice-maker. And 
+you often see that problem when it comes down to those long lists of all these 
+funds. Who are they actually supposed to be informing? My fourth technique: 
+Condition for complexity. It turns out we can actually handle a lot more 
+information than we think we can, we ' ve just got to take it a little easier. 
+We have to gradually increase the complexity. I ' m going to show you one 
+example of what I ' m talking about. Let ' s take a very, very complicated 
+decision: buying a car. Here ' s a German car manufacturer that gives you the 
+opportunity to completely custom make your car. You ' ve got to make 60 
+different decisions, completely make up your car. Now these decisions vary in 
+the number of choices that they offer per decision. Car colors, exterior car 
+colors — I ' ve got 56 choices. Engines, gearshift — four choices. So now what 
+I ' m going to do is I ' m going to vary the order in which these decisions 
+appear. So half of the customers are going to go from high choice, 56 car 
+colors, to low choice, four gearshifts. The other half of the customers are 
+going to go from low choice, four gearshifts, to 56 car colors, high choice. 
+What am I going to look at? How engaged you are. If you keep hitting the 
+default button per decision, that means you ' re getting overwhelmed, that 
+means I ' m losing you. What you find is the people who go from high choice to 
+low choice, they ' re hitting that default button over and over and over again. 
+We ' re losing them. They go from low choice to high choice, they ' re hanging 
+in there. It ' s the same information. It ' s the same number of choices. The 
+only thing that I have done is I have varied the order in which that 
+information is presented. If I start you off easy, I learn how to choose. Even 
+though choosing gearshift doesn ' t tell me anything about my preferences for 
+interior decor, it still prepares me for how to choose. It also gets me excited 
+about this big product that I ' m putting together, so I ' m more willing to be 
+motivated to be engaged. So let me recap. I have talked about four techniques 
+for mitigating the problem of choice overload — cut — get rid of the extraneous 
+alternatives; concretize — make it real; categorize — we can handle more 
+categories, less choices; condition for complexity. All of these techniques 
+that I ' m describing to you today are designed to help you manage your choices 
+— better for you, you can use them on yourself, better for the people that you 
+are serving. Because I believe that the key to getting the most from choice is 
+to be choosy about choosing. And the more we ' re able to be choosy about 
+choosing the better we will be able to practice the art of choosing. Thank you 
+very much. 
 
 Lemmas in this text that loaded on the factor:
 

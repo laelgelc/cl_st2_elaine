@@ -95,13 +95,13 @@ not the center of the universe, the sun is the center of the solar system, the
 s true we ought to be able to detect the motion of the **Earth** around the 
 sun. And so this slide here illustrates a concept known as stellar parallax. 
 And astronomers said, if the **Earth** is moving and we look at a prominent 
-star, let ' s say, Sirius — well I know I ' m in Manhattan so you guys can ' 
-t see the stars, but imagine you ' re out in the country, imagine you chose 
-that rural life — and we look at a star in December, we see that star against 
-the backdrop of distant stars. If we now make the same observation six months 
-later when the **Earth** has moved to this position in June, we look at that 
-same star and we see it against a different backdrop. That difference, that 
-angular difference, is the stellar parallax. So this is a prediction that the 
+star, let ' s say, Sirius — well I know I ' m in Manhattan so you guys can ' t 
+see the stars, but imagine you ' re out in the country, imagine you chose that 
+rural life — and we look at a star in December, we see that star against the 
+backdrop of distant stars. If we now make the same observation six months later 
+when the **Earth** has moved to this position in June, we look at that same 
+star and we see it against a different backdrop. That difference, that angular 
+difference, is the stellar parallax. So this is a prediction that the 
 Copernican model makes. Astronomers looked for the stellar parallax and they 
 found nothing, nothing at all. And many people argued that this proved that the 
 Copernican model was false. So what happened? Well, in hindsight we can say 

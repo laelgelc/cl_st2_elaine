@@ -80,15 +80,15 @@ have nice periodic activation of the limbs which are very nicely coordinated
 with this standing wave undulation of the body, and that ' s exactly the gait 
 that you are seeing here on Pleurobot. Now, one thing which is very surprising 
 and fascinating in fact is the fact that all this can be generated just by the 
-spinal cord and the body. So if you take a decerebrated salamander — it ' s 
-not so nice but you remove the head — and if you electrically stimulate the 
-spinal cord, at low level of stimulation this will induce a walking-like gait. 
-If you stimulate a bit more, the gait accelerates. And at some point, there ' s 
-a threshold, and automatically, the animal switches to swimming. This is 
-amazing. Just changing the global drive, as if you are pressing the gas pedal 
-of descending modulation to your spinal cord, makes a complete switch between 
-two very different gaits. And in fact, the same has been observed in cats. If 
-you stimulate the spinal cord of a cat, you can switch between walk, trot and 
+spinal cord and the body. So if you take a decerebrated salamander — it ' s not 
+so nice but you remove the head — and if you electrically stimulate the spinal 
+cord, at low level of stimulation this will induce a walking-like gait. If you 
+stimulate a bit more, the gait accelerates. And at some point, there ' s a 
+threshold, and automatically, the animal switches to swimming. This is amazing. 
+Just changing the global drive, as if you are pressing the gas pedal of 
+descending modulation to your spinal cord, makes a complete switch between two 
+very different gaits. And in fact, the same has been observed in cats. If you 
+stimulate the spinal cord of a cat, you can switch between walk, trot and 
 gallop. Or in birds, you can make a bird switch between walking, at a low level 
 of stimulation, and flapping its wings at high-level stimulation. And this 
 really shows that the spinal cord is a very sophisticated locomotion 
@@ -108,23 +108,23 @@ here is almost a direct comparison between the walking of the real animal and
 the Pleurobot. You can see that we have almost a one-to-one exact replay of the 
 walking gait. If you go backwards and slowly, you see it even better. But even 
 better, we can do swimming. So for that we have a dry suit that we put all over 
-the robot — and then we can go in water and start replaying the swimming 
-gaits. And here, we were very happy, because this is difficult to do. The 
-physics of interaction are complex. Our robot is much bigger than a small 
-animal, so we had to do what ' s called dynamic scaling of the frequencies to 
-make sure we had the same interaction physics. But you see at the end, we have 
-a very close match, and we were very, very happy with this. So let ' s go to 
-the spinal cord. So here what we did with Jean-Marie Cabelguen is model the 
-spinal cord circuits. And what ' s interesting is that the salamander has kept 
-a very primitive circuit, which is very similar to the one we find in the 
-lamprey, this primitive eel-like fish, and it looks like during evolution, new 
-neural oscillators have been added to control the limbs, to do the leg 
-locomotion. And we know where these neural oscillators are but what we did was 
-to make a mathematical model to see how they should be coupled to allow this 
-transition between the two very different gaits. And we tested that on board of 
-a robot. And this is how it looks. So what you see here is a previous version 
-of Pleurobot that ' s completely controlled by our spinal cord model programmed 
-on board of the robot. And the only thing we do is send to the robot through a 
+the robot — and then we can go in water and start replaying the swimming gaits. 
+And here, we were very happy, because this is difficult to do. The physics of 
+interaction are complex. Our robot is much bigger than a small animal, so we 
+had to do what ' s called dynamic scaling of the frequencies to make sure we 
+had the same interaction physics. But you see at the end, we have a very close 
+match, and we were very, very happy with this. So let ' s go to the spinal 
+cord. So here what we did with Jean-Marie Cabelguen is model the spinal cord 
+circuits. And what ' s interesting is that the salamander has kept a very 
+primitive circuit, which is very similar to the one we find in the lamprey, 
+this primitive eel-like fish, and it looks like during evolution, new neural 
+oscillators have been added to control the limbs, to do the leg locomotion. And 
+we know where these neural oscillators are but what we did was to make a 
+mathematical model to see how they should be coupled to allow this transition 
+between the two very different gaits. And we tested that on board of a robot. 
+And this is how it looks. So what you see here is a previous version of 
+Pleurobot that ' s completely controlled by our spinal cord model programmed on 
+board of the robot. And the only thing we do is send to the robot through a 
 remote control the two descending signals it normally should receive from the 
 upper part of the brain. And what ' s interesting is, by playing with these 
 signals, we can completely control speed, heading and type of gait. For 
@@ -181,28 +181,28 @@ communication with the spinal cord. Especially, it loses this descending
 modulation to initiate and modulate locomotion. So a big goal of 
 neuroprosthetics is to be able to reactivate that communication using 
 electrical or chemical stimulations. And there are several teams in the world 
-that do exactly that, especially at EPFL. My colleagues Gr��goire Courtine 
-and Silvestro Micera, with whom I collaborate. But to do this properly, it ' s 
-very important to understand how the spinal cord works, how it interacts with 
-the body, and how the brain communicates with the spinal cord. This is where 
-the robots and models that I ' ve presented today will hopefully play a key 
-role towards these very important goals. Thank you. Bruno Giussani: Auke, I ' 
-ve seen in your lab other robots that do things like swim in pollution and 
-measure the pollution while they swim. But for this one, you mentioned in your 
-talk, like a side project, search and rescue, and it does have a camera on its 
-nose. Auke Ijspeert: Absolutely. So the robot — We have some spin-off 
-projects where we would like to use the robots to do search and rescue 
-inspection, so this robot is now seeing you. And the big dream is to, if you 
-have a difficult situation like a collapsed building or a building that is 
-flooded, and this is very dangerous for a rescue team or even rescue dogs, why 
-not send in a robot that can crawl around, swim, walk, with a camera onboard to 
-do inspection and identify survivors and possibly create a communication link 
-with the survivor. BG: Of course, assuming the survivors don ' t get scared by 
-the shape of this. AI: Yeah, we should probably change the appearance quite a 
-bit, because here I guess a survivor might die of a heart attack just of being 
-worried that this would feed on you. But by changing the appearance and it 
-making it more robust, I ' m sure we can make a good tool out of it. BG: Thank 
-you very much. Thank you and your team. 
+that do exactly that, especially at EPFL. My colleagues Gr��goire Courtine and 
+Silvestro Micera, with whom I collaborate. But to do this properly, it ' s very 
+important to understand how the spinal cord works, how it interacts with the 
+body, and how the brain communicates with the spinal cord. This is where the 
+robots and models that I ' ve presented today will hopefully play a key role 
+towards these very important goals. Thank you. Bruno Giussani: Auke, I ' ve 
+seen in your lab other robots that do things like swim in pollution and measure 
+the pollution while they swim. But for this one, you mentioned in your talk, 
+like a side project, search and rescue, and it does have a camera on its nose. 
+Auke Ijspeert: Absolutely. So the robot — We have some spin-off projects where 
+we would like to use the robots to do search and rescue inspection, so this 
+robot is now seeing you. And the big dream is to, if you have a difficult 
+situation like a collapsed building or a building that is flooded, and this is 
+very dangerous for a rescue team or even rescue dogs, why not send in a robot 
+that can crawl around, swim, walk, with a camera onboard to do inspection and 
+identify survivors and possibly create a communication link with the survivor. 
+BG: Of course, assuming the survivors don ' t get scared by the shape of this. 
+AI: Yeah, we should probably change the appearance quite a bit, because here I 
+guess a survivor might die of a heart attack just of being worried that this 
+would feed on you. But by changing the appearance and it making it more robust, 
+I ' m sure we can make a good tool out of it. BG: Thank you very much. Thank 
+you and your team. 
 
 Lemmas in this text that loaded on the factor:
 

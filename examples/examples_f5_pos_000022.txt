@@ -39,22 +39,22 @@ their blood mouthparts. This way we were able to not only know how much
 **malaria** . We were also able to know whether **malaria** was mostly inside 
 houses or outside houses. Today, ladies and gentlemen, I still catch mosquitoes 
 for a living. But I do this mostly to improve people ' s lives and well-being. 
-This has been called by some people the most dangerous animal on earth — 
-which unfortunately is true. But what do we really know about mosquitoes? It 
-turns out we actually know very little. Consider the fact that at the moment 
-our best practice against **malaria** are bednets — insecticide treated 
-bednets. We know now that across Africa you have widespread resistance to 
-insecticides. And these are the same insecticides, the pyrethroid class, that 
-are put on these bednets. We know now that these bednets protect you from bites 
-but only minimally kill the mosquitoes that they should. What it means is that 
-we ' ve got to do more to be able to get to zero. And that ' s part of our 
-duty. At Ifakara Health Institute we focus very much on the biology of the 
-mosquito, and we try to do this so we can identify new opportunities. A new 
-approach. New ways to try and get new options that we can use together with 
-things such as bednets to be able to get to zero. And I ' m going to share with 
-you a few examples of the things that my colleagues and myself do. Take this, 
-for example. Mosquitoes breed in small pools of water. Not all of them are easy 
-to find — they can be scattered across villages, they can be as small as 
+This has been called by some people the most dangerous animal on earth — which 
+unfortunately is true. But what do we really know about mosquitoes? It turns 
+out we actually know very little. Consider the fact that at the moment our best 
+practice against **malaria** are bednets — insecticide treated bednets. We know 
+now that across Africa you have widespread resistance to insecticides. And 
+these are the same insecticides, the pyrethroid class, that are put on these 
+bednets. We know now that these bednets protect you from bites but only 
+minimally kill the mosquitoes that they should. What it means is that we ' ve 
+got to do more to be able to get to zero. And that ' s part of our duty. At 
+Ifakara Health Institute we focus very much on the biology of the mosquito, and 
+we try to do this so we can identify new opportunities. A new approach. New 
+ways to try and get new options that we can use together with things such as 
+bednets to be able to get to zero. And I ' m going to share with you a few 
+examples of the things that my colleagues and myself do. Take this, for 
+example. Mosquitoes breed in small pools of water. Not all of them are easy to 
+find — they can be scattered across villages, they can be as small as 
 hoofprints. They can be behind your house or far from your house. And so, if 
 you wanted to control mosquito larvae, it can actually be quite difficult to 
 get them. What my colleagues and I have decided to do is to think about what if 
@@ -129,41 +129,41 @@ Let ' s talk about CRISPR for a bit. It ' s taken the world by storm, it
 promises to do amazing things. What do you think of scientists using CRISPR to 
 kill off mosquitoes? Fredros Okumu: To answer this question, let ' s start from 
 what the problem is. First of all, we ' re talking about a disease that still 
-kills — according to the latest figures we have from WHO — 429 , 000 
-people. Most of these are African children. Of course, we ' ve made progress, 
-there are countries that have achieved up to 50-60 percent reduction in 
-**malaria** burden. But we still have to do more to get to zero. There is 
-already proof of principle that gene-editing techniques, such as CRISPR, can be 
-used effectively to transform mosquitoes so that either they do not transmit 
-**malaria** — we call this population alteration — or that they no longer 
-exist, population suppression. This is already proven in the lab. There is also 
-modeling work that has demonstrated that even if you were to release just a 
-small number of these genetically modified mosquitoes, that you can actually 
-achieve elimination very, very quickly. So, CRISPR and tools like this offer us 
-some real opportunities — real-life opportunities to have high- impact 
-interventions that we can use in addition to what we have now to eventually go 
-to zero. This is important. Now, of course people always ask us — which is a 
-common question, I guess you ' re going to ask this as well — " What happens 
-if you eliminate mosquitoes? " KK: I won ' t ask then, you answer. FO: OK. In 
-respect to this, I would just like to remind my colleagues that we have 3 , 500 
-mosquito species in this world. Maybe more than that. About 400 of these are 
-Anophelenes, and only about 70 of them have any capacity to transmit 
-**malaria** . In Africa, we ' re having to deal with three or four of these as 
-the major guys. They carry most — like 99 percent of all the **malaria** we 
-have. If we were to go out with gene editing like CRISPR, if we were to go out 
-with gene drives to control **malaria** , we would be going after only one or 
-two. I don ' t see a diversity problem with that. But that ' s personal view. I 
-think it ' s OK. And remember, by the way, all these years we ' ve been trying 
-to eliminate these mosquitoes effectively by spraying them — our colleagues 
-in America have sprayed with — really bomb-spraying these insects out of the 
-villages. In Africa we do a lot of household spraying. All these are aimed 
-solely at killing the mosquitoes. So there ' s really no problem if we had a 
-new tool. But having said that, I have to say we also have to be very, very 
-responsible here. So there ' s the regulatory side, and we have to partner with 
-our regulators and make sure that everything that we do is done correctly, is 
-done responsibly and that we also have to do independent risk assessments, to 
-just make sure that all these processes do not fall into the wrong hands. Thank 
-you very much. KK: Thank you. 
+kills — according to the latest figures we have from WHO — 429 , 000 people. 
+Most of these are African children. Of course, we ' ve made progress, there are 
+countries that have achieved up to 50-60 percent reduction in **malaria** 
+burden. But we still have to do more to get to zero. There is already proof of 
+principle that gene-editing techniques, such as CRISPR, can be used effectively 
+to transform mosquitoes so that either they do not transmit **malaria** — we 
+call this population alteration — or that they no longer exist, population 
+suppression. This is already proven in the lab. There is also modeling work 
+that has demonstrated that even if you were to release just a small number of 
+these genetically modified mosquitoes, that you can actually achieve 
+elimination very, very quickly. So, CRISPR and tools like this offer us some 
+real opportunities — real-life opportunities to have high- impact interventions 
+that we can use in addition to what we have now to eventually go to zero. This 
+is important. Now, of course people always ask us — which is a common question, 
+I guess you ' re going to ask this as well — " What happens if you eliminate 
+mosquitoes? " KK: I won ' t ask then, you answer. FO: OK. In respect to this, I 
+would just like to remind my colleagues that we have 3 , 500 mosquito species 
+in this world. Maybe more than that. About 400 of these are Anophelenes, and 
+only about 70 of them have any capacity to transmit **malaria** . In Africa, we 
+' re having to deal with three or four of these as the major guys. They carry 
+most — like 99 percent of all the **malaria** we have. If we were to go out 
+with gene editing like CRISPR, if we were to go out with gene drives to control 
+**malaria** , we would be going after only one or two. I don ' t see a 
+diversity problem with that. But that ' s personal view. I think it ' s OK. And 
+remember, by the way, all these years we ' ve been trying to eliminate these 
+mosquitoes effectively by spraying them — our colleagues in America have 
+sprayed with — really bomb-spraying these insects out of the villages. In 
+Africa we do a lot of household spraying. All these are aimed solely at killing 
+the mosquitoes. So there ' s really no problem if we had a new tool. But having 
+said that, I have to say we also have to be very, very responsible here. So 
+there ' s the regulatory side, and we have to partner with our regulators and 
+make sure that everything that we do is done correctly, is done responsibly and 
+that we also have to do independent risk assessments, to just make sure that 
+all these processes do not fall into the wrong hands. Thank you very much. KK: 
+Thank you. 
 
 Lemmas in this text that loaded on the factor:
 

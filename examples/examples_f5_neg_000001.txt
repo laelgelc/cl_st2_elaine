@@ -73,25 +73,25 @@ silk, and over the last 380 million years, that one silk gene has duplicated
 and then diverged, specialized, over and over and over again, to get the large 
 variety of flavors of **spider** silks that we have today. There are several 
 features that all these silks have in common. They all have a common design, 
-such as they ' re all very long — they ' re sort of outlandishly long 
-compared to other proteins. They ' re very repetitive, and they ' re very rich 
-in the amino acids glycine and alanine. To give you an idea of what a 
-**spider** silk protein looks like, this is a dragline silk protein, it ' s 
-just a portion of it, from the black widow **spider** . This is the kind of 
-sequence that I love looking at day and night. So what you ' re seeing here is 
-the one letter abbreviation for amino acids, and I ' ve colored in the glycines 
-with green, and the alanines in red, and so you can see it ' s just a lot of G 
-' s and A ' s. You can also see that there ' s a lot of short sequence motifs 
-that repeat over and over and over again, so for example there ' s a lot of 
-what we call polyalanines, or iterated A ' s, AAAAA. There ' s GGQ. There ' s 
-GGY. You can think of these short motifs that repeat over and over again as 
-words, and these words occur in sentences. So for example this would be one 
-sentence, and you would get this sort of green region and the red polyalanine, 
-that repeats over and over and over again, and you can have that hundreds and 
-hundreds and hundreds of times within an individual silk molecule. Silks made 
-by the same **spider** can have dramatically different repeat sequences. At the 
-top of the screen, you ' re seeing the repeat unit from the dragline silk of a 
-garden argiope **spider** . It ' s short. And on the bottom, this is the repeat 
+such as they ' re all very long — they ' re sort of outlandishly long compared 
+to other proteins. They ' re very repetitive, and they ' re very rich in the 
+amino acids glycine and alanine. To give you an idea of what a **spider** silk 
+protein looks like, this is a dragline silk protein, it ' s just a portion of 
+it, from the black widow **spider** . This is the kind of sequence that I love 
+looking at day and night. So what you ' re seeing here is the one letter 
+abbreviation for amino acids, and I ' ve colored in the glycines with green, 
+and the alanines in red, and so you can see it ' s just a lot of G ' s and A ' 
+s. You can also see that there ' s a lot of short sequence motifs that repeat 
+over and over and over again, so for example there ' s a lot of what we call 
+polyalanines, or iterated A ' s, AAAAA. There ' s GGQ. There ' s GGY. You can 
+think of these short motifs that repeat over and over again as words, and these 
+words occur in sentences. So for example this would be one sentence, and you 
+would get this sort of green region and the red polyalanine, that repeats over 
+and over and over again, and you can have that hundreds and hundreds and 
+hundreds of times within an individual silk molecule. Silks made by the same 
+**spider** can have dramatically different repeat sequences. At the top of the 
+screen, you ' re seeing the repeat unit from the dragline silk of a garden 
+argiope **spider** . It ' s short. And on the bottom, this is the repeat 
 sequence for the egg case, or tubuliform silk protein, for the exact same 
 **spider** . And you can see how dramatically different these silk proteins are 
 — so this is sort of the beauty of the diversification of the **spider** silk 
@@ -115,19 +115,19 @@ each of these fibers, you can see that there ' s a lot of variation, and in
 fact dragline, or major ampullate silk, is the strongest of these fibers. We 
 think that ' s because the dragline silk, which is used to make the frame and 
 radii for a web, needs to be very strong. On the other hand, if you were to 
-look at strain — this is how much a fiber can be extended — if you look at 
-the maximum value here, again, there ' s a lot of variation and the clear 
-winner is flagelliform, or the capture spiral filament. In fact, this 
-flagelliform fiber can actually stretch over twice its original length. So silk 
-fibers vary in their strength and also their extensibility. In the case of the 
-capture spiral, it needs to be so stretchy to absorb the impact of flying prey. 
-If it wasn ' t able to stretch so much, then basically when an insect hit the 
-web, it would just trampoline right off of it. So if the web was made entirely 
-out of dragline silk, an insect is very likely to just bounce right off. But by 
-having really, really stretchy capture spiral silk, the web is actually able to 
-absorb the impact of that intercepted prey. There ' s quite a bit of variation 
-within the fibers that an individual **spider** can make. We call that the tool 
-kit of a **spider** . That ' s what the **spider** has to interact with their 
+look at strain — this is how much a fiber can be extended — if you look at the 
+maximum value here, again, there ' s a lot of variation and the clear winner is 
+flagelliform, or the capture spiral filament. In fact, this flagelliform fiber 
+can actually stretch over twice its original length. So silk fibers vary in 
+their strength and also their extensibility. In the case of the capture spiral, 
+it needs to be so stretchy to absorb the impact of flying prey. If it wasn ' t 
+able to stretch so much, then basically when an insect hit the web, it would 
+just trampoline right off of it. So if the web was made entirely out of 
+dragline silk, an insect is very likely to just bounce right off. But by having 
+really, really stretchy capture spiral silk, the web is actually able to absorb 
+the impact of that intercepted prey. There ' s quite a bit of variation within 
+the fibers that an individual **spider** can make. We call that the tool kit of 
+a **spider** . That ' s what the **spider** has to interact with their 
 environment. But how about variation among **spider** species, so looking at 
 one type of silk and looking at different species of **spiders** ? This is an 
 area that ' s largely unexplored but here ' s a little bit of data I can show 
@@ -154,8 +154,8 @@ scytodes forages. We don ' t really know why scytodes needs such a tough
 dragline, but it ' s unexpected results like this that make bio-prospecting so 
 exciting and worthwhile. It frees us from the constraints of our imagination. 
 Now I ' m going to mark on the toughness values for nylon fiber, bombyx — or 
-domesticated silkworm silk — wool, Kevlar, and carbon fibers. And what you 
-can see is that nearly all the **spider** draglines surpass them. It ' s the 
+domesticated silkworm silk — wool, Kevlar, and carbon fibers. And what you can 
+see is that nearly all the **spider** draglines surpass them. It ' s the 
 combination of strength, extensibility and toughness that makes **spider** silk 
 so special, and that has attracted the attention of biomimeticists, so people 
 that turn to nature to try to find new solutions. And the strength, 

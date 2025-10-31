@@ -99,8 +99,8 @@ the virus replicates. Each of these particles can go in and hijack a new cell.
 This is how the virus transmits. And every time a cell is hijacked, little 
 mistakes are made in copying the genetic material. That ' s how the virus 
 mutates. This ability to replicate, transmit and mutate is something that our 
-current drugs cannot do. So, being young and naïve and a little bit ignorant, 
-I thought: why can ' t we create therapies that mutate and transmit and 
+current drugs cannot do. So, being young and naïve and a little bit ignorant, I 
+thought: why can ' t we create therapies that mutate and transmit and 
 replicate? Here was the idea. If we can take the virus and engineer it to 
 amputate the genetic material in blue here, this amputated instruction set can 
 no longer hijack a cell. But this amputated instruction set can do something 

@@ -37,9 +37,9 @@ functional. They supply them to repair workshops like this one in Agbogbloshie
 and the tens of thousands of technicians across the country that refurbish 
 electrical and electronic equipment, and sell them as used products to 
 consumers that may not be able to buy a new television or a new computer. Make 
-no mistake about it, there are young hackers in Agbogbloshie — and I mean 
-that in the very best sense of that word — that know not only how to take 
-apart computers but how to put them back together, how to give them new life. 
+no mistake about it, there are young hackers in Agbogbloshie — and I mean that 
+in the very best sense of that word — that know not only how to take apart 
+computers but how to put them back together, how to give them new life. 
 Agbogbloshie reminds us that making is a cycle. It extends to remaking and 
 unmaking in order to recover the materials that enable us to make something 
 anew. We can learn from Agbogbloshie, where cobblers remake work boots, where 
@@ -72,22 +72,22 @@ how to make stuff. Four years ago, my cofounder Yasmine Abbas and I asked: What
 would happen if we could couple the practical know-how of makers in the 
 informal sector with the technical knowledge of students and young 
 professionals in STEAM fields — science, technology, engineering, arts and 
-mathematics — to build a STEAM- powered innovation engine to drive what we 
-call " Sankofa Innovation, " which I ' ll explain. We took forays into the 
-scrapyard to look for what could be repurposed, like DVD writers that could 
-become laser etchers, or the power supplies of old servers for a start-up in 
-Kumasi making 3D printers out of e- waste. The key was to bring together young 
-people from different backgrounds that ordinarily never have anything to do 
-with each other, to have a conversation about how they could collaborate and to 
-test and develop new machines and tools that could allow them to shred and 
-strip copper instead of burning it, to mold **plastic** bricks and tiles, to 
-build new computers out of components recovered from dead electronics, to build 
-a drone. And here you can see it flying for the first time in Agbogbloshie. 
-Yasmine and I have collaborated with over 1 , 500 young people, 750 from STEAM 
-fields, and over 750 grassroots makers and scrap dealers from Agbogbloshie and 
-beyond. They ' ve joined hands together to develop a platform which they call 
-Spacecraft, a hybrid physical and digital space for crafting, more of a process 
-than a product, an open architecture for making, which involves three parts: a 
+mathematics — to build a STEAM- powered innovation engine to drive what we call 
+" Sankofa Innovation, " which I ' ll explain. We took forays into the scrapyard 
+to look for what could be repurposed, like DVD writers that could become laser 
+etchers, or the power supplies of old servers for a start-up in Kumasi making 
+3D printers out of e- waste. The key was to bring together young people from 
+different backgrounds that ordinarily never have anything to do with each 
+other, to have a conversation about how they could collaborate and to test and 
+develop new machines and tools that could allow them to shred and strip copper 
+instead of burning it, to mold **plastic** bricks and tiles, to build new 
+computers out of components recovered from dead electronics, to build a drone. 
+And here you can see it flying for the first time in Agbogbloshie. Yasmine and 
+I have collaborated with over 1 , 500 young people, 750 from STEAM fields, and 
+over 750 grassroots makers and scrap dealers from Agbogbloshie and beyond. They 
+' ve joined hands together to develop a platform which they call Spacecraft, a 
+hybrid physical and digital space for crafting, more of a process than a 
+product, an open architecture for making, which involves three parts: a 
 makerspace kiosk, which is prefab and modular; tool kits which can be 
 customized based on what makers want to make; and a trading app. We built the 
 app specifically with the needs of the scrap dealers in mind first, because we 

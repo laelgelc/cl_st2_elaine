@@ -66,9 +66,9 @@ today, we ' re delivering about 20 percent of the national **blood** supply of
 Rwanda outside of Kigali. We serve about 12 hospitals, and we ' re adding 
 hospitals to that network at an accelerating rate. All of those hospitals only 
 receive **blood** in this way, and most of those hospitals actually place 
-multiple orders every day. So the reason — in all of health care logistics, 
-you ' re always trading off waste against access. So if you want to solve 
-waste, you keep everything centralized. As a result, when patients are having 
+multiple orders every day. So the reason — in all of health care logistics, you 
+' re always trading off waste against access. So if you want to solve waste, 
+you keep everything centralized. As a result, when patients are having 
 emergencies, sometimes they don ' t have the medical product they need. If you 
 want to solve access, you stock a lot of medicine at the last mile, at 
 hospitals or health centers, and then patients have the medicine they need. But 

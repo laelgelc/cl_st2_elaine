@@ -90,12 +90,12 @@ while accelerating our transition to renewables? Some people think we can work
 with the fossil fuel industry and want to pressure it to do better. Others 
 propose more radical departures. Here are a few opinions on this issue, 
 starting with Jérôme Schmitt, a former oil industry executive who is now a 
-senior fellow at the Columbia Center on Sustainable Investment. Jérôme 
-Schmitt: I ' m not aware of any net-zero scenario compliant with 1 . 5 degree 
-or two degree that does not involve even a little bit of fossil fuel by 2040 or 
-2050 , especially for the developing part of the world. Therefore, some people 
-will need to have an all-in understanding of the energy system and be able to 
-manage the complexity of producing and supplying to customers and to countries 
+senior fellow at the Columbia Center on Sustainable Investment. Jérôme Schmitt: 
+I ' m not aware of any net-zero scenario compliant with 1 . 5 degree or two 
+degree that does not involve even a little bit of fossil fuel by 2040 or 2050 , 
+especially for the developing part of the world. Therefore, some people will 
+need to have an all-in understanding of the energy system and be able to manage 
+the complexity of producing and supplying to customers and to countries 
 **clean** energy on one side and less and less fossil fuel on the other side 
 and concentrate the fossil fuel supply and demand on the absolute necessary 
 means and usage and increase progressively the shift from one to the other. 
@@ -353,56 +353,56 @@ energy demand is on the East Coast, yet the greatest solar resources and wind
 resources are in the interior. And China is building literally scores of 
 high-voltage power lines that transmit power from where the sun and wind are to 
 the coasts, where the energy demand is. And the longest of these lines right 
-now, that Ürümqi to Shanghai line, is 3 , 400 kilometers long. It is 90 
-percent efficient, very low losses, and it adds maybe a penny or two to the 
-cost of electricity. That ' s what ' s technically feasible with current 
-technology, let alone advances. In Europe, that would allow us to transmit 
-electricity from Seville to Copenhagen. To bring power from the North Sea to 
-anywhere in the **continent** that needs it. In my home country, the United 
-States, we could bring power from the sunny, wide open areas of New Mexico to 
-population and land-dense New York, which doesn ' t get so much sun. And we 
-could take wind power from the Great Plains, that are largely devoid of 
-population, and bring it to the coasts in winter. That is what a modern grid 
-looks like. And yet we are not building this. It is time for us to build. DB: 
-With technology advancing as fast as it is, there ' s certainly hope that we 
-can meet our energy transition goals, and there are ways to ensure that 
-everyone benefits in this transition. But it ' s going to be challenging. LL: 
-There ' s no shortage of ideas, but time is running out, making it all the more 
-critical to collaborate with urgency and resolve this fundamental dilemma. 
-Here, again, are some leading voices on how we get there. MR: We all need to do 
-three things. We need to make the climate **crisis** very personal in our 
-lives, change our habits a bit as a result. Secondly, we need to get angry 
-about those who aren ' t doing enough. And thirdly, we need to imagine this 
-world that is round the corner. ZK: Every year I can see more focus from 
-different actors that are needed to be part of the **solution** . LT: Renewable 
-energy is a good business in many places. HM: There is a strong business case 
-for it. It makes investment sense. HL: China is adding an astonishing amount of 
-wind and solar to its grid every year. RN: It ' s cheaper to build a new solar 
-or wind farm than it is to put fuel into a natural **gas** plant or a coal 
-plant. TB: Our job has to be to make sure that politicians know that they ' re 
-going to have the support that they need for the hard policies. LN: We need 
-people to get on board in a fight for climate justice. And this means getting 
-people on board that have never spoken to each other before and that have 
-always disagreed. MB: Even at this conference, you will meet people and you 
-expect them to have very particular sort of, polar stance. But when you 
-actually get into a conversation, you see the openings. CA: I love listening to 
-people with different points of view. Dialogue is absolutely essential and so 
-generative. But once we leave the safe space of this conversation, we go back 
-out into a world that is rife with power dynamics and institutionalized, 
-structural inequities. And we have to just acknowledge that fact. RN: So I 
-think it ' s not a bad thing to listen and then apply your own judgment to what 
-you ' ve heard. And is it self-serving or not, and what nuggets of truth or 
-what pieces of data are there? MB: What we don ' t want to lose is that 
-ultimately there are people at the heart of systems. And systems change will 
-sometimes fail just because two folks cannot get along with each other. Jade 
-Begay: I think we overlook relationship building as kind of cheesy or corny, 
-but ask any person who ' s built change over time, and it happens through 
-relationships. MR: I was very affected, as were the other women leaders, when 
-Jade said, " In our tribe in New Mexico, we say, ' What if our best times are 
-still ahead of us? ' " Our best times are still ahead of us. But so are our 
-worst times. We have that choice. And of course, we have to choose our best 
-times and we have to know how difficult it is. And yet, Nelson Mandela famously 
-said " it always seems impossible until it is done. " And I love that phrase. 
+now, that Ürümqi to Shanghai line, is 3 , 400 kilometers long. It is 90 percent 
+efficient, very low losses, and it adds maybe a penny or two to the cost of 
+electricity. That ' s what ' s technically feasible with current technology, 
+let alone advances. In Europe, that would allow us to transmit electricity from 
+Seville to Copenhagen. To bring power from the North Sea to anywhere in the 
+**continent** that needs it. In my home country, the United States, we could 
+bring power from the sunny, wide open areas of New Mexico to population and 
+land-dense New York, which doesn ' t get so much sun. And we could take wind 
+power from the Great Plains, that are largely devoid of population, and bring 
+it to the coasts in winter. That is what a modern grid looks like. And yet we 
+are not building this. It is time for us to build. DB: With technology 
+advancing as fast as it is, there ' s certainly hope that we can meet our 
+energy transition goals, and there are ways to ensure that everyone benefits in 
+this transition. But it ' s going to be challenging. LL: There ' s no shortage 
+of ideas, but time is running out, making it all the more critical to 
+collaborate with urgency and resolve this fundamental dilemma. Here, again, are 
+some leading voices on how we get there. MR: We all need to do three things. We 
+need to make the climate **crisis** very personal in our lives, change our 
+habits a bit as a result. Secondly, we need to get angry about those who aren ' 
+t doing enough. And thirdly, we need to imagine this world that is round the 
+corner. ZK: Every year I can see more focus from different actors that are 
+needed to be part of the **solution** . LT: Renewable energy is a good business 
+in many places. HM: There is a strong business case for it. It makes investment 
+sense. HL: China is adding an astonishing amount of wind and solar to its grid 
+every year. RN: It ' s cheaper to build a new solar or wind farm than it is to 
+put fuel into a natural **gas** plant or a coal plant. TB: Our job has to be to 
+make sure that politicians know that they ' re going to have the support that 
+they need for the hard policies. LN: We need people to get on board in a fight 
+for climate justice. And this means getting people on board that have never 
+spoken to each other before and that have always disagreed. MB: Even at this 
+conference, you will meet people and you expect them to have very particular 
+sort of, polar stance. But when you actually get into a conversation, you see 
+the openings. CA: I love listening to people with different points of view. 
+Dialogue is absolutely essential and so generative. But once we leave the safe 
+space of this conversation, we go back out into a world that is rife with power 
+dynamics and institutionalized, structural inequities. And we have to just 
+acknowledge that fact. RN: So I think it ' s not a bad thing to listen and then 
+apply your own judgment to what you ' ve heard. And is it self-serving or not, 
+and what nuggets of truth or what pieces of data are there? MB: What we don ' t 
+want to lose is that ultimately there are people at the heart of systems. And 
+systems change will sometimes fail just because two folks cannot get along with 
+each other. Jade Begay: I think we overlook relationship building as kind of 
+cheesy or corny, but ask any person who ' s built change over time, and it 
+happens through relationships. MR: I was very affected, as were the other women 
+leaders, when Jade said, " In our tribe in New Mexico, we say, ' What if our 
+best times are still ahead of us? ' " Our best times are still ahead of us. But 
+so are our worst times. We have that choice. And of course, we have to choose 
+our best times and we have to know how difficult it is. And yet, Nelson Mandela 
+famously said " it always seems impossible until it is done. " And I love that 
+phrase. 
 
 Lemmas in this text that loaded on the factor:
 

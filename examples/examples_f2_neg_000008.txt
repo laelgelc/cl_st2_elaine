@@ -41,8 +41,8 @@ been a series of TOMS satellites that have collected data about the radiation
 of the Earth ' s surface. The TOMS 7 satellite data, shown here, show the 
 annual average ultraviolet radiation at the Earth ' s surface. Now the really 
 hot pink and red areas are those parts of the world that receive the highest 
-amounts of UV during the year. The incrementally cooler colors — blues, 
-greens, yellows, and finally grays — indicate areas of much lower ultraviolet 
+amounts of UV during the year. The incrementally cooler colors — blues, greens, 
+yellows, and finally grays — indicate areas of much lower ultraviolet 
 radiation. What ' s significant to the story of human skin **pigmentation** is 
 just how much of the Northern Hemisphere is in these cool gray zones. This has 
 tremendous implications for our understanding of the evolution of human skin 

@@ -38,9 +38,9 @@ sweetness is not sweet enough; anything above 12 percent sweetness is too
 sweet. We want to know: what ' s the sweet spot between 8 and 12 ? " Now, if I 
 gave you this problem to do, you would all say, it ' s very simple. What we do 
 is you make up a big experimental batch of Pepsi, at every degree of sweetness 
-— eight percent, 8 . 1 , 8 . 2 , 8 . 3 , all the way up to 12 — and we try 
-this out with thousands of people, and we plot the results on a curve, and we 
-take the most popular concentration, right? Really simple. Howard does the 
+— eight percent, 8 . 1 , 8 . 2 , 8 . 3 , all the way up to 12 — and we try this 
+out with thousands of people, and we plot the results on a curve, and we take 
+the most popular concentration, right? Really simple. Howard does the 
 experiment, and he gets the data back, and he plots it on a curve, and all of a 
 sudden he realizes it ' s not a nice bell curve. In fact, the data doesn ' t 
 make any sense. It ' s a mess. It ' s all over the place. Now, most people in 
@@ -54,10 +54,10 @@ standards. And this was not good enough for him, and this question bedeviled
 him for years. And he would think it through and say, " What was wrong? Why 
 could we not make sense of this experiment with Diet Pepsi? " And one day, he 
 was sitting in a diner in White Plains, about to go trying to dream up some 
-work for Nescaf�� . And suddenly, like a bolt of lightning, the answer came 
-to him. And that is, that when they analyzed the Diet Pepsi data, they were 
-asking the wrong question. They were looking for the perfect Pepsi, and they 
-should have been looking for the perfect Pepsis. Trust me. This was an enormous 
+work for Nescaf�� . And suddenly, like a bolt of lightning, the answer came to 
+him. And that is, that when they analyzed the Diet Pepsi data, they were asking 
+the wrong question. They were looking for the perfect Pepsi, and they should 
+have been looking for the perfect Pepsis. Trust me. This was an enormous 
 revelation. This was one of the most brilliant breakthroughs in all of food 
 science. Howard immediately went on the road, and he would go to conferences 
 around the country, and he would stand up and say, " You had been looking for 
@@ -76,82 +76,82 @@ Then the next person came to him: Campbell ' s Soup. And this was even more
 important. In fact, Campbell ' s Soup is where Howard made his reputation. 
 Campbell ' s made Prego, and Prego, in the early 80s, was struggling next to 
 Rag�� , which was the dominant spaghetti sauce of the 70s and 80s. In the 
-industry — I don ' t know whether you care about this, or how much time I 
-have to go into this. But it was, technically speaking — this is an aside — 
-Prego is a better tomato sauce than Rag�� . The quality of the tomato paste 
-is much better; the spice mix is far superior; it adheres to the pasta in a 
-much more pleasing way. In fact, they would do the famous bowl test back in the 
-70s with Rag�� and Prego. You ' d have a plate of spaghetti, and you would 
-pour it on, right? And the Rag�� would all go to the bottom, and the Prego 
-would sit on top. That ' s called " adherence. " And, anyway, despite the fact 
-that they were far superior in adherence, and the quality of their tomato 
-paste, Prego was struggling. So they came to Howard, and they said, fix us. And 
-Howard looked at their product line, and he said, what you have is a dead 
-tomato society. So he said, this is what I want to do. And he got together with 
-the Campbell ' s soup kitchen, and he made 45 varieties of spaghetti sauce. And 
-he varied them according to every conceivable way that you can vary tomato 
-sauce: by sweetness, by level of garlic, by tomatoey-ness, by tartness, by 
-sourness, by visible solids — my favorite term in the spaghetti sauce 
-business. Every conceivable way you can vary spaghetti sauce, he varied 
-spaghetti sauce. And then he took this whole raft of 45 spaghetti sauces, and 
-he went on the road. He went to New York, to Chicago, he went to Jacksonville, 
-to Los Angeles. And he brought in people by the truckload into big halls. And 
-he sat them down for two hours, and over the course of that two hours, he gave 
-them ten bowls. Ten small bowls of pasta, with a different spaghetti sauce on 
-each one. And after they ate each bowl, they had to rate, from 0 to 100 , how 
-good they thought the spaghetti sauce was. At the end of that process, after 
-doing it for months and months, he had a mountain of data about how the 
-American people feel about spaghetti sauce. And then he analyzed the data. Did 
-he look for the most popular variety of spaghetti sauce? No! Howard doesn ' t 
-believe that there is such a thing. Instead, he looked at the data, and he 
-said, let ' s see if we can group all these different data points into 
-clusters. Let ' s see if they congregate around certain ideas. And sure enough, 
-if you sit down, and you analyze all this data on spaghetti sauce, you realize 
-that all Americans fall into one of three groups. There are people who like 
-their spaghetti sauce plain; there are people who like their spaghetti sauce 
-spicy; and there are people who like it extra **chunky** . And of those three 
-facts, the third one was the most significant, because at the time, in the 
-early 1980s, if you went to a supermarket, you would not find extra-chunky 
-spaghetti sauce. And Prego turned to Howard, and they said, " You ' re telling 
-me that one third of Americans crave extra-chunky spaghetti sauce and yet no 
-one is servicing their needs? " And he said " Yes! " And Prego then went back, 
-and completely reformulated their spaghetti sauce, and came out with a line of 
-extra **chunky** that immediately and completely took over the spaghetti sauce 
+industry — I don ' t know whether you care about this, or how much time I have 
+to go into this. But it was, technically speaking — this is an aside — Prego is 
+a better tomato sauce than Rag�� . The quality of the tomato paste is much 
+better; the spice mix is far superior; it adheres to the pasta in a much more 
+pleasing way. In fact, they would do the famous bowl test back in the 70s with 
+Rag�� and Prego. You ' d have a plate of spaghetti, and you would pour it on, 
+right? And the Rag�� would all go to the bottom, and the Prego would sit on 
+top. That ' s called " adherence. " And, anyway, despite the fact that they 
+were far superior in adherence, and the quality of their tomato paste, Prego 
+was struggling. So they came to Howard, and they said, fix us. And Howard 
+looked at their product line, and he said, what you have is a dead tomato 
+society. So he said, this is what I want to do. And he got together with the 
+Campbell ' s soup kitchen, and he made 45 varieties of spaghetti sauce. And he 
+varied them according to every conceivable way that you can vary tomato sauce: 
+by sweetness, by level of garlic, by tomatoey-ness, by tartness, by sourness, 
+by visible solids — my favorite term in the spaghetti sauce business. Every 
+conceivable way you can vary spaghetti sauce, he varied spaghetti sauce. And 
+then he took this whole raft of 45 spaghetti sauces, and he went on the road. 
+He went to New York, to Chicago, he went to Jacksonville, to Los Angeles. And 
+he brought in people by the truckload into big halls. And he sat them down for 
+two hours, and over the course of that two hours, he gave them ten bowls. Ten 
+small bowls of pasta, with a different spaghetti sauce on each one. And after 
+they ate each bowl, they had to rate, from 0 to 100 , how good they thought the 
+spaghetti sauce was. At the end of that process, after doing it for months and 
+months, he had a mountain of data about how the American people feel about 
+spaghetti sauce. And then he analyzed the data. Did he look for the most 
+popular variety of spaghetti sauce? No! Howard doesn ' t believe that there is 
+such a thing. Instead, he looked at the data, and he said, let ' s see if we 
+can group all these different data points into clusters. Let ' s see if they 
+congregate around certain ideas. And sure enough, if you sit down, and you 
+analyze all this data on spaghetti sauce, you realize that all Americans fall 
+into one of three groups. There are people who like their spaghetti sauce 
+plain; there are people who like their spaghetti sauce spicy; and there are 
+people who like it extra **chunky** . And of those three facts, the third one 
+was the most significant, because at the time, in the early 1980s, if you went 
+to a supermarket, you would not find extra-chunky spaghetti sauce. And Prego 
+turned to Howard, and they said, " You ' re telling me that one third of 
+Americans crave extra-chunky spaghetti sauce and yet no one is servicing their 
+needs? " And he said " Yes! " And Prego then went back, and completely 
+reformulated their spaghetti sauce, and came out with a line of extra 
+**chunky** that immediately and completely took over the spaghetti sauce 
 business in this country. And over the next 10 years, they made 600 million 
 dollars off their line of extra-chunky sauces. Everyone else in the industry 
 looked at what Howard had done, and they said, " Oh my god! We ' ve been 
 thinking all wrong! " And that ' s when you started to get seven different 
 kinds of vinegar, and 14 different kinds of **mustard** , and 71 different 
-kinds of olive oil. And then eventually even Rag�� hired Howard, and Howard 
-did the exact same thing for Rag�� that he did for Prego. And today, if you 
-go to a really good supermarket, do you know how many Rag��s there are? 36 
-! In six varieties: Cheese, Light, Robusto, Rich & Hearty, Old World 
-Traditional — Extra-Chunky Garden. That ' s Howard ' s doing. That is Howard 
-' s gift to the American people. Now why is that important? It is, in fact, 
-enormously important. I ' ll explain to you why. What Howard did is he 
-fundamentally changed the way the food industry thinks about making you happy. 
-Assumption number one in the food industry used to be that the way to find out 
-what people want to eat, what will make people happy, is to ask them. And for 
-years and years and years, Rag�� and Prego would have focus groups, and 
-they would sit you down, and they would say, " What do you want in a spaghetti 
-sauce? Tell us what you want in a spaghetti sauce. " And for all those years 
-— 20 , 30 years — through all those focus group sessions, no one ever said 
-they wanted extra-chunky. Even though at least a third of them, deep in their 
-hearts, actually did. People don ' t know what they want! As Howard loves to 
-say, " The mind knows not what the tongue wants. " It ' s a mystery! And a 
-critically important step in understanding our own desires and tastes is to 
-realize that we cannot always explain what we want, deep down. If I asked all 
-of you, for example, in this room, what you want in a coffee, you know what you 
-' d say? Every one of you would say, " I want a dark, rich, hearty roast. " It 
-' s what people always say when you ask them. " What do you like? " " Dark, 
-rich, hearty roast! " What percentage of you actually like a dark, rich, hearty 
-roast? According to Howard, somewhere between 25 and 27 percent of you. Most of 
-you like milky, weak coffee. But you will never, ever say to someone who asks 
-you what you want that " I want a milky, weak coffee. " So that ' s number one 
-thing that Howard did. Number two thing that Howard did is he made us realize 
-— it ' s another very critical point — he made us realize the importance of 
-what he likes to call " horizontal segmentation. " Why is this critical? 
-Because this is the way the food industry thought before Howard. What were they 
+kinds of olive oil. And then eventually even Rag�� hired Howard, and Howard did 
+the exact same thing for Rag�� that he did for Prego. And today, if you go to a 
+really good supermarket, do you know how many Rag��s there are? 36 ! In six 
+varieties: Cheese, Light, Robusto, Rich & Hearty, Old World Traditional — 
+Extra-Chunky Garden. That ' s Howard ' s doing. That is Howard ' s gift to the 
+American people. Now why is that important? It is, in fact, enormously 
+important. I ' ll explain to you why. What Howard did is he fundamentally 
+changed the way the food industry thinks about making you happy. Assumption 
+number one in the food industry used to be that the way to find out what people 
+want to eat, what will make people happy, is to ask them. And for years and 
+years and years, Rag�� and Prego would have focus groups, and they would sit 
+you down, and they would say, " What do you want in a spaghetti sauce? Tell us 
+what you want in a spaghetti sauce. " And for all those years — 20 , 30 years — 
+through all those focus group sessions, no one ever said they wanted 
+extra-chunky. Even though at least a third of them, deep in their hearts, 
+actually did. People don ' t know what they want! As Howard loves to say, " The 
+mind knows not what the tongue wants. " It ' s a mystery! And a critically 
+important step in understanding our own desires and tastes is to realize that 
+we cannot always explain what we want, deep down. If I asked all of you, for 
+example, in this room, what you want in a coffee, you know what you ' d say? 
+Every one of you would say, " I want a dark, rich, hearty roast. " It ' s what 
+people always say when you ask them. " What do you like? " " Dark, rich, hearty 
+roast! " What percentage of you actually like a dark, rich, hearty roast? 
+According to Howard, somewhere between 25 and 27 percent of you. Most of you 
+like milky, weak coffee. But you will never, ever say to someone who asks you 
+what you want that " I want a milky, weak coffee. " So that ' s number one 
+thing that Howard did. Number two thing that Howard did is he made us realize — 
+it ' s another very critical point — he made us realize the importance of what 
+he likes to call " horizontal segmentation. " Why is this critical? Because 
+this is the way the food industry thought before Howard. What were they 
 obsessed with in the early 80s? They were obsessed with **mustard** . In 
 particular, they were obsessed with the story of Grey Poupon. Used to be, there 
 were two **mustards** : French ' s and Gulden ' s. What were they? Yellow 
@@ -193,10 +193,10 @@ They had a Platonic notion of what tomato sauce was. And where did that come
 from? It came from Italy. Italian tomato sauce is what? It ' s blended; it ' s 
 thin. The culture of tomato sauce was thin. When we talked about " authentic 
 tomato sauce " in the 1970s, we talked about Italian tomato sauce, we talked 
-about the earliest Rag��s, which had no visible solids, right? Which were 
-thin, you just put a little bit and it sunk down to the bottom of the pasta. 
-That ' s what it was. And why were we attached to that? Because we thought that 
-what it took to make people happy was to provide them with the most culturally 
+about the earliest Rag��s, which had no visible solids, right? Which were thin, 
+you just put a little bit and it sunk down to the bottom of the pasta. That ' s 
+what it was. And why were we attached to that? Because we thought that what it 
+took to make people happy was to provide them with the most culturally 
 authentic tomato sauce, A. And B, we thought that if we gave them the 
 culturally authentic tomato sauce, then they would embrace it. And that ' s 
 what would please the maximum number of people. In other words, people in the 
@@ -218,11 +218,11 @@ sorry. Howard not only believed that, but he took it a second step, which was
 to say that when we pursue universal principles in food, we aren ' t just 
 making an error; we are actually doing ourselves a massive disservice. And the 
 example he used was coffee. And coffee is something he did a lot of work with, 
-with Nescaf�� . If I were to ask all of you to try and come up with a brand 
-of coffee — a type of coffee, a brew — that made all of you happy, and then 
-I asked you to rate that coffee, the average score in this room for coffee 
-would be about 60 on a scale of 0 to 100 . If, however, you allowed me to break 
-you into coffee clusters, maybe three or four coffee clusters, and I could make 
+with Nescaf�� . If I were to ask all of you to try and come up with a brand of 
+coffee — a type of coffee, a brew — that made all of you happy, and then I 
+asked you to rate that coffee, the average score in this room for coffee would 
+be about 60 on a scale of 0 to 100 . If, however, you allowed me to break you 
+into coffee clusters, maybe three or four coffee clusters, and I could make 
 coffee just for each of those individual clusters, your scores would go from 60 
 to 75 or 78 . The difference between coffee at 60 and coffee at 78 is a 
 difference between coffee that makes you wince, and coffee that makes you 

@@ -85,9 +85,9 @@ subsurface, of course, there ' s no sunlight, so this ecosystem has to solve
 the problem of who is going to make the food for everybody else. The subsurface 
 needs something that ' s like a plant but it breathes rocks. Luckily, such a 
 thing exists, and it ' s called a chemolithoautotroph. Which is a microbe that 
-uses chemicals — " chemo, " from rocks — " litho, " to make food — " 
-autotroph. " And they can do this with a ton of different elements. They can do 
-this with sulphur, iron, manganese, nitrogen, carbon, some of them can use pure 
+uses chemicals — " chemo, " from rocks — " litho, " to make food — " autotroph. 
+" And they can do this with a ton of different elements. They can do this with 
+sulphur, iron, manganese, nitrogen, carbon, some of them can use pure 
 electrons, straight up. Like, if you cut the end off of an electrical cord, 
 they could breathe it like a snorkel. These chemolithoautotrophs take the 
 energy that they get from these processes and use it to make food, like plants 
@@ -101,9 +101,9 @@ talking about biology, or am I talking about geology? This stuff really blurs
 the lines. So if I ' m going to do this thing, and I ' m going to be a 
 biologist who studies microbes that kind of act like rocks, then I should 
 probably start studying geology. And what ' s the coolest part of geology? 
-Volcanoes. This is looking inside the crater of Po��s Volcano in Costa 
-Rica. Many volcanoes on **earth** arise because an oceanic tectonic plate 
-crashes into a continental plate. As this oceanic plate subducts or gets moved 
+Volcanoes. This is looking inside the crater of Po��s Volcano in Costa Rica. 
+Many volcanoes on **earth** arise because an oceanic tectonic plate crashes 
+into a continental plate. As this oceanic plate subducts or gets moved 
 underneath this continental plate, things like water and carbon dioxide and 
 other materials get squeezed out of it, like ringing a wet washcloth. So in 
 this way, subduction zones are like portals into the deep **earth** , where 
@@ -139,48 +139,47 @@ of cozy little hot springs all over the place. Some of the water in these hot
 springs is actually bubbling up from this deeply buried oceanic plate. And our 
 hypothesis was that there should be carbon dioxide bubbling up with it, but 
 something deep underground was filtering it out. So we spent two weeks driving 
-all around Costa Rica, sampling every hot spring we could find — it was 
-awful, let me tell you. And then we spent the next two years measuring and 
-analyzing data. And if you ' re not a scientist, I ' ll just let you know that 
-the big discoveries don ' t really happen when you ' re at a beautiful hot 
-spring or on a public stage; they happen when you ' re hunched over a messy 
-computer or you ' re troubleshooting a difficult instrument, or you ' re 
-Skyping your colleagues because you are completely confused about your data. 
-Scientific discoveries, kind of like deep subsurface microbes, can be very, 
-very slow. But in our case, this really paid off this one time. We discovered 
-that literally tons of carbon dioxide were coming out of this deeply buried 
-oceanic plate. And the thing that was keeping them underground and keeping it 
-from being released out into the atmosphere was that deep underground, 
-underneath all the adorable sloths and toucans of Costa Rica, were 
-chemolithoautotrophs. These microbes and the chemical processes that were 
-happening around them were converting this carbon dioxide into carbonate 
-mineral and locking it up underground. Which makes you wonder: If these 
-subsurface processes are so good at sucking up all the carbon dioxide coming 
-from below them, could they also help us with a little carbon problem we ' ve 
-got going on up at the surface? Humans are releasing enough carbon dioxide into 
-our atmosphere that we are decreasing the ability of our planet to support life 
-as we know it. And scientists and engineers and entrepreneurs are working on 
-methods to pull carbon dioxide out of these point sources, so that they ' re 
-not released into the atmosphere. And they need to put it somewhere. So for 
-this reason, we need to keep studying places where this carbon might be stored, 
-possibly in the subsurface, to know what ' s going to happen to it when it goes 
-there. Will these deep subsurface microbes be a problem because they ' re too 
-slow to actually keep anything down there? Or will they be helpful because they 
-' ll help convert this stuff to solid carbonate minerals? If we can make such a 
-big breakthrough just from one study that we did in Costa Rica, then imagine 
-what else is waiting to be discovered down there. This new field of 
-geo-bio-chemistry, or deep subsurface biology, or whatever you want to call it, 
-is going to have huge implications, not just for mitigating climate change, but 
-possibly for understanding how life and **earth** have coevolved, or finding 
-new products that are useful for industrial or medical applications. Maybe even 
-predicting earthquakes or finding life outside our planet. It could even help 
-us understand the origin of life itself. Fortunately, I don ' t have to do this 
-by myself. I have amazing colleagues all over the world who are cracking into 
-the mysteries of this deep subsurface world. And it may seem like life buried 
-deep within the **earth** ' s crust is so far away from our daily experiences 
-that it ' s kind of irrelevant. But the truth is that this weird, slow life may 
-actually have the answers to some of the greatest mysteries of life on 
-**earth** . Thank you. 
+all around Costa Rica, sampling every hot spring we could find — it was awful, 
+let me tell you. And then we spent the next two years measuring and analyzing 
+data. And if you ' re not a scientist, I ' ll just let you know that the big 
+discoveries don ' t really happen when you ' re at a beautiful hot spring or on 
+a public stage; they happen when you ' re hunched over a messy computer or you 
+' re troubleshooting a difficult instrument, or you ' re Skyping your 
+colleagues because you are completely confused about your data. Scientific 
+discoveries, kind of like deep subsurface microbes, can be very, very slow. But 
+in our case, this really paid off this one time. We discovered that literally 
+tons of carbon dioxide were coming out of this deeply buried oceanic plate. And 
+the thing that was keeping them underground and keeping it from being released 
+out into the atmosphere was that deep underground, underneath all the adorable 
+sloths and toucans of Costa Rica, were chemolithoautotrophs. These microbes and 
+the chemical processes that were happening around them were converting this 
+carbon dioxide into carbonate mineral and locking it up underground. Which 
+makes you wonder: If these subsurface processes are so good at sucking up all 
+the carbon dioxide coming from below them, could they also help us with a 
+little carbon problem we ' ve got going on up at the surface? Humans are 
+releasing enough carbon dioxide into our atmosphere that we are decreasing the 
+ability of our planet to support life as we know it. And scientists and 
+engineers and entrepreneurs are working on methods to pull carbon dioxide out 
+of these point sources, so that they ' re not released into the atmosphere. And 
+they need to put it somewhere. So for this reason, we need to keep studying 
+places where this carbon might be stored, possibly in the subsurface, to know 
+what ' s going to happen to it when it goes there. Will these deep subsurface 
+microbes be a problem because they ' re too slow to actually keep anything down 
+there? Or will they be helpful because they ' ll help convert this stuff to 
+solid carbonate minerals? If we can make such a big breakthrough just from one 
+study that we did in Costa Rica, then imagine what else is waiting to be 
+discovered down there. This new field of geo-bio-chemistry, or deep subsurface 
+biology, or whatever you want to call it, is going to have huge implications, 
+not just for mitigating climate change, but possibly for understanding how life 
+and **earth** have coevolved, or finding new products that are useful for 
+industrial or medical applications. Maybe even predicting earthquakes or 
+finding life outside our planet. It could even help us understand the origin of 
+life itself. Fortunately, I don ' t have to do this by myself. I have amazing 
+colleagues all over the world who are cracking into the mysteries of this deep 
+subsurface world. And it may seem like life buried deep within the **earth** ' 
+s crust is so far away from our daily experiences that it ' s kind of 
+irrelevant. But the truth is that this weird, slow life may actually have the 
+answers to some of the greatest mysteries of life on **earth** . Thank you. 
 
 Lemmas in this text that loaded on the factor:
 

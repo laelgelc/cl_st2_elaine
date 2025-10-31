@@ -19,28 +19,28 @@ catastrophic effects. And I am astounded that I ' m standing here to tell you
 that. What are catastrophic effects? A three degree centigrade climate change 
 rise that will result in 50 percent species extinction. It ' s not a movie. 
 This is real life. And I ' m really worried, because when people talk about 
-cars — which I know something about — the press and politicians and people 
-in this room are all thinking, " Let ' s use fuel-efficient cars. " If we 
-started today, 10 years from now, at the end of this window of opportunity, 
-those fuel-efficient cars will reduce our fossil fuel needs by four percent. 
-That is not enough. But now I ' ll talk about some more pleasant things. Here 
-are some ways that we can make some dramatic changes. So, Zipcar is a company 
-that I founded seven years ago, but it ' s an example of something called car 
-sharing. What Zipcar does is we park cars throughout dense urban areas for 
-members to reserve, by the hour and by the day, instead of using their own car. 
-How does it feel to be a person using a Zipcar? It means that I pay only for 
-what I need. All those hours when a car is sitting idle, I ' m not paying for 
-it. It means that I can choose a car exactly for that particular trip. So, here 
-' s a woman that reserved MiniMia, and she had her day. I can take a BMW when I 
-' m seeing clients. I can drive my Toyota Element when I ' m going to go on 
-that surfing trip. And the other remarkable thing is it ' s, I think, the 
-highest status of car ownership. Not only do I have a fleet of cars available 
-to me in seven cities around the world that I can have at my beck and call, but 
-heaven forbid I would ever maintain or deal with the repair or have anything to 
-do with it. It ' s like the car that you always wanted that your mom said that 
-you couldn ' t have. I get all the good stuff and none of the bad. So, what is 
-the social result of this? The social result is that today ' s Zipcar has 100 , 
-000 members driving 3 , 000 cars parked in 3 , 000 parking spaces. Instead of 
+cars — which I know something about — the press and politicians and people in 
+this room are all thinking, " Let ' s use fuel-efficient cars. " If we started 
+today, 10 years from now, at the end of this window of opportunity, those 
+fuel-efficient cars will reduce our fossil fuel needs by four percent. That is 
+not enough. But now I ' ll talk about some more pleasant things. Here are some 
+ways that we can make some dramatic changes. So, Zipcar is a company that I 
+founded seven years ago, but it ' s an example of something called car sharing. 
+What Zipcar does is we park cars throughout dense urban areas for members to 
+reserve, by the hour and by the day, instead of using their own car. How does 
+it feel to be a person using a Zipcar? It means that I pay only for what I 
+need. All those hours when a car is sitting idle, I ' m not paying for it. It 
+means that I can choose a car exactly for that particular trip. So, here ' s a 
+woman that reserved MiniMia, and she had her day. I can take a BMW when I ' m 
+seeing clients. I can drive my Toyota Element when I ' m going to go on that 
+surfing trip. And the other remarkable thing is it ' s, I think, the highest 
+status of car ownership. Not only do I have a fleet of cars available to me in 
+seven cities around the world that I can have at my beck and call, but heaven 
+forbid I would ever maintain or deal with the repair or have anything to do 
+with it. It ' s like the car that you always wanted that your mom said that you 
+couldn ' t have. I get all the good stuff and none of the bad. So, what is the 
+social result of this? The social result is that today ' s Zipcar has 100 , 000 
+members driving 3 , 000 cars parked in 3 , 000 parking spaces. Instead of 
 driving 12 , 000 miles a year, which is what the average city dweller does, 
 they drive 500 miles a year. Are they happy? The company has been doubling in 
 size ever since I founded it, or greater. People adore the company. And it ' s 
@@ -168,18 +168,18 @@ think this is a more powerful tool than the Interstate Highway Act, and I think
 this is as important and world changing to our economy as electrification. And 
 if I had my druthers, we would have an open-source version in addition to open 
 standards. And this open-source version means that it could be — if we did a 
-brilliant job of it — it could be used around the world very quickly. So, 
-going back to one of my earlier thoughts. Imagine if every one of these buses 
-in Lagos was part of the mesh network. When I went this morning to Larry 
-Brilliant ' s TEDTalk prize — his fabulous networks — imagine if there was 
-an open-source mesh communications device that can be put into those networks, 
-to make all that happen. And we can be doing it if we could just get over the 
-fact that this little slice of things is going to be for free. We could make 
-billions of dollars on top of it, but this one particular slice of 
-communications needs to be open source. So, let ' s take control of this 
-nightmare: implement a gas tax immediately; transition across the nation to 
-road-tolling with this wireless mesh; require that the mesh be open to all, 
-with open standards; and, of course, use mesh networks. Thank you. 
+brilliant job of it — it could be used around the world very quickly. So, going 
+back to one of my earlier thoughts. Imagine if every one of these buses in 
+Lagos was part of the mesh network. When I went this morning to Larry Brilliant 
+' s TEDTalk prize — his fabulous networks — imagine if there was an open-source 
+mesh communications device that can be put into those networks, to make all 
+that happen. And we can be doing it if we could just get over the fact that 
+this little slice of things is going to be for free. We could make billions of 
+dollars on top of it, but this one particular slice of communications needs to 
+be open source. So, let ' s take control of this nightmare: implement a gas tax 
+immediately; transition across the nation to road-tolling with this wireless 
+mesh; require that the mesh be open to all, with open standards; and, of 
+course, use mesh networks. Thank you. 
 
 Lemmas in this text that loaded on the factor:
 

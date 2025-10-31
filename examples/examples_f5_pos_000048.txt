@@ -65,9 +65,9 @@ got to reinvent the **sanitation** infrastructure, and I ' m going to argue
 that to do this, you have to employ systems thinking. We have to look at the 
 whole **sanitation** chain. We start with a human interface, and then we have 
 to think about how feces are collected and stored, transported, treated and 
-reused — and not just disposal but reuse. So let ' s start with the human 
-user interface. I say, it doesn ' t matter if you ' re a washer or a wiper, a 
-sitter or a squatter, the human user interface should be clean and easy to use, 
+reused — and not just disposal but reuse. So let ' s start with the human user 
+interface. I say, it doesn ' t matter if you ' re a washer or a wiper, a sitter 
+or a squatter, the human user interface should be clean and easy to use, 
 because after all, taking a dump should be pleasurable. And when we open the 
 possibilities to understanding this **sanitation** chain, then the back-end 
 technology, the collection to the reuse, should not really matter, and then we 

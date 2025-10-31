@@ -92,30 +92,30 @@ Hollywood films and remastering them, and two art historians, and we went over
 to England, put on some gloves and archived and digitized all of that film. So 
 that produced two million high-resolution images that my group is now working 
 on analyzing and processing for comparing with contemporary conditions in the 
-ice sheet. And, actually, that scanner — I found out about it from an 
-archivist at the Academy of Motion Picture Arts and Sciences. So I ' d like to 
-thank the Academy — for making this possible. And as amazing as it is that we 
-can look at what was happening under the ice sheet 50 years ago, this is still 
-just one more snapshot. It doesn ' t give us observations of the variation at 
-the annual or seasonal scale, that we know matters. There ' s some progress 
-here, too. There are these recent ground-based **radar** systems that stay in 
-one spot. So you take these **radars** and put them on the ice sheet and you 
-bury a cache of car batteries. And you leave them out there for months or years 
-at a time, and they send a pulse down into the ice sheet every so many minutes 
-or hours. So this gives you continuous observation in time — but at one spot. 
-So if you compare that imaging to the 2-D pictures provided by the airplane, 
-this is just one vertical line. And this is pretty much where we are as a field 
-right now. We can choose between good spatial coverage with airborne **radar** 
-sounding and good temporal coverage in one spot with ground-based sounding. But 
-neither gives us what we really want: both at the same time. And if we ' re 
-going to do that, we ' re going to need totally new ways of observing the ice 
-sheet. And ideally, those should be extremely low-cost so that we can take lots 
-of measurements from lots of sensors. Well, for existing **radar** systems, the 
+ice sheet. And, actually, that scanner — I found out about it from an archivist 
+at the Academy of Motion Picture Arts and Sciences. So I ' d like to thank the 
+Academy — for making this possible. And as amazing as it is that we can look at 
+what was happening under the ice sheet 50 years ago, this is still just one 
+more snapshot. It doesn ' t give us observations of the variation at the annual 
+or seasonal scale, that we know matters. There ' s some progress here, too. 
+There are these recent ground-based **radar** systems that stay in one spot. So 
+you take these **radars** and put them on the ice sheet and you bury a cache of 
+car batteries. And you leave them out there for months or years at a time, and 
+they send a pulse down into the ice sheet every so many minutes or hours. So 
+this gives you continuous observation in time — but at one spot. So if you 
+compare that imaging to the 2-D pictures provided by the airplane, this is just 
+one vertical line. And this is pretty much where we are as a field right now. 
+We can choose between good spatial coverage with airborne **radar** sounding 
+and good temporal coverage in one spot with ground-based sounding. But neither 
+gives us what we really want: both at the same time. And if we ' re going to do 
+that, we ' re going to need totally new ways of observing the ice sheet. And 
+ideally, those should be extremely low-cost so that we can take lots of 
+measurements from lots of sensors. Well, for existing **radar** systems, the 
 biggest driver of cost is the power required to transmit the **radar** signal 
-itself. So it—d be great if we were able to use existing radio systems or 
-radio signals that are in the environment. And fortunately, the entire field of 
-radio astronomy is built on the fact that there are bright radio signals in the 
-sky. And a really bright one is our sun. So, actually, one of the most exciting 
+itself. So it—d be great if we were able to use existing radio systems or radio 
+signals that are in the environment. And fortunately, the entire field of radio 
+astronomy is built on the fact that there are bright radio signals in the sky. 
+And a really bright one is our sun. So, actually, one of the most exciting 
 things my group is doing right now is trying to use the radio emissions from 
 the sun as a type of **radar** signal. This is one of our field tests at Big 
 Sur. That PVC pipe ziggurat is an antenna stand some undergrads in my lab 
@@ -140,18 +140,18 @@ engineers over the course of years at national facilities with expensive
 specialized equipment. But the recent developments in software-defined radio, 
 rapid fabrication and the maker movement, make it so that it ' s possible for a 
 team of teenagers working in my lab over the course of a handful of months to 
-build a prototype **radar** . OK, they ' re not any teenagers, they—re 
-Stanford undergrads, but the point holds — that these enabling technologies 
-are letting us break down the barrier between engineers who build instruments 
-and scientists that use them. And by teaching engineering students to think 
-like earth scientists and earth-science students who can think like engineers, 
-my lab is building an environment in which we can build custom **radar** 
-sensors for each problem at hand, that are optimized for low cost and high 
-performance for that problem. And that ' s going to totally change the way we 
-observe ice sheets. Look, the sea level problem and the role of the cryosphere 
-in sea level rise is extremely important and will affect the entire world. But 
-that is not why I work on it. I work on it for the opportunity to teach and 
-mentor extremely brilliant students, because I deeply believe that teams of 
+build a prototype **radar** . OK, they ' re not any teenagers, they—re Stanford 
+undergrads, but the point holds — that these enabling technologies are letting 
+us break down the barrier between engineers who build instruments and 
+scientists that use them. And by teaching engineering students to think like 
+earth scientists and earth-science students who can think like engineers, my 
+lab is building an environment in which we can build custom **radar** sensors 
+for each problem at hand, that are optimized for low cost and high performance 
+for that problem. And that ' s going to totally change the way we observe ice 
+sheets. Look, the sea level problem and the role of the cryosphere in sea level 
+rise is extremely important and will affect the entire world. But that is not 
+why I work on it. I work on it for the opportunity to teach and mentor 
+extremely brilliant students, because I deeply believe that teams of 
 hypertalented, hyperdriven, hyperpassionate young people can solve most of the 
 challenges facing the world, and that providing the observations required to 
 estimate sea level rise is just one of the many such problems they can and will 

@@ -27,8 +27,8 @@ software **developer** . You had to understand, speak and interpret the highly
 complex, sometimes nonsensical language of a machine that we call code. Modern 
 code still looks like hieroglyphics to most people. Here ' s an example. This, 
 from the early 1940s, is the world ' s first computer programming language, 
-called Plankalkül. It set the foundation for the modern code that we use 
-today. And as you can see, it ' s a few numbers, some bubbles and some big-ass 
+called Plankalkül. It set the foundation for the modern code that we use today. 
+And as you can see, it ' s a few numbers, some bubbles and some big-ass 
 brackets. Not much humanity here, right? Flash forward about 20 years to the 
 programming language called COBOL. COBOL was invented during the Eisenhower 
 years, but it remains an important language for many of our largest financial 

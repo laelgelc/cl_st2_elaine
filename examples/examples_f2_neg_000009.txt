@@ -20,17 +20,17 @@ air-conditioning. Energy in the form of heat keeps us warm. And energy in
 chemical form provides fertilizer; it drives farm machinery and transportation 
 energy. Now, I spent 10 years working at NASA. In the beginning of my time 
 there in 2000 , I was very interested in communities. But this is the kind of 
-community I was thinking of — a lunar community It had all of the same needs 
-as a community on Earth would have, but it had some very unique constraints. 
-And we had to think about how we would provide energy for this very unique 
+community I was thinking of — a lunar community It had all of the same needs as 
+a community on Earth would have, but it had some very unique constraints. And 
+we had to think about how we would provide energy for this very unique 
 community. There—s no coal on the Moon. There ' s no petroleum. There—s no 
-natural gas. There ' s no atmosphere. There—s no wind, either. And solar 
-power had a real problem: the Moon orbits the Earth once a month. For two 
-weeks, the sun goes down, and your solar panels don ' t make any energy. If you 
-want to try to store enough energy in batteries for two weeks, it just simply 
-isn ' t practical. So nuclear energy was really the only choice. Now, back in 
-2000 , I didn ' t really know too much about nuclear power, so I started trying 
-to learn. Almost all of the nuclear power we use on Earth today uses water as a 
+natural gas. There ' s no atmosphere. There—s no wind, either. And solar power 
+had a real problem: the Moon orbits the Earth once a month. For two weeks, the 
+sun goes down, and your solar panels don ' t make any energy. If you want to 
+try to store enough energy in batteries for two weeks, it just simply isn ' t 
+practical. So nuclear energy was really the only choice. Now, back in 2000 , I 
+didn ' t really know too much about nuclear power, so I started trying to 
+learn. Almost all of the nuclear power we use on Earth today uses water as a 
 basic coolant. This has some advantages, but it has a lot of disadvantages. If 
 you want to generate electricity, you have to get the water a lot hotter than 
 you normally can. At normal pressures, water will boil at 100 degrees Celsius. 

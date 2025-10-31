@@ -83,7 +83,7 @@ and transparency to the public when they can, because it ' s important for the
 public to understand how many cases there are, where the disease is, if you ' 
 re going to get compliance from the public. DB: So testing, **contact** 
 **tracing** and isolation. That doesn ' t seem like rocket science, to use that 
-old cliché. Why has that been hard for some countries to implement? What ' s 
+old cliché . Why has that been hard for some countries to implement? What ' s 
 holding us back, is it electronic medical records, is it some fancy doodad, or 
 is it just maybe overconfidence, based on maybe the public health successes of 
 the last 100 years? GB: You know, we are very much a pill society. We think 

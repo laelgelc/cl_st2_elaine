@@ -67,13 +67,13 @@ some work and found out that even though there ' s 80 % coverage of water
 points, 40 % are not working. See, this issue is. . . A lot of donors and 
 projects end up focusing on the hardware side of the issue and not really 
 realizing the importance of the software side of things. At first it ' s like, 
-software — of course you have to do maintenance. But when you think about it 
-as people donating to charities, it makes you feel a lot better if you know 
-that your money went to something tangible, something like a well, something 
-like a school, something like giving a family a goat. It ' s not as sexy and 
-easy to tell your friends about how you helped fund a water committee or paid 
-for teacher salaries. So when I say that this picture of Inook is a lie, it ' s 
-not a lie when the picture is taken. It only becomes a lie a year or two 
+software — of course you have to do maintenance. But when you think about it as 
+people donating to charities, it makes you feel a lot better if you know that 
+your money went to something tangible, something like a well, something like a 
+school, something like giving a family a goat. It ' s not as sexy and easy to 
+tell your friends about how you helped fund a water committee or paid for 
+teacher salaries. So when I say that this picture of Inook is a lie, it ' s not 
+a lie when the picture is taken. It only becomes a lie a year or two 
 afterwards. When looking at these pictures, one of my great colleagues said, " 
 Everything people see from Africa doesn ' t matter. And everything that matters 
 from Africa, people don ' t get to see. " And this problem goes a lot further 
@@ -96,11 +96,11 @@ t adapt and change quite as fast as the private **sector** , but at the end of
 the day, if the elected government doesn ' t meet the needs of its 
 constituents, they have a chance to vote them out of power, therefore holding 
 them accountable. But in the development **sector** , if they don ' t serve the 
-needs of their beneficiaries — and they ' re not just NGOs, but governments 
-and businesses as well — the beneficiaries have no power to vote them out or 
-to fire them. The people who have that power are the donors. And when you look 
-at the system, you can see some of the challenges. Development is the 
-**sector** that focuses more on pleasing the donors and making them happy and 
+needs of their beneficiaries — and they ' re not just NGOs, but governments and 
+businesses as well — the beneficiaries have no power to vote them out or to 
+fire them. The people who have that power are the donors. And when you look at 
+the system, you can see some of the challenges. Development is the **sector** 
+that focuses more on pleasing the donors and making them happy and 
 communicating to them, as opposed to understanding the needs of the 
 beneficiaries. Because of that, systematic challenge is very slow to innovate, 
 there ' s very little change, and you get exactly the same project built ten 
@@ -115,16 +115,16 @@ in businesses and governments in Africa, but it ' s still going to take a long
 time for the problems to be fixed. Therefore, that leaves us with one option 
 and we need to work with this system. Therefore, we have to fix it. We need to 
 make it more accountable, more creative and more transparent. We need to start 
-innovating, coming up with really neat ideas — ideas like giving 
-beneficiaries a chance to rate their projects using their mobile phones — 
-that donors and NGOs can understand. Or moving our donors closer to our 
-beneficiaries. Currently, only 20 % of the Canadian International Development 
-Agency ' s African staff are based in Africa. Ideas like funding development 
-**sectors** like VCs fund businesses: What would it be like if a donor funded 
-ten projects and expected four of them to do OK, one of them to do fantastic 
-and five of them to fail? And not all of the solutions need to be that complex. 
-Engineers Without Borders is working on one that ' s actually quite simple; it 
-' s admitting failure. My first project with Engineers Without Borders was in 
+innovating, coming up with really neat ideas — ideas like giving beneficiaries 
+a chance to rate their projects using their mobile phones — that donors and 
+NGOs can understand. Or moving our donors closer to our beneficiaries. 
+Currently, only 20 % of the Canadian International Development Agency ' s 
+African staff are based in Africa. Ideas like funding development **sectors** 
+like VCs fund businesses: What would it be like if a donor funded ten projects 
+and expected four of them to do OK, one of them to do fantastic and five of 
+them to fail? And not all of the solutions need to be that complex. Engineers 
+Without Borders is working on one that ' s actually quite simple; it ' s 
+admitting failure. My first project with Engineers Without Borders was in 
 India. I worked with a bunch of schools, the poorest schools in India, the 
 untouchable caste. This is Bani, she was a girl who was in one of those schools 
 and she and her classmates had to spend two to three hours a day walking to 
@@ -145,9 +145,9 @@ schedule put in place. I had made the exact same mistake that I criticized
 earlier. When I thought of my friends and family back home who thought I was 
 such a hero, I felt like an impostor. I thought of Bani, I didn ' t help her at 
 all. Admitting failure is actually quite hard, and I didn ' t tell many people 
-about this. And one of the only things that helped me feel better about this 
-— and it ' s a bit of a shame to say this — was that I started to learn 
-that other people in Engineers Without Borders had failed, too. But Engineers 
+about this. And one of the only things that helped me feel better about this — 
+and it ' s a bit of a shame to say this — was that I started to learn that 
+other people in Engineers Without Borders had failed, too. But Engineers 
 Without Borders has this culture of embracing failure openly and letting us 
 talk about it. And it was only through a bunch of us talking about failure that 
 we really got to see we ' re making a lot of mistakes, and we ' re making the 

@@ -17,17 +17,17 @@ conventional because they ' ve got plastic, they ' ve got metal, they ' ve got
 motors and gears and so on. Some of them look quite friendly, and you could go 
 up and you could hug them. Some of them not so friendly, they look like they ' 
 re straight out of " Terminator, " in fact they may well be straight out of " 
-Terminator. " You can do lots of really cool things with these robots — you 
-can do really exciting stuff. But I ' d like to look at different kinds of 
-robots — I want to make different kinds of robots. And I take inspiration 
-from the things that don ' t look like us, but look like these. So these are 
-natural biological **organisms** and they do some really cool things that we 
-can ' t, and current robots can ' t either. They do all sorts of great things 
-like moving around on the floor; they go into our gardens and they eat our 
-crops; they climb trees; they go in water, they come out of water; they trap 
-insects and digest them. So they do really interesting things. They live, they 
-breathe, they die, they eat things from the environment. Our current robots don 
-' t really do that. Now, wouldn ' t it be great if you could use some of those 
+Terminator. " You can do lots of really cool things with these robots — you can 
+do really exciting stuff. But I ' d like to look at different kinds of robots — 
+I want to make different kinds of robots. And I take inspiration from the 
+things that don ' t look like us, but look like these. So these are natural 
+biological **organisms** and they do some really cool things that we can ' t, 
+and current robots can ' t either. They do all sorts of great things like 
+moving around on the floor; they go into our gardens and they eat our crops; 
+they climb trees; they go in water, they come out of water; they trap insects 
+and digest them. So they do really interesting things. They live, they breathe, 
+they die, they eat things from the environment. Our current robots don ' t 
+really do that. Now, wouldn ' t it be great if you could use some of those 
 characteristics in future robots so that you could solve some really 
 interesting problems? I ' m going to look at a couple of problems now in the 
 environment where we can use the skills and the technologies derived from these 
@@ -79,22 +79,22 @@ Google is wrong; robots don ' t look like that, they look like this. So I ' ve
 got the Row-bot here. I ' ll just hold it up for you. It gives you a sense of 
 the scale, and it doesn ' t look anything like the others. OK, so it ' s made 
 out of plastic, and we ' ll have a look now at the components that make up the 
-Row-bot — what makes it really special. The Row-bot is made up of three 
-parts, and those three parts are really like the parts of any **organism** . It 
-' s got a brain, it ' s got a body and it ' s got a stomach. It needs the 
-stomach to create the energy. Any Row-bot will have those three components, and 
-any **organism** will have those three components, so let ' s go through them 
-one at a time. It has a body, and its body is made out of plastic, and it sits 
-on top of the water. And it ' s got flippers on the side here — paddles that 
-help it move, just like the water boatman. It ' s got a plastic body, but it ' 
-s got a soft rubber mouth here, and a mouth here — it ' s got two mouths. Why 
-does it have two mouths? One is to let the food go in and the other is to let 
-the food go out. So you can see really it ' s got a mouth and a derriere, or a 
-— something where the stuff comes out, which is just like a real **organism** 
-. So it ' s starting to look like that basking **shark** . So that ' s the 
-body. The second component might be the stomach. We need to get the energy into 
-the robot and we need to treat the **pollution** , so the **pollution** goes 
-in, and it will do something. It ' s got a cell in the middle here called a 
+Row-bot — what makes it really special. The Row-bot is made up of three parts, 
+and those three parts are really like the parts of any **organism** . It ' s 
+got a brain, it ' s got a body and it ' s got a stomach. It needs the stomach 
+to create the energy. Any Row-bot will have those three components, and any 
+**organism** will have those three components, so let ' s go through them one 
+at a time. It has a body, and its body is made out of plastic, and it sits on 
+top of the water. And it ' s got flippers on the side here — paddles that help 
+it move, just like the water boatman. It ' s got a plastic body, but it ' s got 
+a soft rubber mouth here, and a mouth here — it ' s got two mouths. Why does it 
+have two mouths? One is to let the food go in and the other is to let the food 
+go out. So you can see really it ' s got a mouth and a derriere, or a — 
+something where the stuff comes out, which is just like a real **organism** . 
+So it ' s starting to look like that basking **shark** . So that ' s the body. 
+The second component might be the stomach. We need to get the energy into the 
+robot and we need to treat the **pollution** , so the **pollution** goes in, 
+and it will do something. It ' s got a cell in the middle here called a 
 microbial fuel cell. I ' ll put this down, and I ' ll lift up the fuel cell. 
 Here. So instead of having batteries, instead of having a conventional power 
 system, it ' s got one of these. This is its stomach. And it really is a 
@@ -108,8 +108,8 @@ missions. That ' s from 40 , 50 years ago. This is slightly newer. This is a
 microbial fuel cell. It ' s the same principle: it ' s got oxygen on one side, 
 but instead of having hydrogen on the other, it ' s got some soup, and inside 
 that soup there are living microbes. Now, if you take some organic material — 
-could be some waste products, some food, maybe a bit of your sandwich — you 
-put it in there, the microbes will eat that food, and they will turn it into 
+could be some waste products, some food, maybe a bit of your sandwich — you put 
+it in there, the microbes will eat that food, and they will turn it into 
 electricity. Not only that, but if you select the right kind of microbes, you 
 can use the microbial fuel cell to treat some of the **pollution** . If you 
 choose the right microbes, the microbes will eat the algae. If you use other 
@@ -187,18 +187,18 @@ why not make something like this? A robot gummy bear. Here, I ' ve got some I
 prepared earlier. There we go. I ' ve got a packet — and I ' ve got a 
 lemon-flavored one. I ' ll take this gummy bear — he ' s not robotic, OK? We 
 have to pretend. And what you do with one of these is you put it in your mouth 
-— the lemon ' s quite nice. Try not to chew it too much, it ' s a robot, it 
-may not like it. And then you swallow it. And then it goes into your stomach. 
-And when it ' s inside your stomach, it moves, it thinks, it twists, it bends, 
-it does something. It could go further down into your intestines, find out 
-whether you ' ve got some ulcer or cancer, maybe do an injection, something 
-like that. You know that once it ' s done its job of work, it could be consumed 
-by your stomach, or if you don ' t want that, it could go straight through you, 
-into the toilet, and be degraded safely in the environment. So this changes the 
-way, again, in which we think about robots. So, we started off looking at 
-robots that would eat **pollution** , and then we ' re looking at robots which 
-we can eat. I hope this gives you some idea of the kinds of things we can do 
-with future robots. Thank you very much for your attention. 
+— the lemon ' s quite nice. Try not to chew it too much, it ' s a robot, it may 
+not like it. And then you swallow it. And then it goes into your stomach. And 
+when it ' s inside your stomach, it moves, it thinks, it twists, it bends, it 
+does something. It could go further down into your intestines, find out whether 
+you ' ve got some ulcer or cancer, maybe do an injection, something like that. 
+You know that once it ' s done its job of work, it could be consumed by your 
+stomach, or if you don ' t want that, it could go straight through you, into 
+the toilet, and be degraded safely in the environment. So this changes the way, 
+again, in which we think about robots. So, we started off looking at robots 
+that would eat **pollution** , and then we ' re looking at robots which we can 
+eat. I hope this gives you some idea of the kinds of things we can do with 
+future robots. Thank you very much for your attention. 
 
 Lemmas in this text that loaded on the factor:
 

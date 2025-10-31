@@ -23,14 +23,14 @@ it ' s a bit more complicated. Vijaya Ramachandran: I don ' t think it ' s fair
 to poor countries to say you have to be renewable only, when the rich countries 
 are doubling down on oil, coal and gas. HL: We need to debate. We need we need 
 that exchange. We need to understand each other ' s views and to start with the 
-concept of the dilemma that we ' re facing. Zoë Knight: In my mind, the 
-biggest obstacle is the speed of collaboration. We speak at cross-purposes with 
-each other. Mary Robinson: We ' ve got to deal with this much more quickly than 
-we ' re doing. How do we raise the temperature? How do we increase the energy 
-for action, the passion for action, the heartfelt need for action which will 
-move us? [ TED Countdown ] [ Dilemma Series ] [ How do we move from fossil 
-fuels to clean energy quickly and fairly? ] Lindsay Levin: We ' re standing at 
-a crucial crossroads in history. We live in a world where our energy system is 
+concept of the dilemma that we ' re facing. Zoë Knight: In my mind, the biggest 
+obstacle is the speed of collaboration. We speak at cross-purposes with each 
+other. Mary Robinson: We ' ve got to deal with this much more quickly than we ' 
+re doing. How do we raise the temperature? How do we increase the energy for 
+action, the passion for action, the heartfelt need for action which will move 
+us? [ TED Countdown ] [ Dilemma Series ] [ How do we move from fossil fuels to 
+clean energy quickly and fairly? ] Lindsay Levin: We ' re standing at a crucial 
+crossroads in history. We live in a world where our energy system is 
 overwhelmingly dependent on burning fossil fuels. What are the viable pathways 
 to a clean and safe future, and how do we collectively navigate this 
 transition? I ' m Lindsay Levin, co-founder of Countdown, and this is the 
@@ -351,10 +351,10 @@ build a continent-sized grid. In China, the bulk of energy **demand** is on the
 East Coast, yet the greatest solar resources and wind resources are in the 
 interior. And China is building literally scores of high-voltage power lines 
 that transmit power from where the sun and wind are to the coasts, where the 
-energy **demand** is. And the longest of these lines right now, that Ürümqi 
-to Shanghai line, is 3 , 400 kilometers long. It is 90 percent efficient, very 
-low losses, and it adds maybe a penny or two to the cost of electricity. That ' 
-s what ' s technically feasible with current technology, let alone advances. In 
+energy **demand** is. And the longest of these lines right now, that Ürümqi to 
+Shanghai line, is 3 , 400 kilometers long. It is 90 percent efficient, very low 
+losses, and it adds maybe a penny or two to the cost of electricity. That ' s 
+what ' s technically feasible with current technology, let alone advances. In 
 Europe, that would allow us to transmit electricity from Seville to Copenhagen. 
 To bring power from the North Sea to anywhere in the continent that needs it. 
 In my home country, the United States, we could bring power from the sunny, 

@@ -19,10 +19,10 @@ a lot like **plastics** during their use, but are made from crop waste and are
 totally compostable at the end of their lives. But first, I need to talk to you 
 about what I consider one of the most egregious offenders in the disposable 
 **plastics** category. This is a material you all know is Styrofoam, but I like 
-to think of it as toxic white stuff. In a single cubic foot of this material 
-— about what would come around your computer or large television — you have 
-the same energy content of about a liter and a half of petrol. Yet, after just 
-a few weeks of use, you ' ll throw this material in the trash. And this isn ' t 
+to think of it as toxic white stuff. In a single cubic foot of this material — 
+about what would come around your computer or large television — you have the 
+same energy content of about a liter and a half of petrol. Yet, after just a 
+few weeks of use, you ' ll throw this material in the trash. And this isn ' t 
 just found in packaging. 20 billion dollars of this material is produced every 
 year, in everything from building materials to surfboards to coffee cups to 
 table tops. And that ' s not the only place it ' s found. The EPA estimates, in 
@@ -53,8 +53,8 @@ you fit into it, and a hundred years tops, my body can return to the Earth with
 no preprocessing. Yet that packaging I got in the mail yesterday is going to 
 last for thousands of years. This is crazy. But nature provides us with a 
 really good model here. When a tree ' s done using its leaves — its solar 
-collectors, these amazing molecular photon capturing devices — at the end of 
-a season, it doesn ' t pack them up, take them to the leaf reprocessing center 
+collectors, these amazing molecular photon capturing devices — at the end of a 
+season, it doesn ' t pack them up, take them to the leaf reprocessing center 
 and have them melted down to form new leaves. It just drops them, the shortest 
 distance possible, to the forest floor, where they ' re actually upcycled into 
 next year ' s topsoil. And this gets us back to the mushrooms. Because in 
@@ -63,40 +63,40 @@ using a part of the mushroom you ' ve probably never seen — analogous to its
 root structure; it ' s called mycelium — we can actually grow materials with 
 many of the same properties of conventional synthetics. Now, mycelium is an 
 amazing material, because it ' s a self-assembling material. It actually takes 
-things we would consider waste — things like seed husks or woody biomass — 
-and can transform them into a chitinous polymer, which you can form into almost 
-any shape. In our process, we basically use it as a glue. And by using mycelium 
-as a glue, you can mold things just like you do in the **plastic** industry, 
-and you can create materials with many different properties, materials that are 
+things we would consider waste — things like seed husks or woody biomass — and 
+can transform them into a chitinous polymer, which you can form into almost any 
+shape. In our process, we basically use it as a glue. And by using mycelium as 
+a glue, you can mold things just like you do in the **plastic** industry, and 
+you can create materials with many different properties, materials that are 
 insulating, fire-resistant, moisture-resistant, vapor- resistant — materials 
 that can absorb impacts, that can absorb acoustical impacts. But these 
 materials are grown from agricultural byproducts, not petroleum. And because 
 they ' re made of natural materials, they are 100 percent compostable in you 
 own backyard. So I ' d like to share with you the four basic steps required to 
 make these materials. The first is selecting a feedstock, preferably something 
-that ' s regional, that ' s in your area, right — local manufacturing. The 
-next is actually taking this feedstock and putting in a tool, physically 
-filling an enclosure, a mold, in whatever shape you want to get. Then you 
-actually grow the mycelium through these particles, and that ' s where the 
-magic happens, because the organism is doing the work in this process, not the 
-equipment. The final step is, of course, the product, whether it ' s a 
-packaging material, a table top, or building block. Our vision is local 
-manufacturing, like the local food movement, for production. So we ' ve created 
-formulations for all around the world using regional byproducts. If you ' re in 
-China, you might use a rice husk or a cottonseed hull. If you ' re in Northern 
-Europe or North America, you can use things like buckwheat husks or oat hulls. 
-We then process these husks with some basic equipment. And I want to share with 
-you a quick video from our facility that gives you a sense of how this looks at 
-scale. So what you ' re seeing here is actually cotton hulls from Texas, in 
-this case. It ' s a waste product. And what they ' re doing in our equipment is 
-going through a continuous system, which cleans, cooks, cools and pasteurizes 
-these materials, while also continuously inoculating them with our mycelium. 
-This gives us a continuous stream of material that we can put into almost any 
-shape, though today we ' re making corner blocks. And it ' s when this lid goes 
-on the part, that the magic really starts. Because the manufacturing process is 
-our organism. It ' ll actually begin to digest these wastes and, over the next 
-five days, assemble them into biocomposites. Our entire facility is comprised 
-of thousands and thousands and thousands of these tools sitting indoors in the 
+that ' s regional, that ' s in your area, right — local manufacturing. The next 
+is actually taking this feedstock and putting in a tool, physically filling an 
+enclosure, a mold, in whatever shape you want to get. Then you actually grow 
+the mycelium through these particles, and that ' s where the magic happens, 
+because the organism is doing the work in this process, not the equipment. The 
+final step is, of course, the product, whether it ' s a packaging material, a 
+table top, or building block. Our vision is local manufacturing, like the local 
+food movement, for production. So we ' ve created formulations for all around 
+the world using regional byproducts. If you ' re in China, you might use a rice 
+husk or a cottonseed hull. If you ' re in Northern Europe or North America, you 
+can use things like buckwheat husks or oat hulls. We then process these husks 
+with some basic equipment. And I want to share with you a quick video from our 
+facility that gives you a sense of how this looks at scale. So what you ' re 
+seeing here is actually cotton hulls from Texas, in this case. It ' s a waste 
+product. And what they ' re doing in our equipment is going through a 
+continuous system, which cleans, cooks, cools and pasteurizes these materials, 
+while also continuously inoculating them with our mycelium. This gives us a 
+continuous stream of material that we can put into almost any shape, though 
+today we ' re making corner blocks. And it ' s when this lid goes on the part, 
+that the magic really starts. Because the manufacturing process is our 
+organism. It ' ll actually begin to digest these wastes and, over the next five 
+days, assemble them into biocomposites. Our entire facility is comprised of 
+thousands and thousands and thousands of these tools sitting indoors in the 
 dark, quietly self-assembling materials — and everything from building 
 materials to, in this case, a packaging corner block. So I ' ve said a number 
 of times that we grow materials. And it ' s kind of hard to picture how that 

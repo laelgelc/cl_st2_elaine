@@ -20,19 +20,19 @@ compostable at the end of their lives. But first, I need to talk to you about
 what I consider one of the most egregious offenders in the disposable plastics 
 category. This is a material you all know is Styrofoam, but I like to think of 
 it as toxic white stuff. In a single cubic foot of this material — about what 
-would come around your computer or large television — you have the same 
-energy content of about a liter and a half of petrol. Yet, after just a few 
-weeks of use, you ' ll throw this material in the trash. And this isn ' t just 
-found in packaging. 20 billion dollars of this material is produced every year, 
-in everything from building materials to surfboards to coffee cups to table 
-tops. And that ' s not the only place it ' s found. The EPA estimates, in the 
-United States, by volume, this material occupies 25 percent of our landfills. 
-Even worse is when it finds its way into our natural environment — on the 
-side of the road or next to a river. If it ' s not picked up by a human, like 
-me and you, it ' ll stay there for thousands and thousands of years. Perhaps 
-even worse is when it finds its way into our oceans, like in the great plastic 
-gyre, where these materials are being mechanically broken into smaller and 
-smaller bits, but they ' re not really going away. They ' re not biologically 
+would come around your computer or large television — you have the same energy 
+content of about a liter and a half of petrol. Yet, after just a few weeks of 
+use, you ' ll throw this material in the trash. And this isn ' t just found in 
+packaging. 20 billion dollars of this material is produced every year, in 
+everything from building materials to surfboards to coffee cups to table tops. 
+And that ' s not the only place it ' s found. The EPA estimates, in the United 
+States, by volume, this material occupies 25 percent of our landfills. Even 
+worse is when it finds its way into our natural environment — on the side of 
+the road or next to a river. If it ' s not picked up by a human, like me and 
+you, it ' ll stay there for thousands and thousands of years. Perhaps even 
+worse is when it finds its way into our oceans, like in the great plastic gyre, 
+where these materials are being mechanically broken into smaller and smaller 
+bits, but they ' re not really going away. They ' re not biologically 
 compatible. They ' re basically fouling up Earth ' s respiratory and 
 circulatory systems. And because these materials are so prolific, because they 
 ' re found in so many places, there ' s one other place you ' ll find this 
@@ -53,8 +53,8 @@ you fit into it, and a hundred years tops, my body can return to the Earth with
 no preprocessing. Yet that packaging I got in the mail yesterday is going to 
 last for thousands of years. This is crazy. But nature provides us with a 
 really good model here. When a tree ' s done using its leaves — its solar 
-collectors, these amazing molecular photon capturing devices — at the end of 
-a season, it doesn ' t pack them up, take them to the leaf reprocessing center 
+collectors, these amazing molecular photon capturing devices — at the end of a 
+season, it doesn ' t pack them up, take them to the leaf reprocessing center 
 and have them melted down to form new leaves. It just drops them, the shortest 
 distance possible, to the forest floor, where they ' re actually upcycled into 
 next year ' s topsoil. And this gets us back to the mushrooms. Because in 
@@ -63,11 +63,11 @@ using a part of the mushroom you ' ve probably never seen — analogous to its
 root structure; it ' s called **mycelium** — we can actually grow materials 
 with many of the same properties of conventional synthetics. Now, **mycelium** 
 is an amazing material, because it ' s a self-assembling material. It actually 
-takes things we would consider waste — things like seed husks or woody 
-biomass — and can transform them into a chitinous polymer, which you can form 
-into almost any shape. In our process, we basically use it as a glue. And by 
-using **mycelium** as a glue, you can mold things just like you do in the 
-plastic industry, and you can create materials with many different properties, 
+takes things we would consider waste — things like seed husks or woody biomass 
+— and can transform them into a chitinous polymer, which you can form into 
+almost any shape. In our process, we basically use it as a glue. And by using 
+**mycelium** as a glue, you can mold things just like you do in the plastic 
+industry, and you can create materials with many different properties, 
 materials that are insulating, fire-resistant, moisture-resistant, vapor- 
 resistant — materials that can absorb impacts, that can absorb acoustical 
 impacts. But these materials are grown from agricultural byproducts, not 

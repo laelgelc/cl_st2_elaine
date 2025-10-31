@@ -85,68 +85,67 @@ coelicolor directly onto **silk** . You can see how each colony produces
 pigment around its own territory. Now, if you add many, many cells, they 
 generate enough dyestuff to saturate the entire cloth. Now, the magical thing 
 about dyeing textiles in this way — this sort of direct fermentation when you 
-add the **bacteria** directly onto the **silk** — is that to dye one t- 
-shirt, the **bacteria** survive on just 200 milliliters of water. And you can 
-see how this process generates very little runoff and produces a colorfast 
-pigment without the use of any chemicals. So now you ' re thinking — and you 
-' re thinking right — an inherent problem associated with designing with a 
-living system is: How do you guide a medium that has a life force of its own? 
-Well, once you ' ve established the baseline for cultivating Streptomyces so 
-that it consistently produces enough pigment, you can turn to twisting, 
-folding, clamping, dipping, spraying, submerging — all of these begin to 
-inform the aesthetics of coelicolor ' s activity. And using them in a 
-systematic way enables us to be able to generate an organic pattern. . . a 
-uniform dye. . . and even a graphic print. Another problem is how to **scale** 
-these artisanal methods of making so that we can start to use them in industry. 
-When we talk about **scale** , we consider two things in parallel: **scaling** 
-the biology, and then **scaling** the tools and the processes required to work 
-with the biology. If we can do this, then we can move what happens on a petri 
-dish so that it can meet the human **scale** , and then hopefully the 
-architecture of our environments. If Fleming were alive today, this would 
-definitely be a part of his toolkit. You ' re looking at our current best guess 
-of how to **scale** biology. It ' s a bioreactor; a kind of microorganism 
-brewery that contains yeasts that have been engineered to produce specific 
-commodity chemicals and compounds like fragrances and flavors. It ' s actually 
-connected to a suite of automated hardware and software that read in real time 
-and feed back to a design team the growth conditions of the microbe. So we can 
-use this system to model the growth characteristics of an organism like 
-coelicolor to see how it would ferment at 50 , 000 liters. I ' m currently 
-based at Ginkgo Bioworks, which is a biotechnology startup in Boston. I am 
-working to see how their platform for **scaling** biology interfaces with my 
-artisanal methods of designing with **bacteria** for textiles. We ' re doing 
-things like engineering Streptomyces coelicolor to see if it can produce more 
-pigment. And we ' re even looking at the tools for synthetic biology. Tools 
-that have been designed specifically to automate synthetic biology to see how 
-they could adapt to become tools to print and dye textiles. I ' m also 
-leveraging digital fabrication, because the tools that I need to work with 
-Streptomyces coelicolor don ' t actually exist. So in this case — in the last 
-week actually, I ' ve just designed a petri dish that is engineered to produce 
-a bespoke print on a whole garment. We ' re making lots of kimonos. Here ' s 
-the exciting thing: I ' m not alone. There are others who are building capacity 
-in this field, like MycoWorks. MycoWorks is a startup that wants to replace 
-animal leather with **mushroom** leather, a versatile, high-performance 
-material that has applications beyond textiles and into product and 
-architecture. And Bolt Threads — they ' ve engineered a yeast to produce 
-spider-silk protein that can be spun into a highly programmable yarn. So think 
-water resistance, stretchability and superstrength. To reach economies of 
-**scale** , these kinds of startups are having to build and design and engineer 
-the infrastructure to work with biology. For example, Bolt Threads have had to 
-engage in some extreme biomimicry. To be able to spin the product this yeast 
-creates into a yarn, they ' ve engineered a yarn-making machine that mimics the 
-physiological conditions under which spiders ordinarily spin their own **silk** 
-. So you can start to see how imaginative and inspiring modes of making exist 
-in **nature** that we can use to build capacity around new bio-based 
-industries. What we now have is the technology to design, build, test and 
-**scale** these capabilities. At this present moment, as we face the ecological 
-crisis in front of us, what we have to do is to determine how we ' re going to 
-build these new material systems so that they don ' t mirror the damaging 
-legacies of the oil age. How we ' re going to distribute them to ensure a 
-sustainable development that is fair and equitable across the world. And 
-crucially, how we would like the regulatory and ethical frameworks that govern 
-these technologies to interact with our society. Biotechnology is going to 
-touch every part of our lived experience. It is living; it is digital; it is 
-designed, and it can be crafted. This is a material future that we must be bold 
-enough to shape. Thank you. 
+add the **bacteria** directly onto the **silk** — is that to dye one t- shirt, 
+the **bacteria** survive on just 200 milliliters of water. And you can see how 
+this process generates very little runoff and produces a colorfast pigment 
+without the use of any chemicals. So now you ' re thinking — and you ' re 
+thinking right — an inherent problem associated with designing with a living 
+system is: How do you guide a medium that has a life force of its own? Well, 
+once you ' ve established the baseline for cultivating Streptomyces so that it 
+consistently produces enough pigment, you can turn to twisting, folding, 
+clamping, dipping, spraying, submerging — all of these begin to inform the 
+aesthetics of coelicolor ' s activity. And using them in a systematic way 
+enables us to be able to generate an organic pattern. . . a uniform dye. . . 
+and even a graphic print. Another problem is how to **scale** these artisanal 
+methods of making so that we can start to use them in industry. When we talk 
+about **scale** , we consider two things in parallel: **scaling** the biology, 
+and then **scaling** the tools and the processes required to work with the 
+biology. If we can do this, then we can move what happens on a petri dish so 
+that it can meet the human **scale** , and then hopefully the architecture of 
+our environments. If Fleming were alive today, this would definitely be a part 
+of his toolkit. You ' re looking at our current best guess of how to **scale** 
+biology. It ' s a bioreactor; a kind of microorganism brewery that contains 
+yeasts that have been engineered to produce specific commodity chemicals and 
+compounds like fragrances and flavors. It ' s actually connected to a suite of 
+automated hardware and software that read in real time and feed back to a 
+design team the growth conditions of the microbe. So we can use this system to 
+model the growth characteristics of an organism like coelicolor to see how it 
+would ferment at 50 , 000 liters. I ' m currently based at Ginkgo Bioworks, 
+which is a biotechnology startup in Boston. I am working to see how their 
+platform for **scaling** biology interfaces with my artisanal methods of 
+designing with **bacteria** for textiles. We ' re doing things like engineering 
+Streptomyces coelicolor to see if it can produce more pigment. And we ' re even 
+looking at the tools for synthetic biology. Tools that have been designed 
+specifically to automate synthetic biology to see how they could adapt to 
+become tools to print and dye textiles. I ' m also leveraging digital 
+fabrication, because the tools that I need to work with Streptomyces coelicolor 
+don ' t actually exist. So in this case — in the last week actually, I ' ve 
+just designed a petri dish that is engineered to produce a bespoke print on a 
+whole garment. We ' re making lots of kimonos. Here ' s the exciting thing: I ' 
+m not alone. There are others who are building capacity in this field, like 
+MycoWorks. MycoWorks is a startup that wants to replace animal leather with 
+**mushroom** leather, a versatile, high-performance material that has 
+applications beyond textiles and into product and architecture. And Bolt 
+Threads — they ' ve engineered a yeast to produce spider-silk protein that can 
+be spun into a highly programmable yarn. So think water resistance, 
+stretchability and superstrength. To reach economies of **scale** , these kinds 
+of startups are having to build and design and engineer the infrastructure to 
+work with biology. For example, Bolt Threads have had to engage in some extreme 
+biomimicry. To be able to spin the product this yeast creates into a yarn, they 
+' ve engineered a yarn-making machine that mimics the physiological conditions 
+under which spiders ordinarily spin their own **silk** . So you can start to 
+see how imaginative and inspiring modes of making exist in **nature** that we 
+can use to build capacity around new bio-based industries. What we now have is 
+the technology to design, build, test and **scale** these capabilities. At this 
+present moment, as we face the ecological crisis in front of us, what we have 
+to do is to determine how we ' re going to build these new material systems so 
+that they don ' t mirror the damaging legacies of the oil age. How we ' re 
+going to distribute them to ensure a sustainable development that is fair and 
+equitable across the world. And crucially, how we would like the regulatory and 
+ethical frameworks that govern these technologies to interact with our society. 
+Biotechnology is going to touch every part of our lived experience. It is 
+living; it is digital; it is designed, and it can be crafted. This is a 
+material future that we must be bold enough to shape. Thank you. 
 
 Lemmas in this text that loaded on the factor:
 

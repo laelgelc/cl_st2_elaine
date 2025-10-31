@@ -20,11 +20,11 @@ American GDP resumed its kind of slow, steady march upward, and some other
 economic indicators also started to rebound, and they got kind of healthy kind 
 of quickly. Corporate profits are quite high; in fact, if you include bank 
 profits, they ' re higher than they ' ve ever been. And business investment in 
-gear — in equipment and hardware and software — is at an all-time high. So 
-the businesses are getting out their checkbooks. What they ' re not really 
-doing is hiring. So this red line is the employment-to- population ratio, in 
-other words, the percentage of working-age people in America who have work. And 
-we see that it cratered during the Great Recession, and it hasn ' t started to 
+gear — in equipment and hardware and software — is at an all-time high. So the 
+businesses are getting out their checkbooks. What they ' re not really doing is 
+hiring. So this red line is the employment-to- population ratio, in other 
+words, the percentage of working-age people in America who have work. And we 
+see that it cratered during the Great Recession, and it hasn ' t started to 
 bounce back at all. But the story is not just a recession story. The decade 
 that we ' ve just been through had relatively anemic job growth all throughout, 
 especially when we compare it to other decades, and the 2000s are the only time 
@@ -91,62 +91,61 @@ room, we ' re going to transition into an economy that is very productive, but
 that just doesn ' t need a lot of human workers. And managing that transition 
 is going to be the greatest challenge that our society faces. Voltaire 
 summarized why; he said, " Work saves us from three great evils: boredom, vice 
-and need. " But despite this challenge — personally, I ' m still a huge 
-digital optimist, and I am supremely confident that the digital technologies 
-that we ' re developing now are going to take us into a Utopian future, not a 
-dystopian future. And to explain why, I want to pose a ridiculously broad 
-question. I want to ask: what have been the most important developments in 
-human history? Now, I want to share some of the answers that I ' ve gotten in 
-response to this question. It ' s a wonderful question to ask and start an 
-endless debate about, because some people are going to bring up systems of 
-philosophy in both the West and the East that have changed how a lot of people 
-think about the world. And then other people will say, " No, actually, the big 
-stories, the big developments are the founding of the world ' s major 
-religions, which have changed civilizations and have changed and influenced how 
-countless people are living their lives. " And then some other folk will say, " 
-Actually, what changes civilizations, what modifies them and what changes 
-people ' s lives are empires, so the great developments in human history are 
-stories of conquest and of war. " And then some cheery soul usually always 
-pipes up and says, " Hey, don ' t forget about plagues! " There are some 
-optimistic answers to this question, so some people will bring up the Age of 
-Exploration and the opening up of the world. Others will talk about 
-intellectual achievements in disciplines like math that have helped us get a 
-better handle on the world, and other folk will talk about periods when there 
-was a deep flourishing of the arts and sciences. So this debate will go on and 
-on. It ' s an endless debate and there ' s no conclusive, single answer to it. 
-But if you ' re a geek like me, you say, " Well, what do the data say? " And 
-you start to do things like graph things that we might be interested in — the 
-total worldwide population, for example, or some measure of social development 
-or the state of advancement of a society. And you start to plot the data, 
-because, by this approach, the big stories, the big developments in human 
-history, are the ones that will bend these curves a lot. So when you do this 
-and when you plot the data, you pretty quickly come to some weird conclusions. 
-You conclude, actually, that none of these things have mattered very much. They 
-haven ' t done a darn thing to the curves. There has been one story, one 
-development in human history that bent the curve, bent it just about 90 
-degrees, and it is a technology story. The steam engine and the other 
-associated technologies of the Industrial Revolution changed the world and 
-influenced human history so much, that in the words of the historian Ian 
-Morris, " . . . they made mockery out of all that had come before. " And they 
-did this by infinitely multiplying the power of our **muscles** , overcoming 
-the limitations of our **muscles** . Now, what we ' re in the middle of now is 
-overcoming the limitations of our individual brains and infinitely multiplying 
-our mental power. How can this not be as big a deal as overcoming the 
-limitations of our **muscles** ? So at the risk of repeating myself a little 
-bit, when I look at what ' s going on with digital technology these days, we 
-are not anywhere near through with this journey. And when I look at what is 
-happening to our economies and our societies, my single conclusion is that we 
-ain ' t seen nothing yet. The best days are really ahead. Let me give you a 
-couple examples. Economies don ' t run on energy. They don ' t run on capital, 
-they don ' t run on labor. Economies run on ideas. So the work of innovation, 
-the work of coming up with new ideas, is some of the most powerful, most 
-fundamental work that we can do in an economy. And this is kind of how we used 
-to do innovation. We ' d find a bunch of fairly similar-looking people. . . We 
-' d take them out of elite institutions, we ' d put them into other elite 
-institutions and we ' d wait for the innovation. Now — as a white guy who 
-spent his whole career at MIT and Harvard, I ' ve got no problem with this. But 
-some other people do, and they ' ve kind of crashed the party and loosened up 
-the dress code of innovation. So here are the winners of a Topcoder programming 
+and need. " But despite this challenge — personally, I ' m still a huge digital 
+optimist, and I am supremely confident that the digital technologies that we ' 
+re developing now are going to take us into a Utopian future, not a dystopian 
+future. And to explain why, I want to pose a ridiculously broad question. I 
+want to ask: what have been the most important developments in human history? 
+Now, I want to share some of the answers that I ' ve gotten in response to this 
+question. It ' s a wonderful question to ask and start an endless debate about, 
+because some people are going to bring up systems of philosophy in both the 
+West and the East that have changed how a lot of people think about the world. 
+And then other people will say, " No, actually, the big stories, the big 
+developments are the founding of the world ' s major religions, which have 
+changed civilizations and have changed and influenced how countless people are 
+living their lives. " And then some other folk will say, " Actually, what 
+changes civilizations, what modifies them and what changes people ' s lives are 
+empires, so the great developments in human history are stories of conquest and 
+of war. " And then some cheery soul usually always pipes up and says, " Hey, 
+don ' t forget about plagues! " There are some optimistic answers to this 
+question, so some people will bring up the Age of Exploration and the opening 
+up of the world. Others will talk about intellectual achievements in 
+disciplines like math that have helped us get a better handle on the world, and 
+other folk will talk about periods when there was a deep flourishing of the 
+arts and sciences. So this debate will go on and on. It ' s an endless debate 
+and there ' s no conclusive, single answer to it. But if you ' re a geek like 
+me, you say, " Well, what do the data say? " And you start to do things like 
+graph things that we might be interested in — the total worldwide population, 
+for example, or some measure of social development or the state of advancement 
+of a society. And you start to plot the data, because, by this approach, the 
+big stories, the big developments in human history, are the ones that will bend 
+these curves a lot. So when you do this and when you plot the data, you pretty 
+quickly come to some weird conclusions. You conclude, actually, that none of 
+these things have mattered very much. They haven ' t done a darn thing to the 
+curves. There has been one story, one development in human history that bent 
+the curve, bent it just about 90 degrees, and it is a technology story. The 
+steam engine and the other associated technologies of the Industrial Revolution 
+changed the world and influenced human history so much, that in the words of 
+the historian Ian Morris, " . . . they made mockery out of all that had come 
+before. " And they did this by infinitely multiplying the power of our 
+**muscles** , overcoming the limitations of our **muscles** . Now, what we ' re 
+in the middle of now is overcoming the limitations of our individual brains and 
+infinitely multiplying our mental power. How can this not be as big a deal as 
+overcoming the limitations of our **muscles** ? So at the risk of repeating 
+myself a little bit, when I look at what ' s going on with digital technology 
+these days, we are not anywhere near through with this journey. And when I look 
+at what is happening to our economies and our societies, my single conclusion 
+is that we ain ' t seen nothing yet. The best days are really ahead. Let me 
+give you a couple examples. Economies don ' t run on energy. They don ' t run 
+on capital, they don ' t run on labor. Economies run on ideas. So the work of 
+innovation, the work of coming up with new ideas, is some of the most powerful, 
+most fundamental work that we can do in an economy. And this is kind of how we 
+used to do innovation. We ' d find a bunch of fairly similar-looking people. . 
+. We ' d take them out of elite institutions, we ' d put them into other elite 
+institutions and we ' d wait for the innovation. Now — as a white guy who spent 
+his whole career at MIT and Harvard, I ' ve got no problem with this. But some 
+other people do, and they ' ve kind of crashed the party and loosened up the 
+dress code of innovation. So here are the winners of a Topcoder programming 
 challenge, and I assure you that nobody cares where these kids grew up, where 
 they went to school, or what they look like. All anyone cares about is the 
 quality of the work, the quality of the ideas. And over and over again, we see 

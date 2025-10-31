@@ -17,24 +17,24 @@ architecture was whether the number five or the number seven was a better
 proportion to think about architecture, because the nose was one-fifth of your 
 head, or because your head was one-seventh of your body. And the reason that 
 that was the model of beauty and of **nature** was because the decimal point 
-had not been invented yet — it wasn ' t the 16th century — and everybody 
-had to dimension a building in terms of fractions, so a room would be 
-dimensioned as one-fourth of a facade; the structural dais of that might be 
-dimensioned as 10 units, and you would get down to the small elements by 
-fractional subdivision: finer and finer and finer. In the 15th century, the 
-decimal point was invented; architects stopped using fractions, and they had a 
-new model of **nature** . So, what ' s going on today is that there ' s a model 
-of natural form which is calculus-based and which is using digital tools, and 
-that has a lot of implications to the way we think about beauty and form, and 
-it has a lot of implications in the way we think about **nature** . The best 
-example of this would probably be the Gothic, and the Gothic was invented after 
-the invention of calculus, although the Gothic architects weren ' t really 
-using calculus to define their forms. But what was important is, the Gothic 
-moment in architecture was the first time that force and motion was thought of 
-in terms of form. So, examples like Christopher Wren ' s King ' s Cross: you 
-can see that the structural forces of the vaulting get articulated as lines, so 
-you ' re really actually seeing the expression of structural force and form. 
-Much later, Robert Maillart ' s bridges, which optimize structural form with a 
+had not been invented yet — it wasn ' t the 16th century — and everybody had to 
+dimension a building in terms of fractions, so a room would be dimensioned as 
+one-fourth of a facade; the structural dais of that might be dimensioned as 10 
+units, and you would get down to the small elements by fractional subdivision: 
+finer and finer and finer. In the 15th century, the decimal point was invented; 
+architects stopped using fractions, and they had a new model of **nature** . 
+So, what ' s going on today is that there ' s a model of natural form which is 
+calculus-based and which is using digital tools, and that has a lot of 
+implications to the way we think about beauty and form, and it has a lot of 
+implications in the way we think about **nature** . The best example of this 
+would probably be the Gothic, and the Gothic was invented after the invention 
+of calculus, although the Gothic architects weren ' t really using calculus to 
+define their forms. But what was important is, the Gothic moment in 
+architecture was the first time that force and motion was thought of in terms 
+of form. So, examples like Christopher Wren ' s King ' s Cross: you can see 
+that the structural forces of the vaulting get articulated as lines, so you ' 
+re really actually seeing the expression of structural force and form. Much 
+later, Robert Maillart ' s bridges, which optimize structural form with a 
 calculus curvature almost like a parabola. The Hanging Chain models of Antonio 
 Gaudi, the Catalan architect. The end of the 19th century, beginning of the 
 20th century, and how that Hanging Chain model translates into archways and 
@@ -164,8 +164,8 @@ in the same way. That way, each one of these tools we could pay for with a few
 hundred dollars, and get incredible variation in the components. And this is 
 one of those examples of the sets. So, for me, what was important is that this 
 coffee set — which is just a coffee pot, a teapot, and those are the pots 
-sitting on a tray — that they would have a coherence — so, they would be 
-Greg Lynn Alessi coffee pots — but that everyone who bought one would have a 
+sitting on a tray — that they would have a coherence — so, they would be Greg 
+Lynn Alessi coffee pots — but that everyone who bought one would have a 
 one-of-a-kind **object** that was unique in some way. To go back to 
 architecture, what ' s organic about architecture as a field, unlike product 
 design, is this whole issue of holism and of monumentality is really our realm. 
@@ -179,24 +179,24 @@ relationship of, say, the shape of a building, its structure, its windows, its
 color, its pattern. These are real architectural problems. So, my kind of hero 
 for this in the natural world are these tropical frogs. I got interested in 
 them because they ' re the most extreme example of a surface where the texture 
-and the — let ' s call it the decoration — I know the frog doesn ' t think 
-of it as decoration, but that ' s how it works — are all intricately 
-connected to one another. So a change in the form indicates a change in the 
-color pattern. So, the pattern and the form aren ' t the same thing, but they 
-really work together and are fused in some way. So, when doing a center for the 
-national parks in Costa Rica, we tried to use that idea of a gradient color and 
-a change in texture as the structure moves across the surface of the building. 
-We also used a continuity of change from a main exhibition hall to a natural 
-history museum, so it ' s all one continuous change in the massing, but within 
-that massing are very different kinds of spaces and forms. In a housing project 
-in Valencia, Spain, we ' re doing, the different towers of housing fused 
-together in shared curves so you get a single mass, like a kind of monolith, 
-but it breaks down into individual elements. And you can see that that change 
-in massing also gives all 48 of the apartments a unique shape and size, but 
-always within a, kind of, controlled limit, an envelope of change. I work with 
-a group of other architects. We have a company called United Architects. We 
-were one of the finalists for the World Trade Center site design. And I think 
-this just shows how we were approaching the problem of incredibly large-scale 
+and the — let ' s call it the decoration — I know the frog doesn ' t think of 
+it as decoration, but that ' s how it works — are all intricately connected to 
+one another. So a change in the form indicates a change in the color pattern. 
+So, the pattern and the form aren ' t the same thing, but they really work 
+together and are fused in some way. So, when doing a center for the national 
+parks in Costa Rica, we tried to use that idea of a gradient color and a change 
+in texture as the structure moves across the surface of the building. We also 
+used a continuity of change from a main exhibition hall to a natural history 
+museum, so it ' s all one continuous change in the massing, but within that 
+massing are very different kinds of spaces and forms. In a housing project in 
+Valencia, Spain, we ' re doing, the different towers of housing fused together 
+in shared curves so you get a single mass, like a kind of monolith, but it 
+breaks down into individual elements. And you can see that that change in 
+massing also gives all 48 of the apartments a unique shape and size, but always 
+within a, kind of, controlled limit, an envelope of change. I work with a group 
+of other architects. We have a company called United Architects. We were one of 
+the finalists for the World Trade Center site design. And I think this just 
+shows how we were approaching the problem of incredibly large-scale 
 construction. We wanted to make a kind of Gothic cathedral around the 
 footprints of the World Trade Center site. And to do that, we tried to connect 
 up the five towers into a single system. And we looked at, from the 1950s on, 

@@ -60,41 +60,40 @@ sequencing all that at the present time. Just on the data collection side, just
 where we are through the Galapagos, we ' re finding that almost every 200 
 miles, we see tremendous diversity in the samples in the ocean. Some of these 
 make logical sense, in terms of different temperature gradients. So this is a 
-satellite photograph based on temperatures — red being warm, blue being cold 
-— and we found there ' s a tremendous difference between the warm water 
-samples and the cold water samples, in terms of abundant species. The other 
-thing that surprised us quite a bit is these photoreceptors detect different 
-wavelengths of light, and we can predict that based on their amino acid 
-sequence. And these vary tremendously from region to region. Maybe not 
-surprisingly, in the deep ocean, where it ' s mostly blue, the photoreceptors 
-tend to see blue light. When there ' s a lot of chlorophyll around, they see a 
-lot of green light. But they vary even more, possibly moving towards infrared 
-and ultraviolet in the extremes. Just to try and get an assessment of what our 
-gene repertoire was, we assembled all the data — including all of ours thus 
-far from the expedition, which represents more than half of all the gene data 
-on the planet — and it totaled around 29 million genes. And we tried to put 
-these into gene families to see what these discoveries are: Are we just 
-discovering new members of known families, or are we discovering new families? 
-And it turns out we have about 50 , 000 major gene families, but every new 
-sample we take in the environment adds in a linear fashion to these new 
-families. So we ' re at the earliest stages of discovery about basic genes, 
-components and life on this planet. When we look at the so-called evolutionary 
-tree, we ' re up on the upper right- hand corner with the animals. Of those 
-roughly 29 million genes, we only have around 24 , 000 in our **genome** . And 
-if you take all animals together, we probably share less than 30 , 000 and 
-probably maybe a dozen or more thousand different gene families. I view that 
-these genes are now not only the design components of evolution. And we think 
-in a gene-centric view — maybe going back to Richard Dawkins ' ideas — than 
-in a genome-centric view, which are different constructs of these gene 
-components. Synthetic DNA, the ability to synthesize DNA, has changed at sort 
-of the same pace that DNA sequencing has over the last decade or two, and is 
-getting very rapid and very cheap. Our first thought about synthetic genomics 
-came when we sequenced the second **genome** back in 1995 , and that from 
-mycoplasma genitalium. And we have really nice T-shirts that say, you know, " I 
-heart my genitalium. " This is actually just a microorganism. But it has 
-roughly 500 genes. Haemophilus had 1 , 800 genes. And we simply asked the 
-question, if one species needs 800 , another 500 , is there a smaller set of 
-genes that might comprise a minimal operating system? So we started doing 
+satellite photograph based on temperatures — red being warm, blue being cold — 
+and we found there ' s a tremendous difference between the warm water samples 
+and the cold water samples, in terms of abundant species. The other thing that 
+surprised us quite a bit is these photoreceptors detect different wavelengths 
+of light, and we can predict that based on their amino acid sequence. And these 
+vary tremendously from region to region. Maybe not surprisingly, in the deep 
+ocean, where it ' s mostly blue, the photoreceptors tend to see blue light. 
+When there ' s a lot of chlorophyll around, they see a lot of green light. But 
+they vary even more, possibly moving towards infrared and ultraviolet in the 
+extremes. Just to try and get an assessment of what our gene repertoire was, we 
+assembled all the data — including all of ours thus far from the expedition, 
+which represents more than half of all the gene data on the planet — and it 
+totaled around 29 million genes. And we tried to put these into gene families 
+to see what these discoveries are: Are we just discovering new members of known 
+families, or are we discovering new families? And it turns out we have about 50 
+, 000 major gene families, but every new sample we take in the environment adds 
+in a linear fashion to these new families. So we ' re at the earliest stages of 
+discovery about basic genes, components and life on this planet. When we look 
+at the so-called evolutionary tree, we ' re up on the upper right- hand corner 
+with the animals. Of those roughly 29 million genes, we only have around 24 , 
+000 in our **genome** . And if you take all animals together, we probably share 
+less than 30 , 000 and probably maybe a dozen or more thousand different gene 
+families. I view that these genes are now not only the design components of 
+evolution. And we think in a gene-centric view — maybe going back to Richard 
+Dawkins ' ideas — than in a genome-centric view, which are different constructs 
+of these gene components. Synthetic DNA, the ability to synthesize DNA, has 
+changed at sort of the same pace that DNA sequencing has over the last decade 
+or two, and is getting very rapid and very cheap. Our first thought about 
+synthetic genomics came when we sequenced the second **genome** back in 1995 , 
+and that from mycoplasma genitalium. And we have really nice T-shirts that say, 
+you know, " I heart my genitalium. " This is actually just a microorganism. But 
+it has roughly 500 genes. Haemophilus had 1 , 800 genes. And we simply asked 
+the question, if one species needs 800 , another 500 , is there a smaller set 
+of genes that might comprise a minimal operating system? So we started doing 
 transposon mutagenesis. Transposons are just small pieces of DNA that randomly 
 insert in the genetic code. And if they insert in the middle of the gene, they 
 disrupt its function. So we made a map of all the genes that could take 
@@ -115,18 +114,18 @@ in large pieces was extremely difficult. Ham Smith and Clyde Hutchison, my
 colleagues on this, developed an exciting new method that allowed us to 
 synthesize a 5 , 000-base pair virus in only a two-week period that was 100 
 percent accurate, in terms of its sequence and its biology. It was a quite 
-exciting experiment — when we just took the synthetic piece of DNA, injected 
-it in the **bacteria** and all of a sudden, that DNA started driving the 
+exciting experiment — when we just took the synthetic piece of DNA, injected it 
+in the **bacteria** and all of a sudden, that DNA started driving the 
 production of the virus particles that turned around and then killed the 
-**bacteria** . This was not the first synthetic virus — a polio virus had 
-been made a year before — but it was only one ten-thousandth as active and it 
-took three years to do. This is a cartoon of the structure of phi X 174 . This 
-is a case where the software now builds its own hardware, and that ' s the 
-notions that we have with biology. People immediately jump to concerns about 
-biological warfare, and I had recent testimony before a Senate committee, and a 
-special committee the U. S. government has set up to review this area. And I 
-think it ' s important to keep reality in mind, versus what happens with people 
-' s imaginations. Basically, any virus that ' s been sequenced today — that 
+**bacteria** . This was not the first synthetic virus — a polio virus had been 
+made a year before — but it was only one ten-thousandth as active and it took 
+three years to do. This is a cartoon of the structure of phi X 174 . This is a 
+case where the software now builds its own hardware, and that ' s the notions 
+that we have with biology. People immediately jump to concerns about biological 
+warfare, and I had recent testimony before a Senate committee, and a special 
+committee the U. S. government has set up to review this area. And I think it ' 
+s important to keep reality in mind, versus what happens with people ' s 
+imaginations. Basically, any virus that ' s been sequenced today — that 
 **genome** can be made. And people immediately freak out about things about 
 Ebola or smallpox, but the DNA from this **organism** is not infective. So even 
 if somebody made the smallpox **genome** , that DNA itself would not cause 

@@ -14,9 +14,9 @@ in the hills around Silicon Valley where I live. I ' ve recently realized that
 got me thinking that we could learn from this about other systems, like brains 
 and data networks that we engineer, and even cancer. So what all these systems 
 have in common is that there ' s no central control. An **ant** colony consists 
-of sterile female workers — those are the **ants** you see walking around — 
-and then one or more reproductive females who just lay the eggs. They don ' t 
-give any instructions. Even though they ' re called queens, they don ' t tell 
+of sterile female workers — those are the **ants** you see walking around — and 
+then one or more reproductive females who just lay the eggs. They don ' t give 
+any instructions. Even though they ' re called queens, they don ' t tell 
 anybody what to do. So in an **ant** colony, there ' s no one in charge, and 
 all systems like this without central control are regulated using very simple 
 interactions. **Ants** interact using smell. They smell with their antennae, 

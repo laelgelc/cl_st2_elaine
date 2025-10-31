@@ -35,12 +35,12 @@ re both designed to fit the human hand. They ' re both technologies. In the
 end, their similarity is not that interesting. It just tells you they were both 
 designed to fit the human hand. The differences are what interest me, because 
 the one on the left was made to a pretty unvarying design for about a million 
-years — from one-and-a-half million years ago to half a million years ago. 
-Homo erectus made the same tool for 30 , 000 generations. Of course there were 
-a few changes, but tools changed slower than skeletons in those days. There was 
-no progress, no innovation. It ' s an extraordinary phenomenon, but it ' s 
-true. Whereas the object on the right is obsolete after five years. And there ' 
-s another difference too, which is the object on the left is made from one 
+years — from one-and-a-half million years ago to half a million years ago. Homo 
+erectus made the same tool for 30 , 000 generations. Of course there were a few 
+changes, but tools changed slower than skeletons in those days. There was no 
+progress, no innovation. It ' s an extraordinary phenomenon, but it ' s true. 
+Whereas the object on the right is obsolete after five years. And there ' s 
+another difference too, which is the object on the left is made from one 
 substance. The object on the right is made from a confection of different 
 substances, from silicon and metal and **plastic** and so on. And more than 
 that, it ' s a confection of different ideas, the idea of **plastic** , the 
@@ -60,9 +60,9 @@ not confined to its own lineage. What ' s the process that ' s having the same
 effect in cultural evolution as sex is having in biological evolution? And I 
 think the answer is exchange, the habit of exchanging one thing for another. It 
 ' s a unique human feature. No other animal does it. You can teach them in the 
-laboratory to do a little bit of exchange — and indeed there ' s reciprocity 
-in other animals — But the exchange of one object for another never happens. 
-As Adam Smith said, " No man ever saw a dog make a fair exchange of a bone with 
+laboratory to do a little bit of exchange — and indeed there ' s reciprocity in 
+other animals — But the exchange of one object for another never happens. As 
+Adam Smith said, " No man ever saw a dog make a fair exchange of a bone with 
 another dog. " You can have culture without exchange. You can have, as it were, 
 asexual culture. Chimpanzees, killer whales, these kinds of creatures, they 
 have culture. They teach each other traditions which are handed down from 
@@ -136,13 +136,13 @@ male. In all hunter-gatherer societies today, there ' s a foraging division of
 labor between, on the whole, hunting males and gathering females. It isn ' t 
 always quite that simple, but there ' s a distinction between specialized roles 
 for males and females. And the beauty of this system is that it benefits both 
-sides. The woman knows that, in the Hadzas ' case here — digging roots to 
-share with men in exchange for meat — she knows that all she has to do to get 
-access to protein is to dig some extra roots and trade them for meat. And she 
-doesn ' t have to go on an exhausting hunt and try and kill a warthog. And the 
-man knows that he doesn ' t have to do any digging to get roots. All he has to 
-do is make sure that when he kills a warthog it ' s big enough to share some. 
-And so both sides raise each other ' s standards of living through the sexual 
+sides. The woman knows that, in the Hadzas ' case here — digging roots to share 
+with men in exchange for meat — she knows that all she has to do to get access 
+to protein is to dig some extra roots and trade them for meat. And she doesn ' 
+t have to go on an exhausting hunt and try and kill a warthog. And the man 
+knows that he doesn ' t have to do any digging to get roots. All he has to do 
+is make sure that when he kills a warthog it ' s big enough to share some. And 
+so both sides raise each other ' s standards of living through the sexual 
 division of labor. When did this happen? We don ' t know, but it ' s possible 
 that Neanderthals didn ' t do this. They were a highly cooperative species. 
 They were a highly intelligent species. Their brains on average, by the end, 
@@ -165,8 +165,8 @@ groups. Trade is 10 times as old as farming. People forget that. People think
 of trade as a modern thing. Exchange between groups has been going on for a 
 hundred thousand years. And the earliest evidence for it crops up somewhere 
 between 80 and 120 , 000 years ago in Africa, when you see obsidian and jasper 
-and other things moving long distances in Ethiopia. You also see seashells — 
-as discovered by a team here in Oxford — moving 125 miles inland from the 
+and other things moving long distances in Ethiopia. You also see seashells — as 
+discovered by a team here in Oxford — moving 125 miles inland from the 
 Mediterranean in Algeria. And that ' s evidence that people have started 
 exchanging between groups. And that will have led to specialization. How do you 
 know that long-distance movement means trade rather than migration? Well, you 

@@ -40,23 +40,23 @@ Andromeda, which looks so small and faint because its light has taken 10
 ' t have planets around them. There ' s scant chance of life there — that ' s 
 because there ' s been no time for the nuclear fusion in stars to make silicon 
 and carbon and iron, the building blocks of planets and of life. We believe 
-that all of this emerged from a Big Bang — a hot, dense state. So how did 
-that amorphous Big Bang turn into our complex cosmos? I ' m going to show you a 
+that all of this emerged from a Big Bang — a hot, dense state. So how did that 
+amorphous Big Bang turn into our complex cosmos? I ' m going to show you a 
 movie simulation 16 powers of 10 faster than real time, which shows a patch of 
 the universe where the expansions have subtracted out. But you see, as time 
 goes on in gigayears at the bottom, you will see structures evolve as gravity 
 feeds on small, dense irregularities, and structures develop. And we ' ll end 
 up after 13 **billion** years with something looking rather like our own 
 universe. And we compare simulated universes like that — I ' ll show you a 
-better simulation at the end of my talk — with what we actually see in the 
-sky. Well, we can trace things back to the earlier stages of the Big Bang, but 
-we still don ' t know what banged and why it banged. That ' s a challenge for 
+better simulation at the end of my talk — with what we actually see in the sky. 
+Well, we can trace things back to the earlier stages of the Big Bang, but we 
+still don ' t know what banged and why it banged. That ' s a challenge for 
 21st-century science. If my research group had a logo, it would be this picture 
 here: an ouroboros, where you see the micro-world on the left — the world of 
 the **quantum** — and on the right the large-scale universe of planets, stars 
-and galaxies. We know our universes are united though — links between left 
-and right. The everyday world is determined by atoms, how they stick together 
-to make molecules. Stars are fueled by how the nuclei in those atoms react 
+and galaxies. We know our universes are united though — links between left and 
+right. The everyday world is determined by atoms, how they stick together to 
+make molecules. Stars are fueled by how the nuclei in those atoms react 
 together. And, as we ' ve learned in the last few years, galaxies are held 
 together by the gravitational pull of so-called dark matter: particles in huge 
 swarms, far smaller even than atomic nuclei. But we ' d like to know the 
@@ -68,11 +68,11 @@ gastronomically at the top of that picture. And until we have that synthesis,
 we won ' t be able to understand the very beginning of our universe because 
 when our universe was itself the size of an atom, **quantum** effects could 
 shake everything. And so we need a theory that unifies the very large and the 
-very small, which we don ' t yet have. One idea, incidentally — and I had 
-this hazard sign to say I ' m going to speculate from now on — is that our 
-Big Bang was not the only one. One idea is that our three-dimensional universe 
-may be embedded in a high- dimensional space, just as you can imagine on these 
-sheets of paper. You can imagine **ants** on one of them thinking it ' s a 
+very small, which we don ' t yet have. One idea, incidentally — and I had this 
+hazard sign to say I ' m going to speculate from now on — is that our Big Bang 
+was not the only one. One idea is that our three-dimensional universe may be 
+embedded in a high- dimensional space, just as you can imagine on these sheets 
+of paper. You can imagine **ants** on one of them thinking it ' s a 
 two-dimensional universe, not being aware of another population of **ants** on 
 the other. So there could be another universe just a millimeter away from ours, 
 but we ' re not aware of it because that millimeter is measured in some fourth 
@@ -92,8 +92,8 @@ complex things are ourselves, midway between atoms and stars. We depend on
 stars to make the atoms we ' re made of. We depend on chemistry to determine 
 our complex structure. We clearly have to be large, compared to atoms, to have 
 layer upon layer of complex structure. We clearly have to be small, compared to 
-stars and planets — otherwise we ' d be crushed by gravity. And in fact, we 
-are midway. It would take as many human bodies to make up the sun as there are 
+stars and planets — otherwise we ' d be crushed by gravity. And in fact, we are 
+midway. It would take as many human bodies to make up the sun as there are 
 atoms in each of us. The geometric mean of the mass of a proton and the mass of 
 the sun is 50 kilograms, within a factor of two of the mass of each person 
 here. Well, most of you anyway. The science of complexity is probably the 
@@ -118,8 +118,8 @@ prospects, while, nonetheless, reducing pressure on energy and resources. But
 they will have a dark side. In our interconnected world, novel technology could 
 empower just one fanatic, or some weirdo with a mindset of those who now design 
 computer viruses, to trigger some kind on disaster. Indeed, catastrophe could 
-arise simply from technical misadventure — error rather than terror. And even 
-a tiny probability of catastrophe is unacceptable when the downside could be of 
+arise simply from technical misadventure — error rather than terror. And even a 
+tiny probability of catastrophe is unacceptable when the downside could be of 
 global consequence. In fact, some years ago, Bill Joy wrote an article 
 expressing tremendous concern about robots taking us over, etc. I don ' t go 
 along with all that, but it ' s interesting that he had a simple solution. It 
@@ -152,11 +152,11 @@ pressure. I wrote my book, " Our Final Century, " as a scientist, just a
 general scientist. But there ' s one respect, I think, in which being a 
 cosmologist offered a special perspective, and that ' s that it offers an 
 awareness of the immense future. The stupendous time spans of the evolutionary 
-past are now part of common culture — outside the American Bible Belt, anyway 
-— but most people, even those who are familiar with evolution, aren ' t 
-mindful that even more time lies ahead. The sun has been shining for four and a 
-half **billion** years, but it ' ll be another six **billion** years before its 
-fuel runs out. On that schematic picture, a sort of time-lapse picture, we ' re 
+past are now part of common culture — outside the American Bible Belt, anyway — 
+but most people, even those who are familiar with evolution, aren ' t mindful 
+that even more time lies ahead. The sun has been shining for four and a half 
+**billion** years, but it ' ll be another six **billion** years before its fuel 
+runs out. On that schematic picture, a sort of time-lapse picture, we ' re 
 halfway. And it ' ll be another six **billion** before that happens, and any 
 remaining life on **Earth** is vaporized. There ' s an unthinking tendency to 
 imagine that humans will be there, experiencing the sun ' s demise, but any 
@@ -188,27 +188,27 @@ became extinct. But in just a tiny sliver of the **Earth** ' s history, the
 last one-millionth part, a few thousand years, the patterns of vegetation 
 altered much faster than before. This signaled the start of agriculture. Change 
 has accelerated as human populations rose. Then other things happened even more 
-abruptly. Within just 50 years — that ' s one hundredth of one millionth of 
-the **Earth** ' s age — the amount of carbon dioxide in the atmosphere 
-started to rise, and ominously fast. The planet became an intense emitter of 
-radio waves — the total output from all TV and cell phones and radar 
-transmissions. And something else happened. Metallic **objects** — albeit 
-very small ones, a few tons at most — escaped into orbit around the **Earth** 
-. Some journeyed to the moons and planets. A race of advanced extraterrestrials 
-watching our solar system from afar could confidently predict **Earth** ' s 
-final doom in another six **billion** years. But could they have predicted this 
-unprecedented spike less than halfway through the **Earth** ' s life? These 
-human-induced alterations occupying overall less than a millionth of the 
-elapsed lifetime and seemingly occurring with runaway speed? If they continued 
-their vigil, what might these hypothetical aliens witness in the next hundred 
-years? Will some spasm foreclose **Earth** ' s future? Or will the biosphere 
-stabilize? Or will some of the metallic **objects** launched from the **Earth** 
-spawn new oases, a post-human life elsewhere? The science done by the young 
-Einstein will continue as long as our civilization, but for civilization to 
-survive, we ' ll need the wisdom of the old Einstein — humane, global and 
-farseeing. And whatever happens in this uniquely crucial century will resonate 
-into the remote future and perhaps far beyond the **Earth** , far beyond the 
-**Earth** as depicted here. Thank you very much. 
+abruptly. Within just 50 years — that ' s one hundredth of one millionth of the 
+**Earth** ' s age — the amount of carbon dioxide in the atmosphere started to 
+rise, and ominously fast. The planet became an intense emitter of radio waves — 
+the total output from all TV and cell phones and radar transmissions. And 
+something else happened. Metallic **objects** — albeit very small ones, a few 
+tons at most — escaped into orbit around the **Earth** . Some journeyed to the 
+moons and planets. A race of advanced extraterrestrials watching our solar 
+system from afar could confidently predict **Earth** ' s final doom in another 
+six **billion** years. But could they have predicted this unprecedented spike 
+less than halfway through the **Earth** ' s life? These human-induced 
+alterations occupying overall less than a millionth of the elapsed lifetime and 
+seemingly occurring with runaway speed? If they continued their vigil, what 
+might these hypothetical aliens witness in the next hundred years? Will some 
+spasm foreclose **Earth** ' s future? Or will the biosphere stabilize? Or will 
+some of the metallic **objects** launched from the **Earth** spawn new oases, a 
+post-human life elsewhere? The science done by the young Einstein will continue 
+as long as our civilization, but for civilization to survive, we ' ll need the 
+wisdom of the old Einstein — humane, global and farseeing. And whatever happens 
+in this uniquely crucial century will resonate into the remote future and 
+perhaps far beyond the **Earth** , far beyond the **Earth** as depicted here. 
+Thank you very much. 
 
 Lemmas in this text that loaded on the factor:
 

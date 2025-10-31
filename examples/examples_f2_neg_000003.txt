@@ -112,61 +112,60 @@ plantations are now over 30 years old. You can check them out. That ' s how
 forest science works. So now I want to talk about the science. How were paper 
 **birch** and Douglas **fir** communicating? Well, it turns out they were 
 conversing not only in the language of carbon but also nitrogen and phosphorus 
-and water and defense signals and allele chemicals and hormones — 
-information. And you know, I have to tell you, before me, scientists had 
-thought that this belowground mutualistic symbiosis called a mycorrhiza was 
-involved. Mycorrhiza literally means " fungus root. " You see their 
-reproductive organs when you walk through the forest. They ' re the mushrooms. 
-The mushrooms, though, are just the tip of the iceberg, because coming out of 
-those stems are fungal threads that form a **mycelium** , and that **mycelium** 
-infects and colonizes the roots of all the trees and plants. And where the 
-fungal cells interact with the root cells, there ' s a trade of carbon for 
-nutrients, and that fungus gets those nutrients by growing through the soil and 
-coating every soil particle. The web is so dense that there can be hundreds of 
-kilometers of **mycelium** under a single footstep. And not only that, that 
-**mycelium** connects different individuals in the forest, individuals not only 
-of the same species but between species, like **birch** and **fir** , and it 
-works kind of like the Internet. You see, like all networks, mycorrhizal 
-networks have nodes and links. We made this map by examining the short 
-sequences of DNA of every tree and every fungal individual in a patch of 
-Douglas **fir** forest. In this picture, the circles represent the Douglas 
-**fir** , or the nodes, and the lines represent the interlinking fungal 
-highways, or the links. The biggest, darkest nodes are the busiest nodes. We 
-call those hub trees, or more fondly, mother trees, because it turns out that 
-those hub trees nurture their young, the ones growing in the understory. And if 
-you can see those yellow dots, those are the young seedlings that have 
-established within the network of the old mother trees. In a single forest, a 
-mother tree can be connected to hundreds of other trees. And using our isotope 
-tracers, we have found that mother trees will send their excess carbon through 
-the mycorrhizal network to the understory seedlings, and we ' ve associated 
-this with increased seedling survival by four times. Now, we know we all favor 
-our own children, and I wondered, could Douglas **fir** recognize its own kin, 
-like mama grizzly and her cub? So we set about an experiment, and we grew 
-mother trees with kin and stranger ' s seedlings. And it turns out they do 
-recognize their kin. Mother trees colonize their kin with bigger mycorrhizal 
-networks. They send them more carbon below ground. They even reduce their own 
-root competition to make elbow room for their kids. When mother trees are 
-injured or dying, they also send messages of wisdom on to the next generation 
-of seedlings. So we ' ve used isotope tracing to trace carbon moving from an 
-injured mother tree down her trunk into the mycorrhizal network and into her 
-neighboring seedlings, not only carbon but also defense signals. And these two 
-compounds have increased the resistance of those seedlings to future stresses. 
-So trees talk. Thank you. Through back and forth conversations, they increase 
-the resilience of the whole community. It probably reminds you of our own 
-social communities, and our families, well, at least some families. So let ' s 
-come back to the initial point. Forests aren ' t simply collections of trees, 
-they ' re complex systems with hubs and networks that overlap and connect trees 
-and allow them to communicate, and they provide avenues for feedbacks and 
-adaptation, and this makes the forest resilient. That ' s because there are 
-many hub trees and many overlapping networks. But they ' re also vulnerable, 
-vulnerable not only to natural disturbances like bark **beetles** that 
-preferentially attack big old trees but high-grade logging and clear-cut 
-logging. You see, you can take out one or two hub trees, but there comes a 
-tipping point, because hub trees are not unlike rivets in an airplane. You can 
-take out one or two and the plane still flies, but you take out one too many, 
-or maybe that one holding on the wings, and the whole system collapses. So now 
-how are you thinking about forests? Differently? Yes. Cool. I ' m glad. So, 
-remember I said earlier that I hoped that my research, my discoveries would 
+and water and defense signals and allele chemicals and hormones — information. 
+And you know, I have to tell you, before me, scientists had thought that this 
+belowground mutualistic symbiosis called a mycorrhiza was involved. Mycorrhiza 
+literally means " fungus root. " You see their reproductive organs when you 
+walk through the forest. They ' re the mushrooms. The mushrooms, though, are 
+just the tip of the iceberg, because coming out of those stems are fungal 
+threads that form a **mycelium** , and that **mycelium** infects and colonizes 
+the roots of all the trees and plants. And where the fungal cells interact with 
+the root cells, there ' s a trade of carbon for nutrients, and that fungus gets 
+those nutrients by growing through the soil and coating every soil particle. 
+The web is so dense that there can be hundreds of kilometers of **mycelium** 
+under a single footstep. And not only that, that **mycelium** connects 
+different individuals in the forest, individuals not only of the same species 
+but between species, like **birch** and **fir** , and it works kind of like the 
+Internet. You see, like all networks, mycorrhizal networks have nodes and 
+links. We made this map by examining the short sequences of DNA of every tree 
+and every fungal individual in a patch of Douglas **fir** forest. In this 
+picture, the circles represent the Douglas **fir** , or the nodes, and the 
+lines represent the interlinking fungal highways, or the links. The biggest, 
+darkest nodes are the busiest nodes. We call those hub trees, or more fondly, 
+mother trees, because it turns out that those hub trees nurture their young, 
+the ones growing in the understory. And if you can see those yellow dots, those 
+are the young seedlings that have established within the network of the old 
+mother trees. In a single forest, a mother tree can be connected to hundreds of 
+other trees. And using our isotope tracers, we have found that mother trees 
+will send their excess carbon through the mycorrhizal network to the understory 
+seedlings, and we ' ve associated this with increased seedling survival by four 
+times. Now, we know we all favor our own children, and I wondered, could 
+Douglas **fir** recognize its own kin, like mama grizzly and her cub? So we set 
+about an experiment, and we grew mother trees with kin and stranger ' s 
+seedlings. And it turns out they do recognize their kin. Mother trees colonize 
+their kin with bigger mycorrhizal networks. They send them more carbon below 
+ground. They even reduce their own root competition to make elbow room for 
+their kids. When mother trees are injured or dying, they also send messages of 
+wisdom on to the next generation of seedlings. So we ' ve used isotope tracing 
+to trace carbon moving from an injured mother tree down her trunk into the 
+mycorrhizal network and into her neighboring seedlings, not only carbon but 
+also defense signals. And these two compounds have increased the resistance of 
+those seedlings to future stresses. So trees talk. Thank you. Through back and 
+forth conversations, they increase the resilience of the whole community. It 
+probably reminds you of our own social communities, and our families, well, at 
+least some families. So let ' s come back to the initial point. Forests aren ' 
+t simply collections of trees, they ' re complex systems with hubs and networks 
+that overlap and connect trees and allow them to communicate, and they provide 
+avenues for feedbacks and adaptation, and this makes the forest resilient. That 
+' s because there are many hub trees and many overlapping networks. But they ' 
+re also vulnerable, vulnerable not only to natural disturbances like bark 
+**beetles** that preferentially attack big old trees but high-grade logging and 
+clear-cut logging. You see, you can take out one or two hub trees, but there 
+comes a tipping point, because hub trees are not unlike rivets in an airplane. 
+You can take out one or two and the plane still flies, but you take out one too 
+many, or maybe that one holding on the wings, and the whole system collapses. 
+So now how are you thinking about forests? Differently? Yes. Cool. I ' m glad. 
+So, remember I said earlier that I hoped that my research, my discoveries would 
 change the way we practice forestry. Well, I want to take a check on that 30 
 years later here in western Canada. This is about 100 kilometers to the west of 
 us, just on the border of Banff National Park. That ' s a lot of clear-cuts. It 

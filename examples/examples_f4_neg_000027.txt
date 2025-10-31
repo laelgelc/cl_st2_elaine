@@ -29,17 +29,17 @@ uniquely prepared to understand **quantum** **mechanics** . The mathematics of
 it tells us our reality is continually branching into different possibilities, 
 just like a coral. It ' s a weird thing for us humans to wrap our minds around, 
 since we only ever get to experience one possibility. This **quantum** 
-weirdness was first described by Erwin Schr��dinger and his cat. The cat 
-likes this version better. In this setup, Schr��dinger is in a box with a 
-radioactive sample that, by the laws of **quantum** **mechanics** , branches 
-into a state in which it is radiated and a state in which it is not. In the 
-branch in which the sample radiates, it sets off a trigger that releases poison 
-and Schr��dinger is dead. But in the other branch of reality, he remains 
-alive. These realities are experienced separately by each individual. As far as 
-either can tell, the other one doesn ' t exist. This seems weird to us, because 
-each of us only experiences an individual existence, and we don ' t get to see 
-other branches. It ' s as if each of us, like Schr��dinger here, are a kind 
-of coral branching into different possibilities. The mathematics of **quantum** 
+weirdness was first described by Erwin Schr��dinger and his cat. The cat likes 
+this version better. In this setup, Schr��dinger is in a box with a radioactive 
+sample that, by the laws of **quantum** **mechanics** , branches into a state 
+in which it is radiated and a state in which it is not. In the branch in which 
+the sample radiates, it sets off a trigger that releases poison and 
+Schr��dinger is dead. But in the other branch of reality, he remains alive. 
+These realities are experienced separately by each individual. As far as either 
+can tell, the other one doesn ' t exist. This seems weird to us, because each 
+of us only experiences an individual existence, and we don ' t get to see other 
+branches. It ' s as if each of us, like Schr��dinger here, are a kind of coral 
+branching into different possibilities. The mathematics of **quantum** 
 **mechanics** tells us this is how the world works at tiny **scales** . It can 
 be summed up in a single sentence: Everything that can happen, does. That ' s 
 **quantum** **mechanics** . But this does not mean everything happens. The rest 
@@ -52,11 +52,11 @@ protons and antiprotons are accelerated to near the speed of light and brought
 together in a collision, producing a burst of pure energy. This energy is 
 immediately converted into a spray of subatomic particles, with detectors and 
 computers used to figure out their properties. This enormous machine — the 
-Large Hadron Collider at CERN in Geneva — has a circumference of 17 miles 
-and, when it ' s operating, draws five times as much power as the city of 
-Monterey. We can ' t predict specifically what particles will be produced in 
-any individual collision. **Quantum** **mechanics** tells us all possibilities 
-are realized. But physics does tell us what particles can be produced. These 
+Large Hadron Collider at CERN in Geneva — has a circumference of 17 miles and, 
+when it ' s operating, draws five times as much power as the city of Monterey. 
+We can ' t predict specifically what particles will be produced in any 
+individual collision. **Quantum** **mechanics** tells us all possibilities are 
+realized. But physics does tell us what particles can be produced. These 
 particles must have just as much mass and energy as is carried in by the proton 
 and antiproton. Any particles more massive than this energy limit aren ' t 
 produced, and remain invisible to us. This is why this new particle accelerator 
@@ -78,10 +78,10 @@ via particles called photons. There is also a very weak force called, rather
 unimaginatively, the weak force. . . that interacts only with left-handed 
 matter. The strong force acts between quarks which carry a different kind of 
 charge, called color charge, and come in three different varieties: red, green 
-and blue. You can blame Murray Gell-Mann for these names — they ' re his 
-fault. Finally, there ' s the force of gravity, which interacts with matter via 
-its mass and spin. The most important thing to understand here is that there ' 
-s a different kind of charge associated with each of these forces. These four 
+and blue. You can blame Murray Gell-Mann for these names — they ' re his fault. 
+Finally, there ' s the force of gravity, which interacts with matter via its 
+mass and spin. The most important thing to understand here is that there ' s a 
+different kind of charge associated with each of these forces. These four 
 different forces interact with matter according to the corresponding charges 
 that each particle has. A particle that hasn ' t been seen yet, but we ' re 
 pretty sure exists, is the Higgs particle, which gives masses to all these 
@@ -141,21 +141,21 @@ pretty. Right now, this pattern matches our best current knowledge of how
 **nature** is built at the tiny **scales** of these elementary particles. This 
 is what we know for certain. Some of these particles are at the very limit of 
 what we ' ve been able to reach with experiments. From this pattern we already 
-know the particle physics of these tiny **scales** — the way the universe 
-works at these tiny **scales** is very beautiful. But now I ' m going to 
-discuss some new and old ideas about things we don ' t know yet. We want to 
-expand this pattern using mathematics alone, and see if we can get our hands on 
-the whole enchilada. We want to find all the particles and forces that make a 
-complete picture of our universe. And we want to use this picture to predict 
-new particles that we ' ll see when experiments reach higher energies. So there 
-' s an old idea in particle physics that this known pattern of charges, which 
-is not very symmetric, could emerge from a more perfect pattern that gets 
-broken — similar to how the Higgs particle breaks the electroweak pattern to 
-give electromagnetism. In order to do this, we need to introduce new forces 
-with new charge directions. When we introduce a new direction, we get to guess 
-what charges the particles have along this direction, and then we can rotate it 
-in with the others. If we guess wisely, we can construct the standard charges 
-in six charge dimensions as a broken symmetry of this more perfect pattern in 
+know the particle physics of these tiny **scales** — the way the universe works 
+at these tiny **scales** is very beautiful. But now I ' m going to discuss some 
+new and old ideas about things we don ' t know yet. We want to expand this 
+pattern using mathematics alone, and see if we can get our hands on the whole 
+enchilada. We want to find all the particles and forces that make a complete 
+picture of our universe. And we want to use this picture to predict new 
+particles that we ' ll see when experiments reach higher energies. So there ' s 
+an old idea in particle physics that this known pattern of charges, which is 
+not very symmetric, could emerge from a more perfect pattern that gets broken — 
+similar to how the Higgs particle breaks the electroweak pattern to give 
+electromagnetism. In order to do this, we need to introduce new forces with new 
+charge directions. When we introduce a new direction, we get to guess what 
+charges the particles have along this direction, and then we can rotate it in 
+with the others. If we guess wisely, we can construct the standard charges in 
+six charge dimensions as a broken symmetry of this more perfect pattern in 
 seven charge dimensions. This particular choice corresponds to a grand unified 
 theory introduced by Pati and Salam in 1973 . When we look at this new unified 
 pattern, we can see a couple of gaps where particles seem to be missing. This 
@@ -216,71 +216,70 @@ Large Hadron Collider, we may be able to see whether **nature** uses this E8
 pattern or a different one. This process of discovery is a wonderful adventure 
 to be involved in. If the LHC finds particles that fit this E8 pattern, that 
 will be very, very cool. If the LHC finds new particles, but they don ' t fit 
-this pattern — well, that will be very interesting, but bad for this E8 
-theory. And, of course, bad for me personally. Now, how bad would that be? 
-Well, pretty bad. But predicting how **nature** works is a very risky game. 
-This theory and others like it are long shots. One does a lot of hard work 
-knowing that most of these ideas probably won ' t end up being true about 
-**nature** . That ' s what doing theoretical physics is like: there are a lot 
-of wipeouts. In this regard, new physics theories are a lot like start-up 
-companies. As with any large investment, it can be emotionally difficult to 
-abandon a line of research when it isn ' t working out. But in science, if 
-something isn ' t working, you have to toss it out and try something else. Now, 
-the only way to maintain sanity and achieve happiness in the midst of this 
-uncertainty is to keep balance and perspective in life. I ' ve tried the best I 
-can to live a balanced life. I try to balance my life equally between physics, 
-love and surfing — my own three charge directions. This way, even if the 
-physics I work on comes to nothing, I still know I ' ve lived a good life. And 
-I try to live in beautiful places. For most of the past ten years I ' ve lived 
-on the island of Maui, a very beautiful place. Now, it ' s one of the greatest 
-mysteries in the universe to my parents how I managed to survive all that time 
-without engaging in anything resembling full-time employment. I ' m going to 
-let you in on that secret. This was a view from my home office on Maui. And 
-this is another, and another. And you may have noticed that these beautiful 
-views are similar, but in slightly different places. That ' s because this used 
-to be my home and office on Maui. I ' ve chosen a very unusual life. But not 
-worrying about rent allowed me to spend my time doing what I love. Living a 
-nomadic existence has been hard at times, but it ' s allowed me to live in 
-beautiful places and keep a balance in my life that I ' ve been happy with. It 
-allows me to spend a lot of my time hanging out with hyperintelligent coral. 
-But I also greatly enjoy the company of hyperintelligent people. So I ' m very 
-happy to have been invited here to TED. Thank you very much. Chris Anderson: 
-Stay here one second. I probably understood two percent of that, but I still 
-absolutely loved it. So I ' m going to sound dumb. Your theory of everything 
-— Garrett Lisi: I ' m used to coral. CA: That ' s right. The reason it ' s 
-got a few people at least excited is because, if you ' re right, it brings 
-gravity and **quantum** theory together. So are you saying that we should think 
-of the universe, at its heart — that the smallest things that there are, are 
-somehow an E8 **object** of possibility? I mean, is there a **scale** to it, at 
-the smallest **scale** , or. . . ? GL: Well, right now the pattern I showed you 
-that corresponds to what we know about elementary particle physics — that 
-already corresponds to a very beautiful shape. And that ' s the one that I said 
-we knew for certain. And that shape has remarkable similarities — and the way 
-it fits into this E8 pattern, which could be the rest of the picture. And these 
-patterns of points that I ' ve shown for you actually represent symmetries of 
-this high-dimensional **object** that would be warping and moving and dancing 
-over the space-time that we experience. And that would be what explains all 
-these elementary particles that we see. CA: But a string theorist, as I 
-understand it, explains electrons in terms of much smaller strings vibrating 
-— I know, you don ' t like string theory — vibrating inside it. How should 
-we think of an electron in relation to E8 ? GL: Well, it would be one of the 
-symmetries of this E8 shape. So what ' s happening is, as the shape is moving 
-over space-time, it ' s twisting. And the direction it ' s twisting as it moves 
-is what particle we see. So it would be — CA: The size of the E8 shape, how 
-does that relate to the electron? I feel like I need that for my picture. Is it 
-bigger? Is it smaller? GL: As far as we know, electrons are point particles, so 
-this would be going down to the smallest possible **scales** . So the way these 
-things are explained in **quantum** field theory is, all possibilities are 
-expanding and developing at once. And this is why I use the analogy to coral. 
-And — in this way, the way that E8 comes in is it will be as a shape that ' s 
-attached at each point in the space-time. And, as I said, the way the shape 
-twists — the directional along which way the shape is twisting as it moves 
-over this curved surface — is what the elementary particles are, themselves. 
-So through **quantum** field theory, they manifest themselves as points and 
-interact that way. I don ' t know if I ' ll be able to make this any clearer. 
-CA: It doesn ' t really matter. It ' s evoking a kind of sense of wonder, and I 
-certainly want to understand more of this. But thank you so much for coming. 
-That was absolutely fascinating. 
+this pattern — well, that will be very interesting, but bad for this E8 theory. 
+And, of course, bad for me personally. Now, how bad would that be? Well, pretty 
+bad. But predicting how **nature** works is a very risky game. This theory and 
+others like it are long shots. One does a lot of hard work knowing that most of 
+these ideas probably won ' t end up being true about **nature** . That ' s what 
+doing theoretical physics is like: there are a lot of wipeouts. In this regard, 
+new physics theories are a lot like start-up companies. As with any large 
+investment, it can be emotionally difficult to abandon a line of research when 
+it isn ' t working out. But in science, if something isn ' t working, you have 
+to toss it out and try something else. Now, the only way to maintain sanity and 
+achieve happiness in the midst of this uncertainty is to keep balance and 
+perspective in life. I ' ve tried the best I can to live a balanced life. I try 
+to balance my life equally between physics, love and surfing — my own three 
+charge directions. This way, even if the physics I work on comes to nothing, I 
+still know I ' ve lived a good life. And I try to live in beautiful places. For 
+most of the past ten years I ' ve lived on the island of Maui, a very beautiful 
+place. Now, it ' s one of the greatest mysteries in the universe to my parents 
+how I managed to survive all that time without engaging in anything resembling 
+full-time employment. I ' m going to let you in on that secret. This was a view 
+from my home office on Maui. And this is another, and another. And you may have 
+noticed that these beautiful views are similar, but in slightly different 
+places. That ' s because this used to be my home and office on Maui. I ' ve 
+chosen a very unusual life. But not worrying about rent allowed me to spend my 
+time doing what I love. Living a nomadic existence has been hard at times, but 
+it ' s allowed me to live in beautiful places and keep a balance in my life 
+that I ' ve been happy with. It allows me to spend a lot of my time hanging out 
+with hyperintelligent coral. But I also greatly enjoy the company of 
+hyperintelligent people. So I ' m very happy to have been invited here to TED. 
+Thank you very much. Chris Anderson: Stay here one second. I probably 
+understood two percent of that, but I still absolutely loved it. So I ' m going 
+to sound dumb. Your theory of everything — Garrett Lisi: I ' m used to coral. 
+CA: That ' s right. The reason it ' s got a few people at least excited is 
+because, if you ' re right, it brings gravity and **quantum** theory together. 
+So are you saying that we should think of the universe, at its heart — that the 
+smallest things that there are, are somehow an E8 **object** of possibility? I 
+mean, is there a **scale** to it, at the smallest **scale** , or. . . ? GL: 
+Well, right now the pattern I showed you that corresponds to what we know about 
+elementary particle physics — that already corresponds to a very beautiful 
+shape. And that ' s the one that I said we knew for certain. And that shape has 
+remarkable similarities — and the way it fits into this E8 pattern, which could 
+be the rest of the picture. And these patterns of points that I ' ve shown for 
+you actually represent symmetries of this high-dimensional **object** that 
+would be warping and moving and dancing over the space-time that we experience. 
+And that would be what explains all these elementary particles that we see. CA: 
+But a string theorist, as I understand it, explains electrons in terms of much 
+smaller strings vibrating — I know, you don ' t like string theory — vibrating 
+inside it. How should we think of an electron in relation to E8 ? GL: Well, it 
+would be one of the symmetries of this E8 shape. So what ' s happening is, as 
+the shape is moving over space-time, it ' s twisting. And the direction it ' s 
+twisting as it moves is what particle we see. So it would be — CA: The size of 
+the E8 shape, how does that relate to the electron? I feel like I need that for 
+my picture. Is it bigger? Is it smaller? GL: As far as we know, electrons are 
+point particles, so this would be going down to the smallest possible 
+**scales** . So the way these things are explained in **quantum** field theory 
+is, all possibilities are expanding and developing at once. And this is why I 
+use the analogy to coral. And — in this way, the way that E8 comes in is it 
+will be as a shape that ' s attached at each point in the space-time. And, as I 
+said, the way the shape twists — the directional along which way the shape is 
+twisting as it moves over this curved surface — is what the elementary 
+particles are, themselves. So through **quantum** field theory, they manifest 
+themselves as points and interact that way. I don ' t know if I ' ll be able to 
+make this any clearer. CA: It doesn ' t really matter. It ' s evoking a kind of 
+sense of wonder, and I certainly want to understand more of this. But thank you 
+so much for coming. That was absolutely fascinating. 
 
 Lemmas in this text that loaded on the factor:
 

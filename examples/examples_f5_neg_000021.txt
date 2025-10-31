@@ -32,8 +32,8 @@ man named Francis Godwin. Godwin wrote a story about a Spanish explorer,
 Domingo Gonsales, who ended up marooned on the island of St. Helena in the 
 middle of the Atlantic, and there, in an effort to get home, developed a 
 machine, an invention, to harness the power of the local wild **geese** to 
-allow him to fly — and eventually to embark on a voyage to the Moon. Godwin ' 
-s book, " The Man in the Moone, or a Discourse of a Voyage Thither, " was only 
+allow him to fly — and eventually to embark on a voyage to the Moon. Godwin ' s 
+book, " The Man in the Moone, or a Discourse of a Voyage Thither, " was only 
 published posthumously and anonymously in 1638 , likely on account of the 
 number of controversial ideas that it contained, including an endorsement of 
 the Copernican view of the universe that put the Sun at the center of the Solar 
@@ -83,11 +83,11 @@ expounded his own personal view of the cosmographical nature of the universe.
 In his stories, he would describe in fantastical technical detail machines and 
 contraptions, and nowhere was he more influential in this than in his short 
 story, " The Unparalleled Adventure of One Hans Pfaall. " It ' s a story of an 
-unemployed bellows maker in Rotterdam, who, depressed and tired of life — 
-this is Poe, after all — and deeply in debt, he decides to build a 
-hermetically enclosed balloon-borne carriage that is launched into the air by 
-dynamite and from there, floats through the vacuum of space all the way to the 
-lunar surface. And importantly, he did not develop this story alone, for in the 
+unemployed bellows maker in Rotterdam, who, depressed and tired of life — this 
+is Poe, after all — and deeply in debt, he decides to build a hermetically 
+enclosed balloon-borne carriage that is launched into the air by dynamite and 
+from there, floats through the vacuum of space all the way to the lunar 
+surface. And importantly, he did not develop this story alone, for in the 
 appendix to his tale, he explicitly acknowledged Godwin ' s " A Man in the 
 Moone " from over 200 years earlier as an influence, calling it " a singular 
 and somewhat ingenious little book. " And although this idea of a balloon-borne 
@@ -101,15 +101,15 @@ Jules Verne ' s " From the Earth to the Moon, " written in 1865 . And it ' s a
 story that has a remarkable legacy and a remarkable similarity to the real 
 voyages to the Moon that would take place over a hundred years later. Because 
 in the story, the first voyage to the Moon takes place from Florida, with three 
-people on board, in a trip that takes three days — exactly the parameters 
-that would prevail during the Apollo program itself. And in an explicit tribute 
-to Poe ' s influence on him, Verne situated the group responsible for this feat 
-in the book in Baltimore, at the Baltimore Gun Club, with its members shouting, 
-" Cheers for Edgar Poe! " as they began to lay out their plans for their 
-conquest of the Moon. And just as Verne was influenced by Poe, so, too, would 
-Verne ' s own story go on to influence and inspire the first generation of 
-rocket scientists. The two great pioneers of liquid fuel rocketry in Russia and 
-in Germany, Konstantin Tsiolkovsky and Hermann Oberth, both traced their own 
+people on board, in a trip that takes three days — exactly the parameters that 
+would prevail during the Apollo program itself. And in an explicit tribute to 
+Poe ' s influence on him, Verne situated the group responsible for this feat in 
+the book in Baltimore, at the Baltimore Gun Club, with its members shouting, " 
+Cheers for Edgar Poe! " as they began to lay out their plans for their conquest 
+of the Moon. And just as Verne was influenced by Poe, so, too, would Verne ' s 
+own story go on to influence and inspire the first generation of rocket 
+scientists. The two great pioneers of liquid fuel rocketry in Russia and in 
+Germany, Konstantin Tsiolkovsky and Hermann Oberth, both traced their own 
 commitment to the field of spaceflight to their reading " From the Earth to the 
 Moon " as teenagers, and then subsequently committing themselves to trying to 
 make that story a reality. And Verne ' s story was not the only one in the 19th 

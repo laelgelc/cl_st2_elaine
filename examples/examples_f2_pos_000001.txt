@@ -32,9 +32,9 @@ way it is. What I love about **flags** is that once you understand the design
 of **flags** , what makes a good **flag** , what makes a bad **flag** , you can 
 understand the design of almost anything. So what I ' m going to do here is, I 
 cracked open an episode of my radio show, " 99 % Invisible, " and I ' m going 
-to reconstruct it here on stage, so when I press a button over here — Voice: 
-S for Sound — Roman Mars: It ' s going to make a sound, and so whenever you 
-hear a sound or a voice or a piece of music, it ' s because I pressed a button. 
+to reconstruct it here on stage, so when I press a button over here — Voice: S 
+for Sound — Roman Mars: It ' s going to make a sound, and so whenever you hear 
+a sound or a voice or a piece of music, it ' s because I pressed a button. 
 Voice: Sound. RM: All right, got it? Here we go. Three, two. This is 99 % 
 Invisible. I ' m Roman Mars. **Narrator** : The five basic principles of 
 **flag** design. Roman Mars: According to the North American Vexillological 
@@ -97,10 +97,10 @@ mostly white, and then it has a substantial gold border around it. TK: Which is
 a very attractive design element. RM: I think it ' s OK, but — here come the 
 big no-nos of **flag** design. **Narrator** : Number four, no lettering or 
 seals. Never use writing of any kind. RM: Underneath the phoenix, there ' s a 
-motto on a ribbon that translates to " Gold in peace, iron in war, " plus — 
-and this is the big problem — it says San Francisco across the bottom. TK: If 
-you need to write the name of what you ' re representing on your **flag** , 
-your symbolism has failed. RM: The United States **flag** doesn ' t say " USA " 
+motto on a ribbon that translates to " Gold in peace, iron in war, " plus — and 
+this is the big problem — it says San Francisco across the bottom. TK: If you 
+need to write the name of what you ' re representing on your **flag** , your 
+symbolism has failed. RM: The United States **flag** doesn ' t say " USA " 
 across the front. In fact, country **flags** , they tend to behave. Like, hats 
 off to South Africa and Turkey and Israel and Somalia and Japan and Gambia. 
 There ' s a bunch of really great country **flags** , but they obey good design 

@@ -9,8 +9,8 @@ words loading = 1
 factor score = -2
 
 I was asked by Wilsonart International, a **plastic** laminate company, which 
-is the largest **plastic** laminate company in the world â they asked me 
-to design a trade show booth for exhibition at the International Contemporary 
+is the largest **plastic** laminate company in the world â they asked me to 
+design a trade show booth for exhibition at the International Contemporary 
 Furniture Fair in New York, in 2000 . So looking at their three main markets 
 for their product which were basically transportation design, interiors and 
 furniture, we came up with the solution of taking an old Airstream trailer and 
@@ -69,14 +69,13 @@ Anyway, I went out to Airstream about six times during the process of building
 this prototype, and it ' s called the Bambi prototype. I thought, " Finally, oh 
 yeah great, big company, I ' m gonna work with somebody with money for tooling 
 and molding. " And I walked in their prototype facility, and it ' s exactly 
-like my shop, only bigger â same tools, same things. So the problem became 
-â and they set this dilemma to me â that you have to design the 
-interior using only our existing technology, and there ' s no money for tooling 
-or molding. The trailers themselves are actually hand-built. All the casework 
-is hand-scribed in, uniquely, so you can ' t just cut 100 parts for 100 
-trailers, you have to cut them big, and every single one is hand-fit. They didn 
-' t want to go to a componentized system. And there it is, that ' s the Bambi 
-16 . 
+like my shop, only bigger â same tools, same things. So the problem became â 
+and they set this dilemma to me â that you have to design the interior using 
+only our existing technology, and there ' s no money for tooling or molding. 
+The trailers themselves are actually hand-built. All the casework is 
+hand-scribed in, uniquely, so you can ' t just cut 100 parts for 100 trailers, 
+you have to cut them big, and every single one is hand-fit. They didn ' t want 
+to go to a componentized system. And there it is, that ' s the Bambi 16 . 
 
 Lemmas in this text that loaded on the factor:
 

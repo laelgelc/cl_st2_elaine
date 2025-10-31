@@ -133,11 +133,11 @@ and that ' s exactly what open hardware is about. It ' s to replace competition
 by collaboration. It ' s to transform any new product into a new market. So 
 what is open hardware? Essentially, open hardware is a license. It ' s just an 
 intellectual property setup. It means that everybody is free to use, modify and 
-distribute, and in exchange we only ask for two things: The name is credited 
-— the name of the project — and also the people who make improvement, they 
-share back with the community. So it ' s a very simple condition. And I started 
-this project alone in a garage in New Orleans, but quickly after I wanted to 
-publish and share this information, so I made a Kickstarter, which is a 
+distribute, and in exchange we only ask for two things: The name is credited — 
+the name of the project — and also the people who make improvement, they share 
+back with the community. So it ' s a very simple condition. And I started this 
+project alone in a garage in New Orleans, but quickly after I wanted to publish 
+and share this information, so I made a Kickstarter, which is a 
 crowd-fundraising platform, and in about one month we fundraised 30 , 000 
 dollars. With this money, I hired a team of young engineers from all over the 
 world, and we rented a factory in Rotterdam in the Netherlands. We were peer- 
@@ -179,8 +179,8 @@ of these machines, so we can go at very, very high speed. So imagine yourself.
 You are laying down in a flexible torpedo, sailing at high speed, controlling 
 the shape of the hull with your legs and controlling the sail with your arms. 
 So that ' s what we ' re looking for developing. And we replace the human being 
-— to go, for example, for measuring radioactivity, you don ' t want a human 
-to be sailing those robots — with batteries, motors, micro-controllers and 
+— to go, for example, for measuring radioactivity, you don ' t want a human to 
+be sailing those robots — with batteries, motors, micro-controllers and 
 sensors. This is what our teammates, we dream of at night. We hope that we can 
 sometime clean up oil spills, or we can gather or collect **plastic** in the 
 ocean, or we can have swarms of our machines controlled by multi-player video 

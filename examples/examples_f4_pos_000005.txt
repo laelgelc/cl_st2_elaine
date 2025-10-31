@@ -87,16 +87,16 @@ control powerful motors on the bionic limb. When the bionic limb moves, the AMI
 brain, enabling a person wearing the prosthesis to experience natural 
 sensations of positions and movements of the prosthesis. Can these 
 tissue-design principles be used in an actual human being? A few years ago, my 
-good friend Jim Ewing — of 34 years — reached out to me for help. Jim was 
-in an a terrible climbing accident. He fell 50 feet in the Cayman Islands when 
-his rope failed to catch him hitting the ground ' s surface. He suffered many, 
-many injuries: punctured lungs and many broken bones. After his accident, he 
-dreamed of returning to his chosen sport of mountain climbing, but how might 
-this be possible? The answer was Team Cyborg, a team of surgeons, scientists 
-and engineers assembled at MIT to rebuild Jim back to his former climbing 
-prowess. Team member Dr. Matthew Carty amputated Jim ' s badly damaged leg at 
-Brigham and Women ' s Hospital in Boston, using the AMI surgical procedure. 
-Tendon pulleys were created and attached to Jim ' s tibia bone to reconnect the 
+good friend Jim Ewing — of 34 years — reached out to me for help. Jim was in an 
+a terrible climbing accident. He fell 50 feet in the Cayman Islands when his 
+rope failed to catch him hitting the ground ' s surface. He suffered many, many 
+injuries: punctured lungs and many broken bones. After his accident, he dreamed 
+of returning to his chosen sport of mountain climbing, but how might this be 
+possible? The answer was Team Cyborg, a team of surgeons, scientists and 
+engineers assembled at MIT to rebuild Jim back to his former climbing prowess. 
+Team member Dr. Matthew Carty amputated Jim ' s badly damaged leg at Brigham 
+and Women ' s Hospital in Boston, using the AMI surgical procedure. Tendon 
+pulleys were created and attached to Jim ' s tibia bone to reconnect the 
 opposing **muscles** . The AMI procedure reestablished the neural link between 
 Jim ' s ankle- foot **muscles** and his brain. When Jim moves his phantom limb, 
 the reconnected **muscles** move in dynamic pairs, causing signals of 

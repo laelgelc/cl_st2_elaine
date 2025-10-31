@@ -27,8 +27,8 @@ off. There is lots of love in the air. There ' s lots of grand openings. And
 the organisms, I promise you, have all of their priorities in order. I have 
 this neighbor that keeps me in touch with this, because he ' s living, usually 
 on his back, looking up at those grasses. And one time he came up to me — he 
-was about seven or eight years old — he came up to me. And there was a wasp ' 
-s nest that I had let grow in my yard, right outside my door. And most people 
+was about seven or eight years old — he came up to me. And there was a wasp ' s 
+nest that I had let grow in my yard, right outside my door. And most people 
 knock them down when they ' re small. But it was fascinating to me, because I 
 was looking at this sort of fine Italian end papers. And he came up to me and 
 he knocked. He would come every day with something to show me. And like, knock 
@@ -38,10 +38,10 @@ told him, " You know, Cody, the wasps actually made that. " And we looked at it
 together. And I could see why he thought, you know — it was so beautifully 
 done. It was so architectural. It was so precise. But it occurred to me, how in 
 his small life had he already believed the myth that if something was that well 
-done, that we must have done it. How did he not know — it ' s what we ' ve 
-all forgotten — that we ' re not the first ones to build. We ' re not the 
-first ones to process cellulose. We ' re not the first ones to make paper. We ' 
-re not the first ones to try to optimize packing space, or to waterproof, or to 
+done, that we must have done it. How did he not know — it ' s what we ' ve all 
+forgotten — that we ' re not the first ones to build. We ' re not the first 
+ones to process cellulose. We ' re not the first ones to make paper. We ' re 
+not the first ones to try to optimize packing space, or to waterproof, or to 
 try to heat and cool a structure. We ' re not the first ones to build houses 
 for our young. What ' s happening now, in this field called biomimicry, is that 
 people are beginning to remember that organisms, other organisms, the rest of 
@@ -78,15 +78,15 @@ in hospitals to keep **bacteria** from landing, which is better than dousing it
 with anti-bacterials or harsh cleansers that many, many organisms are now 
 becoming drug resistant. Hospital-acquired infections are now killing more 
 people every year in the United States than die from AIDS or cancer or car 
-accidents combined — about 100 , 000 . This is a little critter that ' s in 
-the Namibian desert. It has no fresh water that it ' s able to drink, but it 
-drinks water out of fog. It ' s got bumps on the back of its wing covers. And 
-those bumps act like a magnet for water. They have water-loving tips, and waxy 
-sides. And the fog comes in and it builds up on the tips. And it goes down the 
-sides and goes into the critter ' s mouth. There is actually a scientist here 
-at Oxford who studied this, Andrew Parker. And now kinetic and architectural 
-firms like Grimshaw are starting to look at this as a way of coating buildings 
-so that they gather water from the fog. 10 times better than our fog-catching 
+accidents combined — about 100 , 000 . This is a little critter that ' s in the 
+Namibian desert. It has no fresh water that it ' s able to drink, but it drinks 
+water out of fog. It ' s got bumps on the back of its wing covers. And those 
+bumps act like a magnet for water. They have water-loving tips, and waxy sides. 
+And the fog comes in and it builds up on the tips. And it goes down the sides 
+and goes into the critter ' s mouth. There is actually a scientist here at 
+Oxford who studied this, Andrew Parker. And now kinetic and architectural firms 
+like Grimshaw are starting to look at this as a way of coating buildings so 
+that they gather water from the fog. 10 times better than our fog-catching 
 nets. CO2 as a building block. Organisms don ' t think of CO2 as a poison. 
 Plants and organisms that make shells, coral, think of it as a building block. 
 There is now a cement manufacturing company starting in the United States 
@@ -142,53 +142,52 @@ There ' s a group of scientists in Cornell that are making what they call a
 synthetic tree, because they are saying, " There is no pump at the bottom of a 
 tree. " It ' s capillary action and transpiration pulls water up, a drop at a 
 time, pulling it, releasing it from a leaf and pulling it up through the roots. 
-And they ' re creating — you can think of it as a kind of wallpaper. They ' 
-re thinking about putting it on the insides of buildings to move water up 
-without pumps. Amazon electric eel — incredibly endangered, some of these 
-species — create 600 volts of electricity with the chemicals that are in your 
-body. Even more interesting to me is that 600 volts doesn ' t fry it. You know 
-we use PVC, and we sheath wires with PVC for insulation. These organisms, how 
-are they insulating against their own electric charge? These are some questions 
-that we ' ve yet to ask. Here ' s a wind turbine manufacturer that went to a 
-whale. Humpback whale has scalloped edges on its flippers. And those scalloped 
-edges play with flow in such a way that is reduces drag by 32 percent. These 
-wind turbines can rotate in incredibly slow windspeeds, as a result. MIT just 
-has a new radio chip that uses far less power than our chips. And it ' s based 
-on the cochlear of your ear, able to pick up internet, wireless, television 
-signals and radio signals, in the same chip. Finally, on an ecosystem **scale** 
-. At Biomimicry Guild, which is my consulting company, we work with HOK 
-Architects. We ' re looking at building whole cities in their planning 
-department. And what we ' re saying is that, shouldn ' t our cities do at least 
-as well, in terms of ecosystem services, as the native systems that they 
-replace? So we ' re creating something called Ecological Performance Standards 
-that hold cities to this higher bar. The question is — biomimicry is an 
-incredibly powerful way to innovate. The question I would ask is, " What ' s 
-worth solving? " If you haven ' t seen this, it ' s pretty amazing. Dr. Adam 
-Neiman. This is a depiction of all of the water on **Earth** in relation to the 
-volume of the **Earth** — all the ice, all the fresh water, all the sea water 
-— and all the atmosphere that we can breathe, in relation to the volume of 
-the **Earth** . And inside those balls life, over 3 . 8 **billion** years, has 
-made a lush, livable place for us. And we are in a long, long line of organisms 
-to come to this planet and ask ourselves, " How can we live here gracefully 
-over the long haul? " How can we do what life has learned to do? Which is to 
-create conditions conducive to life. Now in order to do this, the design 
-challenge of our century, I think, we need a way to remind ourselves of those 
-geniuses, and to somehow meet them again. One of the big ideas, one of the big 
-projects I ' ve been honored to work on is a new website. And I would encourage 
-you all to please go to it. It ' s called AskNature. org. And what we ' re 
-trying to do, in a TEDesque way, is to organize all biological information by 
-design and engineering function. And we ' re working with EOL, Encyclopedia of 
-Life, Ed Wilson ' s TED wish. And he ' s gathering all biological information 
-on one website. And the scientists who are contributing to EOL are answering a 
-question, " What can we learn from this organism? " And that information will 
-go into AskNature. org. And hopefully, any inventor, anywhere in the world, 
-will be able, in the moment of creation, to type in, " How does **nature** 
-remove salt from water? " And up will come mangroves, and sea turtles and your 
-own kidneys. And we ' ll begin to be able to do as Cody does, and actually be 
-in touch with these incredible models, these elders that have been here far, 
-far longer than we have. And hopefully, with their help, we ' ll learn how to 
-live on this **Earth** , and on this home that is ours, but not ours alone. 
-Thank you very much. 
+And they ' re creating — you can think of it as a kind of wallpaper. They ' re 
+thinking about putting it on the insides of buildings to move water up without 
+pumps. Amazon electric eel — incredibly endangered, some of these species — 
+create 600 volts of electricity with the chemicals that are in your body. Even 
+more interesting to me is that 600 volts doesn ' t fry it. You know we use PVC, 
+and we sheath wires with PVC for insulation. These organisms, how are they 
+insulating against their own electric charge? These are some questions that we 
+' ve yet to ask. Here ' s a wind turbine manufacturer that went to a whale. 
+Humpback whale has scalloped edges on its flippers. And those scalloped edges 
+play with flow in such a way that is reduces drag by 32 percent. These wind 
+turbines can rotate in incredibly slow windspeeds, as a result. MIT just has a 
+new radio chip that uses far less power than our chips. And it ' s based on the 
+cochlear of your ear, able to pick up internet, wireless, television signals 
+and radio signals, in the same chip. Finally, on an ecosystem **scale** . At 
+Biomimicry Guild, which is my consulting company, we work with HOK Architects. 
+We ' re looking at building whole cities in their planning department. And what 
+we ' re saying is that, shouldn ' t our cities do at least as well, in terms of 
+ecosystem services, as the native systems that they replace? So we ' re 
+creating something called Ecological Performance Standards that hold cities to 
+this higher bar. The question is — biomimicry is an incredibly powerful way to 
+innovate. The question I would ask is, " What ' s worth solving? " If you haven 
+' t seen this, it ' s pretty amazing. Dr. Adam Neiman. This is a depiction of 
+all of the water on **Earth** in relation to the volume of the **Earth** — all 
+the ice, all the fresh water, all the sea water — and all the atmosphere that 
+we can breathe, in relation to the volume of the **Earth** . And inside those 
+balls life, over 3 . 8 **billion** years, has made a lush, livable place for 
+us. And we are in a long, long line of organisms to come to this planet and ask 
+ourselves, " How can we live here gracefully over the long haul? " How can we 
+do what life has learned to do? Which is to create conditions conducive to 
+life. Now in order to do this, the design challenge of our century, I think, we 
+need a way to remind ourselves of those geniuses, and to somehow meet them 
+again. One of the big ideas, one of the big projects I ' ve been honored to 
+work on is a new website. And I would encourage you all to please go to it. It 
+' s called AskNature. org. And what we ' re trying to do, in a TEDesque way, is 
+to organize all biological information by design and engineering function. And 
+we ' re working with EOL, Encyclopedia of Life, Ed Wilson ' s TED wish. And he 
+' s gathering all biological information on one website. And the scientists who 
+are contributing to EOL are answering a question, " What can we learn from this 
+organism? " And that information will go into AskNature. org. And hopefully, 
+any inventor, anywhere in the world, will be able, in the moment of creation, 
+to type in, " How does **nature** remove salt from water? " And up will come 
+mangroves, and sea turtles and your own kidneys. And we ' ll begin to be able 
+to do as Cody does, and actually be in touch with these incredible models, 
+these elders that have been here far, far longer than we have. And hopefully, 
+with their help, we ' ll learn how to live on this **Earth** , and on this home 
+that is ours, but not ours alone. Thank you very much. 
 
 Lemmas in this text that loaded on the factor:
 

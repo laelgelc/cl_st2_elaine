@@ -5,7 +5,7 @@ conversation = T4622_JR_TEDX_S_2025.txt
 URL = No_URL
 
 word count = 1796
-words loading = 2
+words loading = 3
 factor score = 32
 
 Can you paint with all the colors of the wind? I love this song from the first 
@@ -80,11 +80,11 @@ that there are parts of **queer** culture that is white, feels very white. We
 may fail to see the importance of bringing our families and our cultural 
 communities along our journey as **queer** people. It ' s either the **queer** 
 way or the highway. It ' s one or the other. Young or old. Rich or poor. Smart 
-or stupid. Masculine or feminine. Fit or fat. These binaries create a sense of 
-us and them, those people. A binary approach and position that we generally in 
-Western white **societies** use to determine the norm. We create, conflate, 
-perpetuate binaries that create divisions in our **society** . Saints or 
-sinner, straight or gay. I see it like this. Binaries are a very white and 
+or stupid. Masculine or feminine. Fit or **fat** . These binaries create a 
+sense of us and them, those people. A binary approach and position that we 
+generally in Western white **societies** use to determine the norm. We create, 
+conflate, perpetuate binaries that create divisions in our **society** . Saints 
+or sinner, straight or gay. I see it like this. Binaries are a very white and 
 Western way of thinking, feeling and behaving. As individuals today, we live 
 within these binaries and create identities that then create these labels. We 
 use these labels to then define and confine people and places. We are one or 
@@ -150,5 +150,6 @@ and thank you.
 
 Lemmas in this text that loaded on the factor:
 
+fat (secondary)
 queer
 society

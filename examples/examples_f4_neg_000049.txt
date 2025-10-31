@@ -108,10 +108,10 @@ my mind, to one basic problem, which is our inability to perceive the
 difference between public benefits and private profits. We tend to constantly 
 ignore public wealth simply because it is in the common wealth, it ' s common 
 goods. And here ' s an example from Thailand where we found that, because the 
-value of a mangrove is not that much — it ' s about $600 over the life of 
-nine years that this has been measured — compared to its value as a shrimp 
-farm, which is more like $9 , 600 , there has been a gradual trend to deplete 
-the mangroves and convert them to shrimp farms. But of course, if you look at 
+value of a mangrove is not that much — it ' s about $600 over the life of nine 
+years that this has been measured — compared to its value as a shrimp farm, 
+which is more like $9 , 600 , there has been a gradual trend to deplete the 
+mangroves and convert them to shrimp farms. But of course, if you look at 
 exactly what those profits are, almost 8 , 000 of those dollars are, in fact, 
 subsidies. So you compare the two sides of the coin and you find that it ' s 
 more like 1 , 200 to 600 . That ' s not that hard. But on the other hand, if 
@@ -162,21 +162,21 @@ industry. And the Chinese government responded sensibly and placed a ban on
 felling. A retrospective on 40 years shows that if we had accounted for these 
 costs — the cost of loss of topsoil, the cost of loss of waterways, the lost 
 productivity, the loss to local communities as a result of all these factors, 
-desertification and so on — those costs are almost twice as much as the 
-market price of timber. So in fact, the price of timber in the Beijing 
-marketplace ought to have been three-times what it was had it reflected the 
-true pain and the costs to the society within China. Of course, after the event 
-one can be wise. The way to do this is to do it on a company basis, to take 
-leadership forward, and to do it for as many important sectors which have a 
-cost, and to disclose these answers. Someone once asked me, " Who is better or 
-worse, is it Unilever or is it P&G when it comes to their impact on rainforests 
-in Indonesia? " And I couldn ' t answer because neither of these companies, 
-good though they are and professional though they are, do not calculate or 
-disclose their externalities. But if we look at companies like PUMA — Jochen 
-Zeitz, their CEO and chairman, once challenged me at a function, saying that he 
-' s going to implement my project before I finish it. Well I think we kind of 
-did it at the same time, but he ' s done it. He ' s basically worked the cost 
-to PUMA. PUMA has 2 . 7 **billion** dollars of turnover, 300 million dollars of 
+desertification and so on — those costs are almost twice as much as the market 
+price of timber. So in fact, the price of timber in the Beijing marketplace 
+ought to have been three-times what it was had it reflected the true pain and 
+the costs to the society within China. Of course, after the event one can be 
+wise. The way to do this is to do it on a company basis, to take leadership 
+forward, and to do it for as many important sectors which have a cost, and to 
+disclose these answers. Someone once asked me, " Who is better or worse, is it 
+Unilever or is it P&G when it comes to their impact on rainforests in 
+Indonesia? " And I couldn ' t answer because neither of these companies, good 
+though they are and professional though they are, do not calculate or disclose 
+their externalities. But if we look at companies like PUMA — Jochen Zeitz, 
+their CEO and chairman, once challenged me at a function, saying that he ' s 
+going to implement my project before I finish it. Well I think we kind of did 
+it at the same time, but he ' s done it. He ' s basically worked the cost to 
+PUMA. PUMA has 2 . 7 **billion** dollars of turnover, 300 million dollars of 
 profits, 200 million dollars after tax, 94 million dollars of externalities, 
 cost to business. Now that ' s not a happy situation for them, but they have 
 the confidence and the courage to come forward and say, " Here ' s what we are 
@@ -189,14 +189,14 @@ performance of companies. Today we can ' t yet do that, but I think the path is
 laid out. This can be done. And I ' m delighted that the Institute of Chartered 
 Accountants in the U. K. has already set up a coalition to do this, an 
 international coalition. The other favorite, if you like, solution for me is 
-the creation of green carbon markets. And by the way, these are my favorites 
-— externalities calculation and green carbon markets. TEEB has more than a 
-dozen separate groups of solutions including protected area evaluation and 
-payments for ecosystem services and eco-certification and you name it, but 
-these are the favorites. What ' s green carbon? Today what we have is basically 
-a brown carbon marketplace. It ' s about energy emissions. The European Union 
-ETS is the main marketplace. It ' s not doing too well. We ' ve over-issued. A 
-bit like inflation: you over-issue currency, you get what you see, declining 
+the creation of green carbon markets. And by the way, these are my favorites — 
+externalities calculation and green carbon markets. TEEB has more than a dozen 
+separate groups of solutions including protected area evaluation and payments 
+for ecosystem services and eco-certification and you name it, but these are the 
+favorites. What ' s green carbon? Today what we have is basically a brown 
+carbon marketplace. It ' s about energy emissions. The European Union ETS is 
+the main marketplace. It ' s not doing too well. We ' ve over-issued. A bit 
+like inflation: you over-issue currency, you get what you see, declining 
 prices. But that ' s all about energy and industry. But what we ' re missing is 
 also some other emissions like black carbon, that is soot. What we ' re also 
 missing is blue carbon, which, by the way, is the largest store of carbon — 
@@ -220,8 +220,8 @@ Caribbean. These red dots, these red areas, basically provide the food and
 livelihood for more than half a **billion** people. So that ' s almost an 
 eighth of society. And the sad thing is that, as these coral reefs are lost — 
 and scientists tell us that any level of carbon dioxide in the atmosphere above 
-350 parts per million is too dangerous for the survival of these reefs — we 
-are not only risking the extinction of the entire coral species, the warm water 
+350 parts per million is too dangerous for the survival of these reefs — we are 
+not only risking the extinction of the entire coral species, the warm water 
 corals, we ' re not only risking a fourth of all fish species which are in the 
 oceans, but we are risking the very lives and livelihoods of more than 500 
 million people who live in the developing world in poor countries. So in 

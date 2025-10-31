@@ -53,12 +53,12 @@ have thermonuclear reactions going on, creating chemical elements. And we have
 a cool atmosphere. It ' s cool for me. Cool in my terms is three or four or 
 five thousand degrees. My colleagues in infra-red astronomy call minus 200 
 Kelvin is cool for them. But you know, everything is relative. So for me 5 , 
-000 degrees is pretty cool. This is the spectrum of the Sun — 24 , 000 
-spectral lines, and about 15 percent of these lines is not yet identified. It 
-is amazing. So we are in the 21st century, and we still cannot properly 
-understand the spectrum of the sun. Sometimes we have to deal with just one 
-tiny, weak spectral line to measure the composition of that chemical element in 
-the atmosphere. For instance, you see the spectral line of the gold is the only 
+000 degrees is pretty cool. This is the spectrum of the Sun — 24 , 000 spectral 
+lines, and about 15 percent of these lines is not yet identified. It is 
+amazing. So we are in the 21st century, and we still cannot properly understand 
+the spectrum of the sun. Sometimes we have to deal with just one tiny, weak 
+spectral line to measure the composition of that chemical element in the 
+atmosphere. For instance, you see the spectral line of the gold is the only 
 spectral line in the spectrum of the Sun. And we use this weak feature to 
 measure the composition of gold in the atmosphere of the Sun. And now this is a 
 work in progress. We have been dealing with a similarly very weak feature, 
@@ -94,10 +94,10 @@ the literature. Now to go ahead with this, we really need to understand
 chemical evolution of the universe. It ' s very complicated. I don ' t really 
 want you to try to understand what is here. But it ' s to show you how 
 complicated is the whole story of the production of chemical elements. You have 
-two channels — the massive stars and low-mass stars — producing and 
-recycling matter and chemical elements in the universe. And doing this for 14 
-billion years, we end up with this picture, which is a very important graph, 
-showing relative abundances of chemical elements in sun-like stars and in the 
+two channels — the massive stars and low-mass stars — producing and recycling 
+matter and chemical elements in the universe. And doing this for 14 billion 
+years, we end up with this picture, which is a very important graph, showing 
+relative abundances of chemical elements in sun-like stars and in the 
 interstellar medium. So which means that it ' s really impossible to find an 
 object where you find about 10 times more sulfur than silicon, five times more 
 calcium than oxygen. It ' s just impossible. And if you find one, I will say 

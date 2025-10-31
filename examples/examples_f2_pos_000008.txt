@@ -22,18 +22,18 @@ you that the universe has a soundtrack and that soundtrack is played on space
 itself, because space can wobble like a drum. It can ring out a kind of 
 recording throughout the universe of some of the most dramatic events as they 
 unfold. Now we ' d like to be able to add to a kind of glorious visual 
-composition that we have of the universe — a sonic composition. And while we 
-' ve never heard the sounds from space, we really should, in the next few 
-years, start to turn up the volume on what ' s going on out there. So in this 
-ambition to capture songs from the universe, we turn our focus to black 
-**holes** and the promise they have, because black **holes** can bang on space- 
-time like mallets on a drum and have a very characteristic song, which I ' d 
-like to play for you — some of our predictions for what that song will be 
-like. Now black **holes** are dark against a dark sky. We can ' t see them 
-directly. They ' re not brought to us with light, at least not directly. We can 
-see them indirectly, because black **holes** wreak havoc on their environment. 
-They destroy stars around them. They churn up debris in their surroundings. But 
-they won ' t come to us directly through light. We might one day see a shadow a 
+composition that we have of the universe — a sonic composition. And while we ' 
+ve never heard the sounds from space, we really should, in the next few years, 
+start to turn up the volume on what ' s going on out there. So in this ambition 
+to capture songs from the universe, we turn our focus to black **holes** and 
+the promise they have, because black **holes** can bang on space- time like 
+mallets on a drum and have a very characteristic song, which I ' d like to play 
+for you — some of our predictions for what that song will be like. Now black 
+**holes** are dark against a dark sky. We can ' t see them directly. They ' re 
+not brought to us with light, at least not directly. We can see them 
+indirectly, because black **holes** wreak havoc on their environment. They 
+destroy stars around them. They churn up debris in their surroundings. But they 
+won ' t come to us directly through light. We might one day see a shadow a 
 black **hole** can cast on a very bright background, but we haven ' t yet. And 
 yet black **holes** may be heard even if they ' re not seen, and that ' s 
 because they bang on space- time like a drum. Now we owe the idea that space 
@@ -43,9 +43,9 @@ this picture, except for maybe without the helpful grid drawn on it. But if we
 were freely falling through the space, even without this helpful grid, we might 
 be able to paint it ourselves, because we would notice that we traveled along 
 straight lines, undeflected straight paths through the universe. Einstein also 
-realized — and this is the real meat of the matter — that if you put energy 
-or mass in the universe, it would curve space, and a freely falling object 
-would pass by, let ' s say, the Sun and it would be deflected along the natural 
+realized — and this is the real meat of the matter — that if you put energy or 
+mass in the universe, it would curve space, and a freely falling object would 
+pass by, let ' s say, the Sun and it would be deflected along the natural 
 curves in the space. It was Einstein ' s great general theory of relativity. 
 Now even light will be bent by those paths. And you can be bent so much that 
 you ' re caught in orbit around the Sun, as the Earth is, or the Moon around 
@@ -58,10 +58,10 @@ universe. It wasn ' t Einstein who realized this, it was Karl Schwarzschild who
 was a German Jew in World War I — joined the German army already an 
 accomplished scientist, working on the Russian front. I like to imagine 
 Schwarzschild in the war in the trenches calculating ballistic trajectories for 
-cannon fire, and then, in between, calculating Einstein ' s equations — as 
-you do in the trenches. And he was reading Einstein ' s recently published 
-general theory of relativity, and he was thrilled by this theory. And he 
-quickly surmised an exact mathematical solution that described something very 
+cannon fire, and then, in between, calculating Einstein ' s equations — as you 
+do in the trenches. And he was reading Einstein ' s recently published general 
+theory of relativity, and he was thrilled by this theory. And he quickly 
+surmised an exact mathematical solution that described something very 
 extraordinary: curves so strong that space would rain down into them, space 
 itself would curve like a waterfall flowing down the throat of a **hole** . And 
 even light could not escape this current. Light would be dragged down the 
@@ -130,16 +130,16 @@ on space-time. Space squeezes and stretches as it emanates out from these black
 speed of light. This computer simulation is due to a relativity group at NASA 
 Goddard. It took almost 30 years for anyone in the world to crack this problem. 
 This was one of the groups. It shows two black **holes** in orbit around each 
-other, again, with these helpfully painted curves. And if you can see — it ' 
-s kind of faint — but if you can see the red waves emanating out, those are 
-the gravitational waves. They ' re literally the sounds of space ringing, and 
-they will travel out from these black **holes** at the speed of light as they 
-ring down and coalesce to one spinning, quiet black **hole** at the end of the 
-day. If you were standing near enough, your ear would resonate with the 
-squeezing and stretching of space. You would literally hear the sound. Now of 
-course, your head would be squeezed and stretched unhelpfully, so you might 
-have trouble understanding what ' s going on. But I ' d like to play for you 
-the sound that we predict. This is from my group — a slightly less glamorous 
+other, again, with these helpfully painted curves. And if you can see — it ' s 
+kind of faint — but if you can see the red waves emanating out, those are the 
+gravitational waves. They ' re literally the sounds of space ringing, and they 
+will travel out from these black **holes** at the speed of light as they ring 
+down and coalesce to one spinning, quiet black **hole** at the end of the day. 
+If you were standing near enough, your ear would resonate with the squeezing 
+and stretching of space. You would literally hear the sound. Now of course, 
+your head would be squeezed and stretched unhelpfully, so you might have 
+trouble understanding what ' s going on. But I ' d like to play for you the 
+sound that we predict. This is from my group — a slightly less glamorous 
 computer modeling. Imagine a lighter black **hole** falling into a very heavy 
 black **hole** . The sound you ' re hearing is the light black **hole** banging 
 on space each time it gets close. If it gets far away, it ' s a little too 
@@ -166,10 +166,10 @@ industrious experiments being built on Earth — one called LIGO — which will
 detect deviations in the squeezing and stretching of space at less than the 
 fraction of a nucleus of an atom over four kilometers. It ' s a remarkably 
 ambitious experiment, and it ' s going to be at advanced sensitivity within the 
-next few years — to pick this up. There ' s also a mission proposed for 
-space, which hopefully will launch in the next ten years, called LISA. And LISA 
-will be able to see super-massive black **holes** — black **holes** millions 
-or billions of times the mass of the Sun. In this Hubble image, we see two 
+next few years — to pick this up. There ' s also a mission proposed for space, 
+which hopefully will launch in the next ten years, called LISA. And LISA will 
+be able to see super-massive black **holes** — black **holes** millions or 
+billions of times the mass of the Sun. In this Hubble image, we see two 
 galaxies. They look like they ' re frozen in some embrace. And each one 
 probably harbors a super-massive black **hole** at its core. But they ' re not 
 frozen; they ' re actually merging. These two black **holes** are colliding, 
@@ -177,36 +177,36 @@ and they will merge over a billion-year time scale. It ' s beyond our human
 perception to pick up a song of that duration. But LISA could see the final 
 stages of two super-massive black **holes** earlier in the universe ' s 
 history, the last 15 minutes before they fall together. And it ' s not just 
-black **holes** , but it ' s also any big disturbance in the universe — and 
-the biggest of them all is the Big Bang. When that expression was coined, it 
-was derisive — like, " Oh, who would believe in a Big Bang? " But now it 
-actually might be more technically accurate because it might bang. It might 
-make a sound. This animation from my friends at Proton Studios shows looking at 
-the Big Bang from the outside. We don ' t ever want to do that actually. We 
-want to be inside the universe because there ' s no such thing as standing 
-outside the universe. So imagine you ' re inside the Big Bang. It ' s 
-everywhere, it ' s all around you, and the space is wobbling chaotically. 
-Fourteen billion years pass and this song is still ringing all around us. 
-Galaxies form, and generations of stars form in those galaxies, and around one 
-star, at least one star, is a habitable planet. And here we are frantically 
-building these experiments, doing these calculations, writing these computer 
-codes. Imagine a billion years ago, two black **holes** collided. That song has 
-been ringing through space for all that time. We weren ' t even here. It gets 
-closer and closer — 40 , 000 years ago, we ' re still doing cave paintings. 
-It ' s like hurry, build your instruments. It ' s getting closer and closer, 
-and in 20 . . . whatever year it will be when our detectors are finally at 
-advanced sensitivity — we ' ll build them, we ' ll turn on the machines and, 
-bang, we ' ll catch it — the first song from space. If it was the Big Bang we 
-were going to pick up, it would sound like this. It ' s a terrible sound. It ' 
-s literally the definition of noise. It ' s white noise; it ' s such a chaotic 
-ringing. But it ' s around us everywhere, presumably, if it hasn ' t been wiped 
-out by some other process in the universe. And if we pick it up, it will be 
-music to our ears because it will be the quiet echo of that moment of our 
-creation, of our observable universe. So within the next few years, we ' ll be 
-able to turn up the soundtrack a little bit, render the universe in audio. But 
-if we detect those earliest moments, it ' ll bring us that much closer to an 
-understanding of the Big Bang, which brings us that much closer to asking some 
-of the hardest, most elusive, questions. If we run the movie of our universe 
+black **holes** , but it ' s also any big disturbance in the universe — and the 
+biggest of them all is the Big Bang. When that expression was coined, it was 
+derisive — like, " Oh, who would believe in a Big Bang? " But now it actually 
+might be more technically accurate because it might bang. It might make a 
+sound. This animation from my friends at Proton Studios shows looking at the 
+Big Bang from the outside. We don ' t ever want to do that actually. We want to 
+be inside the universe because there ' s no such thing as standing outside the 
+universe. So imagine you ' re inside the Big Bang. It ' s everywhere, it ' s 
+all around you, and the space is wobbling chaotically. Fourteen billion years 
+pass and this song is still ringing all around us. Galaxies form, and 
+generations of stars form in those galaxies, and around one star, at least one 
+star, is a habitable planet. And here we are frantically building these 
+experiments, doing these calculations, writing these computer codes. Imagine a 
+billion years ago, two black **holes** collided. That song has been ringing 
+through space for all that time. We weren ' t even here. It gets closer and 
+closer — 40 , 000 years ago, we ' re still doing cave paintings. It ' s like 
+hurry, build your instruments. It ' s getting closer and closer, and in 20 . . 
+. whatever year it will be when our detectors are finally at advanced 
+sensitivity — we ' ll build them, we ' ll turn on the machines and, bang, we ' 
+ll catch it — the first song from space. If it was the Big Bang we were going 
+to pick up, it would sound like this. It ' s a terrible sound. It ' s literally 
+the definition of noise. It ' s white noise; it ' s such a chaotic ringing. But 
+it ' s around us everywhere, presumably, if it hasn ' t been wiped out by some 
+other process in the universe. And if we pick it up, it will be music to our 
+ears because it will be the quiet echo of that moment of our creation, of our 
+observable universe. So within the next few years, we ' ll be able to turn up 
+the soundtrack a little bit, render the universe in audio. But if we detect 
+those earliest moments, it ' ll bring us that much closer to an understanding 
+of the Big Bang, which brings us that much closer to asking some of the 
+hardest, most elusive, questions. If we run the movie of our universe 
 backwards, we know that there was a Big Bang in our past, and we might even 
 hear the cacophonous sound of it, but was our Big Bang the only Big Bang? I 
 mean we have to ask, has it happened before? Will it happen again? I mean, in 
@@ -214,10 +214,10 @@ the spirit of rising to TED ' s challenge to reignite wonder, we can ask
 questions, at least for this last minute, that honestly might evade us forever. 
 But we have to ask: Is it possible that our universe is just a plume off of 
 some greater history? Or, is it possible that we ' re just a branch off of a 
-multiverse — each branch with its own Big Bang in its past — maybe some of 
-them with black **holes** playing drums, maybe some without — maybe some with 
-sentient life, and maybe some without — not in our past, not in our future, 
-but somehow fundamentally connected to us? So we have to wonder, if there is a 
+multiverse — each branch with its own Big Bang in its past — maybe some of them 
+with black **holes** playing drums, maybe some without — maybe some with 
+sentient life, and maybe some without — not in our past, not in our future, but 
+somehow fundamentally connected to us? So we have to wonder, if there is a 
 multiverse, in some other patch of that multiverse, are there creatures? Here ' 
 s my multiverse creatures. Are there other creatures in the multiverse, 
 wondering about us and wondering about their own origins? And if they are, I 

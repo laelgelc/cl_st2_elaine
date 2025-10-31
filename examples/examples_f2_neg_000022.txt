@@ -147,21 +147,21 @@ why don ' t you step in front of it? And after you ' re gone, and your theory
 with you, we ' ll know that there ' s more to that train than just an icon. 
 Well, I wouldn ' t step in front of that train for the same reason that I 
 wouldn ' t carelessly drag that icon to the trash can: not because I take the 
-icon literally — the file is not literally blue or rectangular — but I do 
-take it seriously. I could lose weeks of work. Similarly, evolution has shaped 
-us with perceptual symbols that are designed to keep us alive. We ' d better 
-take them seriously. If you see a snake, don ' t pick it up. If you see a 
-cliff, don ' t jump off. They ' re designed to keep us safe, and we should take 
-them seriously. That does not mean that we should take them literally. That ' s 
-a logical error. Another objection: There ' s nothing really new here. 
-Physicists have told us for a long time that the metal of that train looks 
-solid but really it ' s mostly empty space with microscopic particles zipping 
-around. There ' s nothing new here. Well, not exactly. It ' s like saying, I 
-know that that blue icon on the desktop is not the reality of the computer, but 
-if I pull out my trusty magnifying glass and look really closely, I see little 
-pixels, and that ' s the reality of the computer. Well, not really — you ' re 
-still on the desktop, and that ' s the point. Those microscopic particles are 
-still in space and time: they ' re still in the user interface. So I ' m saying 
+icon literally — the file is not literally blue or rectangular — but I do take 
+it seriously. I could lose weeks of work. Similarly, evolution has shaped us 
+with perceptual symbols that are designed to keep us alive. We ' d better take 
+them seriously. If you see a snake, don ' t pick it up. If you see a cliff, don 
+' t jump off. They ' re designed to keep us safe, and we should take them 
+seriously. That does not mean that we should take them literally. That ' s a 
+logical error. Another objection: There ' s nothing really new here. Physicists 
+have told us for a long time that the metal of that train looks solid but 
+really it ' s mostly empty space with microscopic particles zipping around. 
+There ' s nothing new here. Well, not exactly. It ' s like saying, I know that 
+that blue icon on the desktop is not the reality of the computer, but if I pull 
+out my trusty magnifying glass and look really closely, I see little pixels, 
+and that ' s the reality of the computer. Well, not really — you ' re still on 
+the desktop, and that ' s the point. Those microscopic particles are still in 
+space and time: they ' re still in the user interface. So I ' m saying 
 something far more radical than those physicists. Finally, you might object, 
 look, we all see the train, therefore none of us constructs the train. But 
 remember this example. In this example, we all see a cube, but the screen is 
@@ -222,9 +222,9 @@ and reality is like our perceptions. That theory turns out to be false. Okay,
 throw that theory away. That doesn ' t stop us from now postulating all sorts 
 of other theories about the nature of reality, so it ' s actually progress to 
 recognize that one of our theories was false. So science continues as normal. 
-There ' s no problem here. CA: So you think it ' s possible — — This is 
-cool, but what you ' re saying I think is it ' s possible that evolution can 
-still get you to reason. DH: Yes. Now that ' s a very, very good point. The 
+There ' s no problem here. CA: So you think it ' s possible — — This is cool, 
+but what you ' re saying I think is it ' s possible that evolution can still 
+get you to reason. DH: Yes. Now that ' s a very, very good point. The 
 evolutionary game simulations that I showed were specifically about perception, 
 and they do show that our perceptions have been shaped not to show us reality 
 as it is, but that does not mean the same thing about our logic or mathematics. 

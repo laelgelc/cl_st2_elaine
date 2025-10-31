@@ -64,8 +64,8 @@ might say, let ' s go to the brain and put something in the brain to record
 signals, or in the end of the peripheral nerve and record them there. And these 
 are very exciting research areas, but it ' s really, really hard. You have to 
 put in hundreds of microscopic wires to record from little tiny individual 
-neurons — ordinary fibers that put out tiny signals that are microvolts. And 
-it ' s just too hard to use now and for my patients today. So we developed a 
+neurons — ordinary fibers that put out tiny signals that are microvolts. And it 
+' s just too hard to use now and for my patients today. So we developed a 
 different approach. We ' re using a biological amplifier to amplify these nerve 
 signals — **muscles** . **Muscles** will amplify the nerve signals about a 
 thousand-fold, so that we can record them from on top of the skin, like you saw 
@@ -76,12 +76,12 @@ and let these nerves grow into it. Now you think, " Close hand, " and a little
 section of your chest contracts. You think, " Bend elbow, " a different section 
 contracts. And we can use electrodes or antennae to pick that up and tell the 
 arm to move. That ' s the idea. So this is the first man that we tried it on. 
-His name is Jesse Sullivan. He ' s just a saint of a man — 54-year-old 
-lineman who touched the wrong wire and had both of his arms burnt so badly they 
-had to be amputated at the shoulder. Jesse came to us at the RIC to be fit with 
-these state-of-the-art devices, and here you see them. I ' m still using that 
-old technology with a bicycle cable on his right side. And he picks which joint 
-he wants to move with those chin switches. On the left side he ' s got a modern 
+His name is Jesse Sullivan. He ' s just a saint of a man — 54-year-old lineman 
+who touched the wrong wire and had both of his arms burnt so badly they had to 
+be amputated at the shoulder. Jesse came to us at the RIC to be fit with these 
+state-of-the-art devices, and here you see them. I ' m still using that old 
+technology with a bicycle cable on his right side. And he picks which joint he 
+wants to move with those chin switches. On the left side he ' s got a modern 
 motorized prosthesis with those three joints, and he operates little pads in 
 his shoulder that he touches to make the arm go. And Jesse ' s a good crane 
 operator, and he did okay by our standards. He also required a revision surgery 
@@ -157,84 +157,84 @@ appreciated it. So that was all very exciting. But we want to do better. There
 ' s a lot of information in those nerve signals, and we wanted to get more. You 
 can move each finger. You can move your thumb, your wrist. Can we get more out 
 of it? So we did some experiments where we saturated our poor patients with 
-zillions of electrodes and then had them try to do two dozen different tasks 
-— from wiggling a finger to moving a whole arm to reaching for something — 
-and recorded this data. And then we used some algorithms that are a lot like 
-speech recognition algorithms, called pattern recognition. See. And here you 
-can see, on Jesse ' s chest, when he just tried to do three different things, 
-you can see three different patterns. But I can ' t put in an electrode and 
-say, " Go there. " So we collaborated with our colleagues in University of New 
-Brunswick, came up with this algorithm control, which Amanda can now 
-demonstrate. AK: So I have the elbow that goes up and down. I have the wrist 
-rotation that goes — and it can go all the way around. And I have the wrist 
-flexion and extension. And I also have the hand closed and open. TK: Thank you, 
-Amanda. Now this is a research arm, but it ' s made out of commercial 
-components from here down and a few that I ' ve borrowed from around the world. 
-It ' s about seven pounds, which is probably about what my arm would weigh if I 
-lost it right here. Obviously, that ' s heavy for Amanda. And in fact, it feels 
-even heavier, because it ' s not glued on the same. She ' s carrying all the 
-weight through harnesses. So the exciting part isn ' t so much the 
-mechatronics, but the control. So we ' ve developed a small microcomputer that 
-is blinking somewhere behind her back and is operating this all by the way she 
-trains it to use her individual **muscle** signals. So Amanda, when you first 
-started using this arm, how long did it take to use it? AK: It took just about 
-probably three to four hours to get it to train. I had to hook it up to a 
-computer, so I couldn ' t just train it anywhere. So if it stopped working, I 
-just had to take it off. So now it ' s able to train with just this little 
-piece on the back. I can wear it around. If it stops working for some reason, I 
-can retrain it. Takes about a minute. TK: So we ' re really excited, because 
-now we ' re getting to a clinically practical device. And that ' s where our 
-goal is — to have something clinically pragmatic to wear. We ' ve also had 
-Amanda able to use some of our more advanced arms that I showed you earlier. 
-Here ' s Amanda using an arm made by DEKA Research Corporation. And I believe 
-Dean Kamen presented it at TED a few years ago. So Amanda, you can see, has 
-really good control. It ' s all the pattern recognition. And it now has a hand 
-that can do different grasps. What we do is have the patient go all the way 
-open and think, " What hand grasp pattern do I want? " It goes into that mode, 
-and then you can do up to five or six different hand grasps with this hand. 
-Amanda, how many were you able to do with the DEKA arm? AK: I was able to get 
-four. I had the key grip, I had a chuck grip, I had a power grasp and I had a 
-fine pinch. But my favorite one was just when the hand was open, because I work 
-with kids, and so all the time you ' re clapping and singing, so I was able to 
-do that again, which was really good. TK: That hand ' s not so good for 
-clapping. AK: Can ' t clap with this one. TK: All right. So that ' s exciting 
-on where we may go with the better mechatronics, if we make them good enough to 
-put out on the market and use in a field trial. I want you to watch closely. 
-Claudia: Oooooh! TK: That ' s Claudia, and that was the first time she got to 
-feel sensation through her prosthetic. She had a little sensor at the end of 
-her prosthesis that then she rubbed over different surfaces, and she could feel 
-different textures of sandpaper, different grits, ribbon cable, as it pushed on 
-her reinnervated hand skin. She said that when she just ran it across the 
-table, it felt like her finger was rocking. So that ' s an exciting laboratory 
-experiment on how to give back, potentially, some skin sensation. But here ' s 
-another video that shows some of our challenges. This is Jesse, and he ' s 
-squeezing a foam toy. And the harder he squeezes — you see a little black 
-thing in the middle that ' s pushing on his skin proportional to how hard he 
-squeezes. But look at all the electrodes around it. I ' ve got a real estate 
-problem. You ' re supposed to put a bunch of these things on there, but our 
-little motor ' s making all kinds of noise right next to my electrodes. So we ' 
-re really challenged on what we ' re doing there. The future is bright. We ' re 
-excited about where we are and a lot of things we want to do. So for example, 
-one is to get rid of my real estate problem and get better signals. We want to 
-develop these little tiny capsules about the size of a piece of risotto that we 
-can put into the **muscles** and telemeter out the EMG signals, so that it ' s 
-not worrying about electrode contact. And we can have the real estate open to 
-try more sensation feedback. We want to build a better arm. This arm — they ' 
-re always made for the 50th percentile male — which means they ' re too big 
-for five-eighths of the world. So rather than a super strong or super fast arm, 
-we ' re making an arm that is — we ' re starting with, the 25th percentile 
-female — that will have a hand that wraps around, opens all the way, two 
-degrees of freedom in the wrist and an elbow. So it ' ll be the smallest and 
-lightest and the smartest arm ever made. Once we can do it that small, it ' s a 
-lot easier making them bigger. So those are just some of our goals. And we 
-really appreciate you all being here today. I ' d like to tell you a little bit 
-about the dark side, with yesterday ' s theme. So Amanda came jet-lagged, she ' 
-s using the arm, and everything goes wrong. There was a computer spook, a 
-broken wire, a converter that sparked. We took out a whole circuit in the hotel 
-and just about put on the fire alarm. And none of those problems could I have 
-dealt with, but I have a really bright research team. And thankfully Dr. Annie 
-Simon was with us and worked really hard yesterday to fix it. That ' s science. 
-And fortunately, it worked today. So thank you very much. 
+zillions of electrodes and then had them try to do two dozen different tasks — 
+from wiggling a finger to moving a whole arm to reaching for something — and 
+recorded this data. And then we used some algorithms that are a lot like speech 
+recognition algorithms, called pattern recognition. See. And here you can see, 
+on Jesse ' s chest, when he just tried to do three different things, you can 
+see three different patterns. But I can ' t put in an electrode and say, " Go 
+there. " So we collaborated with our colleagues in University of New Brunswick, 
+came up with this algorithm control, which Amanda can now demonstrate. AK: So I 
+have the elbow that goes up and down. I have the wrist rotation that goes — and 
+it can go all the way around. And I have the wrist flexion and extension. And I 
+also have the hand closed and open. TK: Thank you, Amanda. Now this is a 
+research arm, but it ' s made out of commercial components from here down and a 
+few that I ' ve borrowed from around the world. It ' s about seven pounds, 
+which is probably about what my arm would weigh if I lost it right here. 
+Obviously, that ' s heavy for Amanda. And in fact, it feels even heavier, 
+because it ' s not glued on the same. She ' s carrying all the weight through 
+harnesses. So the exciting part isn ' t so much the mechatronics, but the 
+control. So we ' ve developed a small microcomputer that is blinking somewhere 
+behind her back and is operating this all by the way she trains it to use her 
+individual **muscle** signals. So Amanda, when you first started using this 
+arm, how long did it take to use it? AK: It took just about probably three to 
+four hours to get it to train. I had to hook it up to a computer, so I couldn ' 
+t just train it anywhere. So if it stopped working, I just had to take it off. 
+So now it ' s able to train with just this little piece on the back. I can wear 
+it around. If it stops working for some reason, I can retrain it. Takes about a 
+minute. TK: So we ' re really excited, because now we ' re getting to a 
+clinically practical device. And that ' s where our goal is — to have something 
+clinically pragmatic to wear. We ' ve also had Amanda able to use some of our 
+more advanced arms that I showed you earlier. Here ' s Amanda using an arm made 
+by DEKA Research Corporation. And I believe Dean Kamen presented it at TED a 
+few years ago. So Amanda, you can see, has really good control. It ' s all the 
+pattern recognition. And it now has a hand that can do different grasps. What 
+we do is have the patient go all the way open and think, " What hand grasp 
+pattern do I want? " It goes into that mode, and then you can do up to five or 
+six different hand grasps with this hand. Amanda, how many were you able to do 
+with the DEKA arm? AK: I was able to get four. I had the key grip, I had a 
+chuck grip, I had a power grasp and I had a fine pinch. But my favorite one was 
+just when the hand was open, because I work with kids, and so all the time you 
+' re clapping and singing, so I was able to do that again, which was really 
+good. TK: That hand ' s not so good for clapping. AK: Can ' t clap with this 
+one. TK: All right. So that ' s exciting on where we may go with the better 
+mechatronics, if we make them good enough to put out on the market and use in a 
+field trial. I want you to watch closely. Claudia: Oooooh! TK: That ' s 
+Claudia, and that was the first time she got to feel sensation through her 
+prosthetic. She had a little sensor at the end of her prosthesis that then she 
+rubbed over different surfaces, and she could feel different textures of 
+sandpaper, different grits, ribbon cable, as it pushed on her reinnervated hand 
+skin. She said that when she just ran it across the table, it felt like her 
+finger was rocking. So that ' s an exciting laboratory experiment on how to 
+give back, potentially, some skin sensation. But here ' s another video that 
+shows some of our challenges. This is Jesse, and he ' s squeezing a foam toy. 
+And the harder he squeezes — you see a little black thing in the middle that ' 
+s pushing on his skin proportional to how hard he squeezes. But look at all the 
+electrodes around it. I ' ve got a real estate problem. You ' re supposed to 
+put a bunch of these things on there, but our little motor ' s making all kinds 
+of noise right next to my electrodes. So we ' re really challenged on what we ' 
+re doing there. The future is bright. We ' re excited about where we are and a 
+lot of things we want to do. So for example, one is to get rid of my real 
+estate problem and get better signals. We want to develop these little tiny 
+capsules about the size of a piece of risotto that we can put into the 
+**muscles** and telemeter out the EMG signals, so that it ' s not worrying 
+about electrode contact. And we can have the real estate open to try more 
+sensation feedback. We want to build a better arm. This arm — they ' re always 
+made for the 50th percentile male — which means they ' re too big for 
+five-eighths of the world. So rather than a super strong or super fast arm, we 
+' re making an arm that is — we ' re starting with, the 25th percentile female 
+— that will have a hand that wraps around, opens all the way, two degrees of 
+freedom in the wrist and an elbow. So it ' ll be the smallest and lightest and 
+the smartest arm ever made. Once we can do it that small, it ' s a lot easier 
+making them bigger. So those are just some of our goals. And we really 
+appreciate you all being here today. I ' d like to tell you a little bit about 
+the dark side, with yesterday ' s theme. So Amanda came jet-lagged, she ' s 
+using the arm, and everything goes wrong. There was a computer spook, a broken 
+wire, a converter that sparked. We took out a whole circuit in the hotel and 
+just about put on the fire alarm. And none of those problems could I have dealt 
+with, but I have a really bright research team. And thankfully Dr. Annie Simon 
+was with us and worked really hard yesterday to fix it. That ' s science. And 
+fortunately, it worked today. So thank you very much. 
 
 Lemmas in this text that loaded on the factor:
 

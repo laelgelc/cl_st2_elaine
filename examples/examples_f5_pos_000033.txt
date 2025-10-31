@@ -14,10 +14,10 @@ year, resulting in half a million deaths. I would like to talk to you about
 enough. Why? We ' ve been working at it for 100 plus years. When we started, 
 technology was limited. We could see just a tiny fraction of what the parasite 
 really looked like. Today, we are awash with technology, advanced imaging and 
-omics platforms — genomics, transcriptomics, proteomics. These tools have 
-given us a clearer view of just how complex the parasite really is. However, in 
-spite of this, our approach to vaccine design has remained pretty rudimentary. 
-To make a good vaccine, we must go back to basics to understand how our bodies 
+omics platforms — genomics, transcriptomics, proteomics. These tools have given 
+us a clearer view of just how complex the parasite really is. However, in spite 
+of this, our approach to vaccine design has remained pretty rudimentary. To 
+make a good vaccine, we must go back to basics to understand how our bodies 
 handle this complexity. People who are frequently **infected** with **malaria** 
 learn to deal with it. They get the **infection** , but they don ' t get ill. 
 The recipe is encoded in antibodies. My team went back to our complex parasite, 

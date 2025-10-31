@@ -43,8 +43,8 @@ avoid any accident that can physically be avoided. I must confess, there ' s
 kind of a third motivation as well. You see, I have a passion for racing. In 
 the past, I ' ve been a race car owner, a crew chief and a driving coach, 
 although maybe not at the level that you ' re currently expecting. One of the 
-things that we ' ve developed in the lab — we ' ve developed several vehicles 
-— is what we believe is the world ' s first autonomously drifting car. It ' s 
+things that we ' ve developed in the lab — we ' ve developed several vehicles — 
+is what we believe is the world ' s first autonomously drifting car. It ' s 
 another one of those categories where maybe there ' s not a lot of competition. 
 But this is P1 . It ' s an entirely student-built electric vehicle, which 
 through using its rear-wheel drive and front-wheel steer-by-wire can drift 
@@ -100,10 +100,10 @@ as the road falls away, you realize it was actually the top of a tree. All
 right, so thanks to the Revs Program at Stanford, we were able to take John 
 there and put him behind the wheel of a 1960 Porsche Abarth Carrera. Life is 
 way too short for boring cars. So, here you see John on the track, he ' s going 
-up the hill — Oh! Somebody liked that — and you can see, actually, his 
-mental workload — measuring here in the red bar — you can see his actions 
-as he approaches. Now watch, he has to downshift. And then he has to turn left. 
-Look for the tree, and down. Not surprisingly, you can see this is a pretty 
+up the hill — Oh! Somebody liked that — and you can see, actually, his mental 
+workload — measuring here in the red bar — you can see his actions as he 
+approaches. Now watch, he has to downshift. And then he has to turn left. Look 
+for the tree, and down. Not surprisingly, you can see this is a pretty 
 challenging task. You can see his mental workload spike as he goes through 
 this, as you would expect with something that requires this level of 
 complexity. But what ' s really interesting is to look at areas of the track 
