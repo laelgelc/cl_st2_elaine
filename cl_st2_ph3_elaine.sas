@@ -66,8 +66,8 @@ proc datasets library=work nolist; delete corr  ; run;
 
 DATA corr;
   INFILE "/home/&sasusername/&myfolder/corr.txt" ;
-  length _TYPE_ $ 4 _NAME_ $ 8 v000001-v001028 8 ;
-  input _TYPE_ $ _NAME_ $ v000001-v001028 ;
+  length _TYPE_ $ 4 _NAME_ $ 8 v000001-v001019 8 ;
+  input _TYPE_ $ _NAME_ $ v000001-v001019 ;
 RUN;
 
 /* turn missing correlation values to zeros */
@@ -80,7 +80,7 @@ DATA=temp (rename=_name_ = Name1)
 OUT=temp2 (rename = (_name_ = Name2 col1=corr))
 ;
 by name1;
-var v000001-v001028;
+var v000001-v001019;
 RUN;
 
 proc sort data=temp2 ; by corr ; run;
