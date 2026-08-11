@@ -1,0 +1,341 @@
+f1pos ib
+f1pos macron
+f1pos palestinians
+f1pos israelis
+f1pos iranian
+f1pos chancellor
+f1pos nazism
+f1pos rapprochement
+f1pos hw
+f1pos hamas
+f1pos russians
+f1pos afd
+f1pos ukrainian
+f1pos palestinian
+f1pos israeli
+f1pos europeans
+f1pos connectedness
+f1pos russian
+f1pos digit
+f1pos sector
+f1pos refuse
+f1pos extremist
+f1pos summit
+f1pos extremism
+f1pos crisis (secondary)
+f1pos gang (secondary)
+f1pos demand
+f1pos flag (secondary)
+f1neg plastic
+f1neg flap
+f1neg ant (secondary)
+f1neg vagina (secondary)
+f1neg chef (secondary)
+f1neg bask (secondary)
+f1neg symmetry (secondary)
+f2pos okay
+f2pos blogs
+f2pos sport
+f2pos athlete
+f2pos racial
+f2pos rape
+f2pos lady
+f2pos father
+f2pos seat
+f2pos racist (secondary)
+f2pos gang
+f2pos crash
+f2pos dictionary
+f2pos restaurant
+f2pos flag
+f2pos doctor
+f2pos skill
+f2pos deaf
+f2pos muscle (secondary)
+f2pos racism (secondary)
+f2pos confession (secondary)
+f2pos engine
+f2pos toss
+f2pos sheet
+f2pos interviewer
+f2pos bread
+f2pos sauce
+f2pos illustration
+f2pos narrator
+f2pos headache
+f2pos blood
+f2pos dream
+f2pos copy
+f2pos photo
+f2pos blog (secondary)
+f2pos chef
+f2pos introvert
+f2pos refuse (secondary)
+f2pos card
+f2pos device
+f2pos monologue (secondary)
+f2pos cocaine
+f2pos diamond
+f2pos golf (secondary)
+f2pos maintenance (secondary)
+f2pos marijuana
+f2pos society
+f2pos queer
+f2pos palestinian (secondary)
+f2pos bin
+f2pos tag
+f2pos affair (secondary)
+f2pos hole
+f2pos demand (secondary)
+f2pos fat (secondary)
+f2pos israeli (secondary)
+f2pos taker
+f2neg fir
+f2neg birch
+f2neg mycelium
+f2neg pigmented
+f2neg beetle
+f2neg mildness
+f2neg airstream
+f2neg dragonfly
+f2neg briquette
+f2neg afd (secondary)
+f2neg cuttlefish
+f2neg pigmentation
+f2neg psychedelics
+f2neg nanoparticle
+f2neg papilla (secondary)
+f2neg stomatopod
+f2neg rapprochement (secondary)
+f2neg silica
+f2neg replicator
+f2neg supermassive
+f2neg malarious (secondary)
+f2neg forager
+f2neg organism (secondary)
+f2neg beekeeper
+f2neg thorium
+f2neg excrement (secondary)
+f2neg foie
+f2neg atheism
+f2neg lander (secondary)
+f2neg bask
+f2neg petal
+f2neg gras
+f2neg slime (secondary)
+f2neg macron (secondary)
+f3pos organism
+f3pos golf
+f3pos pollution
+f3pos nest
+f3pos soil
+f3pos shrimp
+f3pos dung
+f3pos chemical
+f3pos fat
+f3pos gas
+f3pos pup
+f3pos bacterium
+f3pos bee
+f3pos mushroom
+f3pos colony
+f3pos beetle (secondary)
+f3pos monsoon
+f3pos crisis
+f3pos clean
+f3pos genome
+f3pos maintenance
+f3pos sea
+f3pos agnostic (secondary)
+f3pos toss (secondary)
+f3pos infection (secondary)
+f3pos tail (secondary)
+f3pos radar (secondary)
+f3pos malaria (secondary)
+f3pos shark (secondary)
+f3pos solution
+f3pos billion
+f3pos outbreak (secondary)
+f3pos reactor (secondary)
+f3pos otter (secondary)
+f3pos spider (secondary)
+f3pos tag (secondary)
+f3pos vent
+f3pos bluefin
+f3pos tuna (secondary)
+f3pos cocaine (secondary)
+f3pos eighteenth (secondary)
+f3pos continent
+f3pos nanoparticle (secondary)
+f3pos ib (secondary)
+f3neg rm
+f3neg papilla
+f3neg teleconference (secondary)
+f3neg interrogation
+f3neg headrest
+f3neg deaf (secondary)
+f3neg cadet
+f3neg maltese
+f3neg pottery
+f3neg outscore
+f3neg blogosphere
+f3neg banjo
+f3neg chide (secondary)
+f3neg airstream (secondary)
+f3neg resplendent (secondary)
+f3neg recline
+f3neg metronome
+f3neg jihad
+f3neg tg
+f3neg cuttlefish (secondary)
+f3neg queerness
+f3neg giver
+f3neg pigmentation (secondary)
+f3neg malarious
+f3neg copilot
+f3neg migraine
+f3neg flute
+f3neg interviewer (secondary)
+f3neg atheism (secondary)
+f3neg origami (secondary)
+f3neg coupe
+f3neg psychedelics (secondary)
+f3neg varsity
+f3neg anvil
+f3neg fractals
+f3neg chancellor (secondary)
+f4pos convulsion
+f4pos electroconvulsive
+f4pos electroshock
+f4pos epileptic
+f4pos eighteenth
+f4pos bovine
+f4pos relaxant
+f4pos lobotomy
+f4pos convulse
+f4pos muscle
+f4pos headache (secondary)
+f4neg earth
+f4neg ant
+f4neg bacterium (secondary)
+f4neg soil (secondary)
+f4neg mushroom (secondary)
+f4neg mechanic (secondary)
+f4neg nature
+f4neg mycelium (secondary)
+f4neg scale
+f4neg object (secondary)
+f4neg atheist (secondary)
+f4neg gas (secondary)
+f4neg telescope (secondary)
+f4neg toilet (secondary)
+f4neg flap (secondary)
+f4neg dragonfly (secondary)
+f4neg billion (secondary)
+f4neg artificial (secondary)
+f4neg mold
+f4neg silk (secondary)
+f4neg quantum (secondary)
+f4neg continent (secondary)
+f5pos distancing
+f5pos quarantine
+f5pos tracing
+f5pos coronavirus
+f5pos transmission
+f5pos infectious
+f5pos outbreak
+f5pos infect
+f5pos infection
+f5pos fatality
+f5pos teleconference
+f5pos sanitation
+f5pos malaria
+f5pos kit
+f5pos blog
+f5pos sector (secondary)
+f5pos pricing
+f5pos affair
+f5pos contact
+f5pos radar
+f5pos extrovert
+f5pos lg
+f5pos mildness (secondary)
+f5pos cart
+f5pos developer
+f5pos genome (secondary)
+f5pos doctor (secondary)
+f5pos juggle
+f5neg dictionary (secondary)
+f5neg alpha
+f5neg stomatopod (secondary)
+f5neg spider
+f5neg shrimp (secondary)
+f5neg pup (secondary)
+f5neg mustard
+f5neg otter
+f5neg mantis
+f5neg psychedelic
+f5neg marijuana (secondary)
+f5neg nest (secondary)
+f5neg goose
+f5neg splendid (secondary)
+f5neg chunky
+f6pos splendid
+f6pos vagina
+f6pos atheist
+f6pos chide
+f6pos nightgown
+f6pos racist
+f6pos confession
+f6pos resplendent
+f6pos agnostic
+f6pos excrement
+f6pos satan
+f6pos racism
+f6pos carb
+f6pos monologue
+f6pos infect (secondary)
+f6pos mumble
+f6pos racial (secondary)
+f6pos birch (secondary)
+f6pos extremism (secondary)
+f6pos toilet
+f6pos rape (secondary)
+f6pos alpha (secondary)
+f6pos psychedelic (secondary)
+f6pos father (secondary)
+f6pos slime
+f6pos queer (secondary)
+f6neg mechanic
+f6neg shark
+f6neg telescope
+f6neg reactor
+f6neg tesla
+f6neg comet
+f6neg europeans (secondary)
+f6neg dodo
+f6neg mesh
+f6neg tail
+f6neg symmetry
+f6neg silk
+f6neg hydrothermal
+f6neg falcon
+f6neg russian (secondary)
+f6neg artificial
+f6neg object
+f6neg lander
+f6neg crash (secondary)
+f6neg maltese (secondary)
+f6neg sea (secondary)
+f6neg origami
+f6neg engine (secondary)
+f6neg plastic (secondary)
+f6neg quantum
+f6neg summit (secondary)
+f6neg tuna
+f6neg colony (secondary)
+f6neg fold
+f6neg developer (secondary)
+f6neg kit (secondary)
+f6neg sheet (secondary)
+f6neg apprentice
