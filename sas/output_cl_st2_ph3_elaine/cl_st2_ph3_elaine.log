@@ -1,0 +1,150 @@
+ 
+ 1          OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 68         
+ 69         proc corr data = observed outplc = polychor polychoric noprint;
+ 70         var &names ;
+ 71         run;
+ 
+ WARNING: The number of groups for variable v000020 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000036 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000103 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000107 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000112 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000124 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000132 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000146 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000152 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000159 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000177 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000178 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000181 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000236 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000286 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000288 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000322 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000351 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000361 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000367 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000368 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000376 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000386 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000421 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000424 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000428 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000434 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000459 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000465 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000492 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000495 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000508 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000512 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000523 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000525 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000531 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000534 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000541 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000591 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000605 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000622 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000659 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000665 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000668 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000685 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000686 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000721 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000728 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000805 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000809 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000833 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000914 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000927 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000928 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000935 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000971 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000984 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v000991 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v001005 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v001009 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ WARNING: The number of groups for variable v001013 is greater than 20, the number in the NGROUPS= option, the affected polychoric 
+          correlations are set to missing.
+ NOTE: The data set WORK.POLYCHOR has 339 observations and 338 variables.
+ NOTE: PROCEDURE CORR used (Total process time):
+       real time           6:47.90
+       user cpu time       6:45.32
+       system cpu time     0.18 seconds
+       memory              208105.78k
+       OS Memory           260136.00k
+       Timestamp           11/08/2026 06:53:03 PM
+       Step Count                        139  Switch Count  5
+       Page Faults                       0
+       Page Reclaims                     53599
+       Page Swaps                        0
+       Voluntary Context Switches        39
+       Involuntary Context Switches      1559
+       Block Input Operations            0
+       Block Output Operations           2160
+       
+ 
+ 72         
+ 73         OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 83         
