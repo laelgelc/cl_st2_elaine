@@ -36,16 +36,26 @@ def main():
     OUTPUT_BASE = Path("corpus/02_tagged")
     OUTPUT_BASE.mkdir(parents=True, exist_ok=True)
 
-    if not INPUT_BASE.exists():
-        print(f"Input directory not found: {INPUT_BASE}. Exiting.")
+    # Gather year folders under corpus/01_ted_talks/
+    folders = sorted(
+        folder for folder in INPUT_BASE.iterdir()
+        if folder.is_dir()
+    )
+
+    if not folders:
+        print(f"No year folders found under {INPUT_BASE}. Exiting.")
         return
 
     tasks = []
 
-    # Collect files
-    for infile in sorted(INPUT_BASE.glob("*.txt")):
-        outfile = OUTPUT_BASE / infile.name
-        tasks.append((str(infile), str(outfile)))
+    # Collect files and preserve year subfolder structure in output
+    for folder in folders:
+        year = folder.name
+        out_subfolder = OUTPUT_BASE / year
+
+        for infile in sorted(folder.glob("*.txt")):
+            outfile = out_subfolder / infile.name
+            tasks.append((str(infile), str(outfile)))
 
     total = len(tasks)
     if total == 0:
