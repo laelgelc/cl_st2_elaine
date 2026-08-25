@@ -1,0 +1,75 @@
+ 
+ 1          OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 68         
+ 69         proc factor fuzz=0.3 data= polychor (type=corr) OUTSTAT= fout NOPRINT
+ 70         method=principal
+ 71         plots=scree
+ 72         mineigen=1
+ 73         reorder
+ 74         heywood
+ 75         nfactors=100
+ 76         nobs=&nobs;
+ 77         var &names ;
+ 78         run;
+ 
+ NOTE: The PLOTS= option is ignored with NOPRINT.
+ WARNING: Conditional variance of v000007 is zero.
+ WARNING: Conditional variance of v000016 is zero.
+ WARNING: Conditional variance of v000134 is zero.
+ WARNING: Conditional variance of v000144 is zero.
+ WARNING: Conditional variance of v000194 is zero.
+ WARNING: Conditional variance of v000198 is zero.
+ WARNING: Conditional variance of v000213 is zero.
+ WARNING: Conditional variance of v000285 is zero.
+ WARNING: Conditional variance of v000373 is zero.
+ WARNING: Conditional variance of v000374 is zero.
+ WARNING: Conditional variance of v000400 is zero.
+ WARNING: Conditional variance of v000464 is zero.
+ WARNING: Conditional variance of v000477 is zero.
+ WARNING: Conditional variance of v000540 is zero.
+ WARNING: Conditional variance of v000606 is zero.
+ WARNING: Conditional variance of v000623 is zero.
+ WARNING: Conditional variance of v000637 is zero.
+ WARNING: Conditional variance of v000652 is zero.
+ WARNING: Conditional variance of v000659 is zero.
+ WARNING: Conditional variance of v000662 is zero.
+ WARNING: Conditional variance of v000708 is zero.
+ WARNING: Conditional variance of v000739 is zero.
+ WARNING: Conditional variance of v000742 is zero.
+ WARNING: Conditional variance of v000747 is zero.
+ WARNING: Conditional variance of v000762 is zero.
+ WARNING: Conditional variance of v000776 is zero.
+ WARNING: Conditional variance of v000800 is zero.
+ WARNING: Conditional variance of v000812 is zero.
+ WARNING: Conditional variance of v000834 is zero.
+ WARNING: Conditional variance of v000835 is zero.
+ WARNING: Conditional variance of v000837 is zero.
+ WARNING: Conditional variance of v000852 is zero.
+ WARNING: Conditional variance of v000866 is zero.
+ WARNING: Conditional variance of v000877 is zero.
+ WARNING: Conditional variance of v000937 is zero.
+ WARNING: Conditional variance of v000955 is zero.
+ WARNING: Conditional variance of v000971 is zero.
+ WARNING: Conditional variance of v001042 is zero.
+ NOTE: 100 factors will be retained by the NFACTOR criterion.
+ NOTE: The data set WORK.FOUT has 1162 observations and 1058 variables.
+ NOTE: PROCEDURE FACTOR used (Total process time):
+       real time           0.48 seconds
+       user cpu time       0.46 seconds
+       system cpu time     0.01 seconds
+       memory              16002.40k
+       OS Memory           39680.00k
+       Timestamp           25/08/2026 10:00:40 PM
+       Step Count                        130  Switch Count  3
+       Page Faults                       2
+       Page Reclaims                     1507
+       Page Swaps                        0
+       Voluntary Context Switches        23
+       Involuntary Context Switches      2
+       Block Input Operations            128
+       Block Output Operations           27928
+       
+ 
+ 79         
+ 80         OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 90         
