@@ -24,38 +24,19 @@ python tag.py
 
 
 # ------------------------------------------------------------
-# 2. Extract key lemmas by decade
+# 2. Extract key lemmas
 #
-# Uses the tagged corpus to identify decade-level key lemmas.
-# The cutoff controls the minimum threshold for retaining lemmas.
+# Uses the tagged corpus to identify the most frequent valid lemmas.
+# Outputs toplemmas.tsv and the final keywords.txt.
 # ------------------------------------------------------------
 
 python keylemmas.py \
-    --input corpus/07_tagged \
-    --output corpus/08_keylemmas \
-    --cutoff 3
-# Output: corpus/08_keylemmas/<Decade>.tsv
+    --input corpus/02_tagged \
+    --output-top corpus/03_toplemmas \
+    --output-kw corpus/04_kw_selected \
+    --max-total 1000
+# Output: corpus/03_toplemmas/toplemmas.tsv, corpus/04_kw_selected/keywords.txt
 
-
-# ------------------------------------------------------------
-# 3. Select a stratified keyword set
-#
-# Selects up to 250 keywords per decade, with a maximum of 1200
-# keywords before final de-duplication. The final keyword list is
-# used to construct binary keyword columns for SAS.
-# ------------------------------------------------------------
-
-# Run 1 - Considering lowercase alphabetic characters,
-# optionally joined by internal hyphens
-
-python select_kws_stratified.py \
-    --per-decade 250 \
-    --max-total 1200
-# Output: corpus/09_kw_selected/keywords.txt
-
-"
-
-"
 
 # ------------------------------------------------------------
 # 4. Build binary keyword columns
