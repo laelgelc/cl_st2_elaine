@@ -1,0 +1,3 @@
+Dependent	HypothesisType	Source	DF	SS	MS	FValue	ProbF
+fac6	1	year	28	3527.224096	125.972289	123.30	<.0001
+fac6	3	year	28	3527.224096	125.972289	123.30	<.0001

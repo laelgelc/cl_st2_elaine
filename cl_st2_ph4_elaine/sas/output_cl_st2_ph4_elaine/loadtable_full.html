@@ -1,0 +1,6266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.4, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.accessiblecaption
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.activelink
+{
+  color: #800080;
+}
+.aftercaption
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+  padding-top: 4pt;
+}
+.batch
+{
+  background-color: #FAFBFE;
+  border: 1px solid #C1C1C1;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: 'SAS Monospace', 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  padding: 7px;
+}
+.beforecaption
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.body
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.bodydate
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  text-align: right;
+  vertical-align: top;
+  width: 100%;
+}
+.bycontentfolder
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.byline
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.bylinecontainer
+{
+  background-color: #FAFBFE;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.caption
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.cell
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.container
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.contentfolder
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.contentitem
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.contentproclabel
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.contentprocname
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.contents
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.contentsdate
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.contenttitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: bold;
+}
+.continued
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+  width: 100%;
+}
+.data
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.dataemphasis
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.dataemphasisfixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.dataempty
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.datafixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.datastrong
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.datastrongfixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.date
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.document
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+a:link {
+color:#0000FF
+}
+a:visited {
+color:#800080
+}
+a:active {
+color:#800080
+}
+.errorbanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.errorcontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.errorcontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.extendedpage
+{
+  background-color: #FAFBFE;
+  border: 1pt solid #000000;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+}
+.fatalbanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.fatalcontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.fatalcontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.folderaction
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.footer
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.footeremphasis
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.footeremphasisfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.footerempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.footerfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.footerstrong
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.footerstrongfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.frame
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.graph
+{
+  background-color: #FAFBFE;
+  border: 1px solid #C1C1C1;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.header
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headeremphasis
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.headeremphasisfixed
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.headerempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.headersandfooters
+{
+  background-color: #EDF2F9;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerstrong
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerstrongfixed
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.heading1
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading2
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading3
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading4
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading5
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading6
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.index
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.indexaction
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.indexitem
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.indexprocname
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.indextitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: bold;
+}
+.layoutcontainer
+{
+  border: 0px solid #000000;
+  border-spacing: 30px;
+}
+.layoutregion
+{
+  border: 0px solid #000000;
+  border-spacing: 30px;
+}
+.linecontent
+{
+  background-color: #FAFBFE;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.link
+{
+  color: #0000FF;
+}
+.list
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: disc;
+}
+.list10
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list2
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: circle;
+}
+.list3
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list4
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list5
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list6
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list7
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list8
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list9
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: disc;
+}
+.listitem10
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem2
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: circle;
+}
+.listitem3
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem4
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem5
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem6
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem7
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem8
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem9
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.note
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.notebanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.notecontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.notecontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.output
+{
+  background-color: #FAFBFE;
+  border: 1px solid #C1C1C1;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.pageno
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+  text-align: right;
+  vertical-align: top;
+}
+.pages
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.pagesdate
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.pagesitem
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.pagesproclabel
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.pagesprocname
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.pagestitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: bold;
+}
+.paragraph
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.parskip
+{
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.prepage
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  text-align: left;
+}
+.proctitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.proctitlefixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooter
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooteremphasis
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowfooteremphasisfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowfooterempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooterfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowfooterstrong
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooterstrongfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheader
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderemphasis
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowheaderemphasisfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowheaderempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowheaderstrong
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderstrongfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter10
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter2
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter3
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter4
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter5
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter6
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter7
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter8
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter9
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemtitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle10
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle2
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle3
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle4
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle5
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle6
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle7
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle8
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle9
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systitleandfootercontainer
+{
+  background-color: #FAFBFE;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.table
+{
+  border-bottom-width: 0px;
+  border-collapse: collapse;
+  border-color: #C1C1C1;
+  border-left-width: 1px;
+  border-right-width: 0px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 1px;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+  border: 0;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border: 0;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+  border: 0;
+}
+.titleandnotecontainer
+{
+  background-color: #FAFBFE;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.titlesandfooters
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.usertext
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.visitedlink
+{
+  color: #800080;
+}
+.warnbanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.warncontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.warncontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+</head>
+<body class="body">
+
+<div class="branch">
+<a name="IDX"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 1 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor1</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">genome (v000371)</td>
+<td class="r data">0.79243</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">diameter (v000233)</td>
+<td class="r data">0.73366</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">biology (v000092)</td>
+<td class="r data">0.72742</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">array (v000058)</td>
+<td class="r data">0.72540</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">sea (v000825)</td>
+<td class="r data">0.70599</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">evolution (v000311)</td>
+<td class="r data">0.69789</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">slide (v000865)</td>
+<td class="r data">0.68537</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">mate (v000559)</td>
+<td class="r data">0.68135</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">calculate (v000128)</td>
+<td class="r data">0.67667</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">chemistry (v000145)</td>
+<td class="r data">0.67338</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">explosion (v000321)</td>
+<td class="r data">0.67077</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">habitat (v000398)</td>
+<td class="r data">0.66523</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">monterey (v000598)</td>
+<td class="r data">0.66512</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">iron (v000480)</td>
+<td class="r data">0.66347</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">evolutionary (v000312)</td>
+<td class="r data">0.66343</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">whale (v001034)</td>
+<td class="r data">0.66053</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">ph (v000689)</td>
+<td class="r data">0.65254</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">al (v000031)</td>
+<td class="r data">0.64596</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">ecology (v000275)</td>
+<td class="r data">0.63943</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">underwater (v000994)</td>
+<td class="r data">0.63809</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">consumption (v000185)</td>
+<td class="r data">0.62167</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">asteroid (v000064)</td>
+<td class="r data">0.61957</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">altitude (v000036)</td>
+<td class="r data">0.61671</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">pound (v000726)</td>
+<td class="r data">0.61534</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">sphere (v000881)</td>
+<td class="r data">0.61101</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">shrimp (v000853)</td>
+<td class="r data">0.60463</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">frequency (v000355)</td>
+<td class="r data">0.60275</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">electrical (v000281)</td>
+<td class="r data">0.59625</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">patent (v000677)</td>
+<td class="r data">0.59394</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">greenhouse (v000388)</td>
+<td class="r data">0.59314</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">elephant (v000282)</td>
+<td class="r data">0.59172</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">detect (v000226)</td>
+<td class="r data">0.59172</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">abstract (v000003)</td>
+<td class="r data">0.59017</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">fish (v000340)</td>
+<td class="r data">0.58707</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">textbook (v000945)</td>
+<td class="r data">0.57785</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">inch (v000445)</td>
+<td class="r data">0.57727</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">fantastic (v000329)</td>
+<td class="r data">0.57175</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">backwards (v000074)</td>
+<td class="r data">0.57134</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">agriculture (v000025)</td>
+<td class="r data">0.57022</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">powder (v000727)</td>
+<td class="r data">0.56897</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">universe (v000999)</td>
+<td class="r data">0.56767</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">disk (v000245)</td>
+<td class="r data">0.56529</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">transportation (v000964)</td>
+<td class="r data">0.56406</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">width (v001037)</td>
+<td class="r data">0.55707</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">valve (v001012)</td>
+<td class="r data">0.55530</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">graphics (v000387)</td>
+<td class="r data">0.55501</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">right-hand (v000790)</td>
+<td class="r data">0.55444</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">device (v000230)</td>
+<td class="r data">0.55387</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">probability (v000737)</td>
+<td class="r data">0.55226</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">laptop (v000514)</td>
+<td class="r data">0.55166</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">wing (v001038)</td>
+<td class="r data">0.55112</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">gps (v000385)</td>
+<td class="r data">0.54998</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">highway (v000422)</td>
+<td class="r data">0.54802</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">module (v000595)</td>
+<td class="r data">0.54618</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">55</th>
+<td class="l data">feeding (v000333)</td>
+<td class="r data">0.54428</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">56</th>
+<td class="l data">emission (v000286)</td>
+<td class="r data">0.54278</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">57</th>
+<td class="l data">copy (v000190)</td>
+<td class="r data">0.54072</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">58</th>
+<td class="l data">craig (v000201)</td>
+<td class="r data">0.53732</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">59</th>
+<td class="l data">moore (v000599)</td>
+<td class="r data">0.53604</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">60</th>
+<td class="l data">turtle (v000977)</td>
+<td class="r data">0.53556</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">61</th>
+<td class="l data">earthquake (v000273)</td>
+<td class="r data">0.53428</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">62</th>
+<td class="l data">underground (v000992)</td>
+<td class="r data">0.53367</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">63</th>
+<td class="l data">conclude (v000173)</td>
+<td class="r data">0.52455</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">64</th>
+<td class="l data">collection (v000164)</td>
+<td class="r data">0.52347</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">65</th>
+<td class="l data">gore (v000381)</td>
+<td class="r data">0.52163</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">66</th>
+<td class="l data">organic (v000655)</td>
+<td class="r data">0.51880</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">67</th>
+<td class="l data">dwarf (v000269)</td>
+<td class="r data">0.51858</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">68</th>
+<td class="l data">fishing (v000341)</td>
+<td class="r data">0.51756</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">69</th>
+<td class="l data">left (v000524)</td>
+<td class="r data">0.51475</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">70</th>
+<td class="l data">sum (v000910)</td>
+<td class="r data">0.51363</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">71</th>
+<td class="l data">aids (v000027)</td>
+<td class="r data">0.51334</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">72</th>
+<td class="l data">spider (v000882)</td>
+<td class="r data">0.50953</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">73</th>
+<td class="l data">web (v001030)</td>
+<td class="r data">0.50598</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">74</th>
+<td class="l data">supermarket (v000914)</td>
+<td class="r data">0.50510</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">75</th>
+<td class="l data">pc (v000679)</td>
+<td class="r data">0.50506</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">76</th>
+<td class="l data">pulse (v000746)</td>
+<td class="r data">0.50422</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">77</th>
+<td class="l data">technique (v000935)</td>
+<td class="r data">0.50001</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">78</th>
+<td class="l data">ticket (v000953)</td>
+<td class="r data">0.49949</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">79</th>
+<td class="l data">blue (v000105)</td>
+<td class="r data">0.49728</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">80</th>
+<td class="l data">carbon (v000131)</td>
+<td class="r data">0.49726</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">81</th>
+<td class="l data">james (v000489)</td>
+<td class="r data">0.49652</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">82</th>
+<td class="l data">soup (v000876)</td>
+<td class="r data">0.49647</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">83</th>
+<td class="l data">yellow (v001052)</td>
+<td class="r data">0.49557</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">84</th>
+<td class="l data">configuration (v000178)</td>
+<td class="r data">0.49421</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">85</th>
+<td class="l data">oil (v000644)</td>
+<td class="r data">0.49111</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">86</th>
+<td class="l data">african (v000020)</td>
+<td class="r data">0.49013</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">87</th>
+<td class="l data">the (v000946)</td>
+<td class="r data">0.48990</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">88</th>
+<td class="l data">photon (v000694)</td>
+<td class="r data">0.48931</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">89</th>
+<td class="l data">undertake (v000993)</td>
+<td class="r data">0.48658</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">90</th>
+<td class="l data">rock (v000794)</td>
+<td class="r data">0.48630</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">91</th>
+<td class="l data">obscure (v000639)</td>
+<td class="r data">0.48462</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">92</th>
+<td class="l data">malaria (v000546)</td>
+<td class="r data">0.48005</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">93</th>
+<td class="l data">seal (v000826)</td>
+<td class="r data">0.47937</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">94</th>
+<td class="l data">musical (v000611)</td>
+<td class="r data">0.47866</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">95</th>
+<td class="l data">sustainability (v000919)</td>
+<td class="r data">0.47730</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">96</th>
+<td class="l data">surf (v000917)</td>
+<td class="r data">0.47466</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">97</th>
+<td class="l data">wipe (v001039)</td>
+<td class="r data">0.47048</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">98</th>
+<td class="l data">eastern (v000274)</td>
+<td class="r data">0.46999</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">99</th>
+<td class="l data">bullet (v000122)</td>
+<td class="r data">0.46875</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">100</th>
+<td class="l data">crude (v000208)</td>
+<td class="r data">0.46753</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">101</th>
+<td class="l data">geek (v000367)</td>
+<td class="r data">0.46730</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">102</th>
+<td class="l data">oxford (v000665)</td>
+<td class="r data">0.46479</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">103</th>
+<td class="l data">brazil (v000116)</td>
+<td class="r data">0.46411</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">104</th>
+<td class="l data">egypt (v000279)</td>
+<td class="r data">0.46298</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">105</th>
+<td class="l data">continent (v000186)</td>
+<td class="r data">0.46123</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">106</th>
+<td class="l data">lecture (v000523)</td>
+<td class="r data">0.46081</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">107</th>
+<td class="l data">tag (v000929)</td>
+<td class="r data">0.45964</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">108</th>
+<td class="l data">spill (v000883)</td>
+<td class="r data">0.45850</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">109</th>
+<td class="l data">bite (v000094)</td>
+<td class="r data">0.45761</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">110</th>
+<td class="l data">terrifying (v000943)</td>
+<td class="r data">0.45725</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">111</th>
+<td class="l data">relative (v000769)</td>
+<td class="r data">0.45635</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">112</th>
+<td class="l data">endeavor (v000289)</td>
+<td class="r data">0.45432</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">113</th>
+<td class="l data">artificial (v000062)</td>
+<td class="r data">0.45418</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">114</th>
+<td class="l data">discard (v000241)</td>
+<td class="r data">0.45387</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">115</th>
+<td class="l data">drought (v000267)</td>
+<td class="r data">0.45366</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">116</th>
+<td class="l data">coal (v000160)</td>
+<td class="r data">0.45135</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">117</th>
+<td class="l data">fin (v000338)</td>
+<td class="r data">0.45030</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">118</th>
+<td class="l data">disappear (v000240)</td>
+<td class="r data">0.44882</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">119</th>
+<td class="l data">year-old (v001051)</td>
+<td class="r data">0.44767</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">120</th>
+<td class="l data">horizontal (v000430)</td>
+<td class="r data">0.44727</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">121</th>
+<td class="l data">one-third (v000650)</td>
+<td class="r data">0.43930</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">122</th>
+<td class="l data">clip (v000158)</td>
+<td class="r data">0.43817</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">123</th>
+<td class="l data">speculate (v000880)</td>
+<td class="r data">0.43664</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">124</th>
+<td class="l data">surface (v000918)</td>
+<td class="r data">0.43652</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">125</th>
+<td class="l data">reproduction (v000779)</td>
+<td class="r data">0.43603</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">126</th>
+<td class="l data">pocket (v000715)</td>
+<td class="r data">0.43400</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">127</th>
+<td class="l data">amateur (v000037)</td>
+<td class="r data">0.42961</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">128</th>
+<td class="l data">fossil (v000352)</td>
+<td class="r data">0.42801</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">129</th>
+<td class="l data">cockroach (v000161)</td>
+<td class="r data">0.42568</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">130</th>
+<td class="l data">terrorist (v000944)</td>
+<td class="r data">0.42548</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">131</th>
+<td class="l data">brake (v000114)</td>
+<td class="r data">0.42446</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">132</th>
+<td class="l data">airplane (v000030)</td>
+<td class="r data">0.42326</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">133</th>
+<td class="l data">anderson (v000043)</td>
+<td class="r data">0.42290</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">134</th>
+<td class="l data">alexander (v000034)</td>
+<td class="r data">0.41650</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">135</th>
+<td class="l data">object (v000638)</td>
+<td class="r data">0.41585</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">136</th>
+<td class="l data">planet (v000706)</td>
+<td class="r data">0.41396</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">137</th>
+<td class="l data">primate (v000735)</td>
+<td class="r data">0.41326</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">138</th>
+<td class="l data">pollute (v000719)</td>
+<td class="r data">0.41276</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">139</th>
+<td class="l data">tiger (v000954)</td>
+<td class="r data">0.41263</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">140</th>
+<td class="l data">fusion (v000359)</td>
+<td class="r data">0.41233</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">141</th>
+<td class="l data">hiv (v000425)</td>
+<td class="r data">0.41102</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">142</th>
+<td class="l data">okay (v000646)</td>
+<td class="r data">0.40961</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">143</th>
+<td class="l data">triangle (v000967)</td>
+<td class="r data">0.40934</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">144</th>
+<td class="l data">indian (v000449)</td>
+<td class="r data">0.40814</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">145</th>
+<td class="l data">open-source (v000651)</td>
+<td class="r data">0.40699</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">146</th>
+<td class="l data">crab (v000199)</td>
+<td class="r data">0.40630</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">147</th>
+<td class="l data">unclear (v000991)</td>
+<td class="r data">0.40587</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">148</th>
+<td class="l data">stack (v000888)</td>
+<td class="r data">0.40502</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">149</th>
+<td class="l data">plate (v000709)</td>
+<td class="r data">0.40465</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">150</th>
+<td class="l data">mumbai (v000608)</td>
+<td class="r data">0.40450</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">151</th>
+<td class="l data">wet (v001033)</td>
+<td class="r data">0.40343</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">152</th>
+<td class="l data">unveil (v001006)</td>
+<td class="r data">0.40240</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">153</th>
+<td class="l data">friendly (v000356)</td>
+<td class="r data">0.40231</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">154</th>
+<td class="l data">golf (v000380)</td>
+<td class="r data">0.40210</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">155</th>
+<td class="l data">lion (v000533)</td>
+<td class="r data">0.40166</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">156</th>
+<td class="l data">mr (v000603)</td>
+<td class="r data">0.40107</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">157</th>
+<td class="l data">la (v000510)</td>
+<td class="r data">0.40068</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">158</th>
+<td class="l data">peculiar (v000681)</td>
+<td class="r data">0.39969</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">159</th>
+<td class="l data">computer (v000171)</td>
+<td class="r data">0.39816</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">160</th>
+<td class="l data">identical (v000437)</td>
+<td class="r data">0.39446</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">161</th>
+<td class="l data">fraction (v000353)</td>
+<td class="r data">0.39276</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">162</th>
+<td class="l data">minimal (v000588)</td>
+<td class="r data">0.39197</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">163</th>
+<td class="l data">renewable (v000774)</td>
+<td class="r data">0.39172</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">164</th>
+<td class="l data">theme (v000947)</td>
+<td class="r data">0.39101</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">165</th>
+<td class="l data">shipping (v000851)</td>
+<td class="r data">0.39044</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">166</th>
+<td class="l data">dimension (v000236)</td>
+<td class="r data">0.38946</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">167</th>
+<td class="l data">manipulate (v000551)</td>
+<td class="r data">0.38870</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">168</th>
+<td class="l data">famous (v000328)</td>
+<td class="r data">0.38797</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">169</th>
+<td class="l data">tsunami (v000973)</td>
+<td class="r data">0.38478</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">170</th>
+<td class="l data">sheer (v000849)</td>
+<td class="r data">0.38289</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">171</th>
+<td class="l data">paulo (v000678)</td>
+<td class="r data">0.38077</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">172</th>
+<td class="l data">island (v000484)</td>
+<td class="r data">0.38001</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">173</th>
+<td class="l data">kevin (v000506)</td>
+<td class="r data">0.37985</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">174</th>
+<td class="l data">fat (v000332)</td>
+<td class="r data">0.37707</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">175</th>
+<td class="l data">artery (v000059)</td>
+<td class="r data">0.37705</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">176</th>
+<td class="l data">selection (v000830)</td>
+<td class="r data">0.37456</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">177</th>
+<td class="l data">two-third (v000984)</td>
+<td class="r data">0.37383</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">178</th>
+<td class="l data">hormone (v000431)</td>
+<td class="r data">0.37328</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">179</th>
+<td class="l data">bay (v000083)</td>
+<td class="r data">0.37087</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">180</th>
+<td class="l data">drum (v000268)</td>
+<td class="r data">0.36808</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">181</th>
+<td class="l data">bruno (v000120)</td>
+<td class="r data">0.36678</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">182</th>
+<td class="l data">search (v000827)</td>
+<td class="r data">0.36583</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">183</th>
+<td class="l data">clon (v000159)</td>
+<td class="r data">0.36330</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">184</th>
+<td class="l data">slope (v000867)</td>
+<td class="r data">0.36242</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">185</th>
+<td class="l data">buck (v000121)</td>
+<td class="r data">0.35745</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">186</th>
+<td class="l data">learning (v000522)</td>
+<td class="r data">0.35335</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">187</th>
+<td class="l data">unlock (v001000)</td>
+<td class="r data">0.35258</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">188</th>
+<td class="l data">blood (v000102)</td>
+<td class="r data">0.35109</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">189</th>
+<td class="l data">smartphone (v000869)</td>
+<td class="r data">0.34802</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">190</th>
+<td class="l data">exact (v000315)</td>
+<td class="r data">0.34516</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">191</th>
+<td class="l data">occur (v000643)</td>
+<td class="r data">0.33630</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">192</th>
+<td class="l data">enjoy (v000291)</td>
+<td class="r data">0.33538</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">193</th>
+<td class="l data">eric (v000302)</td>
+<td class="r data">0.33481</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">194</th>
+<td class="l data">evolve (v000313)</td>
+<td class="r data">0.33481</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">195</th>
+<td class="l data">lamp (v000512)</td>
+<td class="r data">0.33373</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">196</th>
+<td class="l data">drink (v000265)</td>
+<td class="r data">0.33245</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">197</th>
+<td class="l data">turbine (v000975)</td>
+<td class="r data">0.33237</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">198</th>
+<td class="l data">christ (v000149)</td>
+<td class="r data">0.33207</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">199</th>
+<td class="l data">supplement (v000915)</td>
+<td class="r data">0.33107</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">200</th>
+<td class="l data">stunning (v000903)</td>
+<td class="r data">0.33064</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">201</th>
+<td class="l data">render (v000773)</td>
+<td class="r data">0.32856</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">202</th>
+<td class="l data">san (v000810)</td>
+<td class="r data">0.32826</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">203</th>
+<td class="l data">queen (v000749)</td>
+<td class="r data">0.32685</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">204</th>
+<td class="l data">mri (v000604)</td>
+<td class="r data">0.32600</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">205</th>
+<td class="l data">abyss (v000005)</td>
+<td class="r data">0.32353</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">206</th>
+<td class="l data">london (v000537)</td>
+<td class="r data">0.32133</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">207</th>
+<td class="l data">devise (v000231)</td>
+<td class="r data">0.31959</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">208</th>
+<td class="l data">nut (v000636)</td>
+<td class="r data">0.31392</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">209</th>
+<td class="l data">buyer (v000126)</td>
+<td class="r data">0.31242</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">210</th>
+<td class="l data">brothers (v000119)</td>
+<td class="r data">0.30558</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">211</th>
+<td class="l data">labs (v000511)</td>
+<td class="r data">0.30404</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">212</th>
+<td class="l data">monk (v000597)</td>
+<td class="r data">0.30307</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">213</th>
+<td class="l data">spring (v000886)</td>
+<td class="r data">0.30218</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">214</th>
+<td class="l data">unseen (v001003)</td>
+<td class="r data">0.30145</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX1"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 1 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor1</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">practiced (v000729)</td>
+<td class="r data" nowrap>-0.72664</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">masklike (v000558)</td>
+<td class="r data" nowrap>-0.71421</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">dir (v000238)</td>
+<td class="r data" nowrap>-0.58442</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">bien (v000089)</td>
+<td class="r data" nowrap>-0.56669</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">parce (v000673)</td>
+<td class="r data" nowrap>-0.56669</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">waverly (v001029)</td>
+<td class="r data" nowrap>-0.56559</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">erickson (v000303)</td>
+<td class="r data" nowrap>-0.53092</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">biracial (v000093)</td>
+<td class="r data" nowrap>-0.52657</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">light-hearted (v000531)</td>
+<td class="r data" nowrap>-0.52453</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">sinful (v000861)</td>
+<td class="r data" nowrap>-0.51991</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">two-tenth (v000983)</td>
+<td class="r data" nowrap>-0.51845</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">outscore (v000661)</td>
+<td class="r data" nowrap>-0.51167</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">mccann (v000564)</td>
+<td class="r data" nowrap>-0.50910</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">flay (v000342)</td>
+<td class="r data" nowrap>-0.50367</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">footstool (v000349)</td>
+<td class="r data" nowrap>-0.50316</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">croak (v000205)</td>
+<td class="r data" nowrap>-0.50032</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">seventeenth (v000842)</td>
+<td class="r data" nowrap>-0.49650</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">angkor (v000045)</td>
+<td class="r data" nowrap>-0.49431</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">bleakness (v000098)</td>
+<td class="r data" nowrap>-0.49193</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">stewardess (v000894)</td>
+<td class="r data" nowrap>-0.49139</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">unselfish (v001004)</td>
+<td class="r data" nowrap>-0.48673</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">bk (v000096)</td>
+<td class="r data" nowrap>-0.48647</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">glute (v000376)</td>
+<td class="r data" nowrap>-0.47649</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">hartford (v000407)</td>
+<td class="r data" nowrap>-0.47474</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">untroubled (v001005)</td>
+<td class="r data" nowrap>-0.47048</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">exorcise (v000320)</td>
+<td class="r data" nowrap>-0.46146</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">knead (v000508)</td>
+<td class="r data" nowrap>-0.44347</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">coming-out (v000166)</td>
+<td class="r data" nowrap>-0.44078</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">us (v001009)</td>
+<td class="r data" nowrap>-0.43357</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">mandala (v000550)</td>
+<td class="r data" nowrap>-0.42981</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">justine (v000503)</td>
+<td class="r data" nowrap>-0.42182</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">facebook (v000326)</td>
+<td class="r data" nowrap>-0.41730</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">pacifica (v000667)</td>
+<td class="r data" nowrap>-0.41684</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">reuben (v000787)</td>
+<td class="r data" nowrap>-0.41606</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">millman (v000585)</td>
+<td class="r data" nowrap>-0.41573</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">clear-eyed (v000155)</td>
+<td class="r data" nowrap>-0.41276</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">self-delusion (v000831)</td>
+<td class="r data" nowrap>-0.40123</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">ewing (v000314)</td>
+<td class="r data" nowrap>-0.39611</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">rockland (v000795)</td>
+<td class="r data" nowrap>-0.39139</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">photoshop (v000695)</td>
+<td class="r data" nowrap>-0.38959</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">dregs (v000263)</td>
+<td class="r data" nowrap>-0.38755</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">selfie (v000836)</td>
+<td class="r data" nowrap>-0.37928</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">machiavelli (v000544)</td>
+<td class="r data" nowrap>-0.37517</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">gunter (v000396)</td>
+<td class="r data" nowrap>-0.36982</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">planar (v000705)</td>
+<td class="r data" nowrap>-0.35885</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">industriousness (v000452)</td>
+<td class="r data" nowrap>-0.35109</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">two-inch (v000982)</td>
+<td class="r data" nowrap>-0.34634</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">temporariness (v000942)</td>
+<td class="r data" nowrap>-0.34307</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">non-zero-sum (v000631)</td>
+<td class="r data" nowrap>-0.33577</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">unhappiness (v000998)</td>
+<td class="r data" nowrap>-0.32374</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">detoxify (v000228)</td>
+<td class="r data" nowrap>-0.31769</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">swami (v000921)</td>
+<td class="r data" nowrap>-0.31542</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">back (v000072)</td>
+<td class="r data" nowrap>-0.31032</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">letterform (v000526)</td>
+<td class="r data" nowrap>-0.30757</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">55</th>
+<td class="l data">detention (v000227)</td>
+<td class="r data" nowrap>-0.30211</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX2"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 2 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">gretta (v000390)</td>
+<td class="r data">1.56794</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">gallardo (v000360)</td>
+<td class="r data">1.55535</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">hsu (v000432)</td>
+<td class="r data">1.53705</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">helms (v000417)</td>
+<td class="r data">1.53698</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">cohn (v000162)</td>
+<td class="r data">1.53123</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">constanza (v000183)</td>
+<td class="r data">1.50024</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">quint (v000751)</td>
+<td class="r data">1.47198</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">rubenstein (v000801)</td>
+<td class="r data">1.44385</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">donnell (v000258)</td>
+<td class="r data">1.44348</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">leyton-brown (v000529)</td>
+<td class="r data">1.43514</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">cheng (v000146)</td>
+<td class="r data">1.42985</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">studios (v000900)</td>
+<td class="r data">1.41986</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">hilton (v000424)</td>
+<td class="r data">1.37881</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">phelan (v000691)</td>
+<td class="r data">1.35098</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">pineapple (v000700)</td>
+<td class="r data">1.33503</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">allison (v000035)</td>
+<td class="r data">1.29317</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">colin (v000163)</td>
+<td class="r data">1.26929</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">michelle (v000577)</td>
+<td class="r data">1.23813</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">sap (v000811)</td>
+<td class="r data">1.21328</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">angela (v000044)</td>
+<td class="r data">1.20421</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">organizational (v000656)</td>
+<td class="r data">1.02812</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">workplace (v001044)</td>
+<td class="r data">0.84541</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">antidote (v000048)</td>
+<td class="r data">0.73007</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">burnout (v000125)</td>
+<td class="r data">0.68800</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">distancing (v000248)</td>
+<td class="r data">0.68549</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">ineffective (v000454)</td>
+<td class="r data">0.68327</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">quarantine (v000748)</td>
+<td class="r data">0.67005</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">coronavirus (v000192)</td>
+<td class="r data">0.66937</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">stressful (v000898)</td>
+<td class="r data">0.66648</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">juggle (v000499)</td>
+<td class="r data">0.62441</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">ad (v000013)</td>
+<td class="r data">0.61362</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">dread (v000261)</td>
+<td class="r data">0.60670</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">start-up (v000890)</td>
+<td class="r data">0.59906</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">gotta (v000384)</td>
+<td class="r data">0.59064</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">exhaustion (v000319)</td>
+<td class="r data">0.57616</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">kenneth (v000505)</td>
+<td class="r data">0.56897</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">vacation (v001010)</td>
+<td class="r data">0.55149</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">enroll (v000295)</td>
+<td class="r data">0.53572</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">setting (v000841)</td>
+<td class="r data">0.53186</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">privacy (v000736)</td>
+<td class="r data">0.53120</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">norm (v000633)</td>
+<td class="r data">0.52654</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">stress (v000897)</td>
+<td class="r data">0.51987</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">isolation (v000486)</td>
+<td class="r data">0.51680</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">greg (v000389)</td>
+<td class="r data">0.51606</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">jen (v000492)</td>
+<td class="r data">0.50058</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">fast-forward (v000331)</td>
+<td class="r data">0.49616</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">empathy (v000287)</td>
+<td class="r data">0.48158</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">observe (v000640)</td>
+<td class="r data">0.47615</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">pleasant (v000712)</td>
+<td class="r data">0.47302</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">penalty (v000683)</td>
+<td class="r data">0.47232</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">blunt (v000106)</td>
+<td class="r data">0.47094</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">complain (v000169)</td>
+<td class="r data">0.46930</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">baseball (v000081)</td>
+<td class="r data">0.46925</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">lo (v000535)</td>
+<td class="r data">0.46462</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">55</th>
+<td class="l data">passionate (v000676)</td>
+<td class="r data">0.46003</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">56</th>
+<td class="l data">discriminate (v000242)</td>
+<td class="r data">0.45662</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">57</th>
+<td class="l data">bold (v000108)</td>
+<td class="r data">0.45640</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">58</th>
+<td class="l data">mission (v000590)</td>
+<td class="r data">0.45592</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">59</th>
+<td class="l data">follow-up (v000345)</td>
+<td class="r data">0.45263</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">60</th>
+<td class="l data">researcher (v000782)</td>
+<td class="r data">0.45174</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">61</th>
+<td class="l data">relieve (v000771)</td>
+<td class="r data">0.44714</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">62</th>
+<td class="l data">nearby (v000619)</td>
+<td class="r data">0.44253</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">63</th>
+<td class="l data">navigate (v000618)</td>
+<td class="r data">0.44215</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">64</th>
+<td class="l data">healthcare (v000413)</td>
+<td class="r data">0.44130</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">65</th>
+<td class="l data">classical (v000153)</td>
+<td class="r data">0.44031</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">66</th>
+<td class="l data">instant (v000465)</td>
+<td class="r data">0.43953</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">67</th>
+<td class="l data">t-shirt (v000928)</td>
+<td class="r data">0.43721</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">68</th>
+<td class="l data">deadline (v000217)</td>
+<td class="r data">0.43520</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">69</th>
+<td class="l data">struggle (v000899)</td>
+<td class="r data">0.43518</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">70</th>
+<td class="l data">row (v000799)</td>
+<td class="r data">0.43516</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">71</th>
+<td class="l data">jeff (v000491)</td>
+<td class="r data">0.43480</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">72</th>
+<td class="l data">isolated (v000485)</td>
+<td class="r data">0.42986</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">73</th>
+<td class="l data">mindset (v000587)</td>
+<td class="r data">0.42919</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">74</th>
+<td class="l data">cab (v000127)</td>
+<td class="r data">0.42841</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">75</th>
+<td class="l data">daily (v000212)</td>
+<td class="r data">0.42823</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">76</th>
+<td class="l data">tweet (v000978)</td>
+<td class="r data">0.42704</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">77</th>
+<td class="l data">scroll (v000823)</td>
+<td class="r data">0.42556</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">78</th>
+<td class="l data">generative (v000370)</td>
+<td class="r data">0.42531</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">79</th>
+<td class="l data">bias (v000087)</td>
+<td class="r data">0.42529</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">80</th>
+<td class="l data">super (v000912)</td>
+<td class="r data">0.42432</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">81</th>
+<td class="l data">distress (v000249)</td>
+<td class="r data">0.42383</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">82</th>
+<td class="l data">academia (v000006)</td>
+<td class="r data">0.42032</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">83</th>
+<td class="l data">score (v000822)</td>
+<td class="r data">0.41663</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">84</th>
+<td class="l data">maximize (v000563)</td>
+<td class="r data">0.41507</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">85</th>
+<td class="l data">workforce (v001041)</td>
+<td class="r data">0.41401</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">86</th>
+<td class="l data">frustrating (v000357)</td>
+<td class="r data">0.41111</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">87</th>
+<td class="l data">ma (v000542)</td>
+<td class="r data">0.40937</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">88</th>
+<td class="l data">happiness (v000403)</td>
+<td class="r data">0.40909</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">89</th>
+<td class="l data">special (v000879)</td>
+<td class="r data">0.40853</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">90</th>
+<td class="l data">neutrino (v000624)</td>
+<td class="r data">0.40679</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">91</th>
+<td class="l data">worthy (v001046)</td>
+<td class="r data">0.40611</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">92</th>
+<td class="l data">interpret (v000472)</td>
+<td class="r data">0.40600</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">93</th>
+<td class="l data">keyboard (v000507)</td>
+<td class="r data">0.40055</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">94</th>
+<td class="l data">planner (v000707)</td>
+<td class="r data">0.39765</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">95</th>
+<td class="l data">intact (v000466)</td>
+<td class="r data">0.39656</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">96</th>
+<td class="l data">scoop (v000820)</td>
+<td class="r data">0.38402</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">97</th>
+<td class="l data">conceptual (v000172)</td>
+<td class="r data">0.38366</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">98</th>
+<td class="l data">gates (v000363)</td>
+<td class="r data">0.38333</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">99</th>
+<td class="l data">rethink (v000786)</td>
+<td class="r data">0.38324</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">100</th>
+<td class="l data">dc (v000215)</td>
+<td class="r data">0.37978</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">101</th>
+<td class="l data">flu (v000344)</td>
+<td class="r data">0.37868</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">102</th>
+<td class="l data">unexpected (v000997)</td>
+<td class="r data">0.37845</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">103</th>
+<td class="l data">license (v000530)</td>
+<td class="r data">0.37824</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">104</th>
+<td class="l data">ownership (v000664)</td>
+<td class="r data">0.37685</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">105</th>
+<td class="l data">peak (v000680)</td>
+<td class="r data">0.37576</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">106</th>
+<td class="l data">microphone (v000580)</td>
+<td class="r data">0.37384</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">107</th>
+<td class="l data">silicon (v000858)</td>
+<td class="r data">0.36815</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">108</th>
+<td class="l data">platform (v000710)</td>
+<td class="r data">0.36513</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">109</th>
+<td class="l data">financial (v000339)</td>
+<td class="r data">0.36508</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">110</th>
+<td class="l data">trial (v000966)</td>
+<td class="r data">0.36441</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">111</th>
+<td class="l data">cameron (v000129)</td>
+<td class="r data">0.36404</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">112</th>
+<td class="l data">judge (v000498)</td>
+<td class="r data">0.36342</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">113</th>
+<td class="l data">driving (v000266)</td>
+<td class="r data">0.36257</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">114</th>
+<td class="l data">mobile (v000593)</td>
+<td class="r data">0.36029</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">115</th>
+<td class="l data">action (v000012)</td>
+<td class="r data">0.35944</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">116</th>
+<td class="l data">practice (v000728)</td>
+<td class="r data">0.34706</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">117</th>
+<td class="l data">cd (v000133)</td>
+<td class="r data">0.34325</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">118</th>
+<td class="l data">trivial (v000968)</td>
+<td class="r data">0.34224</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">119</th>
+<td class="l data">obstacle (v000641)</td>
+<td class="r data">0.33792</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">120</th>
+<td class="l data">publication (v000744)</td>
+<td class="r data">0.33709</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">121</th>
+<td class="l data">reporter (v000778)</td>
+<td class="r data">0.33649</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">122</th>
+<td class="l data">injure (v000459)</td>
+<td class="r data">0.33632</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">123</th>
+<td class="l data">warning (v001027)</td>
+<td class="r data">0.32054</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">124</th>
+<td class="l data">tokyo (v000958)</td>
+<td class="r data">0.31796</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">125</th>
+<td class="l data">fool (v000347)</td>
+<td class="r data">0.31685</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">126</th>
+<td class="l data">service (v000840)</td>
+<td class="r data">0.30942</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">127</th>
+<td class="l data">expression (v000322)</td>
+<td class="r data">0.30547</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX3"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 3 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">equality (v000299)</td>
+<td class="r data">0.86701</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">grief (v000391)</td>
+<td class="r data">0.71474</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">heal (v000412)</td>
+<td class="r data">0.70623</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">shame (v000846)</td>
+<td class="r data">0.66358</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">neighborhood (v000622)</td>
+<td class="r data">0.65736</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">bitter (v000095)</td>
+<td class="r data">0.64305</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">confession (v000176)</td>
+<td class="r data">0.63131</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">immigration (v000441)</td>
+<td class="r data">0.61359</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">chat (v000143)</td>
+<td class="r data">0.59838</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">discrimination (v000243)</td>
+<td class="r data">0.59781</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">solidarity (v000872)</td>
+<td class="r data">0.59624</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">homeless (v000427)</td>
+<td class="r data">0.59341</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">ill (v000438)</td>
+<td class="r data">0.59255</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">hatred (v000408)</td>
+<td class="r data">0.58004</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">immigrant (v000440)</td>
+<td class="r data">0.57713</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">gay (v000364)</td>
+<td class="r data">0.57009</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">sidewalk (v000855)</td>
+<td class="r data">0.56955</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">domestic (v000255)</td>
+<td class="r data">0.56074</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">violent (v001021)</td>
+<td class="r data">0.55565</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">systemic (v000927)</td>
+<td class="r data">0.55147</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">darkness (v000214)</td>
+<td class="r data">0.53874</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">apologize (v000053)</td>
+<td class="r data">0.53520</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">enforcement (v000290)</td>
+<td class="r data">0.53383</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">deem (v000221)</td>
+<td class="r data">0.53063</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">sing (v000862)</td>
+<td class="r data">0.53033</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">violence (v001020)</td>
+<td class="r data">0.52947</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">mosque (v000601)</td>
+<td class="r data">0.52136</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">authoritarian (v000070)</td>
+<td class="r data">0.52071</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">perpetrator (v000687)</td>
+<td class="r data">0.51186</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">victim (v001017)</td>
+<td class="r data">0.50594</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">unemployment (v000995)</td>
+<td class="r data">0.50396</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">harassment (v000405)</td>
+<td class="r data">0.50011</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">trauma (v000965)</td>
+<td class="r data">0.49155</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">armed (v000057)</td>
+<td class="r data">0.48913</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">suffering (v000909)</td>
+<td class="r data">0.48389</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">sexual (v000844)</td>
+<td class="r data">0.48357</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">bail (v000075)</td>
+<td class="r data">0.48156</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">inequity (v000455)</td>
+<td class="r data">0.47571</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">silence (v000856)</td>
+<td class="r data">0.47401</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">disabled (v000239)</td>
+<td class="r data">0.46922</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">convict (v000187)</td>
+<td class="r data">0.46921</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">equity (v000301)</td>
+<td class="r data">0.46162</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">homelessness (v000428)</td>
+<td class="r data">0.45870</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">sexuality (v000845)</td>
+<td class="r data">0.45755</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">assault (v000063)</td>
+<td class="r data">0.44913</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">harm (v000406)</td>
+<td class="r data">0.44824</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">prayer (v000730)</td>
+<td class="r data">0.44588</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">audacious (v000068)</td>
+<td class="r data">0.44499</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">reply (v000777)</td>
+<td class="r data">0.44429</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">numb (v000635)</td>
+<td class="r data">0.43782</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">shared (v000848)</td>
+<td class="r data">0.43726</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">nigerian (v000628)</td>
+<td class="r data">0.43679</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">attitude (v000066)</td>
+<td class="r data">0.43469</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">street (v000896)</td>
+<td class="r data">0.43239</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">55</th>
+<td class="l data">twitter (v000980)</td>
+<td class="r data">0.43235</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">56</th>
+<td class="l data">detroit (v000229)</td>
+<td class="r data">0.43040</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">57</th>
+<td class="l data">helpless (v000418)</td>
+<td class="r data">0.42756</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">58</th>
+<td class="l data">choir (v000147)</td>
+<td class="r data">0.42584</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">59</th>
+<td class="l data">nigeria (v000627)</td>
+<td class="r data">0.42499</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">60</th>
+<td class="l data">meditation (v000568)</td>
+<td class="r data">0.42462</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">61</th>
+<td class="l data">whitney (v001036)</td>
+<td class="r data">0.42415</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">62</th>
+<td class="l data">sibling (v000854)</td>
+<td class="r data">0.42170</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">63</th>
+<td class="l data">teen (v000939)</td>
+<td class="r data">0.41948</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">64</th>
+<td class="l data">wpr (v001047)</td>
+<td class="r data">0.41516</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">65</th>
+<td class="l data">loving (v000539)</td>
+<td class="r data">0.40991</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">66</th>
+<td class="l data">fairness (v000327)</td>
+<td class="r data">0.40984</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">67</th>
+<td class="l data">passion (v000675)</td>
+<td class="r data">0.40907</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">68</th>
+<td class="l data">ironic (v000481)</td>
+<td class="r data">0.40631</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">69</th>
+<td class="l data">afghanistan (v000018)</td>
+<td class="r data">0.40630</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">70</th>
+<td class="l data">opera (v000654)</td>
+<td class="r data">0.40473</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">71</th>
+<td class="l data">alabama (v000032)</td>
+<td class="r data">0.40082</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">72</th>
+<td class="l data">pity (v000703)</td>
+<td class="r data">0.39491</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">73</th>
+<td class="l data">initiative (v000458)</td>
+<td class="r data">0.39437</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">74</th>
+<td class="l data">equitable (v000300)</td>
+<td class="r data">0.39350</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">75</th>
+<td class="l data">indigenous (v000451)</td>
+<td class="r data">0.39282</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">76</th>
+<td class="l data">vancouver (v001013)</td>
+<td class="r data">0.39277</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">77</th>
+<td class="l data">pennington (v000685)</td>
+<td class="r data">0.39227</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">78</th>
+<td class="l data">openness (v000653)</td>
+<td class="r data">0.39036</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">79</th>
+<td class="l data">rodgers (v000796)</td>
+<td class="r data">0.38640</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">80</th>
+<td class="l data">african-american (v000021)</td>
+<td class="r data">0.38086</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">81</th>
+<td class="l data">prejudice (v000731)</td>
+<td class="r data">0.37877</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">82</th>
+<td class="l data">province (v000741)</td>
+<td class="r data">0.37510</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">83</th>
+<td class="l data">formula (v000351)</td>
+<td class="r data">0.36553</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">84</th>
+<td class="l data">uganda (v000986)</td>
+<td class="r data">0.36408</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">85</th>
+<td class="l data">innocent (v000462)</td>
+<td class="r data">0.35891</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">86</th>
+<td class="l data">declare (v000220)</td>
+<td class="r data">0.35852</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">87</th>
+<td class="l data">thought-provoking (v000950)</td>
+<td class="r data">0.35443</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">88</th>
+<td class="l data">enormous (v000293)</td>
+<td class="r data">0.35182</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">89</th>
+<td class="l data">access (v000008)</td>
+<td class="r data">0.35090</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">90</th>
+<td class="l data">ethnicity (v000306)</td>
+<td class="r data">0.34933</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">91</th>
+<td class="l data">clinton (v000157)</td>
+<td class="r data">0.34890</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">92</th>
+<td class="l data">exceed (v000316)</td>
+<td class="r data">0.34843</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">93</th>
+<td class="l data">documentary (v000252)</td>
+<td class="r data">0.34505</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">94</th>
+<td class="l data">martin (v000555)</td>
+<td class="r data">0.34433</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">95</th>
+<td class="l data">unsafe (v001002)</td>
+<td class="r data">0.34393</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">96</th>
+<td class="l data">nonprofit (v000632)</td>
+<td class="r data">0.33945</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">97</th>
+<td class="l data">dismiss (v000246)</td>
+<td class="r data">0.33782</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">98</th>
+<td class="l data">cancel (v000130)</td>
+<td class="r data">0.32629</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">99</th>
+<td class="l data">equal (v000298)</td>
+<td class="r data">0.31116</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">100</th>
+<td class="l data">relentless (v000770)</td>
+<td class="r data">0.31072</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">101</th>
+<td class="l data">safety (v000808)</td>
+<td class="r data">0.31069</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">102</th>
+<td class="l data">haiti (v000399)</td>
+<td class="r data">0.30990</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">103</th>
+<td class="l data">charter (v000142)</td>
+<td class="r data">0.30749</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">104</th>
+<td class="l data">celebrate (v000135)</td>
+<td class="r data">0.30581</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX4"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 3 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">multi-cellular (v000607)</td>
+<td class="r data" nowrap>-1.15860</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">s-curve (v000805)</td>
+<td class="r data" nowrap>-1.03756</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">synergistic (v000925)</td>
+<td class="r data" nowrap>-1.00697</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">subroutine (v000907)</td>
+<td class="r data" nowrap>-1.00334</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">convolution (v000188)</td>
+<td class="r data" nowrap>-0.98643</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">haughty (v000409)</td>
+<td class="r data" nowrap>-0.98150</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">recombination (v000760)</td>
+<td class="r data" nowrap>-0.97446</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">microsecond (v000582)</td>
+<td class="r data" nowrap>-0.95858</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">microprocessor (v000581)</td>
+<td class="r data" nowrap>-0.94201</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">hunk (v000433)</td>
+<td class="r data" nowrap>-0.91279</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">amoeba (v000039)</td>
+<td class="r data" nowrap>-0.89997</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">microgram (v000579)</td>
+<td class="r data" nowrap>-0.89487</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">marvin (v000556)</td>
+<td class="r data" nowrap>-0.82108</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">transistor (v000962)</td>
+<td class="r data" nowrap>-0.81661</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">extrapolation (v000323)</td>
+<td class="r data" nowrap>-0.79996</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">grunt (v000393)</td>
+<td class="r data" nowrap>-0.78139</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">videotape (v001018)</td>
+<td class="r data" nowrap>-0.77810</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">telephony (v000941)</td>
+<td class="r data" nowrap>-0.74434</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">millisecond (v000584)</td>
+<td class="r data" nowrap>-0.73857</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">minsky (v000589)</td>
+<td class="r data" nowrap>-0.70786</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">rna (v000793)</td>
+<td class="r data" nowrap>-0.67122</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">sterile (v000892)</td>
+<td class="r data" nowrap>-0.65775</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">penicillin (v000684)</td>
+<td class="r data" nowrap>-0.59807</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">maccready (v000543)</td>
+<td class="r data" nowrap>-0.59502</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">ir (v000478)</td>
+<td class="r data" nowrap>-0.58036</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">megahertz (v000569)</td>
+<td class="r data" nowrap>-0.55216</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">analogous (v000042)</td>
+<td class="r data" nowrap>-0.52308</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">ornithopter (v000657)</td>
+<td class="r data" nowrap>-0.49624</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">gossamer (v000382)</td>
+<td class="r data" nowrap>-0.49624</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">sailplane (v000809)</td>
+<td class="r data" nowrap>-0.49624</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">rad (v000752)</td>
+<td class="r data" nowrap>-0.45587</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">venter (v001015)</td>
+<td class="r data" nowrap>-0.45491</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">on-board (v000648)</td>
+<td class="r data" nowrap>-0.45399</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">straightjacket (v000895)</td>
+<td class="r data" nowrap>-0.45383</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">kremer (v000509)</td>
+<td class="r data" nowrap>-0.44572</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">elmo (v000283)</td>
+<td class="r data" nowrap>-0.44134</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">enriquez (v000294)</td>
+<td class="r data" nowrap>-0.43515</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">amusement (v000040)</td>
+<td class="r data" nowrap>-0.43209</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">symbolize (v000923)</td>
+<td class="r data" nowrap>-0.43092</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">jolla (v000493)</td>
+<td class="r data" nowrap>-0.43081</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">infomercial (v000457)</td>
+<td class="r data" nowrap>-0.42493</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">mullis (v000605)</td>
+<td class="r data" nowrap>-0.42268</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">mindless (v000586)</td>
+<td class="r data" nowrap>-0.41937</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">aubrey (v000067)</td>
+<td class="r data" nowrap>-0.41870</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">congenial (v000181)</td>
+<td class="r data" nowrap>-0.41081</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">cradle-to-cradle (v000200)</td>
+<td class="r data" nowrap>-0.41031</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">early-onset (v000272)</td>
+<td class="r data" nowrap>-0.40864</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">apparatus (v000054)</td>
+<td class="r data" nowrap>-0.40690</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">juggler (v000500)</td>
+<td class="r data" nowrap>-0.40318</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">shermer (v000850)</td>
+<td class="r data" nowrap>-0.40046</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">empiricism (v000288)</td>
+<td class="r data" nowrap>-0.39485</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">nanotube (v000615)</td>
+<td class="r data" nowrap>-0.38844</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">got (v000383)</td>
+<td class="r data" nowrap>-0.38728</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">yamaha (v001050)</td>
+<td class="r data" nowrap>-0.38413</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">55</th>
+<td class="l data">bl (v000097)</td>
+<td class="r data" nowrap>-0.38292</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">56</th>
+<td class="l data">schematic (v000818)</td>
+<td class="r data" nowrap>-0.38201</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">57</th>
+<td class="l data">rutan (v000803)</td>
+<td class="r data" nowrap>-0.37833</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">58</th>
+<td class="l data">nino (v000629)</td>
+<td class="r data" nowrap>-0.37619</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">59</th>
+<td class="l data">micro-finance (v000578)</td>
+<td class="r data" nowrap>-0.37581</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">60</th>
+<td class="l data">herbie (v000420)</td>
+<td class="r data" nowrap>-0.37401</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">61</th>
+<td class="l data">hillis (v000423)</td>
+<td class="r data" nowrap>-0.37263</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">62</th>
+<td class="l data">dole (v000254)</td>
+<td class="r data" nowrap>-0.36871</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">63</th>
+<td class="l data">suny (v000911)</td>
+<td class="r data" nowrap>-0.36594</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">64</th>
+<td class="l data">volcanism (v001024)</td>
+<td class="r data" nowrap>-0.35016</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">65</th>
+<td class="l data">hockenberry (v000426)</td>
+<td class="r data" nowrap>-0.34359</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">66</th>
+<td class="l data">juggling (v000501)</td>
+<td class="r data" nowrap>-0.34121</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">67</th>
+<td class="l data">dolby (v000253)</td>
+<td class="r data" nowrap>-0.34099</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">68</th>
+<td class="l data">bio-mimicry (v000091)</td>
+<td class="r data" nowrap>-0.34011</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">69</th>
+<td class="l data">ad-lib (v000014)</td>
+<td class="r data" nowrap>-0.33310</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">70</th>
+<td class="l data">crystalline (v000209)</td>
+<td class="r data" nowrap>-0.32994</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">71</th>
+<td class="l data">outlay (v000660)</td>
+<td class="r data" nowrap>-0.32990</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">72</th>
+<td class="l data">foreshadow (v000350)</td>
+<td class="r data" nowrap>-0.32561</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">73</th>
+<td class="l data">lathe (v000516)</td>
+<td class="r data" nowrap>-0.32168</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">74</th>
+<td class="l data">seatbelt (v000828)</td>
+<td class="r data" nowrap>-0.32125</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">75</th>
+<td class="l data">sputnik (v000887)</td>
+<td class="r data" nowrap>-0.31363</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">76</th>
+<td class="l data">safdie (v000806)</td>
+<td class="r data" nowrap>-0.31240</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">77</th>
+<td class="l data">potassium (v000725)</td>
+<td class="r data" nowrap>-0.30749</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">78</th>
+<td class="l data">aphorism (v000052)</td>
+<td class="r data" nowrap>-0.30555</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">79</th>
+<td class="l data">enlarged (v000292)</td>
+<td class="r data" nowrap>-0.30487</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">80</th>
+<td class="l data">josef (v000495)</td>
+<td class="r data" nowrap>-0.30224</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX5"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 4 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">brexit (v000117)</td>
+<td class="r data">1.34685</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">baltics (v000077)</td>
+<td class="r data">1.32884</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">anti-tank (v000046)</td>
+<td class="r data">1.32884</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">million-plus (v000583)</td>
+<td class="r data">1.29762</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">hawkish (v000411)</td>
+<td class="r data">1.29346</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">de-nazification (v000216)</td>
+<td class="r data">1.29346</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">narendra (v000617)</td>
+<td class="r data">1.22389</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">ukrainians (v000989)</td>
+<td class="r data">1.10897</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">turbocharged (v000976)</td>
+<td class="r data">1.10051</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">quick-fire (v000750)</td>
+<td class="r data">1.10048</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">sop (v000874)</td>
+<td class="r data">1.07825</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">executor (v000318)</td>
+<td class="r data">1.06542</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">bannon (v000080)</td>
+<td class="r data">1.06398</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">mcconnell (v000565)</td>
+<td class="r data">1.06024</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">afd (v000017)</td>
+<td class="r data">1.05241</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">biden (v000088)</td>
+<td class="r data">1.03827</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">riviera (v000792)</td>
+<td class="r data">1.03479</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">pistorius (v000702)</td>
+<td class="r data">1.02923</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">iranian (v000479)</td>
+<td class="r data">1.02370</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">israelis (v000488)</td>
+<td class="r data">0.97563</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">palestinians (v000669)</td>
+<td class="r data">0.96474</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">gaza (v000365)</td>
+<td class="r data">0.95357</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">walters (v001026)</td>
+<td class="r data">0.93215</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">europeans (v000308)</td>
+<td class="r data">0.91785</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">hw (v000434)</td>
+<td class="r data">0.90947</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">ukraine (v000988)</td>
+<td class="r data">0.89149</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">self-determination (v000832)</td>
+<td class="r data">0.86268</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">israeli (v000487)</td>
+<td class="r data">0.85050</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">republicans (v000781)</td>
+<td class="r data">0.84386</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">elon (v000284)</td>
+<td class="r data">0.83686</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">trump (v000970)</td>
+<td class="r data">0.82921</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">musk (v000612)</td>
+<td class="r data">0.81674</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">indians (v000450)</td>
+<td class="r data">0.75431</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">reciprocal (v000759)</td>
+<td class="r data">0.74905</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">brit (v000118)</td>
+<td class="r data">0.72916</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">membership (v000571)</td>
+<td class="r data">0.71653</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">disinformation (v000244)</td>
+<td class="r data">0.69645</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">intertwine (v000473)</td>
+<td class="r data">0.67189</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">republican (v000780)</td>
+<td class="r data">0.66421</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">pivot (v000704)</td>
+<td class="r data">0.65352</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">dominant (v000256)</td>
+<td class="r data">0.64679</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">sector (v000829)</td>
+<td class="r data">0.64546</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">arab (v000055)</td>
+<td class="r data">0.64033</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">leadership (v000519)</td>
+<td class="r data">0.63814</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">jordan (v000494)</td>
+<td class="r data">0.63682</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">recession (v000758)</td>
+<td class="r data">0.62856</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">accountable (v000009)</td>
+<td class="r data">0.62683</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">gulf (v000395)</td>
+<td class="r data">0.62492</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">negotiate (v000620)</td>
+<td class="r data">0.61147</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">uk (v000987)</td>
+<td class="r data">0.61067</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">crisis (v000204)</td>
+<td class="r data">0.60654</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">conflict (v000179)</td>
+<td class="r data">0.60211</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">refugee (v000767)</td>
+<td class="r data">0.59416</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">commonality (v000167)</td>
+<td class="r data">0.59090</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">55</th>
+<td class="l data">policy (v000718)</td>
+<td class="r data">0.58968</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">56</th>
+<td class="l data">conservative (v000182)</td>
+<td class="r data">0.58928</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">57</th>
+<td class="l data">hydrogen (v000435)</td>
+<td class="r data">0.58686</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">58</th>
+<td class="l data">pandemic (v000670)</td>
+<td class="r data">0.57538</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">59</th>
+<td class="l data">international (v000471)</td>
+<td class="r data">0.57016</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">60</th>
+<td class="l data">inclusion (v000446)</td>
+<td class="r data">0.56691</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">61</th>
+<td class="l data">uncertainty (v000990)</td>
+<td class="r data">0.56316</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">62</th>
+<td class="l data">ceo (v000138)</td>
+<td class="r data">0.55993</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">63</th>
+<td class="l data">leader (v000518)</td>
+<td class="r data">0.55207</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">64</th>
+<td class="l data">climate (v000156)</td>
+<td class="r data">0.55086</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">65</th>
+<td class="l data">west (v001032)</td>
+<td class="r data">0.54983</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">66</th>
+<td class="l data">intelligence (v000467)</td>
+<td class="r data">0.53153</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">67</th>
+<td class="l data">tech (v000934)</td>
+<td class="r data">0.52242</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">68</th>
+<td class="l data">german (v000372)</td>
+<td class="r data">0.52074</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">69</th>
+<td class="l data">veteran (v001016)</td>
+<td class="r data">0.51752</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">70</th>
+<td class="l data">india (v000448)</td>
+<td class="r data">0.51655</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">71</th>
+<td class="l data">collective (v000165)</td>
+<td class="r data">0.51102</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">72</th>
+<td class="l data">marine (v000553)</td>
+<td class="r data">0.50999</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">73</th>
+<td class="l data">virus (v001022)</td>
+<td class="r data">0.49409</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">74</th>
+<td class="l data">impact (v000442)</td>
+<td class="r data">0.48586</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">75</th>
+<td class="l data">syrian (v000926)</td>
+<td class="r data">0.48100</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">76</th>
+<td class="l data">trust (v000972)</td>
+<td class="r data">0.48077</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">77</th>
+<td class="l data">incumbent (v000447)</td>
+<td class="r data">0.47632</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">78</th>
+<td class="l data">conference (v000175)</td>
+<td class="r data">0.47160</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">79</th>
+<td class="l data">pacific (v000666)</td>
+<td class="r data">0.46851</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">80</th>
+<td class="l data">refuse (v000768)</td>
+<td class="r data">0.46241</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">81</th>
+<td class="l data">inflation (v000456)</td>
+<td class="r data">0.45908</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">82</th>
+<td class="l data">claim (v000152)</td>
+<td class="r data">0.45781</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">83</th>
+<td class="l data">senior (v000838)</td>
+<td class="r data">0.45760</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">84</th>
+<td class="l data">demand (v000224)</td>
+<td class="r data">0.44551</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">85</th>
+<td class="l data">support (v000916)</td>
+<td class="r data">0.44343</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">86</th>
+<td class="l data">ted (v000936)</td>
+<td class="r data">0.43653</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">87</th>
+<td class="l data">confidence (v000177)</td>
+<td class="r data">0.43490</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">88</th>
+<td class="l data">court (v000197)</td>
+<td class="r data">0.43171</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">89</th>
+<td class="l data">africa (v000019)</td>
+<td class="r data">0.42383</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">90</th>
+<td class="l data">decarbonization (v000218)</td>
+<td class="r data">0.41350</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">91</th>
+<td class="l data">gender (v000369)</td>
+<td class="r data">0.41136</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">92</th>
+<td class="l data">dysfunction (v000271)</td>
+<td class="r data">0.40858</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">93</th>
+<td class="l data">nsa (v000634)</td>
+<td class="r data">0.40689</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">94</th>
+<td class="l data">safe (v000807)</td>
+<td class="r data">0.39979</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">95</th>
+<td class="l data">stupid (v000904)</td>
+<td class="r data">0.39504</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">96</th>
+<td class="l data">diversity (v000250)</td>
+<td class="r data">0.39146</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">97</th>
+<td class="l data">ability (v000002)</td>
+<td class="r data">0.38835</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">98</th>
+<td class="l data">document (v000251)</td>
+<td class="r data">0.38615</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">99</th>
+<td class="l data">phone (v000693)</td>
+<td class="r data">0.38436</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">100</th>
+<td class="l data">ok (v000645)</td>
+<td class="r data">0.37083</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">101</th>
+<td class="l data">ensure (v000296)</td>
+<td class="r data">0.36784</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">102</th>
+<td class="l data">egg (v000278)</td>
+<td class="r data">0.36031</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">103</th>
+<td class="l data">involve (v000475)</td>
+<td class="r data">0.36026</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">104</th>
+<td class="l data">transition (v000963)</td>
+<td class="r data">0.35221</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">105</th>
+<td class="l data">everybody (v000310)</td>
+<td class="r data">0.34753</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">106</th>
+<td class="l data">interesting (v000469)</td>
+<td class="r data">0.34578</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">107</th>
+<td class="l data">isis (v000483)</td>
+<td class="r data">0.34538</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">108</th>
+<td class="l data">guy (v000397)</td>
+<td class="r data">0.34497</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">109</th>
+<td class="l data">visit (v001023)</td>
+<td class="r data">0.34481</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">110</th>
+<td class="l data">reaction (v000757)</td>
+<td class="r data">0.32983</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">111</th>
+<td class="l data">interested (v000468)</td>
+<td class="r data">0.31630</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">112</th>
+<td class="l data">stuff (v000901)</td>
+<td class="r data">0.30944</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">113</th>
+<td class="l data">invest (v000474)</td>
+<td class="r data">0.30594</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">114</th>
+<td class="l data">air (v000029)</td>
+<td class="r data">0.30376</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX6"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 4 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">piebald (v000698)</td>
+<td class="r data" nowrap>-0.79783</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">goings-on (v000379)</td>
+<td class="r data" nowrap>-0.79607</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">resplendent (v000784)</td>
+<td class="r data" nowrap>-0.77979</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">reek (v000765)</td>
+<td class="r data" nowrap>-0.77319</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">pulpy (v000745)</td>
+<td class="r data" nowrap>-0.76640</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">sexless (v000843)</td>
+<td class="r data" nowrap>-0.76599</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">stallion (v000889)</td>
+<td class="r data" nowrap>-0.76426</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">steely (v000891)</td>
+<td class="r data" nowrap>-0.76299</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">innards (v000461)</td>
+<td class="r data" nowrap>-0.76290</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">inoffensive (v000463)</td>
+<td class="r data" nowrap>-0.75981</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">bodice (v000107)</td>
+<td class="r data" nowrap>-0.75969</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">shapeless (v000847)</td>
+<td class="r data" nowrap>-0.75308</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">effacement (v000277)</td>
+<td class="r data" nowrap>-0.74596</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">unpaved (v001001)</td>
+<td class="r data" nowrap>-0.73577</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">occupancy (v000642)</td>
+<td class="r data" nowrap>-0.72813</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">abdication (v000001)</td>
+<td class="r data" nowrap>-0.71624</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">mutter (v000613)</td>
+<td class="r data" nowrap>-0.67912</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">ragged (v000753)</td>
+<td class="r data" nowrap>-0.66713</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">stumbling (v000902)</td>
+<td class="r data" nowrap>-0.61970</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">splendid (v000884)</td>
+<td class="r data" nowrap>-0.57343</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">ink (v000460)</td>
+<td class="r data" nowrap>-0.51353</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">folly (v000346)</td>
+<td class="r data" nowrap>-0.51016</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">crawl (v000202)</td>
+<td class="r data" nowrap>-0.46776</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">dim (v000235)</td>
+<td class="r data" nowrap>-0.45638</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">behold (v000085)</td>
+<td class="r data" nowrap>-0.42160</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">tile (v000956)</td>
+<td class="r data" nowrap>-0.40200</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">brain (v000113)</td>
+<td class="r data" nowrap>-0.33934</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">pop (v000721)</td>
+<td class="r data" nowrap>-0.32232</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX7"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 5 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">oldenburg (v000647)</td>
+<td class="r data">1.30954</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">claes (v000151)</td>
+<td class="r data">1.30954</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">bloomingdale (v000103)</td>
+<td class="r data">1.29826</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">skidmore (v000864)</td>
+<td class="r data">1.29431</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">glutton (v000377)</td>
+<td class="r data">1.27545</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">wastebasket (v001028)</td>
+<td class="r data">1.27131</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">coupe (v000196)</td>
+<td class="r data">1.27092</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">merrill (v000572)</td>
+<td class="r data">1.26662</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">ziggurat (v001056)</td>
+<td class="r data">1.26384</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">burnham (v000124)</td>
+<td class="r data">1.26076</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">postmodernism (v000724)</td>
+<td class="r data">1.25470</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">goalpost (v000378)</td>
+<td class="r data">1.25371</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">jasper (v000490)</td>
+<td class="r data">1.25008</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">ritz-carlton (v000791)</td>
+<td class="r data">1.24712</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">acoustical (v000010)</td>
+<td class="r data">1.24598</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">grimshaw (v000392)</td>
+<td class="r data">1.23626</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">centerline (v000137)</td>
+<td class="r data">1.23592</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">owings (v000663)</td>
+<td class="r data">1.23524</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">cornice (v000191)</td>
+<td class="r data">1.22819</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">anaheim (v000041)</td>
+<td class="r data">1.21494</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">protrude (v000740)</td>
+<td class="r data">1.21380</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">sloping (v000868)</td>
+<td class="r data">1.21123</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">moca (v000594)</td>
+<td class="r data">1.20773</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">workmanship (v001043)</td>
+<td class="r data">1.20684</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">lyon (v000541)</td>
+<td class="r data">1.20558</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">alessi (v000033)</td>
+<td class="r data">1.20199</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">baxter (v000082)</td>
+<td class="r data">1.19321</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">porno (v000722)</td>
+<td class="r data">1.18886</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">upstage (v001007)</td>
+<td class="r data">1.18597</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">meier (v000570)</td>
+<td class="r data">1.18083</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">frankie (v000354)</td>
+<td class="r data">1.17614</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">three-piece (v000951)</td>
+<td class="r data">1.15758</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">chandler (v000141)</td>
+<td class="r data">1.15594</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">des (v000225)</td>
+<td class="r data">1.15477</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">compositional (v000170)</td>
+<td class="r data">1.14067</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">fencing (v000334)</td>
+<td class="r data">1.13867</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">carp (v000132)</td>
+<td class="r data">1.12912</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">flooring (v000343)</td>
+<td class="r data">1.12895</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">acoustician (v000011)</td>
+<td class="r data">1.12212</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">eisner (v000280)</td>
+<td class="r data">1.11901</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">philip (v000692)</td>
+<td class="r data">0.88408</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">napkin (v000616)</td>
+<td class="r data">0.87925</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">railroad (v000754)</td>
+<td class="r data">0.82058</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">left-hand (v000525)</td>
+<td class="r data">0.81306</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">abstraction (v000004)</td>
+<td class="r data">0.76099</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">avenue (v000071)</td>
+<td class="r data">0.74426</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">ain (v000028)</td>
+<td class="r data">0.73497</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">laser (v000515)</td>
+<td class="r data">0.72955</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">guest (v000394)</td>
+<td class="r data">0.72584</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">mars (v000554)</td>
+<td class="r data">0.71349</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">drawing (v000260)</td>
+<td class="r data">0.71310</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">mechanical (v000566)</td>
+<td class="r data">0.69694</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">michael (v000576)</td>
+<td class="r data">0.67151</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">resilience (v000783)</td>
+<td class="r data">0.65947</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">55</th>
+<td class="l data">architect (v000056)</td>
+<td class="r data">0.65811</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">56</th>
+<td class="l data">museum (v000610)</td>
+<td class="r data">0.63536</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">57</th>
+<td class="l data">panel (v000671)</td>
+<td class="r data">0.63441</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">58</th>
+<td class="l data">tape (v000931)</td>
+<td class="r data">0.63011</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">59</th>
+<td class="l data">ideal (v000436)</td>
+<td class="r data">0.62280</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">60</th>
+<td class="l data">park (v000674)</td>
+<td class="r data">0.61016</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">61</th>
+<td class="l data">metaphor (v000574)</td>
+<td class="r data">0.59342</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">62</th>
+<td class="l data">richard (v000789)</td>
+<td class="r data">0.57091</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">63</th>
+<td class="l data">fascinate (v000330)</td>
+<td class="r data">0.56789</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">64</th>
+<td class="l data">crucial (v000207)</td>
+<td class="r data">0.54258</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">65</th>
+<td class="l data">clean (v000154)</td>
+<td class="r data">0.52377</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">66</th>
+<td class="l data">film (v000335)</td>
+<td class="r data">0.50942</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">67</th>
+<td class="l data">roof (v000797)</td>
+<td class="r data">0.50102</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">68</th>
+<td class="l data">valley (v001011)</td>
+<td class="r data">0.49863</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">69</th>
+<td class="l data">metal (v000573)</td>
+<td class="r data">0.48303</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">70</th>
+<td class="l data">bottom (v000111)</td>
+<td class="r data">0.45514</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">71</th>
+<td class="l data">scan (v000817)</td>
+<td class="r data">0.45393</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">72</th>
+<td class="l data">gas (v000362)</td>
+<td class="r data">0.42587</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">73</th>
+<td class="l data">hell (v000416)</td>
+<td class="r data">0.42157</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">74</th>
+<td class="l data">curve (v000211)</td>
+<td class="r data">0.42148</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">75</th>
+<td class="l data">fun (v000358)</td>
+<td class="r data">0.37586</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">76</th>
+<td class="l data">foot (v000348)</td>
+<td class="r data">0.35044</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">77</th>
+<td class="l data">picture (v000697)</td>
+<td class="r data">0.32323</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX8"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 5 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">blow (v000104)</td>
+<td class="r data" nowrap>-0.35645</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">subject (v000906)</td>
+<td class="r data" nowrap>-0.32006</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX9"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 6 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">touch-sensitive (v000959)</td>
+<td class="r data">1.37839</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">high-touch (v000421)</td>
+<td class="r data">1.37839</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">transducer (v000961)</td>
+<td class="r data">1.30569</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">teleconference (v000940)</td>
+<td class="r data">1.29047</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">filmmakers (v000336)</td>
+<td class="r data">1.28724</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">crt (v000206)</td>
+<td class="r data">1.27829</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">pressure-sensitive (v000733)</td>
+<td class="r data">1.27651</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">impedance (v000443)</td>
+<td class="r data">1.26867</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">well-formed (v001031)</td>
+<td class="r data">1.26352</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">anvil (v000050)</td>
+<td class="r data">1.26338</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">two-headed (v000981)</td>
+<td class="r data">1.25867</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">nn (v000630)</td>
+<td class="r data">1.25169</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">hoodwink (v000429)</td>
+<td class="r data">1.24478</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">zany (v001055)</td>
+<td class="r data">1.23210</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">negroponte (v000621)</td>
+<td class="r data">1.20562</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">stylus (v000905)</td>
+<td class="r data">1.18413</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">pedagogical (v000682)</td>
+<td class="r data">1.15923</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">cursor (v000210)</td>
+<td class="r data">1.14140</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">diagonal (v000232)</td>
+<td class="r data">1.12978</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">macintosh (v000545)</td>
+<td class="r data">1.12329</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">scoot (v000821)</td>
+<td class="r data">1.12322</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">diode (v000237)</td>
+<td class="r data">1.11652</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">handicapped (v000401)</td>
+<td class="r data">1.11362</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">chalkboard (v000140)</td>
+<td class="r data">1.11286</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">one-and-a-half (v000649)</td>
+<td class="r data">1.09967</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">dribble (v000264)</td>
+<td class="r data">1.09587</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">leaning (v000521)</td>
+<td class="r data">1.09560</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">cookbook (v000189)</td>
+<td class="r data">1.08867</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">nibble (v000625)</td>
+<td class="r data">1.08573</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">loosen (v000538)</td>
+<td class="r data">1.08304</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">superimpose (v000913)</td>
+<td class="r data">1.07985</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">ping-pong (v000701)</td>
+<td class="r data">1.06501</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">vintage (v001019)</td>
+<td class="r data">1.06050</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">pleasurable (v000713)</td>
+<td class="r data">1.04845</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">poof (v000720)</td>
+<td class="r data">1.04430</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">beginner (v000084)</td>
+<td class="r data">1.03675</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">walt (v001025)</td>
+<td class="r data">0.96408</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">nicholas (v000626)</td>
+<td class="r data">0.95132</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">substrate (v000908)</td>
+<td class="r data">0.91486</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">spatial (v000878)</td>
+<td class="r data">0.75486</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">artifact (v000061)</td>
+<td class="r data">0.74231</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">marathon (v000552)</td>
+<td class="r data">0.73514</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">troop (v000969)</td>
+<td class="r data">0.72656</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">interface (v000470)</td>
+<td class="r data">0.69153</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">bang (v000078)</td>
+<td class="r data">0.66837</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">pole (v000717)</td>
+<td class="r data">0.64592</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">articulate (v000060)</td>
+<td class="r data">0.63187</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">peter (v000688)</td>
+<td class="r data">0.59592</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">mask (v000557)</td>
+<td class="r data">0.59157</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">presentation (v000732)</td>
+<td class="r data">0.55796</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">display (v000247)</td>
+<td class="r data">0.53496</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">illustrate (v000439)</td>
+<td class="r data">0.48883</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">typical (v000985)</td>
+<td class="r data">0.46482</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">filter (v000337)</td>
+<td class="r data">0.45460</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">55</th>
+<td class="l data">various (v001014)</td>
+<td class="r data">0.40540</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">56</th>
+<td class="l data">movie (v000602)</td>
+<td class="r data">0.39983</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">57</th>
+<td class="l data">ball (v000076)</td>
+<td class="r data">0.39634</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">58</th>
+<td class="l data">remarkable (v000772)</td>
+<td class="r data">0.38799</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+</body>
+</html>

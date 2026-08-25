@@ -1,0 +1,3 @@
+Dependent	HypothesisType	Source	DF	SS	MS	FValue	ProbF
+fac3	1	year	28	2695.132035	96.254716	11.01	<.0001
+fac3	3	year	28	2695.132035	96.254716	11.01	<.0001
