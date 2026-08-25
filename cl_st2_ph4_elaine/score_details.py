@@ -20,7 +20,7 @@ Expected file_ids.txt format:
         file_id path
 
 Example:
-    t000001 1950/tv_com_1950_1.txt
+    t000001 2020/tv_com_2020_1.txt
 
 Output:
     examples/score_details.txt
@@ -214,7 +214,7 @@ def load_file_id_map(file_ids_path: Path) -> dict[str, str]:
     Load file_ids.txt mapping.
 
     Expected format:
-        t000001 1950/tv_com_1950_1.txt
+        t000001 2020/tv_com_2020_1.txt
     """
     if not file_ids_path.exists():
         raise FileNotFoundError(f"File ID map not found: {file_ids_path}")
