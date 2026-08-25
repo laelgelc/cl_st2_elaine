@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Calculate corpus size for the tagged commercial corpus.
+Calculate corpus size for the tagged TED Talks corpus.
 
 Expected input structure:
-    corpus/07_tagged/<Decade>/<Commercial ID>.txt
+    corpus/02_tagged/<Year>/<Text ID>.txt
 
 Example:
-    corpus/07_tagged/1950/tv_com_1950_1.txt
-    corpus/07_tagged/1960/tv_com_1960_1.txt
+    corpus/02_tagged/2020/t000001.txt
+    corpus/02_tagged/2021/t000287.txt
 
 Expected tagged-file format:
     word<TAB>tag<TAB>lemma
@@ -30,7 +30,7 @@ from collections import defaultdict
 
 
 # --- Configuration ---
-CORPUS_ROOT = Path("corpus/07_tagged")
+CORPUS_ROOT = Path("corpus/02_tagged")
 OUTPUT_DIR = Path("corpus_size")
 OUTPUT_FILE = OUTPUT_DIR / "corpus_size.tsv"
 
