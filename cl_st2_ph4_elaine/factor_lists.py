@@ -44,8 +44,8 @@ Typical usage from the project root:
 
 Optional explicit usage:
     python factor_lists.py \
-        --project cl_st1_ph3_andrea \
-        --sas-output-dir sas/output_cl_st1_ph3_andrea \
+        --project cl_st2_ph4_elaine \
+        --sas-output-dir sas/output_cl_st2_ph4_elaine \
         --index-file index_keywords.txt \
         --output-dir factors \
         --cutoff 0.3
@@ -88,7 +88,7 @@ def parse_args() -> argparse.Namespace:
         "--project",
         default=DEFAULT_PROJECT,
         help=(
-            "Project name, e.g. cl_st1_ph2_andrea or cl_st1_ph3_andrea. "
+            "Project name, e.g. cl_st2_ph4_elaine. "
             "Default: current directory name."
         ),
     )
