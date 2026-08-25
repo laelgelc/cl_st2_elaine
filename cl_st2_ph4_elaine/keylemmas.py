@@ -1,29 +1,20 @@
 #!/usr/bin/env python3
 """
-Compute decade-specific key lemmas for the tagged commercial corpus.
+Compute top lemmas for the tagged TED Talks corpus.
 
 Expected input structure:
-
-    corpus/07_tagged/
-        1950/
-        1960/
-        1970/
-        1980/
-        1990/
-        2000/
-        2010/
-        2020/
-
-Each decade folder should contain TreeTagger output files in .txt format.
+    corpus/02_tagged/
+        text1.txt
+        text2.txt
+        ...
 
 Typical usage:
 
     python keylemmas.py \
-        --input corpus/07_tagged \
-        --output corpus/08_keylemmas \
-        --cutoff 3
-
-cutoff = minimum percent presence requirement in the target decade.
+        --input corpus/02_tagged \
+        --output-top corpus/03_toplemmas \
+        --output-kw corpus/04_kw_selected \
+        --max-total 1000
 """
 
 import argparse
