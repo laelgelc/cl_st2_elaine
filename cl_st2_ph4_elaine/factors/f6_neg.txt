@@ -1,0 +1,2 @@
+variables loading on this pole = 15
+(synergistic (-.44)), (haughty (-.40)), (feeding (-.38)), (multi-cellular (-.38)), (got (-.37)), (s-curve (-.37)), (extrapolation (-.36)), (microgram (-.36)), (recombination (-.35)), (hunk (-.33)), (grunt (-.32)), (microprocessor (-.31)), (microsecond (-.31)), (penicillin (-.31)), (rna (-.30))
