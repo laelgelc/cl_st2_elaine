@@ -1,23 +1,23 @@
 #!/usr/bin/env python3
 """
-Generate example text extracts based on highest factor scores by decade.
+Generate example text extracts based on highest factor scores by year.
 
 For each factor:
-    - positive pole: decades ranked by descending mean factor score
-    - negative pole: decades ranked by ascending mean factor score
-    - top decade: 20 examples
-    - all other decades: 10 examples each
+    - positive pole: years ranked by descending mean factor score
+    - negative pole: years ranked by ascending mean factor score
+    - top year: 20 examples
+    - all other years: 10 examples each
     - skip any file where the factor score == 0
 
 The project name is inferred from the current working directory.
 
 Expected inputs:
-    sas/output_<project>/means_decade_f<n>.tsv
+    sas/output_<project>/means_year_f<n>.tsv
     sas/output_<project>/<project>_scores_only.tsv
     factors/f<n>_pos.txt
     factors/f<n>_neg.txt
     file_ids.txt
-    corpus/07_tagged/<Decade>/<Commercial ID>.txt
+    corpus/07_tagged/<Year>/<Text ID>.txt
 
 Expected file_ids.txt format:
     No header
@@ -26,7 +26,7 @@ Expected file_ids.txt format:
         file_id path
 
 Example:
-    t000001 1950/tv_com_1950_1.txt
+    t000001 1984/t000297.txt
 
 Outputs:
     examples/f<n>_pos/*.tex
@@ -78,7 +78,7 @@ STOPLIST = {
 def parse_args() -> argparse.Namespace:
     """Parse command-line arguments."""
     parser = argparse.ArgumentParser(
-        description="Generate LaTeX example extracts for factor poles by decade."
+        description="Generate LaTeX example extracts for factor poles by year."
     )
 
     parser.add_argument(
@@ -118,16 +118,16 @@ def parse_args() -> argparse.Namespace:
         help="Path to file_ids.txt. Default: file_ids.txt.",
     )
     parser.add_argument(
-        "--top-decade-examples",
+        "--top-year-examples",
         type=int,
         default=20,
-        help="Number of examples for the top-ranked decade.",
+        help="Number of examples for the top-ranked year.",
     )
     parser.add_argument(
-        "--other-decade-examples",
+        "--other-year-examples",
         type=int,
         default=10,
-        help="Number of examples for each other decade.",
+        help="Number of examples for each other year.",
     )
 
     return parser.parse_args()
@@ -175,7 +175,7 @@ def load_file_id_map(file_ids_path: Path) -> dict[str, str]:
     Load file_id -> relative path mapping.
 
     Expected format:
-        t000001 1950/tv_com_1950_1.txt
+        t000001 2020/tv_com_2020_1.txt
     """
     if not file_ids_path.exists():
         raise FileNotFoundError(f"File ID map not found: {file_ids_path}")
@@ -339,7 +339,7 @@ def locate_text(row: pd.Series, id_map: dict[str, str], tagged_base: Path) -> Pa
 
 
 def read_means_file(means_file: Path, factor_number: int) -> dict[str, float]:
-    """Read decade means for one factor."""
+    """Read year means for one factor."""
     if not means_file.exists():
         raise FileNotFoundError(f"Means file not found: {means_file}")
 
@@ -347,14 +347,14 @@ def read_means_file(means_file: Path, factor_number: int) -> dict[str, float]:
 
     mean_column = f"Mean fac{factor_number}"
 
-    if "decade" not in means_df.columns:
-        raise ValueError(f"Column 'decade' not found in {means_file}")
+    if "year" not in means_df.columns:
+        raise ValueError(f"Column 'year' not found in {means_file}")
 
     if mean_column not in means_df.columns:
         raise ValueError(f"Column '{mean_column}' not found in {means_file}")
 
     return dict(zip(
-        means_df["decade"].astype(str).str.strip(),
+        means_df["year"].astype(str).str.strip(),
         means_df[mean_column],
     ))
 
@@ -407,7 +407,7 @@ def main() -> None:
 
     scores_df = pd.read_csv(scores_file, sep="\t")
 
-    required_columns = {"filename", "decade"}
+    required_columns = {"filename", "year"}
 
     missing_columns = required_columns - set(scores_df.columns)
 
@@ -418,7 +418,7 @@ def main() -> None:
         )
 
     scores_df["filename"] = scores_df["filename"].astype(str).str.strip()
-    scores_df["decade"] = scores_df["decade"].astype(str).str.strip()
+    scores_df["year"] = scores_df["year"].astype(str).str.strip()
 
     factor_columns = detect_factor_columns(scores_df)
     num_factors = len(factor_columns)
@@ -432,29 +432,29 @@ def main() -> None:
     for factor_number in range(1, num_factors + 1):
         factor_column = f"fac{factor_number}"
 
-        means_file = sas_output_dir / f"means_decade_f{factor_number}.tsv"
-        decade_means = read_means_file(means_file, factor_number)
+        means_file = sas_output_dir / f"means_year_f{factor_number}.tsv"
+        year_means = read_means_file(means_file, factor_number)
 
         for pole, ascending in (("pos", False), ("neg", True)):
             label = f"f{factor_number}_{pole}"
 
             print(
-                f"→ {label}: selecting by decade means "
+                f"→ {label}: selecting by year means "
                 f"(column={factor_column}, ascending={ascending})"
             )
 
-            ranked_decades = sorted(
-                decade_means.keys(),
-                key=lambda decade: decade_means[decade],
+            ranked_years = sorted(
+                year_means.keys(),
+                key=lambda year: year_means[year],
                 reverse=not ascending,
             )
 
-            if not ranked_decades:
-                print(f"  No decades found for {label}; skipping.")
+            if not ranked_years:
+                print(f"  No years found for {label}; skipping.")
                 continue
 
-            top_decade = ranked_decades[0]
-            other_decades = ranked_decades[1:]
+            top_year = ranked_years[0]
+            other_years = ranked_years[1:]
 
             primary_lemmas = load_primary_lemmas(factor_folder / f"{label}.txt")
 
@@ -465,14 +465,14 @@ def main() -> None:
 
             example_id = 1
 
-            # Top decade: more examples.
-            top_decade_df = sorted_df[sorted_df["decade"] == top_decade]
+            # Top year: more examples.
+            top_year_df = sorted_df[sorted_df["year"] == top_year]
 
-            for _, row in top_decade_df.iterrows():
+            for _, row in top_year_df.iterrows():
                 if row[factor_column] == 0:
                     continue
 
-                if example_id > args.top_decade_examples:
+                if example_id > args.top_year_examples:
                     break
 
                 text_path = locate_text(row, id_map, tagged_base)
@@ -485,10 +485,10 @@ def main() -> None:
 
                 raw_filename = id_map.get(row["filename"], row["filename"])
                 latex_filename = latex_escape(raw_filename)
-                decade_latex = latex_escape(top_decade)
+                year_latex = latex_escape(top_year)
 
                 env_title = (
-                    f"{pole.upper()} Dim {factor_number} – {decade_latex} – "
+                    f"{pole.upper()} Dim {factor_number} – {year_latex} – "
                     f"Score {row[factor_column]:.2f} – {latex_filename}"
                 )
                 env_label = f"ex:{label}_{example_id:03d}"
@@ -505,17 +505,17 @@ def main() -> None:
 
                 example_id += 1
 
-            # Other decades: fewer examples each.
-            for decade in other_decades:
-                decade_df = sorted_df[sorted_df["decade"] == decade]
+            # Other years: fewer examples each.
+            for year in other_years:
+                year_df = sorted_df[sorted_df["year"] == year]
 
                 count = 0
 
-                for _, row in decade_df.iterrows():
+                for _, row in year_df.iterrows():
                     if row[factor_column] == 0:
                         continue
 
-                    if count >= args.other_decade_examples:
+                    if count >= args.other_year_examples:
                         break
 
                     text_path = locate_text(row, id_map, tagged_base)
@@ -528,10 +528,10 @@ def main() -> None:
 
                     raw_filename = id_map.get(row["filename"], row["filename"])
                     latex_filename = latex_escape(raw_filename)
-                    decade_latex = latex_escape(decade)
+                    year_latex = latex_escape(year)
 
                     env_title = (
-                        f"{pole.upper()} Dim {factor_number} – {decade_latex} – "
+                        f"{pole.upper()} Dim {factor_number} – {year_latex} – "
                         f"Score {row[factor_column]:.2f} – {latex_filename}"
                     )
                     env_label = f"ex:{label}_{example_id:03d}"
