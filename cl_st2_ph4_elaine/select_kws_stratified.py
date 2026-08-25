@@ -2,26 +2,24 @@
 """
 select_kws_stratified.py
 
-Selects a balanced, decade-stratified subset of positive keywords (POSKW)
+Selects a balanced, year-stratified subset of positive keywords (POSKW)
 from key-lemma tables produced by keylemmas.py.
 
-In this project, the strata are decades:
+In this project, the strata are years:
 
-    1950
-    1960
-    1970
-    1980
-    1990
-    2000
-    2010
     2020
+    2021
+    2022
+    2023
+    2024
+    2025
 
-The strata are of the same nature, so each decade receives the same maximum
+The strata are of the same nature, so each year receives the same maximum
 keyword quota. There is no human/non-human weighting.
 
 What it does
 ------------
-1) Reads every decade key-lemma file in corpus/03_keylemmas/.
+1) Reads every year key-lemma file in corpus/03_keylemmas/.
    Supported extensions: .tsv and .txt.
 
 2) Extracts lemmas whose final column is POSKW, applying lexical filters
@@ -33,22 +31,22 @@ What it does
    - drop lemmas containing uppercase letters;
    - drop lemmas containing punctuation other than valid internal hyphens.
 
-3) Applies the same quota to every decade:
-   - each decade: at most --per-decade lemmas.
+3) Applies the same quota to every year:
+   - each year: at most --per-year lemmas.
 
-4) Builds a consolidated list in chronological decade order.
+4) Builds a consolidated list in chronological year order.
 
 5) Optionally truncates the consolidated list to --max-total before
    de-duplication.
 
 6) Writes outputs to corpus/04_kw_selected/:
-   - one file per decade: <decade>.txt
+   - one file per year: <year>.txt
    - one consolidated, de-duplicated list: keywords.txt
 
 Typical usage
 -------------
 python select_kws_stratified.py \
-    --per-decade 250 \
+    --per-year 250 \
     --max-total 1200
 """
 
@@ -61,7 +59,7 @@ import re
 INPUT_DIR = "corpus/03_keylemmas"
 OUTPUT_DIR = "corpus/04_kw_selected"
 
-DECADE_RE = re.compile(r"^\d{4}$")
+YEAR_RE = re.compile(r"^\d{4}$")
 SUPPORTED_EXTENSIONS = (".tsv", ".txt")
 
 
@@ -136,7 +134,7 @@ def is_clean_lemma(lemma):
 
 
 def discover_keylemma_files(input_dir):
-    """Return decade-named key-lemma files from the input directory."""
+    """Return year-named key-lemma files from the input directory."""
     if not os.path.isdir(input_dir):
         raise FileNotFoundError(f"Input directory does not exist: {input_dir}")
 
@@ -145,30 +143,30 @@ def discover_keylemma_files(input_dir):
     for extension in SUPPORTED_EXTENSIONS:
         files.extend(glob.glob(os.path.join(input_dir, f"*{extension}")))
 
-    decade_files = {}
+    year_files = {}
 
     for filepath in files:
         stem = os.path.splitext(os.path.basename(filepath))[0]
 
-        if not DECADE_RE.match(stem):
+        if not YEAR_RE.match(stem):
             continue
 
-        # Prefer .tsv if both .tsv and .txt exist for the same decade.
-        existing = decade_files.get(stem)
+        # Prefer .tsv if both .tsv and .txt exist for the same year.
+        existing = year_files.get(stem)
         if existing is None:
-            decade_files[stem] = filepath
+            year_files[stem] = filepath
         elif filepath.endswith(".tsv") and existing.endswith(".txt"):
-            decade_files[stem] = filepath
+            year_files[stem] = filepath
 
-    if not decade_files:
+    if not year_files:
         raise FileNotFoundError(
-            f"No decade key-lemma files found in {input_dir}. "
-            "Expected files such as 1950.tsv, 1960.tsv, etc."
+            f"No year key-lemma files found in {input_dir}. "
+            "Expected files such as 2020.tsv, 2021.tsv, etc."
         )
 
     return [
-        (decade, decade_files[decade])
-        for decade in sorted(decade_files, key=natural_sort_key)
+        (year, year_files[year])
+        for year in sorted(year_files, key=natural_sort_key)
     ]
 
 
@@ -229,12 +227,12 @@ def write_word_list(path, words):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Select balanced POSKW keyword lists across decade strata."
+        description="Select balanced POSKW keyword lists across year strata."
     )
     parser.add_argument(
         "--input",
         default=INPUT_DIR,
-        help="Input directory containing decade key-lemma files.",
+        help="Input directory containing year key-lemma files.",
     )
     parser.add_argument(
         "--output",
@@ -242,10 +240,10 @@ def main():
         help="Output directory for selected keyword lists.",
     )
     parser.add_argument(
-        "--per-decade",
+        "--per-year",
         type=int,
         required=True,
-        help="Maximum number of POSKW lemmas to select from each decade.",
+        help="Maximum number of POSKW lemmas to select from each year.",
     )
     parser.add_argument(
         "--max-total",
@@ -259,8 +257,8 @@ def main():
 
     args = parser.parse_args()
 
-    if args.per_decade <= 0:
-        raise ValueError("--per-decade must be greater than 0")
+    if args.per_year <= 0:
+        raise ValueError("--per-year must be greater than 0")
 
     if args.max_total < 0:
         raise ValueError("--max-total must be non-negative")
@@ -269,35 +267,35 @@ def main():
 
     keylemma_files = discover_keylemma_files(args.input)
 
-    # Load all decade strata.
+    # Load all year strata.
     strata = {}
 
-    for decade, filepath in keylemma_files:
-        strata[decade] = load_poskw(filepath)
+    for year, filepath in keylemma_files:
+        strata[year] = load_poskw(filepath)
 
-    print("=== Decade Keyword Quotas ===")
-    for decade in sorted(strata, key=natural_sort_key):
-        print(f"{decade:<6} → {args.per_decade} keywords max")
+    print("=== Year Keyword Quotas ===")
+    for year in sorted(strata, key=natural_sort_key):
+        print(f"{year:<6} → {args.per_year} keywords max")
     print("=============================\n")
 
-    # Per-decade selection.
-    selected_by_decade = {}
+    # Per-year selection.
+    selected_by_year = {}
 
-    for decade in sorted(strata, key=natural_sort_key):
-        lemmas = strata[decade]
-        chosen = lemmas[:args.per_decade]
-        selected_by_decade[decade] = chosen
+    for year in sorted(strata, key=natural_sort_key):
+        lemmas = strata[year]
+        chosen = lemmas[:args.per_year]
+        selected_by_year[year] = chosen
 
         print(
-            f"{decade:<6} → selected {len(chosen)}/{args.per_decade} "
+            f"{year:<6} → selected {len(chosen)}/{args.per_year} "
             f"from {len(lemmas)} available POSKW lemmas"
         )
 
-    # Build consolidated list in chronological decade order.
+    # Build consolidated list in chronological year order.
     consolidated = []
 
-    for decade in sorted(selected_by_decade, key=natural_sort_key):
-        consolidated.extend(selected_by_decade[decade])
+    for year in sorted(selected_by_year, key=natural_sort_key):
+        consolidated.extend(selected_by_year[year])
 
     # Enforce optional max_total before de-duplication.
     if args.max_total and len(consolidated) > args.max_total:
@@ -312,9 +310,9 @@ def main():
     print(f"Unique keywords after de-duplication: {unique_count}")
     print(f"Duplicates removed: {total_count - unique_count}")
 
-    # Write per-decade outputs.
-    for decade, words in selected_by_decade.items():
-        outpath = os.path.join(args.output, f"{decade}.txt")
+    # Write per-year outputs.
+    for year, words in selected_by_year.items():
+        outpath = os.path.join(args.output, f"{year}.txt")
         write_word_list(outpath, words)
 
     # Write consolidated deduplicated output.

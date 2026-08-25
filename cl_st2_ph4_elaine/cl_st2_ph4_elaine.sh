@@ -49,9 +49,9 @@ python keylemmas.py \
 # optionally joined by internal hyphens
 
 python select_kws_stratified.py \
-    --per-decade 250 \
+    --per-year 250 \
     --max-total 1200
-# Output: corpus/09_kw_selected/keywords.txt
+# Output: corpus/04_kw_selected/keywords.txt
 
 "
 === Decade Keyword Quotas ===
