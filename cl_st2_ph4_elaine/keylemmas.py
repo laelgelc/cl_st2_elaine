@@ -1,29 +1,25 @@
 #!/usr/bin/env python3
 """
-Compute decade-specific key lemmas for the tagged commercial corpus.
+Compute year-specific key lemmas for the tagged commercial corpus.
 
 Expected input structure:
 
-    corpus/07_tagged/
-        1950/
-        1960/
-        1970/
-        1980/
-        1990/
-        2000/
-        2010/
+    corpus/02_tagged/
         2020/
+        2021/
+        2022/
+        ...
 
-Each decade folder should contain TreeTagger output files in .txt format.
+Each year folder should contain TreeTagger output files in .txt format.
 
 Typical usage:
 
     python keylemmas.py \
-        --input corpus/07_tagged \
-        --output corpus/08_keylemmas \
+        --input corpus/02_tagged \
+        --output corpus/03_keylemmas \
         --cutoff 3
 
-cutoff = minimum percent presence requirement in the target decade.
+cutoff = minimum percent presence requirement in the target year.
 """
 
 import argparse
@@ -40,10 +36,10 @@ VALID_TAG_PREFIXES = ("NN", "NP", "VB", "JJ")
 STOPWORDS = {
     "be",
     "have",
-    "do",
+    "do"
 }
 
-DECADE_FOLDER_RE = re.compile(r"^\d{4}$")
+YEAR_FOLDER_RE = re.compile(r"^\d{4}$")
 
 
 def natural_sort_key(text):
@@ -109,8 +105,8 @@ def ll(a, b, c, d):
     return 2 * ((a * math.log(a / E1)) + (b * math.log(b / E2)))
 
 
-def discover_decade_folders(base_dir):
-    """Return decade-named subdirectories under the tagged corpus directory."""
+def discover_year_folders(base_dir):
+    """Return year-named subdirectories under the tagged corpus directory."""
     if not os.path.isdir(base_dir):
         raise FileNotFoundError(f"Input directory does not exist: {base_dir}")
 
@@ -119,7 +115,7 @@ def discover_decade_folders(base_dir):
             d for d in os.listdir(base_dir)
             if (
                 os.path.isdir(os.path.join(base_dir, d))
-                and DECADE_FOLDER_RE.match(d)
+                and YEAR_FOLDER_RE.match(d)
         )
         ],
         key=natural_sort_key,
@@ -127,8 +123,8 @@ def discover_decade_folders(base_dir):
 
     if not folders:
         raise FileNotFoundError(
-            f"No decade folders found in {base_dir}. "
-            "Expected folders such as 1950, 1960, 1970, etc."
+            f"No year folders found in {base_dir}. "
+            "Expected folders such as 2020, 2021, 2022, etc."
         )
 
     return folders
@@ -219,23 +215,23 @@ def save_keywords(path, rows):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Compute decade-specific key lemmas for the commercial corpus."
+        description="Compute year-specific key lemmas for the commercial corpus."
     )
     parser.add_argument(
         "--input",
-        default="corpus/07_tagged",
-        help="Directory containing tagged decade folders.",
+        default="corpus/02_tagged",
+        help="Directory containing tagged year folders.",
     )
     parser.add_argument(
         "--output",
-        default="corpus/08_keylemmas",
+        default="corpus/03_keylemmas",
         help="Output directory for key lemma lists.",
     )
     parser.add_argument(
         "--cutoff",
         default=3.0,
         type=float,
-        help="Minimum percentage presence in target decade texts.",
+        help="Minimum percentage presence in target year texts.",
     )
 
     args = parser.parse_args()
@@ -249,13 +245,13 @@ def main():
 
     os.makedirs(output_dir, exist_ok=True)
 
-    folders = discover_decade_folders(base_dir)
+    folders = discover_year_folders(base_dir)
 
-    print("Found decade folders:")
+    print("Found year folders:")
     for folder in folders:
         print(f"  - {folder}")
 
-    # Build global lemma presence across all decades.
+    # Build global lemma presence across all years.
     global_presence = defaultdict(set)
     global_texts = set()
 
