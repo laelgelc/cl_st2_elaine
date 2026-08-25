@@ -17,7 +17,7 @@ Expected inputs:
     factors/f<n>_pos.txt
     factors/f<n>_neg.txt
     file_ids.txt
-    corpus/07_tagged/<Year>/<Text ID>.txt
+    corpus/02_tagged/<Year>/<Text ID>.txt
 
 Expected file_ids.txt format:
     No header
@@ -49,7 +49,7 @@ import pandas as pd
 # =============================================================================
 
 DEFAULT_PROJECT = Path.cwd().name
-DEFAULT_BASE = Path("corpus/07_tagged")
+DEFAULT_BASE = Path("corpus/02_tagged")
 DEFAULT_FACTOR_FOLDER = Path("factors")
 DEFAULT_EXAMPLES_DIR = Path("examples")
 DEFAULT_FILE_IDS_PATH = Path("file_ids.txt")
@@ -100,7 +100,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--tagged-base",
         default=str(DEFAULT_BASE),
-        help="Tagged corpus root. Default: corpus/07_tagged.",
+        help="Tagged corpus root. Default: corpus/02_tagged.",
     )
     parser.add_argument(
         "--factor-folder",

@@ -26,7 +26,7 @@ python tag.py
 # ------------------------------------------------------------
 # 2. Extract key lemmas by year
 #
-# Uses the tagged corpus to identify decade-level key lemmas.
+# Uses the tagged corpus to identify year-level key lemmas.
 # The cutoff controls the minimum threshold for retaining lemmas.
 # ------------------------------------------------------------
 
@@ -34,7 +34,7 @@ python keylemmas.py \
     --input corpus/02_tagged \
     --output corpus/03_keylemmas \
     --cutoff 3
-# Output: corpus/08_keylemmas/<Decade>.tsv
+# Output: corpus/08_keylemmas/<year>.tsv
 
 
 # ------------------------------------------------------------
@@ -188,7 +188,7 @@ python factor_lists.py
 # 9. Calculate corpus size summaries
 #
 # Produces corpus-size metadata for reporting and checking balance
-# across decades.
+# across years.
 # ------------------------------------------------------------
 
 python corpus_size.py
@@ -225,7 +225,7 @@ python latex_anova_table.py
 # 12. Generate LaTeX example extracts
 #
 # Selects representative high-scoring texts by factor pole and
-# decade, then writes LaTeX examples with factor-loading lemmas
+# year, then writes LaTeX examples with factor-loading lemmas
 # highlighted.
 # ------------------------------------------------------------
 
@@ -259,7 +259,7 @@ python examples_txt.py
 # ------------------------------------------------------------
 # 15. Build interpretation prompts
 #
-# Combines factor loadings, mean decade scores, plaintext examples,
+# Combines factor loadings, mean year scores, plaintext examples,
 # and score-details information into one prompt per factor pole.
 # ------------------------------------------------------------
 
