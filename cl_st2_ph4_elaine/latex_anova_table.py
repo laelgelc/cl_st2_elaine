@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 """
-Generate a LaTeX ANOVA table for decade effects.
+Generate a LaTeX ANOVA table for year effects.
 
 Each table row lists F, p, R², and percent R² for one factor dimension.
 
 Default expected inputs:
     sas/output_<project>/<project>_scores_only.tsv
-    sas/output_<project>/anova_decade_f<n>.tsv
-    sas/output_<project>/params_decade_f<n>.tsv
+    sas/output_<project>/anova_year_f<n>.tsv
+    sas/output_<project>/params_year_f<n>.tsv
 
 Default output:
-    latex_tables/anova_decade.tex
+    latex_tables/anova_year.tex
 
 The project name is inferred from the current working directory unless supplied
 explicitly with --project.
@@ -36,7 +36,7 @@ DEFAULT_OUTPUT_DIR = Path("latex_tables")
 def parse_args() -> argparse.Namespace:
     """Parse command-line arguments."""
     parser = argparse.ArgumentParser(
-        description="Generate LaTeX ANOVA table for decade effects."
+        description="Generate LaTeX ANOVA table for year effects."
     )
 
     parser.add_argument(
@@ -186,19 +186,19 @@ def read_anova_row(anova_file: Path, source_name: str) -> pd.Series:
     return selected.iloc[0]
 
 
-def make_decade_table(
+def make_year_table(
         input_dir: Path,
         output_dir: Path,
         dims: list[int],
 ) -> Path:
-    """Create the LaTeX ANOVA table for decade effects."""
+    """Create the LaTeX ANOVA table for year effects."""
     rows = []
 
     for dim in dims:
-        anova_file = input_dir / f"anova_decade_f{dim}.tsv"
-        params_file = input_dir / f"params_decade_f{dim}.tsv"
+        anova_file = input_dir / f"anova_year_f{dim}.tsv"
+        params_file = input_dir / f"params_year_f{dim}.tsv"
 
-        anova_row = read_anova_row(anova_file, source_name="decade")
+        anova_row = read_anova_row(anova_file, source_name="year")
 
         f_value = float(anova_row["FValue"])
         p_value, p_display_override = parse_sas_p_value(anova_row["ProbF"])
@@ -217,13 +217,13 @@ def make_decade_table(
         )
 
     output_dir.mkdir(exist_ok=True, parents=True)
-    output_path = output_dir / "anova_decade.tex"
+    output_path = output_dir / "anova_year.tex"
 
     with output_path.open("w", encoding="utf-8") as f:
         f.write("\\begin{table}[H]\n")
         f.write("  \\centering\n")
-        f.write("  \\caption{ANOVA Results by Decade}\n")
-        f.write("  \\label{tab:anova_decade}\n")
+        f.write("  \\caption{ANOVA Results by Year}\n")
+        f.write("  \\label{tab:anova_year}\n")
         f.write("  \\begin{tabular}{l r r r r}\n")
         f.write("    Dim. & F & p & R$^2$ & \\% \\\\\n")
         f.write("    \\hline\n")
@@ -251,7 +251,7 @@ def main() -> None:
     scores_only_path = input_dir / f"{project}_scores_only.tsv"
     dims = detect_dims(scores_only_path)
 
-    output_path = make_decade_table(
+    output_path = make_year_table(
         input_dir=input_dir,
         output_dir=output_dir,
         dims=dims,

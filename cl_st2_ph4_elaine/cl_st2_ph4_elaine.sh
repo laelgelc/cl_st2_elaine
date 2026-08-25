@@ -213,12 +213,12 @@ cd ..
 # ------------------------------------------------------------
 # 11. Generate LaTeX ANOVA table
 #
-# Summarises decade effects for each factor using F, p, R², and
+# Summarises year effects for each factor using F, p, R², and
 # percent R².
 # ------------------------------------------------------------
 
 python latex_anova_table.py
-# Output: latex_tables/anova_decade.tex
+# Output: latex_tables/anova_year.tex
 
 
 # ------------------------------------------------------------
