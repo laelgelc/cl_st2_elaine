@@ -49,37 +49,79 @@ python keylemmas.py \
 # optionally joined by internal hyphens
 
 python select_kws_stratified.py \
-    --per-year 250 \
+    --per-year 40 \
     --max-total 1200
 # Output: corpus/04_kw_selected/keywords.txt
 
 "
-=== Decade Keyword Quotas ===
-1950   → 250 keywords max
-1960   → 250 keywords max
-1970   → 250 keywords max
-1980   → 250 keywords max
-1990   → 250 keywords max
-2000   → 250 keywords max
-2010   → 250 keywords max
-2020   → 250 keywords max
+=== Year Keyword Quotas ===
+1984   → 40 keywords max
+1990   → 40 keywords max
+1994   → 40 keywords max
+1998   → 40 keywords max
+2001   → 40 keywords max
+2002   → 40 keywords max
+2003   → 40 keywords max
+2004   → 40 keywords max
+2005   → 40 keywords max
+2006   → 40 keywords max
+2007   → 40 keywords max
+2008   → 40 keywords max
+2009   → 40 keywords max
+2010   → 40 keywords max
+2011   → 40 keywords max
+2012   → 40 keywords max
+2013   → 40 keywords max
+2014   → 40 keywords max
+2015   → 40 keywords max
+2016   → 40 keywords max
+2017   → 40 keywords max
+2018   → 40 keywords max
+2019   → 40 keywords max
+2020   → 40 keywords max
+2021   → 40 keywords max
+2022   → 40 keywords max
+2023   → 40 keywords max
+2024   → 40 keywords max
+2025   → 40 keywords max
 =============================
 
-1950   → selected 188/250 from 188 available POSKW lemmas
-1960   → selected 49/250 from 49 available POSKW lemmas
-1970   → selected 8/250 from 8 available POSKW lemmas
-1980   → selected 6/250 from 6 available POSKW lemmas
-1990   → selected 6/250 from 6 available POSKW lemmas
-2000   → selected 7/250 from 7 available POSKW lemmas
-2010   → selected 11/250 from 11 available POSKW lemmas
-2020   → selected 16/250 from 16 available POSKW lemmas
+1984   → selected 40/40 from 206 available POSKW lemmas
+1990   → selected 40/40 from 409 available POSKW lemmas
+1994   → selected 40/40 from 116 available POSKW lemmas
+1998   → selected 40/40 from 543 available POSKW lemmas
+2001   → selected 40/40 from 557 available POSKW lemmas
+2002   → selected 40/40 from 1194 available POSKW lemmas
+2003   → selected 40/40 from 1169 available POSKW lemmas
+2004   → selected 40/40 from 1124 available POSKW lemmas
+2005   → selected 40/40 from 1004 available POSKW lemmas
+2006   → selected 40/40 from 530 available POSKW lemmas
+2007   → selected 40/40 from 452 available POSKW lemmas
+2008   → selected 40/40 from 515 available POSKW lemmas
+2009   → selected 40/40 from 215 available POSKW lemmas
+2010   → selected 40/40 from 281 available POSKW lemmas
+2011   → selected 40/40 from 161 available POSKW lemmas
+2012   → selected 40/40 from 132 available POSKW lemmas
+2013   → selected 40/40 from 95 available POSKW lemmas
+2014   → selected 40/40 from 103 available POSKW lemmas
+2015   → selected 40/40 from 108 available POSKW lemmas
+2016   → selected 40/40 from 154 available POSKW lemmas
+2017   → selected 40/40 from 126 available POSKW lemmas
+2018   → selected 40/40 from 57 available POSKW lemmas
+2019   → selected 40/40 from 122 available POSKW lemmas
+2020   → selected 40/40 from 425 available POSKW lemmas
+2021   → selected 40/40 from 201 available POSKW lemmas
+2022   → selected 40/40 from 244 available POSKW lemmas
+2023   → selected 40/40 from 213 available POSKW lemmas
+2024   → selected 40/40 from 323 available POSKW lemmas
+2025   → selected 40/40 from 513 available POSKW lemmas
 
-Total consolidated keywords before de-duplication: 291
-Unique keywords after de-duplication: 267
-Duplicates removed: 24
+Total consolidated keywords before de-duplication: 1160
+Unique keywords after de-duplication: 1056
+Duplicates removed: 104
 
-Final unique keywords written to: corpus/09_kw_selected/keywords.txt
-Final unique keyword count: 267
+Final unique keywords written to: corpus/04_kw_selected/keywords.txt
+Final unique keyword count: 1056
 "
 
 

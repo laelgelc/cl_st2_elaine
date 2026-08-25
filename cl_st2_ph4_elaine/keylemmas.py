@@ -36,7 +36,8 @@ VALID_TAG_PREFIXES = ("NN", "NP", "VB", "JJ")
 STOPWORDS = {
     "be",
     "have",
-    "do"
+    "do",
+    "are"
 }
 
 YEAR_FOLDER_RE = re.compile(r"^\d{4}$")
