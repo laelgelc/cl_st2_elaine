@@ -31,6 +31,18 @@ STOPWORDS = {
     "be",
     "have",
     "do",
+    "re",
+    "don",
+    "ve",
+    "ll",
+    "didn",
+    "doesn",
+    "wasn",
+    "aren",
+    "weren",
+    "isn",
+    "aren",
+    "wouldn"
 }
 
 def is_valid_lemma_shape(lemma):
