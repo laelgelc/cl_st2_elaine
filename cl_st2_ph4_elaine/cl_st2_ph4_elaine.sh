@@ -229,7 +229,8 @@ python latex_anova_table.py
 # highlighted.
 # ------------------------------------------------------------
 
-python examples.py
+python examples.py \
+    --other-year-examples 3
 # Output: examples/
 
 

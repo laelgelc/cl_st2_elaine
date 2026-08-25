@@ -85,7 +85,7 @@ def parse_args() -> argparse.Namespace:
         "--project",
         default=DEFAULT_PROJECT,
         help=(
-            "Project name, e.g. cl_st1_ph2_andrea or cl_st1_ph3_andrea. "
+            "Project name, e.g. cl_st2_ph4_elaine. "
             "Default: current directory name."
         ),
     )
