@@ -5,7 +5,7 @@ Generate interpretation prompt files for factor poles.
 For each pole, this script assembles a complete prompt containing:
     1. System prompt
     2. User prompt
-    3. Mean decade scores
+    3. Mean year scores
     4. Factor loadings
     5. Example excerpts, with their loading words appended
 
@@ -16,7 +16,7 @@ Expected inputs:
     factors/f<n>_<pole>.txt
     examples_txt/f<n>_<pole>/*.txt
     examples/score_details.txt
-    sas/output_<project>/means_decade_f<n>.tsv
+    sas/output_<project>/means_year_f<n>.tsv
 
 Output:
     interpretation/input/f<n>_<pole>.txt
@@ -56,7 +56,7 @@ def parse_args() -> argparse.Namespace:
         "--project",
         default=DEFAULT_PROJECT,
         help=(
-            "Project name, e.g. cl_st1_ph2_andrea or cl_st1_ph3_andrea. "
+            "Project name, e.g. cl_st2_ph4_elaine. "
             "Default: current directory name."
         ),
     )
@@ -116,51 +116,19 @@ def resolve_sas_output_dir(project: str, sas_output_dir_arg: str | None) -> Path
 # PROMPT TEXT
 # ============================================================
 
-def phase_description(project: str) -> str:
-    """Return a phase-specific description for the current project."""
-    if "ph2" in project:
-        return (
-            "This phase analyses the commercial verbal subcorpus: transcript texts "
-            "representing the spoken/audio-verbal content of the selected television commercials."
-        )
-
-    if "ph3" in project:
-        return (
-            "This phase analyses the commercial visual subcorpus: textual descriptions "
-            "of the visual content of the selected television commercials."
-        )
-
-    return (
-        "This phase analyses one of the commercial subcorpora: either transcript texts "
-        "of spoken/audio-verbal content or textual descriptions of visual content."
-    )
-
-
-def build_system_prompt(project: str) -> str:
+def build_system_prompt() -> str:
     """Build the system prompt."""
-    return f"""You are a corpus linguist specialising in Lexical Multi-Dimensional Analysis (LMDA).
+    return """You are a corpus linguist specialising in Lexical Multi-Dimensional Analysis (LMDA).
 Your task is to interpret a single factor pole as a discourse dimension.
 
-The corpus consists of selected television-commercial texts organised by decade.
-The dataset is a balanced sample of commercials from the 1950s through the 2020s,
-with the same number of selected commercials in each decade.
+The corpus consists of selected TED Talks texts organised by year.
 
-{phase_description(project)}
-
-The analysis is applied to decade-based strata:
-• 1950s
-• 1960s
-• 1970s
-• 1980s
-• 1990s
-• 2000s
-• 2010s
-• 2020s
+The analysis is applied to year-based strata.
 
 Your interpretation must identify the discourses encoded at this pole, taking into account:
 • lexical loadings, which represent the full analysed subcorpus;
 • example excerpts, which illustrate high-scoring texts at this pole;
-• the decades that score most strongly at this pole.
+• the years that score most strongly at this pole.
 """
 
 
@@ -168,12 +136,12 @@ USER_PROMPT = """Interpret Factor {factor} ({polarity}) as a discourse dimension
 Propose possible labels for this pole only and justify them.
 
 Base your interpretation on:
-• Mean decade scores. For positive poles, consider the highest-scoring decades in the table. For negative poles, consider the lowest-scoring decades; these may be the lowest positive scores or the most negative scores if there are any.
+• Mean year scores. For positive poles, consider the highest-scoring years in the table. For negative poles, consider the lowest-scoring years; these may be the lowest positive scores or the most negative scores if there are any.
 • Factor loadings.
 • Example excerpts from high-scoring texts.
 • The loading words that appear in these examples.
-• Which decades appear to drive this pole.
-• Diachronic tendencies suggested by the decade scores.
+• Which years appear to drive this pole.
+• Diachronic tendencies suggested by the year scores.
 
 Do not offer a "versus" interpretation of the opposite pole.
 Focus on this single pole only.
@@ -303,7 +271,7 @@ def main() -> None:
     if not factor_files:
         raise FileNotFoundError(f"No factor pole files found in {factors_dir}")
 
-    system_prompt = build_system_prompt(project)
+    system_prompt = build_system_prompt()
 
     for factor_file in factor_files:
         factor_name = factor_file.stem
@@ -324,7 +292,7 @@ def main() -> None:
 
         loadings_text = factor_file.read_text(encoding="utf-8").strip()
 
-        means_file = sas_output_dir / f"means_decade_f{factor_number}.tsv"
+        means_file = sas_output_dir / f"means_year_f{factor_number}.tsv"
 
         if not means_file.exists():
             print(f"Warning: missing means file {means_file}")
@@ -378,7 +346,7 @@ def main() -> None:
             polarity=polarity,
         )
 
-        mean_section = f"\n=== MEAN DECADE SCORES ===\n{means_text}\n"
+        mean_section = f"\n=== MEAN YEAR SCORES ===\n{means_text}\n"
         loadings_section = f"\n=== FACTOR LOADINGS ({factor_name}) ===\n{loadings_text}\n"
 
         final_prompt = (

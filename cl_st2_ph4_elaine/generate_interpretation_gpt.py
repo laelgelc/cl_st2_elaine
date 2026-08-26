@@ -144,6 +144,14 @@ def parse_args() -> argparse.Namespace:
         default=DEFAULT_RETRY_BASE_SLEEP,
         help=f"Base sleep in seconds for exponential backoff. Default: {DEFAULT_RETRY_BASE_SLEEP}.",
     )
+    parser.add_argument(
+        "--project",
+        default=DEFAULT_PROJECT,
+        help=(
+            "Project name, e.g. cl_st2_ph4_elaine. "
+            "Default: current directory name."
+        ),
+    )
 
     return parser.parse_args()
 
@@ -379,7 +387,7 @@ def main() -> None:
         print("Nothing to do: all outputs already exist.")
         sys.exit(0)
 
-    print(f"Project: {DEFAULT_PROJECT}")
+    print(f"Project: {args.project}")
     print(f"Input directory: {input_dir}")
     print(f"Output directory: {output_dir}")
     print(f"Model: {args.model}")
