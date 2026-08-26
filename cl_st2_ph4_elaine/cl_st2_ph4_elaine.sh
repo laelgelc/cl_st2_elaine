@@ -253,7 +253,8 @@ python score_details.py
 # and for building interpretation prompts.
 # ------------------------------------------------------------
 
-python examples_txt.py
+python examples_txt.py \
+    --other-year-examples 3
 # Output: examples_txt/
 
 
