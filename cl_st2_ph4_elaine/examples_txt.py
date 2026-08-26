@@ -4,9 +4,9 @@ Generate plaintext example files for each factor pole.
 
 Aligned with examples.py selection logic:
     - reads the same scores table (<project>_scores_only.tsv)
-    - uses decade as the grouping variable
-    - ranks decades using means_decade_f<n>.tsv
-    - selects: top decade -> 20 examples, other decades -> 10 each
+    - uses year as the grouping variable
+    - ranks years using means_year_f<n>.tsv
+    - selects: top year -> 20 examples, other years -> 10 each
     - skips rows where the factor score is 0
     - uses tagged corpus existence checks to keep selection stable with examples.py
 
@@ -15,13 +15,11 @@ explicitly with --project.
 
 Expected inputs:
     sas/output_<project>/<project>_scores_only.tsv
-    sas/output_<project>/means_decade_f<n>.tsv
+    sas/output_<project>/means_year_f<n>.tsv
     file_ids.txt
     examples/score_details.txt
-    corpus/07_tagged/<Decade>/<Commercial ID>.txt
-    corpus/commercial_verbal/<Decade>/<Commercial ID>.txt
-        or
-    corpus/commercial_visual/<Decade>/<Commercial ID>.txt
+    corpus/02_tagged/<Year>/<Text ID>.txt
+    corpus/01_ted_talks/<Year>/<Text ID>.txt
 
 Expected file_ids.txt format:
     No header
@@ -30,7 +28,7 @@ Expected file_ids.txt format:
         file_id path
 
 Example:
-    t000001 1950/tv_com_1950_1.txt
+    t000001 2020/text_1.txt
 
 Outputs:
     examples_txt/f<n>_<pole>/f<n>_<pole>_001.txt
@@ -50,7 +48,7 @@ import pandas as pd
 # ============================================================
 
 DEFAULT_PROJECT = Path.cwd().name
-DEFAULT_TAGGED_BASE = Path("corpus/07_tagged")
+DEFAULT_TAGGED_BASE = Path("corpus/02_tagged")
 DEFAULT_FILE_IDS_PATH = Path("file_ids.txt")
 DEFAULT_SCORE_DETAILS = Path("examples/score_details.txt")
 DEFAULT_OUT_ROOT = Path("examples_txt")
@@ -63,14 +61,14 @@ DEFAULT_OUT_ROOT = Path("examples_txt")
 def parse_args() -> argparse.Namespace:
     """Parse command-line arguments."""
     parser = argparse.ArgumentParser(
-        description="Generate plaintext examples for factor poles by decade."
+        description="Generate plaintext examples for factor poles by year."
     )
 
     parser.add_argument(
         "--project",
         default=DEFAULT_PROJECT,
         help=(
-            "Project name, e.g. cl_st1_ph2_andrea or cl_st1_ph3_andrea. "
+            "Project name, e.g. cl_st2_ph4_elaine. "
             "Default: current directory name."
         ),
     )
@@ -85,15 +83,14 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--tagged-base",
         default=str(DEFAULT_TAGGED_BASE),
-        help="Tagged corpus root. Default: corpus/07_tagged.",
+        help="Tagged corpus root. Default: corpus/02_tagged.",
     )
     parser.add_argument(
         "--fulltext-root",
         default=None,
         help=(
             "Full-text corpus root. "
-            "Default: corpus/commercial_verbal for phase 2, "
-            "corpus/commercial_visual for phase 3 if present."
+            "Default: corpus/01_ted_talks."
         ),
     )
     parser.add_argument(
@@ -112,16 +109,16 @@ def parse_args() -> argparse.Namespace:
         help="Output directory. Default: examples_txt.",
     )
     parser.add_argument(
-        "--top-decade-examples",
+        "--top-year-examples",
         type=int,
         default=20,
-        help="Number of examples for the top-ranked decade.",
+        help="Number of examples for the top-ranked year.",
     )
     parser.add_argument(
-        "--other-decade-examples",
+        "--other-year-examples",
         type=int,
         default=10,
-        help="Number of examples for each other decade.",
+        help="Number of examples for each other year.",
     )
 
     return parser.parse_args()
@@ -140,24 +137,14 @@ def resolve_fulltext_root(project: str, fulltext_root_arg: str | None) -> Path:
     if fulltext_root_arg is not None:
         return Path(fulltext_root_arg)
 
-    visual_root = Path("corpus/commercial_visual")
-    verbal_root = Path("corpus/commercial_verbal")
+    ted_root = Path("corpus/01_ted_talks")
 
-    if "ph3" in project and visual_root.exists():
-        return visual_root
-
-    if "ph2" in project and verbal_root.exists():
-        return verbal_root
-
-    if visual_root.exists():
-        return visual_root
-
-    if verbal_root.exists():
-        return verbal_root
+    if ted_root.exists():
+        return ted_root
 
     raise FileNotFoundError(
-        "Could not infer full-text corpus root. Expected one of: "
-        "corpus/commercial_visual or corpus/commercial_verbal. "
+        "Could not infer full-text corpus root. Expected: "
+        "corpus/01_ted_talks. "
         "Alternatively, pass --fulltext-root."
     )
 
@@ -175,9 +162,6 @@ def natural_sort_key(text: str) -> list[int | str]:
 def load_id_map(path: Path) -> dict[str, str]:
     """
     Load file-id to relative path map.
-
-    Expected format:
-        t000001 1950/tv_com_1950_1.txt
     """
     if not path.exists():
         raise FileNotFoundError(f"Required file missing: {path}")
@@ -326,7 +310,7 @@ def write_plaintext_example(
         *,
         outfile: Path,
         text_id: str,
-        decade: str,
+        year: str,
         fulltext_path: Path,
         label: str,
         score_value,
@@ -335,7 +319,7 @@ def write_plaintext_example(
     """Write one plaintext example file."""
     header = [
         f"Text ID: {text_id}",
-        f"Decade: {decade}",
+        f"Year: {year}",
         f"File:   {fulltext_path}",
         "",
         f"Score ({label}): {score_value}",
@@ -347,22 +331,22 @@ def write_plaintext_example(
     outfile.write_text("\n".join(header) + body, encoding="utf-8")
 
 
-def read_decade_means(means_file: Path, factor_number: int) -> dict[str, float]:
-    """Read decade means for one factor."""
+def read_year_means(means_file: Path, factor_number: int) -> dict[str, float]:
+    """Read year means for one factor."""
     if not means_file.exists():
         raise FileNotFoundError(f"Required means file missing: {means_file}")
 
     means_df = pd.read_csv(means_file, sep="\t")
     mean_column = f"Mean fac{factor_number}"
 
-    if "decade" not in means_df.columns:
-        raise ValueError(f"Column 'decade' missing in {means_file}")
+    if "year" not in means_df.columns:
+        raise ValueError(f"Column 'year' missing in {means_file}")
 
     if mean_column not in means_df.columns:
         raise ValueError(f"Column '{mean_column}' missing in {means_file}")
 
     return dict(zip(
-        means_df["decade"].astype(str).str.strip(),
+        means_df["year"].astype(str).str.strip(),
         means_df[mean_column],
     ))
 
@@ -399,7 +383,7 @@ def main() -> None:
     id_map = load_id_map(file_ids_path)
     scores_df = pd.read_csv(scores_file, sep="\t")
 
-    required_columns = {"filename", "decade"}
+    required_columns = {"filename", "year"}
     missing_columns = required_columns - set(scores_df.columns)
 
     if missing_columns:
@@ -409,7 +393,7 @@ def main() -> None:
         )
 
     scores_df["filename"] = scores_df["filename"].astype(str).str.strip()
-    scores_df["decade"] = scores_df["decade"].astype(str).str.strip()
+    scores_df["year"] = scores_df["year"].astype(str).str.strip()
 
     factor_columns = detect_factor_columns(scores_df)
     num_factors = len(factor_columns)
@@ -436,28 +420,28 @@ def main() -> None:
                 f"Expected factor score column '{factor_column}' missing in {scores_file}"
             )
 
-        means_file = sas_output_dir / f"means_decade_f{factor_number}.tsv"
-        decade_means = read_decade_means(means_file, factor_number)
+        means_file = sas_output_dir / f"means_year_f{factor_number}.tsv"
+        year_means = read_year_means(means_file, factor_number)
 
         for pole, ascending in (("pos", False), ("neg", True)):
             label = f"f{factor_number}_{pole}"
 
             print(
-                f"→ {label}: selecting by decade means "
+                f"→ {label}: selecting by year means "
                 f"(column={factor_column}, ascending={ascending})"
             )
 
-            ranked_decades = sorted(
-                decade_means.keys(),
-                key=lambda decade: decade_means[decade],
+            ranked_years = sorted(
+                year_means.keys(),
+                key=lambda year: year_means[year],
                 reverse=not ascending,
             )
 
-            if not ranked_decades:
-                raise ValueError(f"No decades found in {means_file}")
+            if not ranked_years:
+                raise ValueError(f"No years found in {means_file}")
 
-            top_decade = ranked_decades[0]
-            other_decades = ranked_decades[1:]
+            top_year = ranked_years[0]
+            other_years = ranked_years[1:]
 
             sorted_df = scores_df.sort_values(by=factor_column, ascending=ascending)
 
@@ -466,14 +450,14 @@ def main() -> None:
 
             example_id = 1
 
-            # Top decade: 20 examples.
-            top_decade_df = sorted_df[sorted_df["decade"] == top_decade]
+            # Top year: 20 examples.
+            top_year_df = sorted_df[sorted_df["year"] == top_year]
 
-            for _, row in top_decade_df.iterrows():
+            for _, row in top_year_df.iterrows():
                 if row[factor_column] == 0:
                     continue
 
-                if example_id > args.top_decade_examples:
+                if example_id > args.top_year_examples:
                     break
 
                 tagged_path = locate_tagged_text(row, id_map, tagged_base)
@@ -500,7 +484,7 @@ def main() -> None:
                 write_plaintext_example(
                     outfile=outfile,
                     text_id=text_id,
-                    decade=str(row["decade"]).strip(),
+                    year=str(row["year"]).strip(),
                     fulltext_path=fulltext_path,
                     label=label,
                     score_value=row[factor_column],
@@ -509,17 +493,17 @@ def main() -> None:
 
                 example_id += 1
 
-            # Other decades: 10 examples each.
-            for decade in other_decades:
-                decade_df = sorted_df[sorted_df["decade"] == decade]
+            # Other years: 10 examples each.
+            for year in other_years:
+                year_df = sorted_df[sorted_df["year"] == year]
 
                 count = 0
 
-                for _, row in decade_df.iterrows():
+                for _, row in year_df.iterrows():
                     if row[factor_column] == 0:
                         continue
 
-                    if count >= args.other_decade_examples:
+                    if count >= args.other_year_examples:
                         break
 
                     tagged_path = locate_tagged_text(row, id_map, tagged_base)
@@ -546,7 +530,7 @@ def main() -> None:
                     write_plaintext_example(
                         outfile=outfile,
                         text_id=text_id,
-                        decade=str(row["decade"]).strip(),
+                        year=str(row["year"]).strip(),
                         fulltext_path=fulltext_path,
                         label=label,
                         score_value=row[factor_column],
