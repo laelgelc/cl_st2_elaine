@@ -6,7 +6,7 @@
 
 ## Phase 3 - Corpus Compilation and Verbal Lexical Multi-Dimensional Analysis (LMDA)
 
-he resulting verbal target corpus contains a sample of selected TED Talks, with `4315` transcript files across 29 years withing the period from 1984 to 2025.
+The resulting verbal target corpus contains a sample of selected TED Talks, with `4315` transcript files across 29 years withing the period from 1984 to 2025.
 
 |   Year    | Text Count |
 |:---------:|-----------:|
