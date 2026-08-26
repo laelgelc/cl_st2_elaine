@@ -1,0 +1,67 @@
+## Interpretation of Factor f4 (negative pole)
+
+### Preferred label: **Poetic, image-rich reflection on embodied experience**
+
+This pole is best interpreted as discourse that uses **literary, highly concrete imagery to reflect on memory, ageing, suffering, sexuality, bodily experience and mortality**.
+
+The loading set combines:
+
+- **Elevated or literary description:** *piebald, resplendent, splendid, behold, audacious, folly*
+- **Visual and material detail:** *ragged, shapeless, pulpy, steely, dim, darkness, yellow, ink, metal, tile, surface, unpaved*
+- **Bodily and sensory vocabulary:** *reek, bodice, innards, sexless, brain, ill, bitter*
+- **Distress, vulnerability and diminished agency:** *grief, stumbling, crawl, mutter, effacement, abdication, confession*
+
+Together, these words suggest discourse that renders human experience through **sensuous physical detail, dramatic movement and affectively charged description**, rather than through abstract exposition alone.
+
+The strongest excerpt, the 2001 poetry reading, provides especially clear evidence. It contains 28 of the 41 loading items and moves through childhood punishment, poverty, housedresses, urban squalor, ageing, homelessness, sexuality, suicide and death. Concrete images such as the *unpaved* street, *pulpy* and *shapeless* dresses, a *ragged* coat, *fragmented tiles*, a *piebald stallion* and its *steely* hooves turn autobiographical reflection into literary scenes. Words such as *grief, reek, effacement,* and *abdication* also give this imagery a strong undertone of pain, shame and moral self-examination.
+
+### Possible alternative labels
+
+1. **Literary reminiscence and human vulnerability**  
+   This foregrounds the retrospective quality of the principal texts. Several 2001 talks look back over long lives and careers, incorporating childhood memories, historical experience, poetry, illness and recovery. The poetry reading and the electroshock narrative are particularly concerned with vulnerability, regret, suffering and survival.
+
+2. **Sensory-poetic discourse on ageing, suffering and mortality**  
+   This is a narrower thematic label justified by the dominant 2001 excerpt, where youth and age explicitly frame poems about bodily decline, desire, grief and death. It captures the pole well but may overstate themes that are not consistently represented in the other examples.
+
+3. **Descriptive autobiographical and testimonial discourse**  
+   This broader label accommodates the other 2001 examples: the designer’s life history, the coach’s moral and educational reminiscence, and the surgeon’s account of mental illness and recovery. These are first-person testimonies grounded in remembered experience, although their direct lexical connection to the factor is weaker than that of the poetry reading.
+
+## Relationship between loadings and examples
+
+The examples require some caution. The lexical coherence of the pole is overwhelmingly supplied by one highly distinctive text: the 2001 poetry reading. Most other excerpts contain only one to three loading words:
+
+- the electroshock testimony has *mutter, behold,* and *brain*;
+- the coaching reminiscence has *stumbling, splendid,* and *pop*;
+- the design memoir has *tile*;
+- the 2011 photography, electronics and astronomy talks have only *brain, dim,* or *pop*;
+- the 2013 gardening talk has *pop*;
+- two 2013 demonstrations contain none of the listed loading vocabulary.
+
+The later examples therefore do not support a narrow claim that all texts at this pole concern poetry, ageing or suffering. They instead suggest a looser association with **concrete illustration, visualisation, demonstration and personally voiced narration**. For instance, the photography talk concerns constructed visual realism, the Play-Doh talk gives a hands-on demonstration, and the Chinese-character talk teaches through pictorial forms. This supports the “image-rich” component of the preferred label, but not necessarily its more sombre themes.
+
+Accordingly, the pole appears to be a **lexically narrow, partly text-specific literary dimension**, rather than a broad and uniformly distributed TED discourse type. The unusual words with the largest loadings—*goings-on, piebald, resplendent, pulpy, reek,* and *sexless*—are all concentrated in the same poetry performance. The interpretation should therefore emphasize literary imagery while recognising that the full set of high-scoring examples is more heterogeneous.
+
+## Years driving the pole
+
+Because this is the negative pole, the relevant years are those with the **lowest mean Factor 4 scores**.
+
+- **2001: −5.50** — the only year with a negative mean and clearly the principal driver.
+- **2013: 5.53**
+- **2011: 5.60**
+- **2012: 5.60**
+- **2014: 5.75**
+
+The 2001 result is decisive but unstable: it is based on only four talks and has a very large SD of 15.00. The poetry reading scores −28 and appears to pull the entire year strongly toward this pole. The remaining 2001 excerpts have much weaker scores and far fewer loading words. Thus, the pole’s strongest historical association is with **early TED performances featuring extended poetry, life review and personal testimony**, but much of that association may derive from a single exceptional talk.
+
+There is a secondary concentration in **2011–2014**, whose means are consistently among the lowest in the larger, better-populated part of the corpus. The excerpts from these years include visual, artistic and hands-on explanatory talks, suggesting that this later manifestation may involve concrete, image-based presentation rather than the full literary and affective profile found in 2001.
+
+## Diachronic tendency
+
+The pattern is **non-linear**, not a steady historical decline or increase:
+
+- a pronounced, sample-sensitive trough occurs in **2001**;
+- a broader low period appears around **2011–2014**;
+- scores generally rise after 2015 and become especially high from **2020 onward**, indicating decreasing prominence of this negative-pole profile in recent strata;
+- the 2025 mean is not reliable for diachronic interpretation because it is based on only four texts and has extremely high variation.
+
+Overall, this pole is most plausibly labelled **Poetic, image-rich reflection on embodied experience**, with **Literary reminiscence and human vulnerability** as a strong alternative. Its clearest realization is an extended 2001 poetry performance, while the later low-scoring years show a weaker and more diffuse preference for concrete, visual and personally narrated discourse.

@@ -1,0 +1,47 @@
+## Interpretation of Factor f3 (negative)
+
+### Preferred label: **Archival technoscientific exposition and prototype-demonstration discourse**
+
+This pole primarily encodes an early TED discourse centred on specialist explanations of computing, engineering, biology and scientific discovery, often accompanied by demonstrations of machines, prototypes, visual media or experimental performances. “Archival” is appropriate because the pole is driven most clearly by the earlier corpus strata and contains vocabulary associated with older technological contexts.
+
+The loadings form several related clusters:
+
+- **Computing and electronics:** *subroutine, convolution, microprocessor, transistor, megahertz, microsecond, millisecond, computer, graphics, telephony, videotape, schematic*.
+- **Evolutionary biology and biotechnology:** *multi-cellular, recombination, amoeba, RNA, penicillin, evolution, Venter, Mullis*.
+- **Experimental aviation and design:** *MacCready, Gossamer, ornithopter, sailplane, Kremer, Rutan, altitude, on-board, fin*.
+- **Scientific instrumentation and natural processes:** *IR, volcanism, neutrino, potassium, crystalline, apparatus*.
+- **Live demonstration and performance:** *juggler, juggling, ad-lib, amusement, videotape*.
+
+The proper names—especially *MacCready, Minsky, Marvin, Rutan, Hillis,* and *Venter*—show that the pole partly captures a historically specific TED network of inventors, engineers and scientific personalities. It is therefore not simply a general “technology” dimension, but a discourse of expert-led, technically detailed presentation characteristic of TED’s earlier institutional culture.
+
+The excerpts strongly support this interpretation:
+
+- The exceptionally strong 1994 text combines exponential technological change, microprocessors, evolutionary computation, DNA and multicellularity. It contains all of the pole’s highest loadings, including *multi-cellular, s-curve, synergistic, subroutine, convolution, recombination, microprocessor, transistor,* and *RNA*. Its discourse moves between specialist technical explanation and large-scale speculation about technological evolution.
+- The 1998 MacCready talk presents lightweight aircraft, solar power and surveillance prototypes through diagrams, videotapes and live flight demonstrations. Its loading vocabulary—*Gossamer, ornithopter, sailplane, Kremer,* and *IR*—exemplifies practical experimental engineering.
+- The 1998 oceanography excerpt uses imaging, submarines and infrared sensing to explain *volcanism*, hydrothermal vents and unfamiliar ecosystems. This extends the pole beyond invention alone to technologically mediated scientific exploration.
+- The 2002 examples include the history of nuclear spacecraft, biomimetic robotics and live juggling. These show that “demonstration” is an important component: technical knowledge or embodied expertise is displayed directly to the audience.
+- The 2003 computing-history talk uses *microprocessor, transistor,* and *megahertz* while reconstructing the development of digital computing. The other 2003 example returns to MacCready’s aircraft and environmental engineering.
+
+The girls’ computer-game excerpt is less dominated by specialist terminology, but its empirical design research, software prototypes and videotaped product demonstration still fit the broader discourse of research-based technological development. Conversely, the 1984 excerpt is thematically relevant—computer interfaces and interactive media—but contains none of the listed negative loading words and has a positive score of 1. It should therefore be treated as peripheral evidence rather than a central exemplar.
+
+### Diachronic profile
+
+The pole is most strongly driven by **1994**, whose mean is **−29**, although this value represents only one talk and should not be generalized as a stable annual pattern. The next strongest year is **1998** at **−1.33** across six talks, providing better evidence that the pole characterizes part of the early TED archive. Individual negative-scoring examples also occur in **2002** and **2003**, whose annual means remain relatively low at **1.12** and **1.29**.
+
+After the early 2000s, annual means generally move upward. Scores are particularly high from the mid-2010s onward—mostly above 3, reaching **4.31 in 2019**. Because this is the negative pole, that upward movement indicates declining association with the discourse. The diachronic tendency is therefore a concentration in the **1990s and early 2000s**, followed by attenuation as the corpus expands. The irregular early years, especially 1994 and 2001, have very small sample sizes, but the broader contrast between the low early scores and consistently higher recent scores supports this historical interpretation.
+
+## Other plausible labels
+
+1. **Early TED specialist technology-and-engineering discourse**  
+   Emphasizes the chronological concentration and the dense computing, electronics, aviation and apparatus vocabulary. It is accurate but gives less attention to biology and scientific exploration.
+
+2. **Experimental engineering and technoscientific demonstration discourse**  
+   Highlights the prototypes, videos, slides, robots, aircraft and live demonstrations found across the examples. This label also accommodates the juggling performance, though it understates the historical-computing narratives.
+
+3. **Computational, evolutionary and bio-inspired innovation discourse**  
+   Captures the particularly strong intersection of computing and life sciences: evolutionary programs, multicellularity, DNA, biomimicry, robotics and artificial life. This is especially suitable for the strongest 1994 text, but is somewhat narrower than the complete loading set.
+
+4. **Technological futures through specialist histories and prototypes**  
+   Reflects the recurrent movement between historical reconstruction—early computing, Project Orion, aviation—and speculation about future technological development. It captures the examples well, although “futures” is less directly represented by some loadings.
+
+Overall, **Archival technoscientific exposition and prototype-demonstration discourse** is the most inclusive label because it accounts for both the full lexical pattern and the varied high-scoring texts, while also recognizing that this pole is disproportionately associated with the earlier TED strata.

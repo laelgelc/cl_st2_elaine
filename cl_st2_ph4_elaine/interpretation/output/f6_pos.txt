@@ -1,0 +1,52 @@
+## Factor f6 (positive): interpretation
+
+### Preferred label: **Visual–interactive technology demonstration discourse**
+
+This pole most strongly encodes a discourse of **demonstrating and explaining visual, screen-based and interactive technologies**, often through prototypes, slides, movies and concrete examples. Its lexical centre is the design of human–computer interfaces and multimedia systems: **high-touch, touch-sensitive, pressure-sensitive, transducer, stylus, cursor, Macintosh, interface, display, CRT, diode, substrate** and **teleconference**. These are accompanied by vocabulary of visual and spatial representation—**spatial, diagonal, mask, scan, superimpose, filter, slide, film, movie**—and explicit presentational language such as **presentation, illustrate, example, various** and **typical**.
+
+The 1984 Negroponte talk provides the pole’s clearest realization. It demonstrates touch- and pressure-sensitive displays, cursor control, interactive video books, educational computing and spatially organized teleconferencing. Importantly, the high-loading vocabulary is not merely technological terminology: it constructs technology as something to be **shown in operation and experienced by a user**. For example, fingers move a **cursor** on a **touch-sensitive display**; pressure conveys the simulated weight of an **anvil** or **ping-pong ball**; text is **superimposed** on an illustration; and a teleconference reconstructs **spatial** presence. The pole therefore combines interface engineering with embodied, visual demonstration.
+
+The other excerpts confirm this broader demonstrative orientation:
+
+- The 2005 comics talk uses **diagonal, spatial, artifact, display** and **movie** while explaining how visual media organize space, time and sequence, and how digital displays might support an “infinite canvas.”
+- The cosmology talk uses a **movie** simulation and a **spatial** dimension to make otherwise inaccessible scientific processes visible.
+- The biomimetics talk is structured as a **presentation** of animal movement, pressure-sensitive robot adhesion and prototype demonstrations.
+- The One Laptop per Child talk discusses the physical and educational design of the **display**, including diagonal size and frontlit/backlit operation, while invoking **Macintosh** as an interface model.
+- The Worldchanging excerpt discusses technologies that measure and **display** environmental information and make invisible processes visible.
+- Other examples use movies, diagrams, spatial models and presentation materials to explain linguistics, public health, science and the arts.
+
+Thus, the examples broaden the pole beyond computer-interface research alone. Across high-scoring texts, visual and interactive technologies function as **explanatory and pedagogical instruments**: speakers show simulations, prototypes, diagrams, screens or films to make technical, scientific or conceptual material tangible.
+
+### Alternative label: **Screen-mediated scientific and technological show-and-tell**
+
+This label foregrounds the rhetorical mode captured by words such as **presentation, display, illustrate, slide, movie, film, technique** and **various**. Many excerpts proceed through serial demonstrations: “let me show you,” a slide, a movie, a prototype or a diagram is used to explain a claim. Even talks not principally about interface technology—such as those on cosmology, language or epidemiology—enter the pole through this visual-demonstrative vocabulary.
+
+“Show-and-tell” is appropriate because the discourse is less purely theoretical than materially illustrative. Technical ideas are repeatedly attached to visible objects and scenarios: screens, balls, robots, maps, simulations, diagrams and movies. The informal items **bang, poof, okay, fun, fantastic** and **remarkable** also suggest an animated demonstration style in which speakers narrate what an audience is seeing.
+
+### Alternative label: **Multimedia interface, visualization and pedagogical innovation discourse**
+
+This label gives greater prominence to the educational strand represented by **pedagogical, chalkboard, beginner, handicapped, cookbook, articulate** and **presentation**. In the 1984 talk, interactive media are explicitly proposed as alternatives to static books and conventional classrooms. The computer becomes a medium for learner-driven experimentation, including the account of a child learning through Logo and the Senegal classroom project. Similar concerns recur in the One Laptop per Child talk, where screen and interface design support constructionist learning.
+
+At the same time, the pole links pedagogy to multimedia: interactive books combine text, glossary definitions, illustrations and movies; comics become spatial digital canvases; simulations explain cosmology; and visual displays communicate environmental or epidemiological data. The pole therefore includes discourse about using media technologies to make knowledge interactive, visible and experientially meaningful.
+
+## Years driving the pole
+
+The year profile shows an exceptionally strong concentration in **1984**, whose mean is **58**, but this is based on only one talk. That single Negroponte text contains all 58 of its listed loading words and appears to supply much of the pole’s highly specific lexical identity, including **Negroponte, Nicholas, Walt, Peter, CRT, transducer, impedance, anvil** and **two-headed**. The factor should therefore be treated as partly a **document-specific lexical signature** of an early multimedia and human–computer interaction talk, rather than as a completely general discourse found evenly across the corpus.
+
+Leaving aside that singleton outlier, the strongest substantial years are:
+
+- **2005: 1.67**
+- **2002: 1.64**
+- **2006: 1.59**
+- **2008: 1.51**
+- **1998: 1.50**
+
+The excerpts from 2002, 2005 and 2006 show why these years contribute: they contain talks on digital media, visual representation, prototypes, laptop displays, biomimetic robotics, simulations and slide- or movie-based scientific explanation. Nevertheless, their text-level scores of roughly 3–6 are far below the 1984 score of 58. Their overlap is also often based on more general loading items such as **spatial, presentation, display, movie, ball, various** and **remarkable**, rather than on the rare interface-engineering terms that dominate the loading list.
+
+## Diachronic tendency
+
+The pole is most characteristic of **early TED discourse**, especially the isolated 1984 talk and, more broadly, the late 1990s to mid-2000s. Mean scores generally fall after 2008–2009: they are around or below 1.0 through much of the 2010s and decline to approximately 0.58–0.70 in 2021–2024. The 2025 value is slightly higher, but with only four texts it cannot establish a reversal.
+
+This pattern suggests a weakening over time of the pole’s particular lexical package: explicit demonstrations of novel screens, multimedia systems and interface hardware were especially salient when these technologies were emerging and needed detailed explanation. Later TED strata appear less strongly marked by this early vocabulary of CRTs, cursors, styluses, touch-sensitive displays and multimedia prototypes. The decline should not necessarily be read as the disappearance of technology discourse itself; rather, it indicates reduced prominence of this specific **prototype-centred, visually demonstrative and interface-oriented register**.
+
+Overall, **Visual–interactive technology demonstration discourse** is the most inclusive label, while recognizing that its lexical coherence is unusually dependent on the 1984 Negroponte talk.

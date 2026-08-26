@@ -1,0 +1,58 @@
+## Interpretation of f2 (negative)
+
+### Preferred label: **Particularised accounts of conflict, identity and material creation**
+
+This pole appears to encode discourse organised around **specific events, communities, objects and lived cases**, rather than one narrowly unified subject area. Its most prominent components are:
+
+- **Geopolitical and national conflict:** *de-nazification, hawkish, anti-tank, Baltics, troop, Gaza, Palestinians, Israelis, Iranian, Ukrainians, Gulf*.
+- **Contemporary political actors and movements:** *AfD, Brexit, Bannon, Pistorius, Narendra*.
+- **Concrete artefacts, materials and physical description:** *roof, innards, anvil, artifact, chalkboard, diode, touch-sensitive, pulpy, steely, shapeless, resplendent, piebald*.
+- **Highly specific descriptive or numerical expressions:** *million-plus, one-and-a-half, quick-fire, high-touch*.
+
+The loadings therefore suggest several related discourses: commentary on particular conflicts and political developments; reference to nationally or ethnically identified groups; and detailed description of physical objects, technologies or appearances. What connects them is a relatively **particularised and referential mode**, grounded in named places, peoples, artefacts and events.
+
+### Evidence from the excerpts
+
+The examples broaden this interpretation beyond the geopolitical cluster in the loadings. They predominantly present **case-based narratives**, often through first-person experience, demonstration or visual description:
+
+- The 1990 architectural talk is a project-by-project portfolio involving buildings, materials, models, clients and sites. Its repeated visual deixis—“this building,” “on the right,” “the piece on the left”—creates a concrete, object-centred showcase.
+- The 2007 talks demonstrate designed systems: the game *Spore*, wind-powered mechanical animals, and a cultural investigation of “four in the morning.” They move through specific examples, objects and episodes.
+- The 2009 texts use bounded cases to advance practical claims: an environmentally improved building material, an intelligent electrical receptacle and the marshmallow experiment.
+- The 2025 texts are more autobiographical and cultural. They concern feminist advertising, caregiving, gardens and travel, storytelling, queer identity, Indigenous Pacific culture and decolonisation. These talks similarly proceed through situated personal histories, named cultural contexts and concrete illustrations.
+
+Thus, while the loading list foregrounds **geopolitical specificity**, the examples foreground **creative work, technological demonstration and lived identity**. A suitable label must accommodate both. “Particularised accounts” captures their shared reliance on identifiable cases rather than implying that the pole is exclusively political or technological.
+
+Importantly, **none of the reported f2-negative loading words occurs in the supplied excerpts**. The examples therefore do not directly exemplify the listed lexical markers. This limits confidence in a highly topic-specific label such as “geopolitical conflict discourse.” The loadings represent the full subcorpus and establish that conflict and contemporary politics are important, but the examples show that the pole also attracts heterogeneous, highly specific showcase and life-story texts. The factor may consequently be partly shaped by **rare, topic-bound vocabulary**.
+
+## Years driving the pole
+
+Because this is the negative pole, the relevant strata are those with the **lowest mean f2 scores**:
+
+- **1984:** 0.00, but only one text.
+- **1990:** 1.00, also only one text.
+- **2025:** 2.25, based on four texts.
+- **2009:** 2.885, based on 200 texts.
+- **2007:** 3.010, based on 101 texts.
+- **2006:** 3.024, based on 41 texts.
+
+The most reliable historical drivers are therefore **2007 and especially 2009**, because their low means are based on substantially larger samples. This is consistent with the examples, which include creative demonstrations, inventions, experiments and project-centred presentations from those years. The 1990 architectural portfolio is strongly illustrative but cannot establish a general annual tendency because it is the only talk in that stratum. Likewise, the low 2025 mean is suggestive—particularly given the concentration of personal, cultural and identity narratives in the excerpts—but is based on only four talks.
+
+### Diachronic tendency
+
+The pole seems most characteristic of the **mid-to-late 2000s**, with low means in 2006–2009. Scores generally rise through the 2010s and are particularly high in 2020, indicating reduced prominence of this negative pole during much of the later corpus. The decline in 2025 could suggest a return to particularised personal and cultural storytelling, but the extremely small 2025 sample makes this provisional. The very early low scores are similarly unreliable because of their singleton strata.
+
+## Other defensible labels
+
+1. **Concrete event-and-artefact storytelling**  
+   This emphasises the named conflicts and political events in the loadings together with the buildings, technologies, artworks, games and physical materials in the examples.
+
+2. **Situated case narratives and demonstrations**  
+   This fits the example texts especially well: speakers explain a project, invention, experiment, cultural artefact or identity through a sequence of specific cases. It is somewhat less explicit about the geopolitical vocabulary.
+
+3. **Topically anchored discourse on public conflict and lived experience**  
+   This gives greater weight to the political loadings while retaining the autobiographical, cultural and identity-based material prominent in the 2025 examples.
+
+4. **Lexically specific public-affairs and showcase discourse**  
+   This captures both the contemporary political vocabulary and the portfolio, demonstration and presentation style of many examples. “Lexically specific” also acknowledges that the pole may partly reflect clusters of rare, topic-dependent words.
+
+Overall, **Particularised accounts of conflict, identity and material creation** is the most inclusive label: it recognises the geopolitical concentration of the full loading set without overlooking the concrete project demonstrations and situated personal narratives found in the high-scoring sample texts.

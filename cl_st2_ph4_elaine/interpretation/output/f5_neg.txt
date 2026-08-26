@@ -1,0 +1,120 @@
+## Interpretation of Factor f5 (negative pole)
+
+### Preferred label
+**Story-led explanation and transformative social reflection**
+
+### Other possible labels
+- **Personalised explanatory and reform discourse**
+- **Narrative advocacy through vivid illustration**
+- **Accessible explanation of identity, systems and change**
+- **Experiential storytelling and public-facing analysis**
+
+## Interpretation
+
+This pole appears to encode a **story-led, accessible mode of explanation in which personal experience, vivid illustration and analogy are used to interpret complex subjects and advocate changes in understanding or institutions**. Its subject matter is broad—identity, inequality, education, criminal justice, science, health, food systems and geopolitics—so it is better understood as a rhetorical-discursive mode than as a narrowly defined topic.
+
+The examples repeatedly move from a concrete story or striking observation to a wider explanatory or reform-oriented claim:
+
+- Personal experiences of race, gender, sexuality and imprisonment are connected to systemic inequality.
+- Scientific or educational subjects are explained through humour, analogy and memorable imagery.
+- Institutional problems are followed by proposals for transformation, inclusion or collective action.
+- Political developments are interpreted as evidence of wider changes to international institutions and democratic governance.
+
+Thus, the pole combines **experiential narration**, **public explanation** and **transformative advocacy**.
+
+## Evidence from the loadings
+
+The loading set is heterogeneous, but two loose lexical groupings can be identified.
+
+### 1. Vivid, embodied and sometimes literary description
+
+Words such as **masklike, sexless, shapeless, bodice, ragged, resplendent, stallion, piebald, pulpy, innards, reek, mutter, stumbling, unpaved** and **splendid** evoke bodies, appearance, texture, movement, smell and dramatic characterization. This group suggests discourse that makes an argument or narrative concrete through **sensory, visual or embodied representation** rather than relying only on abstract terminology.
+
+This is compatible with the examples’ frequent use of memorable scenes and images: being stopped by police, entering a prison classroom, an insect catapulting droplets, a wobbly “seat at the table,” middle-school collages, a garden during crisis and a speaker negotiating queer and Indigenous identities.
+
+### 2. Explanatory and analytic vocabulary
+
+A smaller group—**brain, subject, recombination, analogous** and, more generally, **goings-on**—points toward explanation, classification and comparison. These items fit discourse that interprets a phenomenon for a general audience, including scientific mechanisms, grammatical structures, social categories and current events.
+
+The coexistence of these two groups supports a reading of the pole as **illustrative explanation**: analytical content is made intelligible through concrete descriptions, analogies and stories.
+
+Nevertheless, the lexical evidence is not strongly unified. Many loadings are rare and highly specific, and only **subject** and **blow** occur in the supplied excerpts. The interpretation must therefore remain cautious.
+
+## Evidence from the excerpts
+
+### Personal identity and structural inequality
+
+Several talks use autobiography to explain larger social systems:
+
+- Baratunde Thurston uses the grammatical term **subject** to diagram recurring “living while Black” headlines and expose the structure of white supremacy.
+- Lilly Singh links her experience in late-night television to gendered access, unequal institutional support and the metaphor of rebuilding the table.
+- The queer Pacific Indigenous speaker connects personal identity conflict to colonization, Christianity, binary categorization and collective Indigenous values.
+- The former prisoner uses a personal account of incarceration and education to advocate dialogue-based criminal-justice reform.
+
+These texts do not simply recount experience. They turn experience into an interpretive framework and then call for institutional or cultural change.
+
+### Accessible scientific and educational explanation
+
+The pole also includes explanatory talks in which technical material is presented through humour, analogy and narrative:
+
+- The insect-fluid-mechanics talk uses **blow** in “blown away” and explains surface tension through baseball, trampolines and a “cata-pee.”
+- The psychedelics talk discusses the **brain**, trauma and clinical research through patient stories and analogies with microscopes and telescopes.
+- The middle-school talk translates research on masculinity into the memorable “three C’s”: confidence, communication and community.
+- The food-systems talk combines statistics, case studies and direct recommendations for reform.
+
+This supports labels emphasizing **accessible**, **illustrative** or **story-led explanation**.
+
+### Public analysis of large-scale change
+
+The 2025 geopolitical interview is less autobiographical, but it shares the explanatory orientation. It interprets rapidly changing events, supplies institutional and historical context, considers possible future outcomes and translates expert analysis into public-facing dialogue. Its only identified loading word is **blow**, used in the phrase “blowing out their spending,” illustrating that this item is polysemous and not itself a stable thematic marker.
+
+### Hope, connection and reconstruction
+
+The garden, travel and storytelling excerpt is more lyrical. It connects crisis, beauty, memory, creativity and shared human experience. This aligns especially well with the more literary and sensory loading vocabulary. It also reinforces a recurrent concern across the examples: **how individuals and communities reconstruct meaning under conditions of crisis, exclusion or uncertainty**.
+
+## Loading words in the examples
+
+Only two loading types are explicitly represented:
+
+- **subject** occurs in the racial-justice talk as a grammatical and structural category; in other excerpts it occurs more generally in relation to school subjects or research participants.
+- **blow** appears mainly in idiomatic or inflected forms such as “my mind was blown,” “we were blown away” and “blowing out their spending.”
+
+Several 2025 examples contain no identified f5-negative loading words at all. Consequently, the excerpts support the proposed interpretation mainly through their broader rhetorical organization, not through dense repetition of the loading vocabulary. Conversely, the full loading set points to a more literary, sensory and lexically idiosyncratic strand that is only partly visible in the excerpts.
+
+## Years driving the pole
+
+Because this is the negative pole, the relevant years are those with the **lowest mean Factor 5 scores**.
+
+- **2025: 0.75**, but only four talks are represented, so this result is highly unstable.
+- **2019: 1.42**, the lowest mean among the well-populated strata and therefore the clearest substantial driver.
+- **2021: 1.52**
+- **2023: 1.54**
+- **2024: 1.56**
+- **2018: 1.57**
+- **2020: 1.70** and **2017: 1.70** are also relatively close to the pole.
+
+The excerpts reflect this distribution: three are from 2019, three from 2021, one from 2023 and three from 2025. The 2019 and 2021 examples are therefore particularly important for identifying the pole as discourse concerned with **systemic inequality, institutional reform, public education and accessible science**.
+
+The 2025 examples broaden the pole toward geopolitical interpretation, decolonial identity discourse and lyrical reflection, but their evidential weight should be limited because the stratum contains only four texts.
+
+## Diachronic tendency
+
+The year scores suggest an overall movement toward this pole over time:
+
+- Most strata from **2002–2008** have relatively high means, generally around 3–6.
+- Scores fall to approximately 2 from **2009 onward**.
+- They decline further across the 2010s, reaching **1.42 in 2019**.
+- There are modest reversals in **2020** and especially **2022**, but the means for **2021 and 2023–2024** remain low.
+- **2025** has the lowest mean, although its very small sample prevents a firm conclusion.
+
+The isolated **1990 score of 77** is based on one text and should not be treated as reliable diachronic evidence. Likewise, the absence of negative annual means does not invalidate the pole: pole strength is determined comparatively by the lowest scores.
+
+Overall, the robust part of the pattern suggests that **story-based public explanation and socially transformative reflection become more characteristic of later TED strata, especially from 2018 onward**, with 2019 providing the strongest well-sampled concentration.
+
+## Recommended conclusion
+
+The most defensible label is:
+
+### **Story-led explanation and transformative social reflection**
+
+It captures the examples’ shared movement from lived experience or vivid illustration to explanation and social change, while also accommodating the loadings’ mixture of sensory-descriptive and analytic vocabulary. A narrower topical label such as “identity discourse” or “social justice discourse” would underrepresent the scientific, educational, geopolitical and lyrical texts. Because the loading set is rare and internally diverse, however, this should be treated as a **tentative discourse dimension rather than a sharply delimited semantic domain**.

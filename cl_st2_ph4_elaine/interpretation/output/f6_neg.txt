@@ -1,0 +1,64 @@
+## Interpretation of Factor 6, negative pole
+
+### Preferred label  
+**Accessible, action-oriented expert explanation**
+
+This pole appears to encode discourse in which specialist knowledge is translated into accessible accounts of practical, social or future-oriented problems. Speakers commonly adopt the role of expert-guide: they explain a phenomenon, illustrate it through stories or concrete cases, and then indicate what individuals, organizations or institutions can do.
+
+### Discourses represented
+
+The lexical loadings point particularly to specialist scientific and technological discourse:
+
+- **Biomedicine and biology:** *multi-cellular, recombination, microgram, penicillin, RNA, feeding*
+- **Computing and technological development:** *microprocessor, microsecond*
+- **Forecasting, growth and innovation:** *S-curve, extrapolation, synergistic*
+- **More colloquial or vivid description:** *got, hunk, grunt, haughty*
+
+Taken together, these loadings suggest discussion of biological processes, medical discoveries, technological change and innovation trajectories, but in a register that can also include informal or concrete vocabulary. The pole is therefore not simply “technical terminology”; it combines expert subject matter with public-facing explanation.
+
+The excerpts broaden this interpretation. They include:
+
+- step-by-step personal-finance advice;
+- climate-policy discussion and institutional planning;
+- recommendations for changing workplace practices;
+- practical allyship and inclusion;
+- forecasts about AI and its social consequences;
+- AI-assisted cultural creativity;
+- explanations of animal behaviour, ecology and conservation;
+- practical guidance about cat welfare;
+- reflective techniques for professional decision-making.
+
+Across these different topics, speakers repeatedly make complex or specialist knowledge usable through personal narratives, analogies, examples, numbered steps and direct recommendations. The AI talk, for example, translates computational scale and technological development into the metaphor of a “digital species.” The wildlife talks combine biological observation with conservation arguments, while the debt, workplace, allyship, cat-care and reflection talks turn expertise into concrete behavioural guidance.
+
+There is limited direct lexical triangulation between the loading list and the supplied examples: all excerpts are reported as containing **N=0 counted loading words**. There are nevertheless some visible surface overlaps—notably *feeding* in the cat-care excerpt and forms of *got* in several talks—although these were not registered by the supplied loading-word metadata. Consequently, the precise lexical profile should be derived mainly from the full-corpus loadings, while the excerpts establish the pole’s broader communicative function. The examples support an accessible expert-guidance interpretation more strongly than a narrowly biomedical or technological label.
+
+## Years driving the pole
+
+Because this is the negative pole, the relevant years are those with the **lowest mean Factor 6 scores**. The absolute minima are 1990 and 1994, both at 0, but each contains only one text and neither is represented among the examples. They are therefore weak evidence for a stable year-level pattern.
+
+Among years with substantial samples, the strongest contributors are:
+
+- **2021:** 0.578, \(N=294\)
+- **2024:** 0.600, \(N=205\)
+- **2023:** 0.613, \(N=284\)
+- **2022:** 0.695, \(N=246\)
+
+The excerpts strongly reflect this concentration: three are from 2021, one from 2022, three from 2023 and three from 2024. Thus, the negative pole is principally driven by **recent TED discourse, especially 2021–2024**. The 2025 mean is also low at 0.75, but its sample of four talks is too small for a secure conclusion.
+
+Diachronically, the scores suggest a broad movement toward this pole. Means are generally around **1.1–1.7 in the 2002–2009 period**, decline to roughly **0.8–1.0 during 2010–2016**, and are mostly around **0.6–0.8 from 2017 onward**. The exceptional 1984 score of 58 is based on one text and lies far from the negative-pole pattern. Overall, the trend suggests an increasing prominence in recent TED Talks of conversational, audience-oriented explanations that connect expertise to practical action and contemporary concerns.
+
+## Other possible labels
+
+1. **Public-facing specialist knowledge and practical guidance**  
+   Emphasizes both sides of the evidence: the scientific and technological loadings and the examples’ advisory, audience-friendly presentation.
+
+2. **Applied explanation of contemporary problems**  
+   Captures the movement from explanation to application across finance, climate policy, work, inclusion, AI, conservation and animal welfare.
+
+3. **Human-centred science, technology and social advice**  
+   Highlights the technical lexical clusters while recognizing that many examples focus on everyday behaviour, relationships, institutions and social consequences.
+
+4. **Conversational expertise and actionable knowledge**  
+   Gives greater weight to the informal, direct style indicated by *got* and the vivid lexical items, as well as the examples’ frequent use of tips, stories, questions and recommendations.
+
+Of these, **Accessible, action-oriented expert explanation** is the most defensible label because it accommodates the specialist lexical loadings without reducing the pole to science and technology alone, and it captures the shared discourse function found across the recent high-scoring examples.

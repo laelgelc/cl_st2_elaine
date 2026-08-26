@@ -1,0 +1,69 @@
+## Interpretation of f1 (negative pole)
+
+### Preferred label
+**Situated personal testimony, cultural memory, and human-centred advocacy**
+
+This pole encodes discourse that grounds broader ethical, social, cultural, or professional claims in **particular people, places, institutions, experiences, and historical moments**. High-scoring texts frequently take the form of memoir, case history, professional reminiscence, or testimony. They use individual experience to address adversity, dignity, agency, inclusion, creativity, and institutional injustice.
+
+### Evidence from the loadings
+
+The loading set is heterogeneous and contains many proper names and specialised, relatively rare lexical items. This suggests an **entity-rich and topically particularised pole**, rather than a narrowly defined subject area.
+
+Several overlapping discourse clusters are visible:
+
+- **Politics, conflict, and collective rights:** *McConnell, Brexit, AfD, Narendra, Bannon, Baltics, de-nazification, hawkish, Ukrainians, Palestinians, self-determination, detention*.
+- **Identity, inclusion, and social experience:** *biracial, coming-out, inclusion, distancing, healthcare, burnout, exhaustion, unhappiness*.
+- **Art, design, media, and material practice:** *filmmakers, studios, Photoshop, selfie, letterform, workmanship, anvil, knead, planar, Alessi, MOCA, Grimshaw, Skidmore, Owings*.
+- **Named people, organisations, and places:** *McCann, Erickson, Waverly, Hartford, Rockland, Angkor, Ritz-Carlton, Bloomingdale*. These locate accounts in concrete biographical, institutional, or cultural settings.
+- **Evaluation and emotional experience:** *bleakness, self-delusion, untroubled, light-hearted, splendid, sinful, unselfish*. These support reflective and morally evaluative discourse.
+
+The highly loaded political terms are not prominent in the supplied excerpts, but they remain important because the loadings represent the full subcorpus. They indicate that the pole also includes **historically situated public-affairs discourse**, especially where named actors, conflicts, and questions of collective agency are central.
+
+### Evidence from the excerpts
+
+The examples strongly foreground personal experience and particular lives:
+
+- The 2025 L’Oréal account combines **family memoir, advertising history, feminism, and women’s self-worth**. Loading items such as *McCann, Erickson, Waverly, parce,* and *bien* anchor the story in a specific campaign and professional milieu.
+- Debbie Millman’s 2025 text presents reflective “love letters” to gardens, New York, travel, and storytelling. *Millman* and *Angkor* support a discourse of **cultural memory, shared humanity, and hopeful reconstruction**.
+- The 2001 electroshock account is an extended autobiographical case history of mental illness and recovery. Words such as *bleakness, Hartford, untroubled, exorcise,* and *dregs* connect medical history with vulnerable personal disclosure and eventual redemption.
+- Eva Zeisel’s 2001 talk is a professional life history centred on making, craftsmanship, migration, imprisonment, and survival. *Knead* and *Rockland* exemplify the pole’s combination of material specificity and biography.
+- John Wooden’s 2001 account uses teaching and coaching memories to articulate an ethical philosophy of effort, character, and success. *Outscore, unselfish,* and *industriousness* are directly tied to this values-oriented professional testimony.
+- The 1990 architectural talk is a detailed retrospective of creative practice, clients, materials, buildings, collaborators, successes, and failures. It represents the pole’s **design and professional-memory component**, strongly anticipated by the many design-related loadings.
+- The 2020 and 2022 examples extend the pattern into advocacy: asylum and *detention*, sexism in music, emotional openness at work, and client agency in the legal system. These texts tell individual stories in order to criticise institutions and argue for humane reform.
+
+The recurring loading words *us* and *back* reinforce two common movements in the excerpts: constructing collective identification and looking back on earlier experiences. Because both are common and semantically broad, however, they should not determine the interpretation by themselves.
+
+### Years driving the pole
+
+Because this is the negative pole, the most relevant years are those with the lowest mean scores:
+
+- **2025: −1.00**, the strongest mean association, but based on only four texts.
+- **2001: −0.25**, based on four texts and strongly represented in the excerpts.
+- Among better-populated strata, **2020: 5.07**, **2022: 5.21**, **2018: 5.34**, **2023: 5.37**, and **2021: 5.43** show the closest association with this pole.
+- **1990: 4.00** also falls relatively close to the pole, but represents only one talk.
+
+The excerpts therefore suggest two especially visible manifestations: **early archival life histories and professional retrospectives**, particularly in 2001, and **recent testimony-based social advocacy**, particularly from 2020 onward. The exceptionally low 2025 mean supports this interpretation, but its very small sample makes it provisional.
+
+### Diachronic tendency
+
+The year means generally decline from the high values of the early and mid-2000s—often around 10–14—to approximately 5–6 from the late 2010s onward. This indicates a broad diachronic movement towards the negative pole. In later TED discourse, this appears as greater prominence for:
+
+- personal and emotionally explicit testimony;
+- named cases and individual life stories;
+- identity, inclusion, rights, and institutional accountability;
+- culturally or historically situated reflection.
+
+The slight increase in 2024 does not overturn the longer trend. The negative 2025 mean may indicate further strengthening, although the sample is too small for a firm conclusion.
+
+## Other plausible labels
+
+1. **Human-centred narratives of adversity, agency, and institutional critique**  
+   Emphasises recovery, discrimination, detention, sexism, mental illness, and efforts to restore personal agency.
+
+2. **Biographical and professional testimony grounded in cultural history**  
+   Best captures the memoirs of designers, teachers, advertisers, physicians, and other practitioners, together with the many names, places, and institutional terms in the loadings.
+
+3. **Particularised narratives of identity, creativity, and social responsibility**  
+   Highlights the pole’s combination of identity discourse, creative practice, ethical reflection, and concrete named examples.
+
+Of these, **“Situated personal testimony, cultural memory, and human-centred advocacy”** is the most inclusive: it accommodates both the biographical and design-oriented excerpts and the political, rights-related, and identity-related vocabulary found across the full loading set.

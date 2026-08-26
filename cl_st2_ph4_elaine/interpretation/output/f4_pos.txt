@@ -1,0 +1,106 @@
+## Interpretation of Factor f4 (positive)
+
+### Preferred label  
+**Global crisis, governance and collective responsibility discourse**
+
+This pole primarily encodes public-facing discussion of international crises, political leadership, institutional decision-making and collective responses to social and technological problems. It is especially associated with discourse that explains complex current affairs while evaluating how governments, institutions, leaders and communities should act.
+
+### Evidence from the loadings
+
+The strongest and most distinctive loadings form a dense **contemporary geopolitical cluster**:
+
+- countries, regions and populations: *Ukraine, Ukrainians, Baltics, Europeans, UK, India, Indians, Iran, Iranian, Gaza, Palestinians, Israelis, Arab, Gulf, Pacific, Africa*;
+- political actors and movements: *Trump, Biden, Musk, Elon, Republicans, Republican, McConnell, Bannon, AfD, Narendra*;
+- war, security and international order: *anti-tank, troop, intelligence, conflict, crisis, negotiate, international, self-determination, refugee, NATO-related membership, hawkish, de-nazification*;
+- governance and political evaluation: *policy, leadership, leader, accountable, court, conservative, incumbent, trust, confidence, support, demand, claim, refuse*.
+
+These words locate the pole strongly in geopolitical and institutional discourse, particularly discussions of war, elections, democracy, alliances, sovereignty and the conduct of political leaders.
+
+However, the pole is broader than geopolitics. A second loading cluster concerns **large-scale societal risks and policy transitions**:
+
+- *pandemic, virus, climate, drought, renewable, coal, hydrogen, decarbonization, transition, inflation, recession, financial, sector, tech, invest, impact*.
+
+A third cluster concerns **collective identity, inclusion and social responsibility**:
+
+- *collective, inclusion, diversity, gender, immigrant, immigration, commonality, reciprocal, support, safe, trust, trauma, hatred*.
+
+Taken together, the loadings identify discourse in which global or societal problems are framed as matters of policy, leadership, institutional accountability and shared responsibility. The pole therefore should not be labelled only “geopolitics”: its lexical range also includes humanitarian intervention, technological risk, climate policy, migration, diversity and collective belonging.
+
+A smaller group of conversational items—*OK, everybody, guy, stuff, interesting, interested, phone*—suggests that these subjects are often presented in an accessible, interactive TED register rather than as impersonal academic exposition. Proper names such as *Walters* and the initials *HW* additionally point to recurring interview or question-and-answer formats.
+
+### Evidence from the examples
+
+The highest-scoring excerpts strongly support this interpretation, while also showing the pole’s breadth.
+
+#### 1. Geopolitical crisis explanation
+
+The exceptionally high-scoring 2025 text is an extended expert interview about the Trump administration, Ukraine, NATO, Europe, Russia, Gaza, Israel, China and US institutions. It contains 103 loading words, including the highest-loading and most distinctive items:
+
+- *Brexit, anti-tank, Baltics, de-nazification, hawkish, Ukrainians, AfD, Biden, Iranian, Israelis, Palestinians, Gaza, Ukraine, Trump, Musk*;
+- *leadership, accountable, recession, crisis, negotiate, conflict, policy, international, intelligence, trust, court*;
+- *climate, pandemic, inclusion, diversity, collective*.
+
+The talk repeatedly interprets rapidly changing events, evaluates political actors and considers implications for democracy, collective security and the international order. The 2024 Ian Bremmer interviews have a similar profile. They discuss elections, Russia–Ukraine, Israel–Palestine, Iran, disinformation, migration, inflation, climate change, AI governance and democratic legitimacy. Their loading words include *Ukraine, Gaza, Trump, Biden, conflict, policy, international, intelligence, leader, trust, inflation, climate,* and *disinformation*. These examples establish geopolitical risk analysis and policy explanation as the most salient realization of the pole in the most recent period.
+
+#### 2. International humanitarian and policy-oriented intervention
+
+The 2006 examples show that the pole was already associated with global public problems before the recent geopolitical concentration.
+
+Jehane Noujaim’s talk uses *Israelis, Palestinians, Israeli, Arab, crisis, conflict, policy, international, West, impact* and *support*. It frames film as a means of crossing borders, humanizing participants in conflict and creating global understanding. The discourse therefore combines international conflict with a proposed collective civic response.
+
+Cameron Sinclair’s humanitarian-design talk contains *crisis, refugee, pandemic, international, Africa, India, policy, impact* and *support*. It discusses refugee housing, HIV/AIDS, natural disasters and open-source architecture. Here, global crises are connected to practical intervention, community participation and institutional change.
+
+The technology-risk talk similarly combines *pandemic, virus, climate, conflict, international, policy, accountable, sector, invest* and *impact*. It moves from technological innovation to public policy, legal accountability and the management of catastrophic risk. These examples confirm that the pole includes solution-oriented discourse about global-scale problems, not merely descriptions of international politics.
+
+#### 3. Collective identity, inclusion and connectedness
+
+The 2025 talk on queer Pacific Indigenous identity activates *Europeans, self-determination, reciprocal, dominant, conservative, West, collective, Pacific, gender, diversity, support* and *safe*. It critiques colonial and binary frameworks while advocating relational identity, cultural humility, safe spaces and collective wellbeing. This exemplifies the pole’s social and ethical component: institutions and dominant systems are evaluated in relation to inclusion, community and self-determination.
+
+The account of the L’Oréal slogan “Because I’m worth it” contains fewer loading words—*support, confidence, dysfunction,* and *gender*—but likewise concerns gendered power, care, recognition and the rebuilding of personal confidence. The garden, travel and storytelling excerpt uses *crisis, commonality* and *dominant* to emphasize shared human experiences during a period of uncertainty. These texts show that “collective responsibility” and “social inclusion” are genuine parts of the pole, although less lexically dominant than geopolitics.
+
+The 1990 architecture talk activates mostly lower-specificity conversational words such as *conference, support, phone, everybody, interesting, guy,* and *stuff*. It provides weaker thematic evidence and is better treated as an early example of the accessible, first-person explanatory register associated with the pole.
+
+## Years driving the positive pole
+
+The clearest recent drivers are **2024 and 2025**:
+
+- **2025: mean 33.50, N = 4, SD = 46.74**
+- **2024: mean 8.84, N = 205, SD = 7.79**
+
+The 2025 mean is extraordinarily high but unstable. It is based on only four texts and is clearly dominated by the geopolitical interview scoring 103. It therefore signals an intense realization of the pole rather than a reliable corpus-wide annual norm. By contrast, the elevated 2024 score is based on 205 texts and thus offers stronger evidence for a broad recent increase. The two high-scoring 2024 geopolitical interviews illustrate an important source of that increase.
+
+There is also a substantial earlier concentration around **2005–2007**, especially:
+
+- **2006: 9.24, N = 41**
+- **2005: 8.28, N = 61**
+- **2007: 8.11, N = 101**
+
+The 2006 humanitarian, media, conflict and technological-risk talks show what drove this earlier peak: globally oriented discourse about poverty, war, refugees, pandemics, development and international cooperation.
+
+Several very early years have high means—1990 reaches 10, for example—but these strata contain only one or a few texts. They should not outweigh the much better-supported patterns in 2005–2007 and 2020–2024.
+
+## Diachronic tendency
+
+The year scores suggest a loose **decline-and-renewal pattern**:
+
+1. relatively strong realization in the mid-2000s, associated with globalization, humanitarian intervention, conflict and technological risk;
+2. lower means from approximately 2010 to 2014, with the trough among well-populated years around 2011–2013;
+3. renewed growth from 2020 onward, followed by particularly high scores in 2022–2024 and an extreme, sample-sensitive result in 2025.
+
+The recent rise plausibly reflects the growing prominence of pandemic aftermaths, climate and energy transitions, political polarization, disinformation, elections, the Russia–Ukraine war and Israel–Gaza. The pole appears to have become more explicitly geopolitical and crisis-oriented in 2024–2025, while retaining its longer-standing concern with international cooperation, policy intervention and collective wellbeing.
+
+## Other possible labels
+
+- **International public-affairs and policy-explanation discourse**  
+  This foregrounds the strong geopolitical vocabulary and the recurrent expert interview format. It is accurate for the highest-scoring recent texts but somewhat underrepresents the humanitarian, identity and inclusion examples.
+
+- **Geopolitical risk, democratic governance and global crisis discourse**  
+  This closely captures the 2024–2025 drivers, including war, elections, political leadership, disinformation and institutional instability. It is more period-specific and less inclusive of the 2006 development talks and the Pacific Indigenous example.
+
+- **Global challenges and collective-action discourse**  
+  This accommodates conflict, pandemics, climate, humanitarian design, inclusion and community-oriented responses. It captures the full breadth of the examples, though it is less precise about the strong political and institutional vocabulary.
+
+- **Crisis-oriented civic and institutional responsibility discourse**  
+  This emphasizes the recurrent movement from diagnosing a crisis to discussing accountability, support, policy and practical action. It is appropriate across geopolitical, technological, humanitarian and identity-focused texts.
+
+Overall, **Global crisis, governance and collective responsibility discourse** is the most balanced label because it gives due weight both to the pole’s dominant geopolitical and policy loadings and to the examples concerning humanitarian action, inclusion, shared identity and civic response.

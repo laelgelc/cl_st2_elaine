@@ -1,0 +1,125 @@
+## Interpretation of Factor f2 (positive)
+
+### Preferred label
+**Podcast-mediated organizational psychology and practical work-life problem solving**
+
+This pole primarily encodes discourse about the psychological and organizational problems of working life, presented through an accessible, narrative podcast format and oriented towards practical remedies. Its central concerns include workplace culture, employee well-being, interpersonal relations, leadership, careers, and adaptation to changing work conditions.
+
+### Alternative labels
+- **Workplace well-being, organizational culture and adaptive practice**
+- **Psychologized discourse on contemporary working life**
+- **Research-based workplace advice and resilience**
+- **Narrative organizational problem-solving discourse**
+
+The first label is preferable because it captures both the pole’s subject matter and the strong production-format signal in the loadings.
+
+## Justification
+
+### 1. Lexical profile
+
+The most semantically coherent loading cluster concerns organizations and employment:
+
+- **organizational, workplace, workforce, leadership, leader, CEO, ownership, mission, accountable, initiative, practice**
+- **start-up, silicon, financial, platform, service, healthcare, academia**
+
+These words locate the pole in contemporary professional and organizational settings. They are accompanied by vocabulary describing workplace difficulties and diminished well-being:
+
+- **burnout, exhaustion, stress, stressful, distress, dread, struggle, frustrating, ineffective, obstacle**
+- **isolation, isolated, distancing, grief, helpless, uncertainty, shame**
+
+A third cluster concerns psychological, social and organizational responses:
+
+- **empathy, inclusion, resilience, trust, confidence, happiness, mindset, commonality**
+- **navigate, rethink, pivot, action, relieve, antidote, maximize**
+
+Together, these loadings suggest discourse that identifies a work-related psychological or organizational problem, interprets it through research, and proposes an intervention or adaptive practice. The pole is therefore not simply “business” discourse: it is a strongly **psychologized treatment of work**, with attention to emotions, relationships, identity, inclusion and well-being.
+
+There is also a specifically 2020 crisis-related cluster:
+
+- **coronavirus, pandemic, quarantine, distancing, mask, flu, isolation**
+
+This adds remote work, public-health disruption and crisis adaptation to the broader workplace discourse. However, these terms form only part of the loading set, so the pole should not be labelled solely as pandemic discourse.
+
+### 2. Evidence from the high-scoring examples
+
+The examples consistently instantiate the workplace-psychology pattern.
+
+- The remote-work excerpt discusses **organizational** communication, the **workplace**, **distancing**, **coronavirus**, **quarantine**, **isolation**, **stress**, team identity and how employees can **navigate** remote work. It turns pandemic disruption into practical advice about trust, shared understanding and resilience.
+- The WeWork excerpt examines a **start-up**, its **mission**, workplace norms, leadership, organizational identity, employee **exhaustion**, ownership and the risks of an intensely **passionate** culture.
+- The loneliness episode connects workplace **isolation** and chronic **stress** to health and performance, then offers organizational practices as an **antidote**, including microcommunities and brief high-quality connections.
+- The hiring episode addresses organizational **bias**, discriminatory judgments, interview design and work-sample **practice**, offering evidence-based reforms to recruitment.
+- The burnout episode explicitly links **burnout**, **exhaustion**, **stress**, **distress** and perceived ineffectiveness to workplace structure. It proposes changes in demands, control, support and **empathy**, rather than treating burnout only as an individual failing.
+- The authenticity episode examines workplace norms, privacy, vulnerability, status and empathy, asking how employees can express themselves while still functioning effectively within organizations.
+- The negotiation episode treats workplace relationships and pay as psychologically manageable problems, discussing agreement **bias**, stress, norms and research-based negotiation **practice**.
+- The procrastination and career-development excerpts similarly frame individual difficulties—delay, declining motivation, changing skills and career reinvention—as problems that can be understood through research and addressed through concrete action.
+
+Across the examples, the recurring discourse structure is:
+
+1. introduce an individual’s workplace difficulty;
+2. narrate the experience conversationally;
+3. interpret it through organizational or psychological research;
+4. provide practical strategies for individuals, teams or employers.
+
+This supports a label centred on **organizational psychology and work-life problem solving**, rather than a narrower topic such as burnout, remote work or leadership.
+
+### 3. Podcast and production-format signal
+
+The highest loadings are mainly proper names:
+
+- **gretta, gallardo, helms, hsu, cohn, constanza, quint, donnell, leyton-brown, rubenstein, cheng, phelan**
+- together with **studios, pineapple, hilton, SAP, ad, microphone**
+
+These recur in the production credits, sponsorship messages and framing of the *WorkLife* podcast episodes represented by the examples. All ten excerpts contain many of these names, often in almost identical closing-credit sequences. The high scores therefore reflect not only thematic vocabulary but also a strong **serial podcast-production signature**.
+
+This is important for interpretation. The pole captures a discourse package in which organizational-psychological content is delivered through:
+
+- host–guest dialogue;
+- personal case studies;
+- expert commentary;
+- research attribution;
+- advertisements and sponsor narratives;
+- repeated production credits.
+
+Thus, **“podcast-mediated”** is warranted in the preferred label. A purely thematic label would overlook that many of the strongest loadings identify one recurring TED-associated programme and its production team. At the same time, the meaningful workplace vocabulary is extensive across the full loading list, so the factor should not be reduced to a mere proper-name or metadata artefact.
+
+### 4. Years driving the positive pole
+
+The clearest driver is **2020**, with the highest well-supported mean score:
+
+- **2020: 5.81, N = 281**
+
+It is also the year of every supplied high-scoring excerpt, with exceptionally high individual scores of **41–55**. The very large 2020 standard deviation (**8.62**) indicates that the high annual mean is likely driven by a subset of extremely high-scoring texts—particularly the repeated *WorkLife* podcast material—rather than by uniform usage across all 2020 talks.
+
+The nominally high score for **1994** is **5.00**, but it is based on only one text and cannot provide robust diachronic evidence. More reliable earlier elevated years are:
+
+- **2004: 4.40, N = 30**
+- **2005: 4.41, N = 61**
+
+In the later corpus, the pole is also relatively strong in:
+
+- **2019: 4.12**
+- **2021: 4.28**
+- **2022: 4.27**
+- **2024: 4.20**
+
+These scores indicate that the discourse is not confined to 2020, although 2020 represents its most concentrated manifestation.
+
+### 5. Diachronic tendency
+
+Ignoring the very early years with tiny sample sizes, the broad trajectory is:
+
+- relatively elevated scores in 2004–2005;
+- lower means around 2006–2009, with 2009 at **2.89**;
+- a gradual strengthening from the early 2010s into 2019;
+- a pronounced peak in 2020;
+- continued, though less extreme, prominence in 2021–2024.
+
+The 2020 peak is partly explicable through pandemic-related topics such as **coronavirus, quarantine, distancing, isolation** and remote work. Yet the persistence of relatively high scores after 2020 suggests a broader and more durable expansion of discourse about employee well-being, organizational culture, resilience, inclusion and psychologically informed working practices.
+
+The result is best interpreted as an established workplace-psychology discourse that became especially salient in 2020, when pandemic disruption intensified concerns about remote work, loneliness, burnout, adaptation and organizational support.
+
+## Recommended concise label
+
+**Podcast-mediated organizational psychology and work-life problem solving**
+
+This label best accommodates the pole’s two dominant components: a substantive discourse of workplace well-being, culture and evidence-based intervention, and a strong lexical signature from serialized TED podcast production, sponsorship and credits.

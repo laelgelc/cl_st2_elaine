@@ -1,0 +1,78 @@
+## Interpretation of f5 (positive)
+
+### Preferred label: **Illustrated architectural and design-practice discourse**
+
+This pole primarily encodes discourse in which speakers **present, describe and evaluate designed objects, buildings and spaces**, usually through slides, pictures, drawings or models. It combines architectural subject matter with a strongly visual-spatial mode of exposition and accounts of how designs are developed, tested and realised.
+
+### Evidence from the loadings
+
+The strongest lexical concentration is unmistakably architectural and design-oriented:
+
+- **Practitioners, firms and collaborators:** *Oldenburg, Skidmore, Merrill, Burnham, Grimshaw, Owings, Meier, architect, acoustician, acoustician, Eisner*
+- **Buildings and urban institutions:** *museum, Ritz-Carlton, MOCA, park, avenue, neighborhood, street*
+- **Architectural components and spatial geometry:** *cornice, flooring, roof, panel, centerline, sloping, protrude, curve, bottom, foot, left-hand*
+- **Materials, construction and technical performance:** *metal, workmanship, mechanical, acoustical, resilience, gas, laser, scan*
+- **Representational and conceptual design vocabulary:** *drawing, picture, abstraction, compositional, metaphor, postmodernism, ideal*
+
+These words indicate more than architecture as a topic. Items such as *drawing, picture, left-hand, slide, panel, curve, roof* and *bottom* point to **visual demonstration and spatial deixis**: speakers guide audiences through images by locating features, explaining forms and comparing design alternatives.
+
+The very high-loading proper nouns and specialised items—*Claes, Oldenburg, Bloomingdale, ziggurat, goalpost, Ritz-Carlton, Skidmore, Owings, Merrill,* and *acoustician*—show that the pole is strongly shaped by a particular discourse community: architects, designers, artists, clients and cultural institutions. At the same time, the broader, lower-loading vocabulary—*picture, drawing, object, metal, roof, curve, museum, park, street,* and *architect*—supports a more general interpretation as **object-centred, visually mediated design discourse**.
+
+### Evidence from the high-scoring excerpts
+
+The 1990 Frank Gehry talk is the clearest realisation of the pole. It is an extended slide-led portfolio presentation covering houses, museums, concert halls, offices, furniture and public sculpture. Gehry repeatedly describes:
+
+- the position of features “on the left” or “on the right”;
+- buildings’ relationships to their urban **context**;
+- formal qualities such as fish forms, domes, curves, sloping walls and compositional relationships;
+- materials and fabrication, especially *metal, flooring, panels, tape,* and *workmanship*;
+- movement between sketches, models, drawings and completed structures.
+
+It contains 77 loading words, including nearly all the pole’s highly specific architectural names and terms. The pole is therefore partly a **Gehry-centred lexical constellation**, rather than a wholly diffuse corpus-wide topic. Its most distinctive loadings should consequently be interpreted cautiously: several are names or project-specific terms whose prominence comes from this exceptionally high-scoring text.
+
+The other excerpts nevertheless confirm and broaden the dimension:
+
+- The 2002 Gehry interview uses *architect, metal, roof, drawing, picture, Oldenburg,* and *Mars* while discussing architectural creativity, clients, collaboration, urban context and the development of major buildings.
+- The Rome presentation is organised around *drawings, pictures, cornices, roofs,* and visual perspective. It exemplifies illustrated spatial narration: the audience is led through streets, piazzas and buildings via maps, book designs and imagined viewpoints.
+- Bill Strickland’s talk uses photographs to present a purpose-built educational and arts complex. Here architectural space, furniture, galleries and landscaping are treated as instruments of dignity and social transformation.
+- The 1984 human-interface talk uses *pictures, scans, curves* and film demonstrations to explain the design of screens, touch interfaces and interactive media.
+- The 2005 biomimicry and cradle-to-cradle talks extend the design discourse into sustainable materials and ecological architecture, with loading words such as *architect, roof, metal, clean, park,* and *gas*.
+- The spaceflight and ocean-exploration excerpts are less centrally architectural, but retain the pole’s visual-technical presentation style through *pictures, film, laser, curves, bottom,* and *foot*. They describe technologies, physical structures and environments through displayed imagery.
+
+Thus, the examples indicate that the pole is not restricted to architecture narrowly conceived. Its wider discourse is the **illustrated explanation of designed or physically structured worlds**, including buildings, interfaces, technologies, landscapes and engineered systems.
+
+## Years driving the pole
+
+The pole is overwhelmingly driven by the earlier corpus strata.
+
+- **1990: mean 77, N = 1.** This is the dominant year, but the value comes from a single Gehry talk. It explains the large cluster of project names, collaborators and specialised architectural vocabulary.
+- **2002: mean 5.88, N = 25.** This is the strongest year with a substantial number of texts and therefore the most reliable broader driver. Three supplied high-scoring examples come from this year, including the Gehry interview, the illustrated Rome talk and Strickland’s architectural-social presentation.
+- **1984: mean 5, N = 1** and **1994: mean 4, N = 1** are also high but based on single talks.
+- **1998: mean 3.83, N = 6** and **2005: mean 3.87, N = 61** provide further support. The 2005 examples especially show the pole developing into ecological design, biomimicry and sustainable architecture.
+
+The high 1990 score should not be taken as evidence of a general year-wide discourse because there is only one text. Rather, 1990 supplies much of the pole’s **most distinctive lexical identity**, while 2002 and 2005 demonstrate that the broader discourse of visualised design practice occurs across multiple talks.
+
+## Diachronic tendency
+
+There is a clear long-term decline in the pole’s prominence:
+
+- Scores are generally around 3–6 in several early strata.
+- They fall to approximately 2.1–2.2 in 2009–2011.
+- From 2012 onward, they are mostly around 1.4–1.9.
+- There is a small rise in 2022 to 1.83, but not a sustained return to the earlier levels.
+- The 2025 mean is 0.75, although it is based on only four texts.
+
+This suggests that **extended slide-based presentations of architecture, material objects and design portfolios were especially characteristic of early TED discourse**, but became less lexically prominent as the corpus expanded and diversified. The tendency may also reflect a change in presentation format: early talks often walk sequentially through numerous slides, projects and physical details, whereas later strata appear less dominated by this specialised architectural-descriptive vocabulary.
+
+## Other plausible labels
+
+1. **Visual-spatial design exposition**  
+   This captures the recurrent use of pictures, drawings, slides, models, directional references and descriptions of shape, material and spatial arrangement.
+
+2. **Architecture, material form and creative process**  
+   This foregrounds the dominant architectural loadings while recognising that speakers discuss experimentation, collaboration, fabrication and iterative problem-solving.
+
+3. **Slide-led presentation of designed objects and environments**  
+   This is a broader label suited to the non-architectural examples involving interfaces, biomimetic technologies, spacecraft and ocean environments.
+
+Overall, **Illustrated architectural and design-practice discourse** is the strongest label because it gives appropriate weight both to the overwhelmingly architectural loading set and to the examples’ recurring visual, spatial and process-oriented mode of presentation.
