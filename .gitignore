@@ -207,4 +207,5 @@ marimo/_lsp/
 __marimo__/
 
 # cl_st2_elaine
+.idea/
 !cl_st2_ph4_elaine/**/*.log
